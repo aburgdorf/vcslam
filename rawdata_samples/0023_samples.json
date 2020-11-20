@@ -1,0 +1,63 @@
+[
+    {
+        "permitnum": "6533432-ME",
+        "permitclass": "N/A",
+        "permitclassmapped": "N/A",
+        "permittype": "Mechanical",
+        "permittypemapped": "Trade",
+        "statuscurrent": "Closed",
+        "originaladdress1": "8610 AURORA AVE N",
+        "originalcity": "SEATTLE",
+        "originalstate": "WA",
+        "originalzip": "98103",
+        "link": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6533432-ME",
+        "latitude": "47.69180139",
+        "longitude": "-122.34374234",
+        "location1": {
+            "latitude": "47.69180139",
+            "longitude": "-122.34374234",
+            "human_address": "{\"address\": \"8610 AURORA AVE N\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"zip\": \"98103\"}"
+        }
+    },
+    {
+        "permitnum": "6382915-SB",
+        "permitclass": "N/A",
+        "permitclassmapped": "N/A",
+        "permittype": "Sign, Awning and Canopy",
+        "permittypemapped": "Trade",
+        "statuscurrent": "Closed",
+        "originaladdress1": "5221 15TH AVE NW",
+        "originalcity": "SEATTLE",
+        "originalstate": "WA",
+        "originalzip": "98107",
+        "contractorcompanyname": "O'SAGE SIGNS LLC",
+        "link": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6382915-SB",
+        "latitude": "47.66695987",
+        "longitude": "-122.37685902",
+        "location1": {
+            "latitude": "47.66695987",
+            "longitude": "-122.37685902",
+            "human_address": "{\"address\": \"5221 15TH AVE NW\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"zip\": \"98107\"}"
+        }
+    },
+    {
+        "permitnum": "6186177-ME",
+        "permitclass": "N/A",
+        "permitclassmapped": "N/A",
+        "permittype": "Mechanical",
+        "permittypemapped": "Trade",
+        "statuscurrent": "Closed",
+        "originaladdress1": "508 LAKESIDE AVE S",
+        "originalcity": "SEATTLE",
+        "originalstate": "WA",
+        "originalzip": "98144",
+        "link": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6186177-ME",
+        "latitude": "47.59760367",
+        "longitude": "-122.28646447",
+        "location1": {
+            "latitude": "47.59760367",
+            "longitude": "-122.28646447",
+            "human_address": "{\"address\": \"508 LAKESIDE AVE S\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"zip\": \"98144\"}"
+        }
+    }
+]

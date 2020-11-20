@@ -1,0 +1,47 @@
+[
+    {
+        "Preliminary Risk Category": "Medium Risk",
+        "Neighborhood": "Green Lake",
+        "Address": "410 NE 72nd St",
+        "City": "Seattle",
+        "State": "WA",
+        "Zip Code": 98115,
+        "Year Built": 1923,
+        "No. Stories": 1,
+        "Retrofit Level": "No visible retrofit",
+        "Building Use": "Commercial",
+        "Estimated Number of Occupants": "01. Okt",
+        "Confirmation Source": "Field Visit",
+        "Long/Lat": "POINT (-122.324214 47.680601)"
+    },
+    {
+        "Preliminary Risk Category": "Medium Risk",
+        "Neighborhood": "Pioneer Square/Chinatown International District",
+        "Address": "423 2nd Av Et S",
+        "City": "Seattle",
+        "State": "WA",
+        "Zip Code": 98104,
+        "Year Built": 1900,
+        "No. Stories": 3,
+        "Retrofit Level": "Substantial Alteration",
+        "Building Use": "Office",
+        "Estimated Number of Occupants": "11-100",
+        "Confirmation Source": "Field Visit",
+        "Long/Lat": "POINT (-122.33183000000001 47.601527)"
+    },
+    {
+        "Preliminary Risk Category": "Medium Risk",
+        "Neighborhood": "Ballard",
+        "Address": "2021 NW 58th St",
+        "City": "Seattle",
+        "State": "WA",
+        "Zip Code": 98107,
+        "Year Built": 1900,
+        "No. Stories": 3,
+        "Retrofit Level": "Permitted Retrofit",
+        "Building Use": "Residential",
+        "Estimated Number of Occupants": "11-100",
+        "Confirmation Source": "Google Street View",
+        "Long/Lat": "POINT (-122.382957 47.670916)"
+    }
+]

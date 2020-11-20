@@ -1,0 +1,530 @@
+[
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG62",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.43",
+            "longitude": "-113.407",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "213",
+        ":@computed_region_ecxu_fw7u": "6",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG60",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.526",
+            "longitude": "-113.297",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG59",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.599",
+            "longitude": "-113.32",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "160",
+        ":@computed_region_ecxu_fw7u": "110",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG57",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.462",
+            "longitude": "-113.551",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "193",
+        ":@computed_region_ecxu_fw7u": "160",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG55",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.505",
+            "longitude": "-113.46",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "223",
+        ":@computed_region_ecxu_fw7u": "67",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG54",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.494",
+            "longitude": "-113.419",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "270",
+        ":@computed_region_ecxu_fw7u": "131",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG53",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.425",
+            "longitude": "-113.479",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "359",
+        ":@computed_region_ecxu_fw7u": "81",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG52",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.558",
+            "longitude": "-113.713",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "173",
+        ":@computed_region_ecxu_fw7u": "147",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG51",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.673",
+            "longitude": "-113.491",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG50",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.567",
+            "longitude": "-113.519",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "209",
+        ":@computed_region_ecxu_fw7u": "221",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG49",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.473",
+            "longitude": "-113.618",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "358",
+        ":@computed_region_ecxu_fw7u": "2",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG48",
+        "_24h_total": "0.1",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.498",
+            "longitude": "-113.664",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "292",
+        ":@computed_region_ecxu_fw7u": "142",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG42",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.497",
+            "longitude": "-113.537",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "260",
+        ":@computed_region_ecxu_fw7u": "197",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG40",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.623",
+            "longitude": "-113.526",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "190",
+        ":@computed_region_ecxu_fw7u": "122",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG39",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.602",
+            "longitude": "-113.549",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "383",
+        ":@computed_region_ecxu_fw7u": "216",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG38",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.612",
+            "longitude": "-113.461",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "167",
+        ":@computed_region_ecxu_fw7u": "166",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG37",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.612",
+            "longitude": "-113.373",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "321",
+        ":@computed_region_ecxu_fw7u": "210",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG36",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.457",
+            "longitude": "-113.446",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "55",
+        ":@computed_region_ecxu_fw7u": "238",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG33",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.565",
+            "longitude": "-113.569",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "90",
+        ":@computed_region_ecxu_fw7u": "208",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG32",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.586",
+            "longitude": "-113.434",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "203",
+        ":@computed_region_ecxu_fw7u": "42",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG31",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.59",
+            "longitude": "-113.513",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "36",
+        ":@computed_region_ecxu_fw7u": "223",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG30",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.543",
+            "longitude": "-113.545",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "139",
+        ":@computed_region_ecxu_fw7u": "145",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG27",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.468",
+            "longitude": "-113.481",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "224",
+        ":@computed_region_ecxu_fw7u": "72",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG21",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.57",
+            "longitude": "-113.478",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "147",
+        ":@computed_region_ecxu_fw7u": "150",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG20",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.542",
+            "longitude": "-113.419",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "67",
+        ":@computed_region_ecxu_fw7u": "103",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG18",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.549",
+            "longitude": "-113.5",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "181",
+        ":@computed_region_ecxu_fw7u": "222",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "date": "2020-10-05T00:00:00.000",
+        "time": "23:59:59",
+        "station": "RG17",
+        "_24h_total": "0",
+        "storm_rating": "0",
+        "storm_rating_description": "No rain, or minor rain - Roads damp, lawns may still need watering after",
+        "amount_legend": "0 - 5 mm",
+        "location": {
+            "latitude": "53.552",
+            "longitude": "-113.611",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "103",
+        ":@computed_region_ecxu_fw7u": "92",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_da6r_6gkw": "1"
+    }
+]

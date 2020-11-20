@@ -1,0 +1,123 @@
+[
+    {
+        "datasetid": "water-hydrants",
+        "recordid": "925dcbe8967dc0287acad08d25179449b605eb41",
+        "fields": {
+            "fireuseonly": "N",
+            "subsystem": "DSTR",
+            "code": "Mueller",
+            "color": "Red",
+            "street": "BELMONT AV",
+            "oracleid": "__FJ8TRS",
+            "id": "WH-E10-002",
+            "modby": "ENYAMW",
+            "compression": "Yes",
+            "street_number": "NS 4800",
+            "addby": "covDBimport",
+            "feature_id": 33561,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.22217699653969,
+                    49.27534286625692
+                ]
+            },
+            "castsub": "COVAV",
+            "incomm": "Yes",
+            "status": "IN_SERVICE",
+            "distancefromcorner": 534,
+            "oldhydnum": "26C06",
+            "unitid": 33561,
+            "active": "Active",
+            "line": "W-WEST",
+            "instdate1": "1966-01-01",
+            "geo_local_area": "West Point Grey",
+            "covwaterhydrantunittype": "CENTURION",
+            "feederlen": 0.6,
+            "adddttm": "2009-11-10T10:41:54+01:00",
+            "dir": "W-WEST"
+        },
+        "record_timestamp": "2020-11-09T12:32:33.606+01:00"
+    },
+    {
+        "datasetid": "water-hydrants",
+        "recordid": "eb49753d4423f9d73825d81fcd40e40bed1d15fb",
+        "fields": {
+            "fireuseonly": "N",
+            "subsystem": "DSTR",
+            "code": "TC",
+            "color": "Red",
+            "street": "DRUMMOND DRIVE",
+            "oracleid": "__FJ8TRY",
+            "id": "WH-F10-008",
+            "modby": "SDE 834766",
+            "compression": "No",
+            "street_number": "NEC 4788",
+            "addby": "covDBimport",
+            "feature_id": 30798,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21756860656498,
+                    49.27346122297899
+                ]
+            },
+            "castsub": "UEL",
+            "incomm": "Yes",
+            "status": "IN_SERVICE",
+            "distancefromcorner": 211.5,
+            "oldhydnum": "26D02",
+            "unitid": 30798,
+            "active": "Active",
+            "line": "E-EAST",
+            "instdate1": "1947-01-01",
+            "geo_local_area": "West Point Grey",
+            "covwaterhydrantunittype": "TC1",
+            "feederlen": 1.2,
+            "adddttm": "2009-11-10T10:37:30+01:00",
+            "dir": "E-EAST"
+        },
+        "record_timestamp": "2020-11-09T12:32:33.606+01:00"
+    },
+    {
+        "datasetid": "water-hydrants",
+        "recordid": "efeb4125f9037ba1879eb9b989f7544ef34d27a8",
+        "fields": {
+            "fireuseonly": "N",
+            "subsystem": "DSTR",
+            "code": "Clow",
+            "oocnotes": "Stem is stuck inside cant get out HCV closed no Lock",
+            "color": "Red",
+            "street": "NEC TOLMIE ST & W 1ST AV",
+            "oracleid": "__FJ8WT2",
+            "id": "WH-F10-011",
+            "modby": "SDE 834766",
+            "compression": "Yes",
+            "addby": "covDBimport",
+            "feature_id": 32075,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21174540218358,
+                    49.27229923812837
+                ]
+            },
+            "oocdate": "2013-07-16",
+            "castsub": "COVAV",
+            "incomm": "Yes",
+            "status": "IN_SERVICE",
+            "distancefromcorner": 2.7,
+            "oldhydnum": "25B06",
+            "unitid": 32075,
+            "active": "Active",
+            "line": "N-NORTH",
+            "instdate1": "2007-04-23",
+            "geo_local_area": "West Point Grey",
+            "covwaterhydrantunittype": "BrigadierM",
+            "feederlen": 2.6,
+            "adddttm": "2009-11-10T10:44:00+01:00",
+            "dir": "N-NORTH"
+        },
+        "record_timestamp": "2020-11-09T12:32:33.606+01:00"
+    }
+]

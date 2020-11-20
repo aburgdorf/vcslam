@@ -1,0 +1,72 @@
+Description
+
+Listing of all (active and inactive) businesses registered with the Office of Finance. An "active" business is defined as a registered business whose owner has not notified the Office of Finance of a cease of business operations. Update Interval: Monthly.
+
+
+
+Columns
+
+
+LOCATION ACCOUNT #	
+The account number of the business location.
+Plain Text
+	
+BUSINESS NAME	
+The legal name of the business.
+Plain Text
+	
+DBA NAME	
+Doing Business As (DBA) name. If more than one DBA name exists, then all names are shown as a pipe-separated list.
+Plain Text
+	
+STREET ADDRESS	
+Street address of the business location.
+Plain Text
+	
+CITY	
+City of the business location.
+Plain Text
+	
+ZIP CODE	
+Zip code of the business location.
+Plain Text
+	
+LOCATION DESCRIPTION	
+Abbreviated address description of the business location.
+Plain Text
+	
+MAILING ADDRESS	
+Mailing address of the business.
+Plain Text
+	
+MAILING CITY	
+Mailing address city of the business.
+Plain Text
+	
+MAILING ZIP CODE	
+Mailing address Zip code of the business.
+Plain Text
+	
+NAICS	
+The self-reported North American Industry Classification System (NAICS) code, which is used in classifying business establishments.
+Number
+	
+PRIMARY NAICS DESCRIPTION	
+Description of the primary NAICS code. Descriptions that are noted as "(1997 NAICS)" apply the code and description designated in 1997 as referred to in the New Business Exemption Ordinance.
+Plain Text
+	
+COUNCIL DISTRICT	
+The council district # reflects the current council district assignment for that location address. "0" means the business location is out of the City.
+Number
+	
+LOCATION START DATE	
+The start date of the first business activity registered at this location.
+Date & Time
+	
+LOCATION END DATE	
+The most recent end date of all business activities at the location.
+Date & Time
+	
+LOCATION	
+Latitude & Longitude, if present, for this business location.
+Location

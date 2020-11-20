@@ -1,0 +1,54 @@
+Description
+
+The City of Seattle has created an on-street paid parking occupancy data set and is providing access to this data set for public use for research and entrepreneurial purposes under the City’s Open Data Program.
+
+
+Columns
+
+OccupancyDateTime	
+The date and time (minute) of the transaction as recorded
+Date & Time
+	
+PaidOccupancy	
+The numerator of the paid occupancy percentage calculation. Number of transactions that have paid at this date/time on this blockface. This is the number of vehicles paid for parking at this time. It is not necessarily the number of vehicles along the blockface since there are most likely vehicles that haven’t paid.
+Number
+	
+BlockfaceName	
+Street segment, name of street with the “from street” and “to street; ” Example is “1ST AVE BETWEEN BELL ST AND BATTERY ST” Combined with Side of Street for Blockface -- 1ST AVE BETWEEN BELL ST AND BATTERY ST SW Side. Also referred to as UnitDesc (description)
+Plain Text
+	
+SideOfStreet	
+Options are: E, S, N, W, NE, SW, SE, NW. The two digits are because many Seattle streets are at an angle. Avenues run north-south, Streets run east-west. 1 st Ave on the SW side is the west side of the street
+Plain Text
+	
+SourceElementKey	
+Unique identifier for the city street segment where the pay station is located; Use this column to match with SDOT’s Pay Station data and other curbspace asset data
+Number
+	
+ParkingTimeLimitCategory	
+In minutes. Options are 120 (2-hour parking), 240 (4-hour parking),30, or 600 (10-hour parking)
+Number
+	
+ParkingSpaceCount	
+Number of paid spaces on the blockface at the given date and time. This does not include any loading zones (even if payment is required at the loading zones). While SDOT does not delineate individual spaces, we maintain a record of legal parking supply if spaces were marked. Average parallel parking paid space length is 18 feet. Any summary of parking space counts needs to account for the amount of time covered as the data will count all spaces as discrete items over a time period.
+Number
+	
+PaidParkingArea	
+The primary name of a paid parking neighborhood. Example is Commercial Core.
+Plain Text
+	
+PaidParkingSubArea	
+A subset of a paid parking area—not all paid parking areas have ubareas. Example is Financial, so would be Commercial Core Financial.
+Plain Text
+	
+PaidParkingRate	
+Parking rate charged at date and time. Data is available for the parking rate when SDOT used to have one rate across the entire day, roughly 2012-2015. If the column is blank, that is because the rates were/are currently set by time of day. Rates vary by area or sub area and by morning, afternoon and evening (8-11 am, 11 am-5 or 6 pm, and 5 pm to 8 pm or 10 pm)
+Plain Text
+	
+ParkingCategory	
+An overall description of the type of parking allowed on a blockface. Examples could be Paid or RPZ (restricted parking zone)
+Plain Text
+	
+Location	
+Calculated based on the known location of a pay station along the same blockface. See Issues section for more info.
+Point

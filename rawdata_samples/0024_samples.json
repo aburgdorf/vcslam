@@ -1,0 +1,41 @@
+[
+    {
+      "transaction_id": "903376065",
+      "meter_code": "2117002",
+      "transactiondatetime": "2020-11-02T04:42:00.000",
+      "payment_mean": "CREDIT CARD",
+      "amount_paid": "1.00",
+      "durationinminutes": "120",
+      "blockface_name": "SENECA ST BETWEEN WESTERN AVE AND POST AVE",
+      "sideofstreet": "SE",
+      "elementkey": "80730",
+      "latitude": "47.60572997000000",
+      "longitude": "-122.33831778000000"
+    },
+    {
+      "transaction_id": "903376071",
+      "meter_code": "5023002",
+      "transactiondatetime": "2020-11-02T04:42:00.000",
+      "payment_mean": "CREDIT CARD",
+      "amount_paid": "1.00",
+      "durationinminutes": "120",
+      "blockface_name": "6TH AVE BETWEEN UNION ST AND PIKE ST",
+      "sideofstreet": "SW",
+      "elementkey": "75781",
+      "latitude": "47.61061354000000",
+      "longitude": "-122.33409932000000"
+    },
+    {
+      "transaction_id": "903376076",
+      "meter_code": "19291010",
+      "transactiondatetime": "2020-11-02T04:42:00.000",
+      "payment_mean": "CREDIT CARD",
+      "amount_paid": "2.75",
+      "durationinminutes": "330",
+      "blockface_name": "ALOHA ST BETWEEN 8TH AVE N AND 9TH AVE N",
+      "sideofstreet": "N",
+      "elementkey": "31593",
+      "latitude": "47.62720712000000",
+      "longitude": "-122.34036244000000"
+    }
+]

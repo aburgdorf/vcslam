@@ -1,0 +1,79 @@
+[
+    {
+        "intersectionid": "3580",
+        "onst": "Gallatin Pike S",
+        "crst": "Emmitt Avenue",
+        "quad": "Northeast",
+        "inspector": "Jeff Pedine",
+        "date": "2019-04-11T00:00:00.000",
+        "evnt_lat": "36.253319",
+        "evnt_lon": "-86.716576",
+        "evnt_map": "5104",
+        "evnt_type": "NA",
+        "ped_signal_pres": false,
+        "oa_cmnt": "There is no push button at this location.",
+        "mapped_location": {
+            "type": "Point",
+            "coordinates": [
+                -86.716576,
+                36.253319
+            ]
+        },
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_p6sk_2acq": "15",
+        ":@computed_region_gxvr_9jxz": "12"
+    },
+    {
+        "intersectionid": "2923",
+        "onst": "Bell Road",
+        "crst": "Blue Hole Rd",
+        "quad": "Southeast",
+        "inspector": "Greg Roddy",
+        "date": "2019-04-09T00:00:00.000",
+        "evnt_lat": "36.045570",
+        "evnt_lon": "-86.674240",
+        "evnt_map": "16212",
+        "evnt_type": "NA",
+        "ped_signal_pres": false,
+        "cmnt_1": "There is no push button for this crosswalk, however there is a Ped signal light.",
+        "oa_cmnt": "There is no push button for this crosswalk. The ped signal light is in good working condition.",
+        "mapped_location": {
+            "type": "Point",
+            "coordinates": [
+                -86.67424,
+                36.04557
+            ]
+        },
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_p6sk_2acq": "30",
+        ":@computed_region_gxvr_9jxz": "15"
+    },
+    {
+        "intersectionid": "4687",
+        "onst": "Old Hickory Blvd",
+        "crst": "Cedarmont Dr",
+        "quad": "Southeast",
+        "inspector": "Greg Roddy",
+        "date": "2019-04-09T00:00:00.000",
+        "evnt_lat": "36.045311",
+        "evnt_lon": "-86.703499",
+        "evnt_map": "16209",
+        "evnt_type": "NA",
+        "ped_signal_pres": false,
+        "cmnt_1": "There is no push button for this crosswalk, however there is a Ped signal light.",
+        "oa_cmnt": "There is no push button for this crosswalk. The ped signal light is in good working condition.",
+        "mapped_location": {
+            "type": "Point",
+            "coordinates": [
+                -86.703499,
+                36.045311
+            ]
+        },
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_p6sk_2acq": "29",
+        ":@computed_region_gxvr_9jxz": "3"
+    }
+]

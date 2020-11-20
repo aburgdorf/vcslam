@@ -1,0 +1,15 @@
+Description
+This dataset contains the spatial locations of MyWay retail agents within Canberra. 
+
+Columns
+
+Name	
+Name of the agent			Plain Text
+	
+Region	
+Region that comprises of few suburbs	Plain Text
+	
+Address	
+Address of the agent			Plain Text
+	
+Location				Point

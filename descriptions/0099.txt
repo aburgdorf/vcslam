@@ -1,0 +1,46 @@
+Description
+
+Address and Locations of all Public Schools in Montgomery County, MD.
+
+
+Columns
+
+CATEGORY	
+Type of School ("HIGH SCHOOLS", "MIDDLE SCHOOLS", or "ELEMENTARY SCHOOLS")
+Plain Text
+	
+SCHOOL NAME	
+Name of the Public School
+Plain Text
+	
+ADDRESS	
+Street Address of the Public School
+Plain Text
+	
+CITY	
+City for the Public School
+Plain Text
+	
+ZIP CODE	
+5 digit postal Zip Code for the Public School
+Number
+	
+PHONE	
+Primary telephone number for the Public School
+Plain Text
+	
+URL	
+Internet address (URL) for the Public School's website
+Plain Text
+	
+LONGITUDE	
+Longitude location for the Public School
+Number
+	
+LATITUDE	
+Latitude location for the Public School
+Number
+	
+LOCATION	
+Location field generated to indicate the location of the Public School on a map
+Location

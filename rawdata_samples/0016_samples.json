@@ -1,0 +1,63 @@
+[
+    {
+        "recordnum": "1038228-VI",
+        "recordtype": "Notice of Violation",
+        "recordtypemapped": "Case",
+        "opendate": "2016-08-23",
+        "statuscurrent": "Initiated",
+        "originaladdress1": "112 13TH AVE",
+        "originalcity": "SEATTLE",
+        "originalstate": "WA",
+        "originalzip": "98122",
+        "link": {
+            "url": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=1038228-VI"
+        },
+        "latitude": "47.60210402",
+        "longitude": "-122.31474612",
+        "location1": {
+            "latitude": "47.60210402",
+            "longitude": "-122.31474612",
+            "human_address": "{\"address\": \"112 13TH AVE\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"zip\": \"98122\"}"
+        }
+    },
+    {
+        "recordnum": "1045324-UB",
+        "recordtype": "Unfit Building",
+        "recordtypemapped": "Case",
+        "opendate": "2018-10-30",
+        "statuscurrent": "Under Investigation",
+        "originaladdress1": "1219 S Cloverdale ST",
+        "originalcity": "SEATTLE",
+        "link": {
+            "url": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=1045324-UB"
+        },
+        "latitude": "47.52627875",
+        "longitude": "-122.31668727",
+        "location1": {
+            "latitude": "47.52627875",
+            "longitude": "-122.31668727",
+            "human_address": "{\"address\": \"1219 S Cloverdale ST\", \"city\": \"SEATTLE\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "recordnum": "1045643-TR",
+        "recordtype": "Tenant Relocation",
+        "recordtypemapped": "Request",
+        "opendate": "2018-12-21",
+        "statuscurrent": "Closed",
+        "originaladdress1": "123 26TH AVE E",
+        "originalcity": "SEATTLE",
+        "originalstate": "WA",
+        "originalzip": "98112",
+        "link": {
+            "url": "https://cosaccela.seattle.gov/portal/customize/LinkToRecord.aspx?altId=1045643-TR"
+        },
+        "latitude": "47.61960238",
+        "longitude": "-122.2988438",
+        "location1": {
+            "latitude": "47.61960238",
+            "longitude": "-122.2988438",
+            "human_address": "{\"address\": \"123 26TH AVE E\", \"city\": \"SEATTLE\", \"state\": \"WA\", \"zip\": \"98112\"}"
+        }
+    }
+]

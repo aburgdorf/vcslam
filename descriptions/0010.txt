@@ -1,0 +1,38 @@
+Description
+
+List of crashes involving motor vehicles, bicycles and/or pedestrians reported in the City of Cambridge from January 2010 through June 2016. Please refer to the dataset "Police Department Crash Data - Updated" for more recent and comprehensive crash data. Please Note: addresses are approximate. Rows for years 2010-2013 were geocoded as part of the MIT Public Safety Data Challenge. Any Latitude/Longitude with a value of 0 indicates that the location was not found though their geocoding efforts.
+
+
+Columns
+
+Crash Number	
+Unique number assigned to this accident						Plain Text
+	
+Date Time	
+Date and Time accident occurred (12:00 AM may represent an unknown time)	Date & Time
+	
+Day Of Week									Plain Text
+	
+Object 1
+First involved object in this accident 
+(type of vehicle, bicycle, or pedestrian).					Plain Text
+	
+Object 2	
+Second involved object in this accident 
+(type of vehicle, bicycle, or pedestrian).					Plain Text
+	
+Street Number									Plain Text
+	
+Steet Name									Plain Text
+	
+Cross Street									Plain Text
+	
+Location									Plain Text
+	
+Latitude									Number
+	
+Longitude									Number
+	
+Coordinates	
+Latitude and Longitude coordinates used for mapping accident locations		Location
+	

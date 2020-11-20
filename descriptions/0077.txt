@@ -1,0 +1,66 @@
+Description
+
+This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
+
+
+Columns
+
+VIN (1-10)	
+The 1st 10 characters of each vehicle's Vehicle Identification Number (VIN).
+Plain Text
+	
+County	
+The county in which the registered owner resides.
+Plain Text
+	
+City	
+The city in which the registered owner resides.
+Plain Text
+	
+State	
+The state in which the registered owner resides.
+Plain Text
+	
+ZIP Code	
+The 5 digit zip code in which the registered owner resides.
+Plain Text
+	
+Model Year	
+The model year of the vehicle, determined by decoding the Vehicle Identification Number (VIN).
+Plain Text
+	
+Make	
+The manufacturer of the vehicle, determined by decoding the Vehicle Identification Number (VIN).
+Plain Text
+	
+Model	
+The model of the vehicle, determined by decoding the Vehicle Identification Number (VIN).
+Plain Text
+	
+Electric Vehicle Type	
+This distinguishes the vehicle as all electric or a plug-in hybrid.
+Plain Text
+	
+Clean Alternative Fuel Vehicle (CAFV) Eligibility	
+This categorizes vehicle as Clean Alternative Fuel Vehicles (CAFVs) based on the fuel requirement and electric-only range requirement in House Bill 2042 as passed in the 2019 legislative session.
+Plain Text
+	
+Electric Range	
+Describes how far a vehicle can travel purely on its electric charge.
+Number
+	
+Base MSRP	
+This is the lowest Manufacturer's Suggested Retail Price (MSRP) for any trim level of the model in question.
+Number
+	
+Legislative District	
+The specific section of Washington State that the vehicle's owner resides in, as represented in the state legislature.
+Plain Text
+	
+DOL Vehicle ID	
+Unique number assigned to each vehicle by Department of Licensing for identification purposes.
+Plain Text
+	
+Vehicle Location	
+The center of the ZIP Code for the registered vehicle.
+Point

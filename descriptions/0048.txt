@@ -1,0 +1,34 @@
+Description
+
+This dataset contains the locations of the elementary and secondary schools owed by the TCDSB within Toronto. Containing attributes such as: Name, Panel (Elementary, Secondary and Alternative/Adult Learning), Address and Geographic location.
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+OBJECTID
+ESRI Generated ID eg. 0,1,2,3,etc.
+
+TCDSB_CODE
+School unique Code eg. 299
+
+SCH_NAME
+School name eg. Annunciation
+
+ADDRESS_FULL
+School address eg. 65 Avonwick Gate
+
+MUNICIPALITY
+Municipality eg. North York
+
+POSTAL_CODE
+Postal Code eg. M3A2M8
+
+TCDSB_LEVEL
+School Type eg. E – Elementary, S – Secondary, AL – Adult Learning, ADM – Administration Building
+						
+STATUS
+School Status eg. Open
+
+geometry

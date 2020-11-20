@@ -1,0 +1,420 @@
+[
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"f47eea0e1933ffced61e99d3f7bf1e7f25c3d808",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":11.1,
+    "pm10":17.392,
+    "date_time":"2020-08-02T01:00:00+00:00",
+    "no":2.2451,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":14.535,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":11.0925,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":8
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"01e25cb8108ecf498037b4f254fcd926a17cba31",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":10.4,
+    "pm10":11.594,
+    "date_time":"2020-08-02T03:00:00+00:00",
+    "no":0.9978,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":8.6062,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":7.0762,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":8
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"ec9302b62555545a176fcf346fd18fb5ea5b1df4",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":17.9,
+    "pm10":12.561,
+    "date_time":"2020-08-03T15:00:00+00:00",
+    "no":2.4946,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":9.5625,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":5.7375,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":7
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"3fb9f7118c61de77fd83dc3023e837818c614dd7",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":10.6,
+    "pm10":4.831,
+    "date_time":"2020-08-03T23:00:00+00:00",
+    "no":4.9892,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":26.5837,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":18.9337,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":12
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"bd5f25e25288c6681b44fbcf8d64fd0f0b78b695",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":17.6,
+    "date_time":"2020-08-04T16:00:00+00:00",
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "siteid":452,
+    "location":"AURN St Pauls",
+    "instrumenttype":"Continuous (Reference)"
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"9d41d068ac41f7f6a291caa820649378e2cfd277",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":16,
+    "date_time":"2020-08-04T18:00:00+00:00",
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "siteid":452,
+    "location":"AURN St Pauls",
+    "instrumenttype":"Continuous (Reference)"
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"c530c3ad365f9f29b8dea53cd6529406519d8978",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":14,
+    "date_time":"2020-08-04T23:00:00+00:00",
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "siteid":452,
+    "location":"AURN St Pauls",
+    "instrumenttype":"Continuous (Reference)"
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"f9bf54e0630a132d5e129b9049fdabb96b8a3213",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "pm10":4.831,
+    "temp":17.2,
+    "date_time":"2020-08-05T06:00:00+00:00",
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "siteid":452,
+    "location":"AURN St Pauls",
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":1
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"502458ea04487f65e5684d07bb7c8ec902e540ea",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":18.4,
+    "pm10":13.527,
+    "date_time":"2020-08-05T11:00:00+00:00",
+    "no":3.7419,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":14.3438,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":8.6062,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":6
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+    "datasetid":"air-quality-data-continuous",
+    "recordid":"1001e280e2239acd63b51df0deedce5835723cc0",
+    "fields":{
+    "datestart":"2006-06-15T00:00:00+00:00",
+    "temp":16.2,
+    "pm10":9.662,
+    "date_time":"2020-08-05T22:00:00+00:00",
+    "no":1.2473,
+    "geo_point_2d":[
+    51.4628294172,
+    -2.58454081635
+    ],
+    "current":"True",
+    "nox":7.65,
+    "location":"AURN St Pauls",
+    "siteid":452,
+    "no2":5.7375,
+    "instrumenttype":"Continuous (Reference)",
+    "pm25":2
+    },
+    "geometry":{
+    "type":"Point",
+    "coordinates":[
+    -2.58454081635,
+    51.4628294172
+    ]
+    },
+    "record_timestamp":"2020-09-01T11:47:18.449000+00:00"
+    }
+    ],
+    "facet_groups":[
+    {
+    "facets":[
+    {
+    "count":776036,
+    "path":"True",
+    "state":"displayed",
+    "name":"True"
+    },
+    {
+    "count":617398,
+    "path":"False",
+    "state":"displayed",
+    "name":"False"
+    }
+    ],
+    "name":"current"
+    },
+    {
+    "facets":[(too many elements to preview)],
+    "name":"date_time"
+    },
+    {
+    "facets":[
+    {
+    "count":174062,
+    "path":"Brislington Depot",
+    "state":"displayed",
+    "name":"Brislington Depot"
+    },
+    {
+    "count":165302,
+    "path":"Parson Street School",
+    "state":"displayed",
+    "name":"Parson Street School"
+    },
+    {
+    "count":153120,
+    "path":"Wells Road",
+    "state":"displayed",
+    "name":"Wells Road"
+    },
+    {
+    "count":126243,
+    "path":"AURN St Pauls",
+    "state":"displayed",
+    "name":"AURN St Pauls"
+    },
+    {
+    "count":113951,
+    "path":"Rupert Street",
+    "state":"displayed",
+    "name":"Rupert Street"
+    },
+    {
+    "count":113910,
+    "path":"AURN Bristol Centre",
+    "state":"displayed",
+    "name":"AURN Bristol Centre"
+    },
+    {
+    "count":102238,
+    "path":"Fishponds Road",
+    "state":"displayed",
+    "name":"Fishponds Road"
+    },
+    {
+    "count":96407,
+    "path":"Newfoundland Road Police Station",
+    "state":"displayed",
+    "name":"Newfoundland Road Police Station"
+    },
+    {
+    "count":74787,
+    "path":"Shiner's Garage",
+    "state":"displayed",
+    "name":"Shiner's Garage"
+    },
+    {
+    "count":62990,
+    "path":"Bath Road",
+    "state":"displayed",
+    "name":"Bath Road"
+    },
+    {
+    "count":45236,
+    "path":"Old Market",
+    "state":"displayed",
+    "name":"Old Market"
+    },
+    {
+    "count":43824,
+    "path":"Trailer Portway P&R",
+    "state":"displayed",
+    "name":"Trailer Portway P&R"
+    },
+    {
+    "count":31670,
+    "path":"Temple Way",
+    "state":"displayed",
+    "name":"Temple Way"
+    },
+    {
+    "count":25464,
+    "path":"IKEA M32",
+    "state":"displayed",
+    "name":"IKEA M32"
+    },
+    {
+    "count":23401,
+    "path":"Colston Avenue",
+    "state":"displayed",
+    "name":"Colston Avenue"
+    },
+    {
+    "count":22071,
+    "path":"Cheltenham Road \ Station Road",
+    "state":"displayed",
+    "name":"Cheltenham Road \ Station Road"
+    },
+    {
+    "count":12312,
+    "path":"CREATE Centre Roof",
+    "state":"displayed",
+    "name":"CREATE Centre Roof"
+    },
+    {
+    "count":6446,
+    "path":"Temple Meads Station",
+    "state":"displayed",
+    "name":"Temple Meads Station"
+    }
+    ],
+    "name":"location"
+    }
+    ]

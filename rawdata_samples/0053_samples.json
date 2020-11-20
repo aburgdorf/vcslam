@@ -1,0 +1,77 @@
+[
+    {
+        "datasetid": "public-washrooms",
+        "recordid": "793e7960e380aa663040ad6bc95f66c0cdc77236",
+        "fields": {
+            "maintainer": "Parks & Recreation",
+            "name": "Adanac Park",
+            "wheel_access": "No",
+            "primaryind": "1",
+            "note": "Caretaker on site",
+            "summer_hours": "Dawn to Dusk",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.024071960319,
+                    49.2758809677686
+                ]
+            },
+            "location": "East side, fieldhouse",
+            "address": "1025 Boundary Road",
+            "winter_hours": "Dawn to Dusk",
+            "type": "Public Toilet in Park",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2020-10-15T12:31:50.455+02:00"
+    },
+    {
+        "datasetid": "public-washrooms",
+        "recordid": "7a670401a7376b658683fbfabd6eba6855d20896",
+        "fields": {
+            "maintainer": "Parks & Recreation",
+            "name": "Balaclava Park",
+            "wheel_access": "No",
+            "primaryind": "3",
+            "note": "Caretaker on site",
+            "summer_hours": "Dawn to Dusk",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.175460949361,
+                    49.2452339943975
+                ]
+            },
+            "location": "Central, field house",
+            "address": "4594 Balaclava Street",
+            "winter_hours": "Dawn to Dusk",
+            "type": "Public Toilet in Park",
+            "geo_local_area": "Dunbar-Southlands"
+        },
+        "record_timestamp": "2020-10-15T12:31:50.455+02:00"
+    },
+    {
+        "datasetid": "public-washrooms",
+        "recordid": "f518aea63395ed86439951693f7aedac136c4f77",
+        "fields": {
+            "maintainer": "Parks & Recreation",
+            "name": "Beaconsfield Park",
+            "wheel_access": "No",
+            "primaryind": "5",
+            "note": "Caretaker on site",
+            "summer_hours": "Dawn to Dusk",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.049933959326,
+                    49.2552329902121
+                ]
+            },
+            "location": "East side, fieldhouse",
+            "address": "3215 Slocan Street",
+            "winter_hours": "Dawn to Dusk",
+            "type": "Public Toilet in Park",
+            "geo_local_area": "Renfrew-Collingwood"
+        },
+        "record_timestamp": "2020-10-15T12:31:50.455+02:00"
+    }
+]

@@ -1,0 +1,94 @@
+Description
+
+This package contains information on the location of public art and corresponding artist(s) in the City.
+Data currency
+
+This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this web site is updated weekly.
+Data accuracy
+
+For the most part, these locations are based on address and are therefore approximate.
+
+There is no known error but there may be some loss of quality from data entry errors.
+
+Information is accurate as of the time the information is provided by the artist and/or owner. Information related to artist may or may not be current
+
+
+Columns
+
+RegistryID
+Unique identifier for each public artwork record, not necessarily sequential
+
+ArtistProjectStatement
+The artist's written description of their work intended to provide context 	and add to the viewer's understanding of the artwork.
+
+Type
+Category of artwork, as follows: 
+	Artefact: Historical object or part which was not originally an artwork
+	Banners: Hanging fabric with designs
+	Bust: Realistic head
+	Figure: Realistic or semi-realistic human form
+	Fountain: Sculptural and water components
+	Gateway:Artwork meant to mark or designate an entrance or exit
+	Internet: Artwork primarily produced for the Internet, may be interactive
+	Memorial: Artwork which commemorates a person, place or event
+	Mosaic: Surface decoration made of inlaid stone, glass or other material to form a picture or pattern
+	Mural: Painted or decorated surface of a wall
+	Other: Artwork which falls outside defined types
+	Painting: Free hanging painted surface usually canvas or wood
+	Pole: Free-standing pole structure
+	Poster:Two-dimensional artwork such as prints for transit shelters
+	Relief: A form of sculpture that is carved or cast; design elements project outward in varying degrees from a background plane
+	Sculpture: Three-dimensional representation of an object, abstract design, or living thing that is cast, carved, modeled, fabricated, fired, assembled or a combination of these
+	Series: Artwork that has multiple components that are not only in one place but spread over a large area
+	Site Work: Artwork which is incorporated into the landscape or the 	architectural features of a building or complex
+	Tapestry: Fabric wall-hanging
+	Totem: Carved, usually wood, free-standing pole of First Nations imagery and representations.
+	Video: Artwork made up of moving images
+	Welcome Figure: Carved, usually wood, free-standing figure of First Nations imagery and representations
+
+Status
+Current status of the artwork, as follows:In place - Artwork exists at the location specified and is available for viewing|Removed - Artwork has been removed and is not available for viewing
+
+SiteName
+The name of the place where the artwork is situated, e.g. building name, park name, etc.
+
+SiteAddress
+The location of the artwork described by street number and name, or intersection.
+
+PrimaryMaterial
+Description of the material the artwork is primarily composed of
+
+URL
+Web page address for the artwork detail page in the Public Art Registry
+
+PhotoURL
+Web page address for the artwork photograph in the Public Art Registry
+
+Ownership
+Acknowledgement of the entity primarily responsible for the artwork.
+
+Neighbourhood
+In 1969, City Council approved twenty-two local areas as a basis for the organization of community services and city departments. In 1970, local areas were used for the establishment of local area planning programs. For more information, see theLocal Area Boundary Datapage.
+
+
+LocationOnsite
+Additional information describing where to find the artwork at the address or location provided.
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area	boundary data set.
+
+DescriptionOfwork
+Information in a text field which elaborates significant elements of the artwork, its provenance, the artist, etc.
+
+Artists
+Unique identifier of the artists associated with the artwork (see ArtistID)
+
+PhotoCredits
+Name of the photographer who provided the artwork photograph Note: If there is information in this field, you must acknowledge the source of photograph when used.
+
+YearOfInstallation
+Year the artwork was originally installed.
+

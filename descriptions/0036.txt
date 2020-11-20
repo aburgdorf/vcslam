@@ -1,0 +1,85 @@
+Description
+
+To provide a list of all fire events the Fire Response Group responded to in the last 182 days.
+
+
+Columns
+
+Event Number	
+Unique identifier for a fire event
+Plain Text
+	
+Event Type Group	
+Classification grouping of various fire event types
+Plain Text
+	
+Event Description	
+General description of a fire event
+Plain Text
+	
+Approximate Location	
+Intersection or Nearby Intersection location for a fire event
+Plain Text
+	
+Neighbourhood Id	
+Unique Identifier for a Neighbourhood
+Number
+	
+Neighbourhood Name	
+Name of Neighbourhood where fire event takes place
+Plain Text
+	
+Dispatch Date	
+Day when first fire units are dispatched to a fire event. If no units are assigned, the date field will be blank.
+Date & Time
+	
+Dispatch Time	
+Time of day when first fire units are dispatched to a fire event. If no units are assigned, the time field will be blank.
+Plain Text
+	
+Dispatch Year	
+Year of fire event
+Number
+	
+Dispatch Month Name	
+Name of month for the fire event
+Plain Text
+	
+Dispatch Month Number	
+Month number for fire event
+Plain Text
+	
+Dispatch Day Number
+Plain Text
+	
+Day Of Week	
+Day of week when fire event happened
+Plain Text
+	
+Event Close Date	
+Day when last fire unit leaves the fire event or when the Dispatch Centre closes the file. If the date is blank, the fire event is open and active.
+Date & Time
+	
+Event Close Time	
+Time when last fire unit leaves the fire event or when the Dispatch Centre closes the file.
+Plain Text
+	
+Equipment Assigned	
+The number and type of fire units sent to a fire event.
+Plain Text
+	
+Latitude	
+Approximate Horizontal Geographic Coordinate
+Number
+	
+Longitude	
+Approximate Vertical Geographic Coordinate
+Number
+	
+Location	
+Approximate Geographic Spatial Location for a fire event
+Location
+	
+Count	
+Number of fire events - usually 1. To be used for reporting purposes
+Number

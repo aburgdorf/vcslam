@@ -1,0 +1,33 @@
+Description
+
+Provides Seattle Fire Department 911 dispatches. Updated every 5 minutes.
+
+Columns
+
+Address
+Location of Incident
+Plain Text
+	
+Type	
+Response Type
+Plain Text
+	
+Datetime	
+The date and time of the call.
+Date & Time
+	
+Latitude	
+This is the latitude value. 
+Lines of latitude are parallel to the equator.
+Number
+	
+Longitude	
+This is the longitude value. Lines of longitude run perpendicular to lines of latitude, and all pass through both poles.
+Number
+	
+Report Location
+Point
+	
+Incident Number
+Plain Text
+	

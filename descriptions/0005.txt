@@ -1,0 +1,67 @@
+Description
+
+A list of Companies liable for rates since 1 April 2010, together with the charges and reliefs applied. May be used in conjunction with Camden Non-Domestic Rates – rateable values (https://opendata.camden.gov.uk/Business-Economy/Camden-Non-Domestic-Rates-Rateable-Values/jumr-tymj) to form a picture of who has been liable for rates for each property since 2010 and the amount charged. Please note that personal data is excluded.
+
+
+Columns
+
+Property Reference	
+The reference held in the valuation list		Plain Text
+	
+Charge Type						Plain Text
+	
+Gross Charge	
+Charge for the period, after 
+applying transitional relief				Number
+	
+Supplement	
+Supplement to finance small business relief		Number
+	
+Small Business Relief	
+Small business relief					Number
+	
+Charity Relief	
+Mandatory relief only					Number
+	
+Exemption Relief					Number
+	
+Discretionary Relief	
+Discretionary charity relief, revaluation support	Number
+	
+Additional Relief	
+Retail relief, pub relief				Number
+	
+Supporting Small Business Relief	
+Support for small business from 2017 budget		Number
+	
+Start Date	
+The start date of the period listed			Date & Time
+	
+End Date	
+The end date of the period listed. 
+Where this is blank, this indicates 
+the current charge period ending 31 March		Date & Time
+	
+Company Name	
+Name of ratepayer. Individuals are not included		Plain Text
+	
+Address	
+Address of the property					Plain Text
+	
+Easting							Number
+	
+Northing						Number
+	
+Longitude						Number
+	
+Latitude						Number
+	
+Spatial Accuracy					Plain Text
+	
+Location						Location
+	
+Last Uploaded						Date & Time
+	
+Organisation URI					Website URL
+	
+Socrata ID						Number

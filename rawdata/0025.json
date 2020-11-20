@@ -1,0 +1,3046 @@
+[
+    {
+        "disruption_id": "761",
+        "date_issued": "2020-09-09T00:00:00.000",
+        "start_date": "2020-09-13T00:00:00.000",
+        "finish_date": "2020-12-13T00:00:00.000",
+        "status": "Current",
+        "closure": "Utility Tunnelling",
+        "on_street": "101 Avenue NW",
+        "from_street": "Ravine Drive",
+        "impact": "Total Closure",
+        "duration": "Approximately 4 Months",
+        "details": "Intersection of Ravine Drive and 101 Avenue will be totally closed for construction. Pedestrians will be detoured around the site on the road.",
+        "description": "Tunnel Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.563965232317,
+                53.54125513485
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "139",
+        ":@computed_region_ecxu_fw7u": "145",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "932",
+        "date_issued": "2020-11-03T00:00:00.000",
+        "start_date": "2020-11-12T00:00:00.000",
+        "finish_date": "2020-11-16T00:00:00.000",
+        "status": "Current",
+        "closure": "66 St Reduced to 1 Lane Each Way",
+        "on_street": "66 Street NW",
+        "from_street": "Yellowhead Trail",
+        "to_street": "121 Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "5 Days",
+        "details": "66 St will be reduced to 1 lane in each direction at 122 Av. Traffic will be split using the NB lanes. Use other routes.",
+        "description": "Water Valve Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.442980379506,
+                53.57514013958
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "226",
+        ":@computed_region_ecxu_fw7u": "174",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "932",
+        "date_issued": "2020-11-03T00:00:00.000",
+        "start_date": "2020-11-12T00:00:00.000",
+        "finish_date": "2020-11-16T00:00:00.000",
+        "status": "Current",
+        "closure": "66 St Reduced to 1 Lane Each Way",
+        "on_street": "66 Street NW",
+        "from_street": "Yellowhead Trail",
+        "to_street": "121 Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "5 Days",
+        "details": "66 St will be reduced to 1 lane in each direction at 122 Av. Traffic will be split using the NB lanes. Use other routes.",
+        "description": "Water Valve Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.442980056925,
+                53.578316557888
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "226",
+        ":@computed_region_ecxu_fw7u": "42",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "838",
+        "date_issued": "2020-09-29T00:00:00.000",
+        "start_date": "2020-10-05T00:00:00.000",
+        "finish_date": "2021-01-15T00:00:00.000",
+        "status": "Current",
+        "closure": "Allard Way Drainage Repair",
+        "on_street": "Allard Way NW",
+        "from_street": "51 Avenue NW",
+        "to_street": "54 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "4 Months",
+        "details": "Allard Way at 51 Ave will be closed to Northbound traffic for a drainage repar. Please use other routes and available detours.",
+        "description": "Allard Way Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.497627895799,
+                53.488192280995
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "50",
+        ":@computed_region_ecxu_fw7u": "19",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "838",
+        "date_issued": "2020-09-29T00:00:00.000",
+        "start_date": "2020-10-05T00:00:00.000",
+        "finish_date": "2021-01-15T00:00:00.000",
+        "status": "Current",
+        "closure": "Allard Way Drainage Repair",
+        "on_street": "Allard Way NW",
+        "from_street": "51 Avenue NW",
+        "to_street": "54 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "4 Months",
+        "details": "Allard Way at 51 Ave will be closed to Northbound traffic for a drainage repar. Please use other routes and available detours.",
+        "description": "Allard Way Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.497629866986,
+                53.491339586525
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "50",
+        ":@computed_region_ecxu_fw7u": "19",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "237",
+        "date_issued": "2020-04-20T00:00:00.000",
+        "start_date": "2020-06-01T00:00:00.000",
+        "status": "Current",
+        "closure": "119 Street Permanent Roac Closure",
+        "on_street": "119 Street NW",
+        "from_street": "Anthony Henday Drive",
+        "to_street": "9B Avenue NW",
+        "impact": "Permanent Closure",
+        "details": "Permanent 119 Street access/exit closure from Anthony Henday Drive.  Detour using 111 Street.",
+        "description": "Permanent Closure",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.539394362803,
+                53.43941943803
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "309",
+        ":@computed_region_ecxu_fw7u": "108",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12"
+    },
+    {
+        "disruption_id": "551",
+        "date_issued": "2020-07-07T00:00:00.000",
+        "start_date": "2020-07-17T00:00:00.000",
+        "finish_date": "2020-12-04T00:00:00.000",
+        "status": "Current",
+        "closure": "Whitemud Bin Wall Upgrade",
+        "on_street": "Whitemud Drive NW",
+        "from_street": "149 Street NW",
+        "to_street": "159 Street NW",
+        "impact": "Travel Delays",
+        "duration": "6 Months",
+        "details": "Whitemud Dr between 149 St to 159 St will be reduced to 3 lanes and the speed will be reduced to 50 km/h while the bin wall undergoes restoration.",
+        "description": "Whitemud Bin Wall Upgrade",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.578542799296,
+                53.513634428174
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "228",
+        ":@computed_region_ecxu_fw7u": "16",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "938",
+        "date_issued": "2020-11-05T00:00:00.000",
+        "start_date": "2020-11-09T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "102 St Closure",
+        "on_street": "102 Street NW",
+        "from_street": "103 Avenue NW",
+        "to_street": "104 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "3 Weeks",
+        "details": "Starts Monday Nov 9 at 9am, 102 St from 103 Ave to north of 102 Ave closed due to waterline replacement. Bell Tower, Edmonton Tower & Marriot Hotel parkade access via 102 St - 104 Ave.",
+        "description": "Waterline Replacement",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.495555250867,
+                53.544593414022
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "383",
+        "date_issued": "2020-05-29T00:00:00.000",
+        "start_date": "2020-06-01T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "Current",
+        "closure": "42A Ave total closure",
+        "on_street": "42a AVENUE NW",
+        "from_street": "MILLBOURNE ROAD NW",
+        "to_street": "87 STREET NW",
+        "impact": "Total Closure",
+        "duration": "5.5 months",
+        "details": "42A Ave from Millbourne Road to 88 St will be total closed for drainage work. This will also completely cut off access for 87 St and 86 St cul-de-savs off 42A Ave. Detour using 40 Ave or 85 St. **Extended to Nov 13*",
+        "description": "Drainage install",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.461703097707,
+                53.479176696059
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "225",
+        ":@computed_region_ecxu_fw7u": "240",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "939",
+        "date_issued": "2020-11-06T00:00:00.000",
+        "start_date": "2020-10-23T00:00:00.000",
+        "finish_date": "2021-01-08T00:00:00.000",
+        "status": "Current",
+        "closure": "Reduced to signle lane eastbound",
+        "on_street": "SASKATCHEWAN DRIVE",
+        "from_street": "106 STREET",
+        "to_street": "107 STREET",
+        "impact": "Increased Travel Time",
+        "duration": "2 months",
+        "details": "Saskatchewan Drive is reduced to one lane eastbound to accommodate shared use path detour due to EPCOR Drainage Project.",
+        "description": "EPCOR Drainage Project",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.503458042003,
+                53.523122531171
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "315",
+        ":@computed_region_ecxu_fw7u": "9",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "551",
+        "date_issued": "2020-07-07T00:00:00.000",
+        "start_date": "2020-07-17T00:00:00.000",
+        "finish_date": "2020-12-04T00:00:00.000",
+        "status": "Current",
+        "closure": "Whitemud Bin Wall Upgrade",
+        "on_street": "Whitemud Drive NW",
+        "from_street": "149 Street NW",
+        "to_street": "159 Street NW",
+        "impact": "Travel Delays",
+        "duration": "6 Months",
+        "details": "Whitemud Dr between 149 St to 159 St will be reduced to 3 lanes and the speed will be reduced to 50 km/h while the bin wall undergoes restoration.",
+        "description": "Whitemud Bin Wall Upgrade",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.596718383747,
+                53.511877548655
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "208",
+        ":@computed_region_ecxu_fw7u": "16",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "942",
+        "date_issued": "2020-11-09T00:00:00.000",
+        "start_date": "2020-11-12T00:00:00.000",
+        "finish_date": "2020-11-12T00:00:00.000",
+        "status": "Current",
+        "closure": "106 St NB Closure",
+        "on_street": "106 Street NW",
+        "from_street": "Jasper Avenue NW",
+        "to_street": "102 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "1 Day (9am - 330pm)",
+        "details": "Thurs, Nov 12th from 9am - 330pm. 106 St NB closed from Jasper Av - 102 Av. Detour using other routes.",
+        "description": "Power Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.502918153349,
+                53.540932325286
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "856",
+        "date_issued": "2020-10-06T00:00:00.000",
+        "start_date": "2020-10-14T00:00:00.000",
+        "finish_date": "2020-12-01T00:00:00.000",
+        "status": "REVISED",
+        "closure": "103 Ave Lane Reductions",
+        "on_street": "103 Avenue NW",
+        "from_street": "105 Street NW",
+        "to_street": "107 Street NW",
+        "impact": "Travel Delays",
+        "duration": "1 Weeks",
+        "details": "Starts Wed, Oct 14th at 9am. 103 Av, 105 St - 107 St reduced to a single lane each way. 105 St SB to 103 Av WB right turn lane will also be closed. Detour using other routes.",
+        "description": "Utility Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.501081588404,
+                53.544606084546
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "499",
+        "date_issued": "2020-06-23T00:00:00.000",
+        "start_date": "2020-06-29T00:00:00.000",
+        "finish_date": "2020-11-14T00:00:00.000",
+        "status": "REVISED",
+        "closure": "128 Av Closed",
+        "on_street": "128 Avenue NW",
+        "from_street": "83 Street NW",
+        "to_street": "84 Street NW",
+        "impact": "Total Closure",
+        "duration": "20 Weeks",
+        "details": "128 Av will be closed from 83 St to 84 St. Use 127 Av and 132 Av for detours. The left turn from 82 St NB will be banned.*NEW END DATE and DURATION*",
+        "description": "Gas Main Repair/Replacement",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.469091149505,
+                53.58604942432
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "38",
+        ":@computed_region_ecxu_fw7u": "152",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "940",
+        "date_issued": "2020-11-06T00:00:00.000",
+        "start_date": "2020-11-06T00:00:00.000",
+        "finish_date": "2020-11-11T00:00:00.000",
+        "status": "Current",
+        "closure": "Westbound right turn lane closed at 114 Street",
+        "on_street": "83 Avenue",
+        "from_street": "112 Street",
+        "to_street": "114 Street",
+        "impact": "Increased Travel Time",
+        "duration": "5 Days",
+        "details": "83 Avenue westbound right turn lane is closed from 50m west of 114 Street to 114 Street due to emergency road repair.",
+        "description": "Road repair",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.525497658501,
+                53.519353136176
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "121",
+        ":@computed_region_ecxu_fw7u": "146",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "940",
+        "date_issued": "2020-11-06T00:00:00.000",
+        "start_date": "2020-11-06T00:00:00.000",
+        "finish_date": "2020-11-11T00:00:00.000",
+        "status": "Current",
+        "closure": "Westbound right turn lane closed at 114 Street",
+        "on_street": "83 Avenue",
+        "from_street": "112 Street",
+        "to_street": "114 Street",
+        "impact": "Increased Travel Time",
+        "duration": "5 Days",
+        "details": "83 Avenue westbound right turn lane is closed from 50m west of 114 Street to 114 Street due to emergency road repair.",
+        "description": "Road repair",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.520806123523,
+                53.519579397538
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "121",
+        ":@computed_region_ecxu_fw7u": "9",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "914",
+        "date_issued": "2020-10-27T00:00:00.000",
+        "start_date": "2020-11-02T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Whitemud Drive Rainbow Valley Bridge Repair",
+        "on_street": "Whitemud Drive NW",
+        "from_street": "122 Street NW",
+        "to_street": "Terwillegar Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "3 Weeks",
+        "details": "Westbound direction of Whitemud Drive over Rainbow Valley bridge will be reduced to two lanes.  Stay right to drive through the detour.",
+        "description": "Concrete Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.571667660498,
+                53.485130374901
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "72",
+        ":@computed_region_ecxu_fw7u": "180",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12"
+    },
+    {
+        "disruption_id": "665",
+        "date_issued": "2020-08-06T00:00:00.000",
+        "start_date": "2020-08-10T00:00:00.000",
+        "finish_date": "2021-01-31T00:00:00.000",
+        "status": "Current",
+        "closure": "Southbound Directional Closure",
+        "on_street": "Tommy Banks Way NW",
+        "from_street": "Saskatchewan Drive NW",
+        "to_street": "87 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "Approx 5 Months",
+        "details": "Tommy Banks Way will be closed in the Southbound direction from Saskatchewan Drive to 87 Avenue. Local access remains available from Northbound Tommy Banks Way off 87 Av. Sidewalk on West side of Tommy Banks Way also closed.",
+        "description": "Drainage Shaft Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.494772144598,
+                53.523841778125
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "315",
+        ":@computed_region_ecxu_fw7u": "12",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "7",
+        "date_issued": "2020-01-02T00:00:00.000",
+        "start_date": "2019-11-22T00:00:00.000",
+        "finish_date": "2021-03-31T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Anthony Henday Dr Bridge Widening Over Whitemud Dr",
+        "on_street": "Whitemud Drive",
+        "from_street": "Anthony Henday Drive",
+        "impact": "Travel Delays",
+        "duration": "16 Months",
+        "details": "Starting at 9am on Nov 22, lane widths on Whitemud Dr under Anthony Henday Dr will be reduced to 3.5m under an altered alignment with shifting curves. There will be a 60km/hr speed zone in place. Access to and from Anthony Henday Dr will be maintained.",
+        "description": "SW Anthony Henday Dr Widening",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.658512623995,
+                53.512221387929
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "314",
+        ":@computed_region_ecxu_fw7u": "97",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "943",
+        "date_issued": "2020-11-09T00:00:00.000",
+        "start_date": "2020-11-09T00:00:00.000",
+        "finish_date": "2020-11-11T00:00:00.000",
+        "status": "Current",
+        "closure": "120 Street Total Closure",
+        "on_street": "120 Street NW",
+        "from_street": "Jasper Avenue NW",
+        "to_street": "102 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "3 Days",
+        "details": "120 Street from Jasper Av to the Lane N/O Jasper Av will be closed from 5pm Mon, Nov 9th to 5pm Wed, Nov 11th.",
+        "description": "Concrete Pour",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.528649978895,
+                53.540935164692
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "144",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "925",
+        "date_issued": "2020-10-29T00:00:00.000",
+        "start_date": "2020-11-07T00:00:00.000",
+        "finish_date": "2020-11-22T00:00:00.000",
+        "status": "Current",
+        "closure": "Northbound Directional Closure",
+        "on_street": "McDougall Hill",
+        "from_street": "Rossdale Road",
+        "to_street": "100 Street NW",
+        "impact": "Total Closure",
+        "duration": "Sat at 7am to Sun at 6pm",
+        "details": "McDougall Hill NBD closure from Sat 7am  to Sun at 6pm on weekends. Detour using Bellamy Hill",
+        "description": "Epcor Vault Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.492668869318,
+                53.5374120468
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "366",
+        ":@computed_region_ecxu_fw7u": "24",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "944",
+        "date_issued": "2020-11-09T00:00:00.000",
+        "start_date": "2020-11-16T00:00:00.000",
+        "finish_date": "2020-11-19T00:00:00.000",
+        "status": "Current",
+        "closure": "103 Av EB Closure",
+        "on_street": "103 Avenue NW",
+        "from_street": "106 Street NW",
+        "to_street": "105 Street NW",
+        "impact": "Directional Closure",
+        "duration": "4 Days (9am-3pm)",
+        "details": "Mon, Nov 16th to Thursday, Nov 19th from 9am to 3pm. 103 Av EB, 106 St - 105 St will be closed. Detour using 104 Av.",
+        "description": "Power Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.502917175934,
+                53.544604503479
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "941",
+        "date_issued": "2020-11-06T00:00:00.000",
+        "start_date": "2020-11-09T00:00:00.000",
+        "finish_date": "2020-11-12T00:00:00.000",
+        "status": "Current",
+        "closure": "184 St Water Valve Repair",
+        "on_street": "184 Street NW",
+        "from_street": "116 Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "Approx. 4 days",
+        "details": "At 9am on November 09, Northbound 184 St will be reduced to one lane approaching 116 Ave. The westbound to northbound right turn from 116 Ave to 184 St will be banned.",
+        "description": "Water Valve Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.639790985539,
+                53.565783101493
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "97",
+        ":@computed_region_ecxu_fw7u": "203",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "843",
+        "date_issued": "2020-09-30T00:00:00.000",
+        "start_date": "2020-09-30T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT 66 St Single Lane at Intersections",
+        "on_street": "66 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "38 Avenue NW",
+        "impact": "Major Delays",
+        "duration": "~2 Months",
+        "details": "In addition to existing single lanes away from major intersections on 66 St, (28 Av - Whitemud Dr); 66 St will be reduced to single lanes at the intersections of  28 Av, 34 Av and 38 Av.",
+        "description": "Road, track and landscape work",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.439147015291,
+                53.474337484852
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "21",
+        ":@computed_region_ecxu_fw7u": "57",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "180",
+        "date_issued": "2020-03-24T00:00:00.000",
+        "start_date": "2020-03-25T00:00:00.000",
+        "finish_date": "2020-10-31T00:00:00.000",
+        "status": "Current",
+        "closure": "Reduced to Single Lane Each Direction",
+        "on_street": "Jasper Avenue NW",
+        "from_street": "97 Street NW",
+        "to_street": "100 Street NW",
+        "impact": "Increased Travel Time",
+        "duration": "8 Months",
+        "details": "Jasper Ave from 97 St - 100 St reduced to single lane each direction. South sidewalk closed. Local/Business access to be maintained. Detour using 104 Ave or 107 Ave",
+        "description": "Jasper Ave New Vision Project",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.490294674183,
+                53.54115445651
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "635",
+        "date_issued": "2020-07-29T00:00:00.000",
+        "start_date": "2020-08-04T00:00:00.000",
+        "finish_date": "2020-11-06T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Victoria Trail Reduced to 1 Lane NB & SB",
+        "on_street": "Victoria Trail NW",
+        "from_street": "Abbottsfield Road NW",
+        "to_street": "Yellowhead Trail NW",
+        "impact": "Travel Delays",
+        "duration": "3 Months",
+        "details": "Victoria Trail will be reduced to 1 Lane NB from EB Yellowhead Trail on-ramp to Yellowhead Tr overpass & SB from CN rail bridge to Abbottsfield Rd. Use other routes.*Revised End Date & Duration*",
+        "description": "Road Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.387068399076,
+                53.570725436144
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "195",
+        ":@computed_region_ecxu_fw7u": "176",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "653",
+        "date_issued": "2020-08-04T00:00:00.000",
+        "start_date": "2020-08-04T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Northbound 66 St Single Lane",
+        "on_street": "66 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Whitemud Drive NW",
+        "impact": "Travel Delays",
+        "duration": "~4 months",
+        "details": "66 St will be reduced to a single lane northbound. This does not include intersections at 28, 34 and 38 Av. However future lane closures at those intersections will be communicated separately as required.",
+        "description": "Road work",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.434296846233,
+                53.458369648678
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "63",
+        ":@computed_region_ecxu_fw7u": "46",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "863",
+        "date_issued": "2020-10-09T00:00:00.000",
+        "start_date": "2020-10-09T00:00:00.000",
+        "status": "Emergency",
+        "closure": "61 Ave, 109 St Intersection Total Closure",
+        "on_street": "109 Street NW",
+        "from_street": "61 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "2 Weeks",
+        "details": "The intersection of 61 Ave and 109 St will be totally closured for a drainage repair. Please use other routes.",
+        "description": "61 Ave, 109 St Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.512379539492,
+                53.498198338166
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "50",
+        ":@computed_region_ecxu_fw7u": "19",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "897",
+        "date_issued": "2020-10-21T00:00:00.000",
+        "start_date": "2020-11-02T00:00:00.000",
+        "finish_date": "2020-11-06T00:00:00.000",
+        "status": "Current",
+        "closure": "Intersection Closure 106 St - 155 Av",
+        "on_street": "106 Street NW",
+        "from_street": "155 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "5 Days",
+        "details": "The intersection of 155 Av and 106 St in Beaumaris will be closed from Nov 2 to 6 for manhole replacement. Use other routes.",
+        "description": "Manhole Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.504361907778,
+                53.61651720074
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "192",
+        ":@computed_region_ecxu_fw7u": "236",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6"
+    },
+    {
+        "disruption_id": "914",
+        "date_issued": "2020-10-27T00:00:00.000",
+        "start_date": "2020-11-02T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Whitemud Drive Rainbow Valley Bridge Repair",
+        "on_street": "Whitemud Drive NW",
+        "from_street": "122 Street NW",
+        "to_street": "Terwillegar Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "3 Weeks",
+        "details": "Westbound direction of Whitemud Drive over Rainbow Valley bridge will be reduced to two lanes.  Stay right to drive through the detour.",
+        "description": "Concrete Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.541184079246,
+                53.483069181294
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "148",
+        ":@computed_region_ecxu_fw7u": "13",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "925",
+        "date_issued": "2020-10-29T00:00:00.000",
+        "start_date": "2020-11-07T00:00:00.000",
+        "finish_date": "2020-11-22T00:00:00.000",
+        "status": "Current",
+        "closure": "Northbound Directional Closure",
+        "on_street": "McDougall Hill",
+        "from_street": "Rossdale Road",
+        "to_street": "100 Street NW",
+        "impact": "Total Closure",
+        "duration": "Sat at 7am to Sun at 6pm",
+        "details": "McDougall Hill NBD closure from Sat 7am  to Sun at 6pm on weekends. Detour using Bellamy Hill",
+        "description": "Epcor Vault Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.489969069932,
+                53.539593359023
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "936",
+        "date_issued": "2020-11-04T00:00:00.000",
+        "start_date": "2020-11-06T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "REVISED",
+        "closure": "189 St Northbound Closure",
+        "on_street": "189 Street NW",
+        "from_street": "86A Avenue NW",
+        "to_street": "87 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "1 Week",
+        "details": "Starting at 9am on November 12, Northbound 189 Street will be closed between 86A Avenue and 87 Avenue until 11am on November 13. Eastbound 87 Avenue will remain reduced to one lane approaching 189 Street until work is complete.",
+        "description": "Sewer Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.649084150384,
+                53.520738582717
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "34",
+        ":@computed_region_ecxu_fw7u": "94",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "775",
+        "date_issued": "2020-09-11T00:00:00.000",
+        "start_date": "2020-09-14T00:00:00.000",
+        "finish_date": "2020-12-31T00:00:00.000",
+        "status": "Current",
+        "closure": "99 Street inside lane closures",
+        "on_street": "99 Street",
+        "from_street": "41 Avenue",
+        "to_street": "Whitemud Drive",
+        "impact": "Travel Delays",
+        "duration": "4 months",
+        "details": "EPCOR Drainage will be doing drainage repairs on 99 St from 41 Ave to Whitemud Drive. Inside lanes of both north and south bound traffic will be closed. Starts Monday, September 14 until December 31.",
+        "description": "Drainage repairs",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.486094351409,
+                53.480393045018
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "224",
+        ":@computed_region_ecxu_fw7u": "72",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "933",
+        "date_issued": "2020-11-03T00:00:00.000",
+        "start_date": "2020-11-13T00:00:00.000",
+        "finish_date": "2020-12-04T00:00:00.000",
+        "status": "Current",
+        "closure": "River Valley Road WB Closure",
+        "on_street": "River Valley Road NW",
+        "from_street": "105 Street NW",
+        "to_street": "Fortway Drive NW",
+        "impact": "Directional Closure",
+        "duration": "3 Weeks",
+        "details": "Starts Fri, Nov 13th at 9am. River Valley Rd Westbound will be closed from 105 St to aprprox 100 meters west of Fortway Dr. Detour using other routes.",
+        "description": "Waterline Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.501079976098,
+                53.530575546534
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "366",
+        ":@computed_region_ecxu_fw7u": "24",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "775",
+        "date_issued": "2020-09-11T00:00:00.000",
+        "start_date": "2020-09-14T00:00:00.000",
+        "finish_date": "2020-12-31T00:00:00.000",
+        "status": "Current",
+        "closure": "99 Street inside lane closures",
+        "on_street": "99 Street",
+        "from_street": "41 Avenue",
+        "to_street": "Whitemud Drive",
+        "impact": "Travel Delays",
+        "duration": "4 months",
+        "details": "EPCOR Drainage will be doing drainage repairs on 99 St from 41 Ave to Whitemud Drive. Inside lanes of both north and south bound traffic will be closed. Starts Monday, September 14 until December 31.",
+        "description": "Drainage repairs",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.486094058758,
+                53.476460508428
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "224",
+        ":@computed_region_ecxu_fw7u": "72",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "807",
+        "date_issued": "2020-09-10T00:00:00.000",
+        "start_date": "2020-09-25T00:00:00.000",
+        "finish_date": "2021-02-26T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Street Drainage Repair",
+        "on_street": "119 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Westbrook Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "Fri - Sun",
+        "details": "Traffic on 119 Street, 28 Ave NW to Westbrook Drive NW will be reduced to one lane in each direction.  Detour using 111 Street & Terwillegar Drive.",
+        "description": "Drainage Tunnel Shaft Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.538832175042,
+                53.462120450945
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "273",
+        ":@computed_region_ecxu_fw7u": "171",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "10",
+        "date_issued": "2020-01-02T00:00:00.000",
+        "start_date": "2018-01-08T00:00:00.000",
+        "finish_date": "2021-01-01T00:00:00.000",
+        "status": "Current",
+        "closure": "102 Ave Closure",
+        "on_street": "102 Avenue NW",
+        "from_street": "96 Street NW",
+        "to_street": "103 Street NW",
+        "impact": "Total Closure",
+        "duration": "Long Term Project",
+        "details": "102 Ave from 96 St - 103 St will be closed. Cross traffic at 97 St, 100 St, 101 St & 103 St will be maintained. Detour using Jasper Ave or 103A Ave",
+        "description": "Valley Line LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.497407896705,
+                53.543013110819
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "635",
+        "date_issued": "2020-07-29T00:00:00.000",
+        "start_date": "2020-08-04T00:00:00.000",
+        "finish_date": "2020-11-06T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Victoria Trail Reduced to 1 Lane NB & SB",
+        "on_street": "Victoria Trail NW",
+        "from_street": "Abbottsfield Road NW",
+        "to_street": "Yellowhead Trail NW",
+        "impact": "Travel Delays",
+        "duration": "3 Months",
+        "details": "Victoria Trail will be reduced to 1 Lane NB from EB Yellowhead Trail on-ramp to Yellowhead Tr overpass & SB from CN rail bridge to Abbottsfield Rd. Use other routes.*Revised End Date & Duration*",
+        "description": "Road Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.384025364251,
+                53.573962562439
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "243",
+        ":@computed_region_ecxu_fw7u": "29",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "945",
+        "date_issued": "2020-11-09T00:00:00.000",
+        "start_date": "2020-11-16T00:00:00.000",
+        "finish_date": "2020-11-23T00:00:00.000",
+        "status": "Current",
+        "closure": "87 Ave Drainage Repair",
+        "on_street": "87 Avenue NW",
+        "from_street": "152 Street NW",
+        "impact": "Travel Delays",
+        "duration": "1 Week",
+        "details": "Starting at 9am on November 16, Westbound 87 Ave will be reduced to one lane east of 152 St. Please keep left to pass the lane closure.",
+        "description": "Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.582407980266,
+                53.519448586934
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "39",
+        ":@computed_region_ecxu_fw7u": "116",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "313",
+        "date_issued": "2020-05-13T00:00:00.000",
+        "start_date": "2020-05-19T00:00:00.000",
+        "finish_date": "2020-10-30T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Ellerslie Road Widening",
+        "on_street": "Ellerslie Road",
+        "from_street": "James Mowatt Trail",
+        "to_street": "135 Street SW",
+        "impact": "Increased Travel Time",
+        "duration": "5 Months",
+        "details": "Traffic on Ellerslie Road from 111 Street to 135 Street will be reduced to one lane in each direction due to road widening project.  Detour using 41 Avenue and Anthony Henday Drive.",
+        "description": "Road Widening",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.516517941006,
+                53.424744272465
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "126",
+        ":@computed_region_ecxu_fw7u": "100",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "933",
+        "date_issued": "2020-11-03T00:00:00.000",
+        "start_date": "2020-11-13T00:00:00.000",
+        "finish_date": "2020-12-04T00:00:00.000",
+        "status": "Current",
+        "closure": "River Valley Road WB Closure",
+        "on_street": "River Valley Road NW",
+        "from_street": "105 Street NW",
+        "to_street": "Fortway Drive NW",
+        "impact": "Directional Closure",
+        "duration": "3 Weeks",
+        "details": "Starts Fri, Nov 13th at 9am. River Valley Rd Westbound will be closed from 105 St to aprprox 100 meters west of Fortway Dr. Detour using other routes.",
+        "description": "Waterline Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.513217598302,
+                53.531970463001
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "344",
+        ":@computed_region_ecxu_fw7u": "144",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "789",
+        "date_issued": "2020-09-16T00:00:00.000",
+        "start_date": "2020-09-22T00:00:00.000",
+        "finish_date": "2020-11-17T00:00:00.000",
+        "status": "Current",
+        "closure": "104 Av Lane Reductions",
+        "on_street": "104 Avenue NW",
+        "from_street": "112 Street NW",
+        "to_street": "116 Street NW",
+        "impact": "Travel Delays",
+        "duration": "6 Weeks",
+        "details": "Tues, Sept 22nd, 104 Av from 112 St to approx 114 St will be reduced to a single lane each direction from 9am - 9pm. Following this, 104 Av will be reduced to 2 lanes each direction for the duration of the construction.",
+        "description": "Drainage Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.513918405555,
+                53.546227654379
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "222",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "935",
+        "date_issued": "2020-11-04T00:00:00.000",
+        "start_date": "2020-11-16T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "100 Av EB Closure",
+        "on_street": "100 Avenue NW",
+        "from_street": "108 Street NW",
+        "to_street": "107 Street NW",
+        "impact": "Directional Closure",
+        "duration": "2 Weeks",
+        "details": "Starts Mon, Nov 16th at 9am. 100 Av Eastbound, 108 St - 107 St will be closed. Detour using 99 Av or Jasper Av.",
+        "description": "Power Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.506590250897,
+                53.538845670511
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "24",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "807",
+        "date_issued": "2020-09-10T00:00:00.000",
+        "start_date": "2020-09-25T00:00:00.000",
+        "finish_date": "2021-02-26T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Street Drainage Repair",
+        "on_street": "119 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Westbrook Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "Fri - Sun",
+        "details": "Traffic on 119 Street, 28 Ave NW to Westbrook Drive NW will be reduced to one lane in each direction.  Detour using 111 Street & Terwillegar Drive.",
+        "description": "Drainage Tunnel Shaft Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.537448087098,
+                53.459170625403
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "140",
+        ":@computed_region_ecxu_fw7u": "171",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "653",
+        "date_issued": "2020-08-04T00:00:00.000",
+        "start_date": "2020-08-04T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Northbound 66 St Single Lane",
+        "on_street": "66 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Whitemud Drive NW",
+        "impact": "Travel Delays",
+        "duration": "~4 months",
+        "details": "66 St will be reduced to a single lane northbound. This does not include intersections at 28, 34 and 38 Av. However future lane closures at those intersections will be communicated separately as required.",
+        "description": "Road work",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.442642509863,
+                53.485090309187
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "270",
+        ":@computed_region_ecxu_fw7u": "57",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "18",
+        "date_issued": "2020-01-03T00:00:00.000",
+        "start_date": "2018-02-07T00:00:00.000",
+        "finish_date": "2021-06-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Davies Rd Closure",
+        "on_street": "Davies Road NW",
+        "from_street": "Wagner Road NW",
+        "impact": "Total Closure",
+        "duration": "~3.5 Years",
+        "details": "Davies Road closed at Wagner Road. Business access from the south.",
+        "description": "Utility and Roadwork",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.445728401588,
+                53.501395508032
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "94",
+        ":@computed_region_ecxu_fw7u": "241",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "770",
+        "date_issued": "2020-09-10T00:00:00.000",
+        "start_date": "2020-09-10T00:00:00.000",
+        "finish_date": "2020-11-06T00:00:00.000",
+        "status": "Current",
+        "closure": "102 Av EB Closure",
+        "on_street": "102 Avenue NW",
+        "from_street": "107 Street NW",
+        "to_street": "106 Street NW",
+        "impact": "Directional Closure",
+        "duration": "2 Months",
+        "details": "102 Av EB closed from 107 St to the lane East of 107 St to accommodate pedestrians and cyclists due to Bike lane and South Sidewalk closure.",
+        "description": "Ped / Cyclist Accomodation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.504747802087,
+                53.543014393718
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "789",
+        "date_issued": "2020-09-16T00:00:00.000",
+        "start_date": "2020-09-22T00:00:00.000",
+        "finish_date": "2020-11-17T00:00:00.000",
+        "status": "Current",
+        "closure": "104 Av Lane Reductions",
+        "on_street": "104 Avenue NW",
+        "from_street": "112 Street NW",
+        "to_street": "116 Street NW",
+        "impact": "Travel Delays",
+        "duration": "6 Weeks",
+        "details": "Tues, Sept 22nd, 104 Av from 112 St to approx 114 St will be reduced to a single lane each direction from 9am - 9pm. Following this, 104 Av will be reduced to 2 lanes each direction for the duration of the construction.",
+        "description": "Drainage Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.521298594868,
+                53.546222333604
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "222",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "10",
+        "date_issued": "2020-01-02T00:00:00.000",
+        "start_date": "2018-01-08T00:00:00.000",
+        "finish_date": "2021-01-01T00:00:00.000",
+        "status": "Current",
+        "closure": "102 Ave Closure",
+        "on_street": "102 Avenue NW",
+        "from_street": "96 Street NW",
+        "to_street": "103 Street NW",
+        "impact": "Total Closure",
+        "duration": "Long Term Project",
+        "details": "102 Ave from 96 St - 103 St will be closed. Cross traffic at 97 St, 100 St, 101 St & 103 St will be maintained. Detour using Jasper Ave or 103A Ave",
+        "description": "Valley Line LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.482528884138,
+                53.544667715862
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "154",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "843",
+        "date_issued": "2020-09-30T00:00:00.000",
+        "start_date": "2020-09-30T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT 66 St Single Lane at Intersections",
+        "on_street": "66 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "38 Avenue NW",
+        "impact": "Major Delays",
+        "duration": "~2 Months",
+        "details": "In addition to existing single lanes away from major intersections on 66 St, (28 Av - Whitemud Dr); 66 St will be reduced to single lanes at the intersections of  28 Av, 34 Av and 38 Av.",
+        "description": "Road, track and landscape work",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.434296846233,
+                53.458369648678
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "63",
+        ":@computed_region_ecxu_fw7u": "46",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "803",
+        "date_issued": "2020-09-21T00:00:00.000",
+        "start_date": "2020-09-28T00:00:00.000",
+        "finish_date": "2021-01-31T00:00:00.000",
+        "status": "REVISED",
+        "closure": "167 St Southbound Directional Closure",
+        "on_street": "167 Street NW",
+        "from_street": "83 Avenue NW",
+        "to_street": "81 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "3 Months",
+        "details": "Starting at 9am on September 28, Southbound 167 Street will be closed from 83 Avenue to approximately 50m south of 83 Avenue to allow for installation of a drainage manhole. Please use other routes.",
+        "description": "167 St Manhole Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.609687933044,
+                53.516507696553
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "9",
+        ":@computed_region_ecxu_fw7u": "98",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "922",
+        "date_issued": "2020-10-29T00:00:00.000",
+        "start_date": "2020-10-24T00:00:00.000",
+        "finish_date": "2020-11-21T00:00:00.000",
+        "status": "Emergency",
+        "closure": "Emergncy Drainage Repair",
+        "on_street": "156 Street NW",
+        "from_street": "121A Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "1 Month",
+        "details": "Southbound 156 St reduced to one lane norh of 121A Ave. Keep left to bypass lane closure.",
+        "description": "Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.590396684428,
+                53.573553862314
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "247",
+        ":@computed_region_ecxu_fw7u": "206",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "915",
+        "date_issued": "2020-10-27T00:00:00.000",
+        "start_date": "2020-10-31T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Mark Messier Road Paving And Center Median Install",
+        "on_street": "Mark Messier Trail",
+        "from_street": "156 Street NW",
+        "to_street": "Mistatim Way",
+        "impact": "Travel Delays",
+        "duration": "2 Weeks",
+        "details": "Oct 31 - Nov 03: Southbound Mark Messier Tr reduced to one lane and Northbound Mark Messier Tr reduced to two lanes. Nov 04 - Nov 13 Northbound and Southbound Mark Messier Tr reduced to two lanes. Please use other routes.",
+        "description": "Paving & Center Median Install",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.591175257677,
+                53.611632481429
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "377",
+        ":@computed_region_ecxu_fw7u": "60",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "disruption_id": "500",
+        "date_issued": "2020-06-23T00:00:00.000",
+        "start_date": "2020-08-24T00:00:00.000",
+        "finish_date": "2020-11-14T00:00:00.000",
+        "status": "REVISED",
+        "closure": "82 St Service Rd Closed",
+        "on_street": "82 Street NW",
+        "from_street": "127 Avenue NW",
+        "to_street": "128A Avenune NW",
+        "impact": "Travel Delays",
+        "duration": "2.5 Months",
+        "details": "82 St reopened. Service road on E side of 82 St will be closed 128 Av to approx 50m N. Access the bank from the N. Peds detour using the alley.*NEW END DATE and LENGTH*",
+        "description": "Gas Main Repair/Replacement",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.467303143722,
+                53.584846779999
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "206",
+        ":@computed_region_ecxu_fw7u": "156",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "920",
+        "date_issued": "2020-10-28T00:00:00.000",
+        "start_date": "2020-11-07T00:00:00.000",
+        "finish_date": "2020-11-07T00:00:00.000",
+        "status": "Current",
+        "closure": "111 Street Total Closure",
+        "on_street": "111 Street NW",
+        "from_street": "100 Avenue NW",
+        "to_street": "99 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "1 Day (7am-9pm)",
+        "details": "Saturday, Nov 7th from 7am - 9pm 111 St, 100 Av - 99 Av will be closed. Access to the Edmonton General Parkade will be maintained.",
+        "description": "Concrete Pour",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.512111572743,
+                53.5388481734
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "24",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "919",
+        "date_issued": "2020-10-28T00:00:00.000",
+        "start_date": "2020-10-30T00:00:00.000",
+        "finish_date": "2020-11-02T00:00:00.000",
+        "status": "Current",
+        "closure": "105 Ave Closure",
+        "on_street": "105 Avenue NW",
+        "from_street": "101 Street NW",
+        "to_street": "102 Street NW",
+        "impact": "Total Closure",
+        "duration": "Oct 30 & Nov 2",
+        "details": "105 Ave, 101 St - 102 St closed on Oct 30 & Nov 2  from 7am to 4pm. Detour using other route.",
+        "description": "Social Distancing Area",
+        "activity_type": "Special Event",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.493706755114,
+                53.547725475202
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "130",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "417",
+        "date_issued": "2020-06-05T00:00:00.000",
+        "start_date": "2020-06-18T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "REVISED",
+        "closure": "184 St Southbound Directional Closure",
+        "on_street": "184 Street NW",
+        "from_street": "114 Avenue NW",
+        "to_street": "107 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "5 Months",
+        "details": "* Revised start date - Phase #1*  At 9am on June 18, Southbound 184 St will be closed from 114 Ave to 107 Ave.  Local and emergency access will be maintained in the northbound direction only. Please use other routes.",
+        "description": "184 St Road Rehabilitation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.639723742879,
+                53.553270268157
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "116",
+        ":@computed_region_ecxu_fw7u": "86",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "898",
+        "date_issued": "2020-10-22T00:00:00.000",
+        "start_date": "2020-10-26T00:00:00.000",
+        "finish_date": "2020-12-11T00:00:00.000",
+        "status": "Current",
+        "closure": "Stony Plain Road lane reductions",
+        "on_street": "Stony Plain Road NW",
+        "from_street": "128 Street NW",
+        "to_street": "Connaught Drive NW",
+        "impact": "Travel Delays",
+        "duration": "1.5 Months",
+        "details": "Starts Mon, Oct 26th at 9am. Stony Plain Road from 128 St to Connaught Dr will be reduced to a single lane each direction.",
+        "description": "Drainage Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.542865829838,
+                53.547766436096
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "164",
+        ":@computed_region_ecxu_fw7u": "145",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "20",
+        "date_issued": "2020-01-03T00:00:00.000",
+        "start_date": "2017-03-02T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Whitemud Dr Reduction",
+        "on_street": "Whitemud Drive NW",
+        "from_street": "66 Street NW",
+        "impact": "Travel Delays",
+        "duration": "~3 yrs, 2 mos",
+        "details": "Reduced to two lanes per direction.",
+        "description": "Trans Ed LRT Bridge Constructn",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.442642509863,
+                53.485090309187
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "270",
+        ":@computed_region_ecxu_fw7u": "57",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "434",
+        "date_issued": "2020-06-09T00:00:00.000",
+        "start_date": "2020-06-15T00:00:00.000",
+        "finish_date": "2020-10-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "53 Avenue Road Rehabilitation",
+        "on_street": "53 Avenue NW",
+        "from_street": "Whitemud Drive NW",
+        "to_street": "141 Street NW",
+        "impact": "Increased Travel Time",
+        "duration": "3 Months",
+        "details": "53 Avenue will be reduced to one lane in each direction from East side of Whitemud Drive to 141 Street.  Follow information & detour signs.",
+        "description": "Road Rehabilitation",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.564230092603,
+                53.490446572227
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "240",
+        ":@computed_region_ecxu_fw7u": "180",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12"
+    },
+    {
+        "disruption_id": "434",
+        "date_issued": "2020-06-09T00:00:00.000",
+        "start_date": "2020-06-15T00:00:00.000",
+        "finish_date": "2020-10-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "53 Avenue Road Rehabilitation",
+        "on_street": "53 Avenue NW",
+        "from_street": "Whitemud Drive NW",
+        "to_street": "141 Street NW",
+        "impact": "Increased Travel Time",
+        "duration": "3 Months",
+        "details": "53 Avenue will be reduced to one lane in each direction from East side of Whitemud Drive to 141 Street.  Follow information & detour signs.",
+        "description": "Road Rehabilitation",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.572009355306,
+                53.490403326723
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "240",
+        ":@computed_region_ecxu_fw7u": "180",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12"
+    },
+    {
+        "disruption_id": "844",
+        "date_issued": "2020-10-01T00:00:00.000",
+        "start_date": "2020-10-12T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "82 St Reduced to 1 Lane Each Way",
+        "on_street": "82 Street NW",
+        "from_street": "130 Avenue NW",
+        "to_street": "132 Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "4 Weeks",
+        "details": "82 St will be reduced to 1 lane in each direciton. Use 66 St or 97 St for detours.",
+        "description": "Water Valve Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.467247379854,
+                53.589142618733
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "38",
+        ":@computed_region_ecxu_fw7u": "156",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "417",
+        "date_issued": "2020-06-05T00:00:00.000",
+        "start_date": "2020-06-18T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "REVISED",
+        "closure": "184 St Southbound Directional Closure",
+        "on_street": "184 Street NW",
+        "from_street": "114 Avenue NW",
+        "to_street": "107 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "5 Months",
+        "details": "* Revised start date - Phase #1*  At 9am on June 18, Southbound 184 St will be closed from 114 Ave to 107 Ave.  Local and emergency access will be maintained in the northbound direction only. Please use other routes.",
+        "description": "184 St Road Rehabilitation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.639599609222,
+                53.563203776408
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "97",
+        ":@computed_region_ecxu_fw7u": "203",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "844",
+        "date_issued": "2020-10-01T00:00:00.000",
+        "start_date": "2020-10-12T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "82 St Reduced to 1 Lane Each Way",
+        "on_street": "82 Street NW",
+        "from_street": "130 Avenue NW",
+        "to_street": "132 Avenue NW",
+        "impact": "Travel Delays",
+        "duration": "4 Weeks",
+        "details": "82 St will be reduced to 1 lane in each direciton. Use 66 St or 97 St for detours.",
+        "description": "Water Valve Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.467250122229,
+                53.592219446013
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "12",
+        ":@computed_region_ecxu_fw7u": "156",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "353",
+        "date_issued": "2020-05-22T00:00:00.000",
+        "start_date": "2020-05-22T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed 95 Av Closures",
+        "on_street": "95 Avenue NW",
+        "from_street": "85 Street NW",
+        "to_street": "Connors Road NW",
+        "impact": "Directional Closure",
+        "duration": "Periodic Nightly 9pm - 6am",
+        "details": "Trans Ed LRT will have periodic overnight closures of sections of 95 Av between 85 St and Connors Rd. Check their website for details.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.471401514413,
+                53.53164837943
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "269",
+        ":@computed_region_ecxu_fw7u": "3",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "353",
+        "date_issued": "2020-05-22T00:00:00.000",
+        "start_date": "2020-05-22T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed 95 Av Closures",
+        "on_street": "95 Avenue NW",
+        "from_street": "85 Street NW",
+        "to_street": "Connors Road NW",
+        "impact": "Directional Closure",
+        "duration": "Periodic Nightly 9pm - 6am",
+        "details": "Trans Ed LRT will have periodic overnight closures of sections of 95 Av between 85 St and Connors Rd. Check their website for details.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.457492680167,
+                53.531770444018
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "152",
+        ":@computed_region_ecxu_fw7u": "91",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "880",
+        "date_issued": "2020-10-15T00:00:00.000",
+        "start_date": "2020-10-16T00:00:00.000",
+        "finish_date": "2022-05-04T00:00:00.000",
+        "status": "Current",
+        "closure": "148 St Drainage Shaft Installation",
+        "on_street": "148 Street NW",
+        "from_street": "99 Avenue NW",
+        "to_street": "100 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "1.5 Years",
+        "details": "Starting at 9am on Oct 16, 148 St will be closed from 99 Ave to approx. 20m north of 99 Ave. Local and emergency access on 148 St maintained from south of 100 Ave to the closure limits.",
+        "description": "Drainage Shaft Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.576256642468,
+                53.537715417908
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "75",
+        ":@computed_region_ecxu_fw7u": "85",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "876",
+        "date_issued": "2020-10-14T00:00:00.000",
+        "start_date": "2020-10-19T00:00:00.000",
+        "finish_date": "2020-11-08T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Av Closed",
+        "on_street": "119 Avenue NW",
+        "from_street": "83 Street NW",
+        "to_street": "85 Street NW",
+        "impact": "Total Closure",
+        "duration": "3 Weeks",
+        "details": "119 Av will be closed. Use 118 Av for detours.",
+        "description": "Water Line Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.469084579997,
+                53.57195890723
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "35",
+        ":@computed_region_ecxu_fw7u": "155",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "439",
+        "date_issued": "2020-06-10T00:00:00.000",
+        "start_date": "2020-06-29T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "109 St SBD Directional Closure",
+        "on_street": "109 Street NW",
+        "from_street": "118 Avenue NW",
+        "to_street": "120 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "4 Months",
+        "details": "109 St SBD South of 120 Av will be closed due to road reconstruction. No access to 118 Av. Local and emergency access will be maintained. Detour using 106 St.",
+        "description": "Road Reconstruction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.507624675369,
+                53.570387439367
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "209",
+        ":@computed_region_ecxu_fw7u": "221",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "disruption_id": "439",
+        "date_issued": "2020-06-10T00:00:00.000",
+        "start_date": "2020-06-29T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "109 St SBD Directional Closure",
+        "on_street": "109 Street NW",
+        "from_street": "118 Avenue NW",
+        "to_street": "120 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "4 Months",
+        "details": "109 St SBD South of 120 Av will be closed due to road reconstruction. No access to 118 Av. Local and emergency access will be maintained. Detour using 106 St.",
+        "description": "Road Reconstruction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.50788152806,
+                53.574036263934
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "209",
+        ":@computed_region_ecxu_fw7u": "221",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "disruption_id": "903",
+        "date_issued": "2020-10-22T00:00:00.000",
+        "start_date": "2020-11-03T00:00:00.000",
+        "finish_date": "2020-11-10T00:00:00.000",
+        "status": "REVISED",
+        "closure": "114 Av EB Closure",
+        "on_street": "114 Avenue NW",
+        "from_street": "Groat Road NW",
+        "to_street": "132 Street NW",
+        "impact": "Directional Closure",
+        "duration": "1 Week",
+        "details": "Starts Tues, Nov 3rd at 9am. 114 Av EB, Groat Rd - 132 St Closed. Detour using other routes.",
+        "description": "Water Line Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.551452243883,
+                53.563236769922
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "19",
+        ":@computed_region_ecxu_fw7u": "48",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "disruption_id": "915",
+        "date_issued": "2020-10-27T00:00:00.000",
+        "start_date": "2020-10-31T00:00:00.000",
+        "finish_date": "2020-11-13T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Mark Messier Road Paving And Center Median Install",
+        "on_street": "Mark Messier Trail",
+        "from_street": "156 Street NW",
+        "to_street": "Mistatim Way",
+        "impact": "Travel Delays",
+        "duration": "2 Weeks",
+        "details": "Oct 31 - Nov 03: Southbound Mark Messier Tr reduced to one lane and Northbound Mark Messier Tr reduced to two lanes. Nov 04 - Nov 13 Northbound and Southbound Mark Messier Tr reduced to two lanes. Please use other routes.",
+        "description": "Paving & Center Median Install",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.578456245926,
+                53.603175135958
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "377",
+        ":@computed_region_ecxu_fw7u": "60",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "disruption_id": "892",
+        "date_issued": "2020-10-20T00:00:00.000",
+        "start_date": "2020-10-28T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Reduced to Single Lane Each Direction",
+        "on_street": "McDougall Hill",
+        "from_street": "Rossdale Road",
+        "to_street": "100 Street NW",
+        "impact": "Travel Delays",
+        "duration": "4 Weeks",
+        "details": "McDougall Hill, Rossdale Rd - Jasper Ave reduced to single lane NBD due to Epcor Duct installation. Detour using other route.",
+        "description": "Epcor Duct Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.489969069932,
+                53.539593359023
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "892",
+        "date_issued": "2020-10-20T00:00:00.000",
+        "start_date": "2020-10-28T00:00:00.000",
+        "finish_date": "2020-11-30T00:00:00.000",
+        "status": "Current",
+        "closure": "Reduced to Single Lane Each Direction",
+        "on_street": "McDougall Hill",
+        "from_street": "Rossdale Road",
+        "to_street": "100 Street NW",
+        "impact": "Travel Delays",
+        "duration": "4 Weeks",
+        "details": "McDougall Hill, Rossdale Rd - Jasper Ave reduced to single lane NBD due to Epcor Duct installation. Detour using other route.",
+        "description": "Epcor Duct Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.492668869318,
+                53.5374120468
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "366",
+        ":@computed_region_ecxu_fw7u": "24",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "424",
+        "date_issued": "2020-06-08T00:00:00.000",
+        "start_date": "2020-04-08T00:00:00.000",
+        "finish_date": "2020-10-23T00:00:00.000",
+        "status": "Current",
+        "closure": "Left Lane Closure",
+        "on_street": "Saskatchewan Drive",
+        "from_street": "104 Street",
+        "to_street": "109 Street",
+        "impact": "Increased Travel Time",
+        "duration": "Approx 4 Months.",
+        "details": "Stay right to drive through area.",
+        "description": "Physical Distancing Space",
+        "activity_type": "Special Event",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.511734160704,
+                53.523929257859
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "288",
+        ":@computed_region_ecxu_fw7u": "3",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "711",
+        "date_issued": "2020-08-24T00:00:00.000",
+        "start_date": "2020-09-14T00:00:00.000",
+        "finish_date": "2021-07-07T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Ave Closed",
+        "on_street": "119 Avenue NW",
+        "from_street": "88 Street NW",
+        "to_street": "89 Street NW",
+        "impact": "Total Closure",
+        "duration": "10 Months",
+        "details": "119 Av will be closed from 88 St to the alley W of 88 St. 88 St will be closed SB from 119 Av to approximately 25m S of 119 Av. SB traffic must go left on 119 Av. Use 118 Av for EB and WB detours.",
+        "description": "Drainage Tunnel",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.476188558578,
+                53.571958645158
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "35",
+        ":@computed_region_ecxu_fw7u": "155",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "929",
+        "date_issued": "2020-10-30T00:00:00.000",
+        "start_date": "2020-11-05T00:00:00.000",
+        "finish_date": "2020-11-27T00:00:00.000",
+        "status": "Emergency",
+        "closure": "184 Street Drainage Repair",
+        "on_street": "184 Street NW",
+        "from_street": "57 Avenue NW",
+        "to_street": "60 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "3 Weeks",
+        "details": "184 St, 57 Ave to 60 Ave will be totally closed.  EBD & WBD movement will be permitted on 57 Ave & 60 Ave.  Detour using Anthony Henday Drive & Lessard Road.",
+        "description": "Emergency Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.640272564341,
+                53.491713645112
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "399",
+        ":@computed_region_ecxu_fw7u": "43",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "947",
+        "date_issued": "2020-11-10T00:00:00.000",
+        "start_date": "2020-11-10T00:00:00.000",
+        "finish_date": "2020-11-10T00:00:00.000",
+        "status": "Current",
+        "on_street": "WHITEMUD DRIVE NW",
+        "from_street": "TERWILLEGAR DRIVE NW",
+        "impact": "Traffic Incident Delays",
+        "duration": "Unknown",
+        "details": "Traffic Incident - Collision on the Rainbow Valley Bridge (Whitemud Drive Eastbound)",
+        "description": "Traffic Incident",
+        "activity_type": "Traffic Incident",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.571667660498,
+                53.485130374901
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "72",
+        ":@computed_region_ecxu_fw7u": "180",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12"
+    },
+    {
+        "disruption_id": "767",
+        "date_issued": "2020-09-10T00:00:00.000",
+        "start_date": "2020-09-28T00:00:00.000",
+        "finish_date": "2021-01-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Street Drainage Repair",
+        "on_street": "119 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Westbrook Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "4 Months",
+        "details": "Northbound direction on 119 Street from 28 Avenue to Westbrook Drive will be reduced to one lane.  Detour using 111 Street.",
+        "description": "Drainage Tunnel Shaft Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.538832175042,
+                53.462120450945
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "273",
+        ":@computed_region_ecxu_fw7u": "171",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "902",
+        "date_issued": "2020-10-22T00:00:00.000",
+        "start_date": "2020-11-08T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "97 St to EB Yellowhead Tr Ramp Closed",
+        "on_street": "Yellowhead Trail",
+        "from_street": "97 Street NW",
+        "to_street": "89 Street NW",
+        "impact": "Total Closure",
+        "duration": "2 Sundays (7am to 1pm)",
+        "details": "The ramp from 97 St to EB Yellowhead Tr will be closed from 7am to 1pm on Sunday, November 8 and Sunday, November 15. Use other routes.",
+        "description": "Sound Wall Repairs",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.492107081909,
+                53.581453107211
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "43",
+        ":@computed_region_ecxu_fw7u": "42",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "767",
+        "date_issued": "2020-09-10T00:00:00.000",
+        "start_date": "2020-09-28T00:00:00.000",
+        "finish_date": "2021-01-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "119 Street Drainage Repair",
+        "on_street": "119 Street NW",
+        "from_street": "28 Avenue NW",
+        "to_street": "Westbrook Drive NW",
+        "impact": "Increased Travel Time",
+        "duration": "4 Months",
+        "details": "Northbound direction on 119 Street from 28 Avenue to Westbrook Drive will be reduced to one lane.  Detour using 111 Street.",
+        "description": "Drainage Tunnel Shaft Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.537448087098,
+                53.459170625403
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "140",
+        ":@computed_region_ecxu_fw7u": "171",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "902",
+        "date_issued": "2020-10-22T00:00:00.000",
+        "start_date": "2020-11-08T00:00:00.000",
+        "finish_date": "2020-11-15T00:00:00.000",
+        "status": "Current",
+        "closure": "97 St to EB Yellowhead Tr Ramp Closed",
+        "on_street": "Yellowhead Trail",
+        "from_street": "97 Street NW",
+        "to_street": "89 Street NW",
+        "impact": "Total Closure",
+        "duration": "2 Sundays (7am to 1pm)",
+        "details": "The ramp from 97 St to EB Yellowhead Tr will be closed from 7am to 1pm on Sunday, November 8 and Sunday, November 15. Use other routes.",
+        "description": "Sound Wall Repairs",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.477968113517,
+                53.581309851586
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "43",
+        ":@computed_region_ecxu_fw7u": "42",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "751",
+        "date_issued": "2020-09-04T00:00:00.000",
+        "start_date": "2020-09-03T00:00:00.000",
+        "finish_date": "2021-12-31T00:00:00.000",
+        "status": "Current",
+        "closure": "103 Avenue Sidewalk Closure",
+        "on_street": "103 Avenue NW",
+        "from_street": "103 Street NW",
+        "to_street": "104 Street NW",
+        "impact": "Total Closure",
+        "duration": "Long Term Closure",
+        "details": "Sidewalk on the North side of 103 Av, Alley East of 104 St - 103 St is closed to accommdate ICE District Block BG Construction. Detour using South sidewalk.",
+        "description": "ICE District Development",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.497389149595,
+                53.544594580565
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "752",
+        "date_issued": "2020-09-04T00:00:00.000",
+        "start_date": "2020-09-03T00:00:00.000",
+        "finish_date": "2021-12-31T00:00:00.000",
+        "status": "Current",
+        "closure": "104 Avenue Sidewalk Closure",
+        "on_street": "104 Avenue NW",
+        "from_street": "103 Street NW",
+        "to_street": "104 Street NW",
+        "impact": "Total Closure",
+        "duration": "Long Term Closure",
+        "details": "Sidewalk on the South side of 104 Av, Alley East of 104 St - 103 St is closed to accommodate ICE District Block BG Construction. Detour using North sidewalk.",
+        "description": "ICE District Development",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.499227031367,
+                53.546189015449
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "792",
+        "date_issued": "2020-09-16T00:00:00.000",
+        "start_date": "2020-10-21T00:00:00.000",
+        "finish_date": "2020-11-16T00:00:00.000",
+        "status": "REVISED",
+        "closure": "118 Av Reduced to 1 Lane Each Way",
+        "on_street": "118 Avenue NW",
+        "from_street": "95 Street NW",
+        "to_street": "96 Street NW",
+        "impact": "Travel Delays",
+        "duration": "4 Weeks",
+        "details": "118 Av will be reduced to 1 lane in each direction for water line replacement. Use 111 Av or Yellowhead Tr for detours. *Start date changed. New Duration*",
+        "description": "Water Line Replacement",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.487285460398,
+                53.570389595369
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "42",
+        ":@computed_region_ecxu_fw7u": "150",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "356",
+        "date_issued": "2020-05-25T00:00:00.000",
+        "start_date": "2020-05-25T00:00:00.000",
+        "finish_date": "2021-02-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "170 St NB Drainage Repair",
+        "on_street": "170 Street NW",
+        "from_street": "69 Avenue NW",
+        "to_street": "Whitemud Drive",
+        "impact": "Travel Delays",
+        "duration": "Approx. 9 Months",
+        "details": "** Replaces TDN 321 ** Northbound 170 St is now open in one lane from  69 Ave to south of Whitemud Dr with a 50km/hr speed zone in place. Southbound 170 St is reduced to two lanes from Whitemud Dr to north of 69 Ave. Please use other routes.",
+        "description": "Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.615431895632,
+                53.504660132803
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "64",
+        ":@computed_region_ecxu_fw7u": "179",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "904",
+        "date_issued": "2020-10-22T00:00:00.000",
+        "start_date": "2020-10-26T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "156 St Southbound Directional Closure",
+        "on_street": "156 Street NW",
+        "from_street": "87 Avenue NW",
+        "to_street": "84 Avenue NW",
+        "impact": "Directional Closure",
+        "duration": "Up to 4 weeks",
+        "details": "Starting at 11am on October 26, Southbound 156 St will be closed from 87 Ave to 84 Ave. Northbound traffic will be maintained in one lane. Please use other routes.",
+        "description": "Powerline Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.590332225448,
+                53.519453481099
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "241",
+        ":@computed_region_ecxu_fw7u": "116",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "309",
+        "date_issued": "2020-05-12T00:00:00.000",
+        "start_date": "2020-05-20T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Yellowhead Tr Reduced to 2 Lanes WB",
+        "on_street": "Yellowhead Trail NW",
+        "from_street": "Victoria Trail",
+        "to_street": "62 St NW",
+        "impact": "Travel Delays",
+        "duration": "27 Weeks",
+        "details": "Yellowhead Tr will be reduced to 2 lanes WB from the Clover Bar Bridge to 62 St. Use other routes. *Added Vic Tr to 62 St. Extended dates **Extended to Nov 7**",
+        "description": "Road Widening Project",
+        "activity_type": "Construction",
+        "traffic_district": "Northeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.384025364251,
+                53.573962562439
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "243",
+        ":@computed_region_ecxu_fw7u": "29",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10"
+    },
+    {
+        "disruption_id": "424",
+        "date_issued": "2020-06-08T00:00:00.000",
+        "start_date": "2020-04-08T00:00:00.000",
+        "finish_date": "2020-10-23T00:00:00.000",
+        "status": "Current",
+        "closure": "Left Lane Closure",
+        "on_street": "Saskatchewan Drive",
+        "from_street": "104 Street",
+        "to_street": "109 Street",
+        "impact": "Increased Travel Time",
+        "duration": "Approx 4 Months.",
+        "details": "Stay right to drive through area.",
+        "description": "Physical Distancing Space",
+        "activity_type": "Special Event",
+        "traffic_district": "Central",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.497459463844,
+                53.52338963724
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "315",
+        ":@computed_region_ecxu_fw7u": "9",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "184",
+        "date_issued": "2020-03-24T00:00:00.000",
+        "start_date": "2019-06-09T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT 31 Av Closure",
+        "on_street": "31 Avenue NW",
+        "from_street": "66 Street NW",
+        "to_street": "Youville Drive West NW",
+        "impact": "Total Closure",
+        "duration": "18 Months",
+        "details": "31 Avenue Closed, use 28 Av or 34 Av as detours. Extended end date.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.434589525481,
+                53.46213354585
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "111",
+        ":@computed_region_ecxu_fw7u": "46",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "894",
+        "date_issued": "2020-10-21T00:00:00.000",
+        "start_date": "2020-07-13T00:00:00.000",
+        "finish_date": "2020-11-06T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Staged Total Closure",
+        "on_street": "102 Avenue NW",
+        "from_street": "95 Street NW",
+        "to_street": "96 Street NW",
+        "impact": "Total Closure",
+        "duration": "3.5 Months",
+        "details": "102 Ave, 95 St - 96 St staged total closure. Maintaining access at either end for emergency service vehicles. Local pedestrian access maintain via temporary pedestrian pathway.",
+        "description": "Road Construction for VLRT",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.478794038578,
+                53.545236812334
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "154",
+        ":@computed_region_ecxu_fw7u": "153",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "834",
+        "date_issued": "2020-09-28T00:00:00.000",
+        "start_date": "2020-09-30T00:00:00.000",
+        "finish_date": "2021-12-31T00:00:00.000",
+        "status": "Current",
+        "closure": "Stony Plain Rd Drainage Shaft Installation",
+        "on_street": "Stony Plain Road",
+        "from_street": "136 Street NW",
+        "to_street": "135 Street NW",
+        "impact": "Travel Delays",
+        "duration": "15 Months",
+        "details": "Starting at 9am on September 30, Stony Plain Rd will be reduced to one lane in each direction from 136 St to 135 St. As work progresses there will be bans to left and right turns at 135 St. Please use other routes.",
+        "description": "Drainage Shaft Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.556320760456,
+                53.544710481759
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "139",
+        ":@computed_region_ecxu_fw7u": "145",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "354",
+        "date_issued": "2020-05-22T00:00:00.000",
+        "start_date": "2020-05-22T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed 83 St Closures",
+        "on_street": "83 Street NW",
+        "from_street": "82 Avenue NW",
+        "to_street": "Argyll Road NW",
+        "impact": "Directional Closure",
+        "duration": "Periodic Nightly 9pm - 6am",
+        "details": "Trans Ed LRT will have periodic overnight closures of sections of 83 St between 82 Av and Argyll Rd. Check their website for details. Extended end date.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.455123437687,
+                53.518032460566
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "269",
+        ":@computed_region_ecxu_fw7u": "74",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "356",
+        "date_issued": "2020-05-25T00:00:00.000",
+        "start_date": "2020-05-25T00:00:00.000",
+        "finish_date": "2021-02-28T00:00:00.000",
+        "status": "REVISED",
+        "closure": "170 St NB Drainage Repair",
+        "on_street": "170 Street NW",
+        "from_street": "69 Avenue NW",
+        "to_street": "Whitemud Drive",
+        "impact": "Travel Delays",
+        "duration": "Approx. 9 Months",
+        "details": "** Replaces TDN 321 ** Northbound 170 St is now open in one lane from  69 Ave to south of Whitemud Dr with a 50km/hr speed zone in place. Southbound 170 St is reduced to two lanes from Whitemud Dr to north of 69 Ave. Please use other routes.",
+        "description": "Drainage Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.615336910193,
+                53.512101755522
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "60",
+        ":@computed_region_ecxu_fw7u": "179",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8"
+    },
+    {
+        "disruption_id": "19",
+        "date_issued": "2020-01-03T00:00:00.000",
+        "start_date": "2018-02-07T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT 36A Av Closure",
+        "on_street": "36A Avenue NW",
+        "from_street": "66 Street NW",
+        "impact": "Total Closure",
+        "duration": "~32 Months",
+        "details": "36A Av closed at the east side of 66 St. Extended end date",
+        "description": "Utility, Track, and Road work",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.438372858956,
+                53.470647310587
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "20",
+        ":@computed_region_ecxu_fw7u": "57",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "433",
+        "date_issued": "2020-06-09T00:00:00.000",
+        "start_date": "2020-06-10T00:00:00.000",
+        "finish_date": "2020-11-01T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Cloverdale Hill Rd Closure",
+        "on_street": "Cloverdale Road NW",
+        "from_street": "Connors Road NW",
+        "to_street": "97 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "~5 Months",
+        "details": "Cloverdale Hill Rd will be closed to vehicles. Pedestrian and Cyclist access will be maintained. Extended end date.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.46853907255,
+                53.536157108345
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "398",
+        ":@computed_region_ecxu_fw7u": "126",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "354",
+        "date_issued": "2020-05-22T00:00:00.000",
+        "start_date": "2020-05-22T00:00:00.000",
+        "finish_date": "2020-11-20T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed 83 St Closures",
+        "on_street": "83 Street NW",
+        "from_street": "82 Avenue NW",
+        "to_street": "Argyll Road NW",
+        "impact": "Directional Closure",
+        "duration": "Periodic Nightly 9pm - 6am",
+        "details": "Trans Ed LRT will have periodic overnight closures of sections of 83 St between 82 Av and Argyll Rd. Check their website for details. Extended end date.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.452782129546,
+                53.503255585346
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "87",
+        ":@computed_region_ecxu_fw7u": "241",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3"
+    },
+    {
+        "disruption_id": "433",
+        "date_issued": "2020-06-09T00:00:00.000",
+        "start_date": "2020-06-10T00:00:00.000",
+        "finish_date": "2020-11-01T00:00:00.000",
+        "status": "Current",
+        "closure": "Trans Ed LRT Cloverdale Hill Rd Closure",
+        "on_street": "Cloverdale Road NW",
+        "from_street": "Connors Road NW",
+        "to_street": "97 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "~5 Months",
+        "details": "Cloverdale Hill Rd will be closed to vehicles. Pedestrian and Cyclist access will be maintained. Extended end date.",
+        "description": "LRT Construction",
+        "activity_type": "Construction",
+        "traffic_district": "Southeast",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.472975971543,
+                53.532314685612
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "269",
+        ":@computed_region_ecxu_fw7u": "3",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11"
+    },
+    {
+        "disruption_id": "359",
+        "date_issued": "2020-05-25T00:00:00.000",
+        "start_date": "2020-06-03T00:00:00.000",
+        "finish_date": "2021-12-08T00:00:00.000",
+        "status": "REVISED",
+        "closure": "Total Closure of Summit Drive from 147 St - 148 St",
+        "on_street": "Summit Drive",
+        "from_street": "149 Street NW",
+        "to_street": "147 Street NW",
+        "impact": "Total Closure",
+        "duration": "19 Months",
+        "details": "Summit Drive from 147 St to 148 St will be totally closed. North sidewalk of Summit Drive will be closed and detoured to the South side.",
+        "description": "Drainage Shaft Installation",
+        "activity_type": "Construction",
+        "traffic_district": "Northwest",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.577942673305,
+                53.541231576419
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "75",
+        ":@computed_region_ecxu_fw7u": "85",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "1"
+    },
+    {
+        "disruption_id": "726",
+        "date_issued": "2020-08-28T00:00:00.000",
+        "start_date": "2020-09-02T00:00:00.000",
+        "finish_date": "2020-11-09T00:00:00.000",
+        "status": "Current",
+        "closure": "60A Ave Sewer Repair",
+        "on_street": "60A Avenue NW",
+        "from_street": "107A Street NW",
+        "to_street": "61 Avenue NW",
+        "impact": "Total Closure",
+        "duration": "3 Months",
+        "details": "60A Ave will be intermittently closed between 61 Ave and 107A St during sewer repair work.",
+        "description": "60A Ave Sewer Repair",
+        "activity_type": "Construction",
+        "traffic_district": "Southwest",
+        "infrastructure": "Road",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.50742462676,
+                53.496852011295
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "50",
+        ":@computed_region_ecxu_fw7u": "19",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "disruption_id": "180",
+        "date_issued": "2020-03-24T00:00:00.000",
+        "start_date": "2020-03-25T00:00:00.000",
+        "finish_date": "2020-10-31T00:00:00.000",
+        "status": "Current",
+        "closure": "Reduced to Single Lane Each Direction",
+        "on_street": "Jasper Avenue NW",
+        "from_street": "97 Street NW",
+        "to_street": "100 Street NW",
+        "impact": "Increased Travel Time",
+        "duration": "8 Months",
+        "details": "Jasper Ave from 97 St - 100 St reduced to single lane each direction. South sidewalk closed. Local/Business access to be maintained. Detour using 104 Ave or 107 Ave",
+        "description": "Jasper Ave New Vision Project",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.485439511805,
+                53.542160689264
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    },
+    {
+        "disruption_id": "9",
+        "date_issued": "2020-01-02T00:00:00.000",
+        "start_date": "2017-10-02T00:00:00.000",
+        "finish_date": "2020-12-31T00:00:00.000",
+        "status": "REVISED",
+        "closure": "99 St Closure",
+        "on_street": "99 Street NW",
+        "from_street": "102 Avenue NW",
+        "to_street": "102A Avenue NW",
+        "impact": "Total Closure",
+        "details": "99 St, 102 Ave - 102A Ave & west sidewalk closed due to Valley Line LRT project.  Detour using 97 St or 100 St",
+        "description": "Valley Line LRT Project",
+        "activity_type": "Construction",
+        "traffic_district": "Central",
+        "infrastructure": "Road and Sidewalk",
+        "point": {
+            "type": "Point",
+            "coordinates": [
+                -113.488960110124,
+                53.543445329123
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9"
+    }
+]

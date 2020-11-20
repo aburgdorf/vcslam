@@ -1,0 +1,5090 @@
+[
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/18/2019 02:02:00 AM",
+        "RecordId": 3500793,
+        "RoadSurfaceTemperature": "57.45",
+        "AirTemperature": "61.86"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/18/2019 03:12:00 PM",
+        "RecordId": 3594561,
+        "RoadSurfaceTemperature": "78.25",
+        "AirTemperature": "68.40"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 451479,
+        "RoadSurfaceTemperature": "18.76",
+        "AirTemperature": "27.24"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 451480,
+        "RoadSurfaceTemperature": "18.77",
+        "AirTemperature": "27.28"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 451481,
+        "RoadSurfaceTemperature": "18.78",
+        "AirTemperature": "27.30"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 451482,
+        "RoadSurfaceTemperature": "18.80",
+        "AirTemperature": "27.29"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 2546638,
+        "RoadSurfaceTemperature": "60.22",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 2546639,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.75"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 2546640,
+        "RoadSurfaceTemperature": "60.19",
+        "AirTemperature": "57.79"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 2546641,
+        "RoadSurfaceTemperature": "60.17",
+        "AirTemperature": "57.81"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 2546642,
+        "RoadSurfaceTemperature": "60.16",
+        "AirTemperature": "57.79"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:21:00 AM",
+        "RecordId": 2546643,
+        "RoadSurfaceTemperature": "60.15",
+        "AirTemperature": "57.80"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:22:00 AM",
+        "RecordId": 2546644,
+        "RoadSurfaceTemperature": "60.15",
+        "AirTemperature": "57.83"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:23:00 AM",
+        "RecordId": 2546645,
+        "RoadSurfaceTemperature": "60.14",
+        "AirTemperature": "57.84"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:24:00 AM",
+        "RecordId": 2546646,
+        "RoadSurfaceTemperature": "60.12",
+        "AirTemperature": "57.84"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:25:00 AM",
+        "RecordId": 2546647,
+        "RoadSurfaceTemperature": "60.11",
+        "AirTemperature": "57.81"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 2546648,
+        "RoadSurfaceTemperature": "60.10",
+        "AirTemperature": "57.82"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 2546649,
+        "RoadSurfaceTemperature": "60.09",
+        "AirTemperature": "57.82"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 2546650,
+        "RoadSurfaceTemperature": "60.06",
+        "AirTemperature": "57.82"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 2546651,
+        "RoadSurfaceTemperature": "60.06",
+        "AirTemperature": "57.82"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 2546652,
+        "RoadSurfaceTemperature": "60.05",
+        "AirTemperature": "57.80"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 3586352,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 3586353,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 3586354,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 3586355,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 3586356,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:21:00 AM",
+        "RecordId": 3586357,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:22:00 AM",
+        "RecordId": 3586358,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:23:00 AM",
+        "RecordId": 3586359,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:24:00 AM",
+        "RecordId": 3586360,
+        "RoadSurfaceTemperature": "61.12",
+        "AirTemperature": "61.12"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:25:00 AM",
+        "RecordId": 3586361,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 3586362,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 3586363,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 3586364,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 3586365,
+        "RoadSurfaceTemperature": "61.14",
+        "AirTemperature": "61.14"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 3586366,
+        "RoadSurfaceTemperature": "61.14",
+        "AirTemperature": "61.14"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 451488,
+        "RoadSurfaceTemperature": "18.84",
+        "AirTemperature": "27.17"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 451489,
+        "RoadSurfaceTemperature": "18.85",
+        "AirTemperature": "27.15"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 451490,
+        "RoadSurfaceTemperature": "18.86",
+        "AirTemperature": "27.15"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 451491,
+        "RoadSurfaceTemperature": "18.88",
+        "AirTemperature": "27.13"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 451492,
+        "RoadSurfaceTemperature": "18.88",
+        "AirTemperature": "27. Dez"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:31:00 AM",
+        "RecordId": 451493,
+        "RoadSurfaceTemperature": "18.88",
+        "AirTemperature": "27. Nov"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:32:00 AM",
+        "RecordId": 451494,
+        "RoadSurfaceTemperature": "18.90",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:33:00 AM",
+        "RecordId": 451495,
+        "RoadSurfaceTemperature": "18.91",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:34:00 AM",
+        "RecordId": 451496,
+        "RoadSurfaceTemperature": "18.92",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:35:00 AM",
+        "RecordId": 451497,
+        "RoadSurfaceTemperature": "18.92",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:36:00 AM",
+        "RecordId": 451498,
+        "RoadSurfaceTemperature": "18.93",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:37:00 AM",
+        "RecordId": 451499,
+        "RoadSurfaceTemperature": "18.94",
+        "AirTemperature": "27. Dez"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:38:00 AM",
+        "RecordId": 451500,
+        "RoadSurfaceTemperature": "18.96",
+        "AirTemperature": "27.13"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:39:00 AM",
+        "RecordId": 451501,
+        "RoadSurfaceTemperature": "18.96",
+        "AirTemperature": "27.13"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:40:00 AM",
+        "RecordId": 451502,
+        "RoadSurfaceTemperature": "18.96",
+        "AirTemperature": "27. Sep"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 2440968,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 2440969,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 2440970,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 2440971,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 2440972,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:31:00 AM",
+        "RecordId": 2440973,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:32:00 AM",
+        "RecordId": 2440974,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:33:00 AM",
+        "RecordId": 2440975,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:34:00 AM",
+        "RecordId": 2440976,
+        "RoadSurfaceTemperature": "63.76",
+        "AirTemperature": "63.76"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:35:00 AM",
+        "RecordId": 2440977,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:36:00 AM",
+        "RecordId": 2440978,
+        "RoadSurfaceTemperature": "63.76",
+        "AirTemperature": "63.76"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:37:00 AM",
+        "RecordId": 2440979,
+        "RoadSurfaceTemperature": "63.76",
+        "AirTemperature": "63.76"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:38:00 AM",
+        "RecordId": 2440980,
+        "RoadSurfaceTemperature": "63.75",
+        "AirTemperature": "63.75"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:39:00 AM",
+        "RecordId": 2440981,
+        "RoadSurfaceTemperature": "63.74",
+        "AirTemperature": "63.74"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:40:00 AM",
+        "RecordId": 2440982,
+        "RoadSurfaceTemperature": "63.73",
+        "AirTemperature": "63.73"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 3592355,
+        "RoadSurfaceTemperature": "62.70",
+        "AirTemperature": "58.34"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 3592356,
+        "RoadSurfaceTemperature": "62.69",
+        "AirTemperature": "58.38"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 3592357,
+        "RoadSurfaceTemperature": "62.68",
+        "AirTemperature": "58.39"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 3592358,
+        "RoadSurfaceTemperature": "62.66",
+        "AirTemperature": "58.39"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 3592359,
+        "RoadSurfaceTemperature": "62.65",
+        "AirTemperature": "58.41"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:31:00 AM",
+        "RecordId": 3592360,
+        "RoadSurfaceTemperature": "62.64",
+        "AirTemperature": "58.43"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:32:00 AM",
+        "RecordId": 3592361,
+        "RoadSurfaceTemperature": "62.63",
+        "AirTemperature": "58.47"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:33:00 AM",
+        "RecordId": 3592362,
+        "RoadSurfaceTemperature": "62.62",
+        "AirTemperature": "58.50"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:34:00 AM",
+        "RecordId": 3592363,
+        "RoadSurfaceTemperature": "62.60",
+        "AirTemperature": "58.53"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:35:00 AM",
+        "RecordId": 3592364,
+        "RoadSurfaceTemperature": "62.59",
+        "AirTemperature": "58.53"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:36:00 AM",
+        "RecordId": 3592365,
+        "RoadSurfaceTemperature": "62.58",
+        "AirTemperature": "58.53"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:37:00 AM",
+        "RecordId": 3592366,
+        "RoadSurfaceTemperature": "62.56",
+        "AirTemperature": "58.55"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:38:00 AM",
+        "RecordId": 3592367,
+        "RoadSurfaceTemperature": "62.55",
+        "AirTemperature": "58.56"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:39:00 AM",
+        "RecordId": 3592368,
+        "RoadSurfaceTemperature": "62.54",
+        "AirTemperature": "58.60"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:40:00 AM",
+        "RecordId": 3592369,
+        "RoadSurfaceTemperature": "62.53",
+        "AirTemperature": "58.62"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 3552440,
+        "RoadSurfaceTemperature": "60.37",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 3552441,
+        "RoadSurfaceTemperature": "60.36",
+        "AirTemperature": "57.76"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 3552442,
+        "RoadSurfaceTemperature": "60.35",
+        "AirTemperature": "57.77"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 3552443,
+        "RoadSurfaceTemperature": "60.34",
+        "AirTemperature": "57.77"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 3552444,
+        "RoadSurfaceTemperature": "60.33",
+        "AirTemperature": "57.77"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:31:00 AM",
+        "RecordId": 3552445,
+        "RoadSurfaceTemperature": "60.32",
+        "AirTemperature": "57.74"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:32:00 AM",
+        "RecordId": 3552446,
+        "RoadSurfaceTemperature": "60.33",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:33:00 AM",
+        "RecordId": 3552447,
+        "RoadSurfaceTemperature": "60.33",
+        "AirTemperature": "57.74"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:34:00 AM",
+        "RecordId": 3552448,
+        "RoadSurfaceTemperature": "60.32",
+        "AirTemperature": "57.76"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:35:00 AM",
+        "RecordId": 3552449,
+        "RoadSurfaceTemperature": "60.29",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:36:00 AM",
+        "RecordId": 3552450,
+        "RoadSurfaceTemperature": "60.29",
+        "AirTemperature": "57.70"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:37:00 AM",
+        "RecordId": 3552451,
+        "RoadSurfaceTemperature": "60.29",
+        "AirTemperature": "57.69"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:38:00 AM",
+        "RecordId": 3552452,
+        "RoadSurfaceTemperature": "60.28",
+        "AirTemperature": "57.68"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:39:00 AM",
+        "RecordId": 3552453,
+        "RoadSurfaceTemperature": "60.28",
+        "AirTemperature": "57.66"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:40:00 AM",
+        "RecordId": 3552454,
+        "RoadSurfaceTemperature": "60.28",
+        "AirTemperature": "57.64"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:36:00 AM",
+        "RecordId": 2546658,
+        "RoadSurfaceTemperature": "59.98",
+        "AirTemperature": "57.66"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:37:00 AM",
+        "RecordId": 2546659,
+        "RoadSurfaceTemperature": "59.97",
+        "AirTemperature": "57.66"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:38:00 AM",
+        "RecordId": 2546660,
+        "RoadSurfaceTemperature": "59.96",
+        "AirTemperature": "57.64"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:39:00 AM",
+        "RecordId": 2546661,
+        "RoadSurfaceTemperature": "59.96",
+        "AirTemperature": "57.64"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:17:00 PM",
+        "RecordId": 3500088,
+        "RoadSurfaceTemperature": "62.50",
+        "AirTemperature": "62.02"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 05:05:00 PM",
+        "RecordId": 452367,
+        "RoadSurfaceTemperature": "22. Jul",
+        "AirTemperature": "23.33"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 05:57:00 PM",
+        "RecordId": 3523871,
+        "RoadSurfaceTemperature": "62.97",
+        "AirTemperature": "60.30"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:20:00 PM",
+        "RecordId": 2441922,
+        "RoadSurfaceTemperature": "64.28",
+        "AirTemperature": "64.28"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:17:00 PM",
+        "RecordId": 3587313,
+        "RoadSurfaceTemperature": "61.63",
+        "AirTemperature": "61.63"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:20:00 PM",
+        "RecordId": 3587316,
+        "RoadSurfaceTemperature": "61.59",
+        "AirTemperature": "61.59"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:26:00 PM",
+        "RecordId": 3587322,
+        "RoadSurfaceTemperature": "61.55",
+        "AirTemperature": "61.55"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 06:25:00 PM",
+        "RecordId": 3500336,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "63.94"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 06:22:00 PM",
+        "RecordId": 3523896,
+        "RoadSurfaceTemperature": "62.92",
+        "AirTemperature": "59.20"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:18:00 PM",
+        "RecordId": 3553392,
+        "RoadSurfaceTemperature": "60.38",
+        "AirTemperature": "59.11"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:29:00 PM",
+        "RecordId": 3553403,
+        "RoadSurfaceTemperature": "60.05",
+        "AirTemperature": "58.95"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 06:23:00 PM",
+        "RecordId": 3593312,
+        "RoadSurfaceTemperature": "61.72",
+        "AirTemperature": "60.50"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 06:39:00 PM",
+        "RecordId": 2547621,
+        "RoadSurfaceTemperature": "63.54",
+        "AirTemperature": "59.70"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:26:00 PM",
+        "RecordId": 2441928,
+        "RoadSurfaceTemperature": "64.23",
+        "AirTemperature": "64.23"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:29:00 PM",
+        "RecordId": 2441931,
+        "RoadSurfaceTemperature": "64.20",
+        "AirTemperature": "64.20"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 06:35:00 PM",
+        "RecordId": 452457,
+        "RoadSurfaceTemperature": "22. Apr",
+        "AirTemperature": "24.35"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:26:00 PM",
+        "RecordId": 3587322,
+        "RoadSurfaceTemperature": "61.55",
+        "AirTemperature": "61.55"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:32:00 PM",
+        "RecordId": 3587328,
+        "RoadSurfaceTemperature": "61.48",
+        "AirTemperature": "61.48"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 06:31:00 PM",
+        "RecordId": 3500342,
+        "RoadSurfaceTemperature": "62.36",
+        "AirTemperature": "64.35"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 06:31:00 PM",
+        "RecordId": 3523905,
+        "RoadSurfaceTemperature": "62.88",
+        "AirTemperature": "59.62"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 06:33:00 PM",
+        "RecordId": 3593322,
+        "RoadSurfaceTemperature": "61.61",
+        "AirTemperature": "60.67"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:32:00 PM",
+        "RecordId": 3553406,
+        "RoadSurfaceTemperature": "60.00",
+        "AirTemperature": "58.95"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:43:00 PM",
+        "RecordId": 2441945,
+        "RoadSurfaceTemperature": "64.07",
+        "AirTemperature": "64.07"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:50:00 PM",
+        "RecordId": 2441952,
+        "RoadSurfaceTemperature": "64.01",
+        "AirTemperature": "64.01"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 06:45:00 PM",
+        "RecordId": 3523919,
+        "RoadSurfaceTemperature": "62.83",
+        "AirTemperature": "59.87"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 06:38:00 PM",
+        "RecordId": 3500349,
+        "RoadSurfaceTemperature": "62.30",
+        "AirTemperature": "64.35"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 06:46:00 PM",
+        "RecordId": 3500357,
+        "RoadSurfaceTemperature": "62.17",
+        "AirTemperature": "64.00"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:36:00 PM",
+        "RecordId": 3553410,
+        "RoadSurfaceTemperature": "59.91",
+        "AirTemperature": "59.28"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:42:00 PM",
+        "RecordId": 3553416,
+        "RoadSurfaceTemperature": "59.74",
+        "AirTemperature": "59.44"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:44:00 PM",
+        "RecordId": 3553418,
+        "RoadSurfaceTemperature": "59.70",
+        "AirTemperature": "59.57"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 06:41:00 PM",
+        "RecordId": 3593330,
+        "RoadSurfaceTemperature": "61.48",
+        "AirTemperature": "60.66"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:49:00 PM",
+        "RecordId": 2441951,
+        "RoadSurfaceTemperature": "64.02",
+        "AirTemperature": "64.02"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 06:56:00 PM",
+        "RecordId": 2441958,
+        "RoadSurfaceTemperature": "63.92",
+        "AirTemperature": "63.92"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 06:57:00 PM",
+        "RecordId": 3587353,
+        "RoadSurfaceTemperature": "60.94",
+        "AirTemperature": "60.94"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 06:51:00 PM",
+        "RecordId": 3593340,
+        "RoadSurfaceTemperature": "61.26",
+        "AirTemperature": "60.49"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:00:00 PM",
+        "RecordId": 3593349,
+        "RoadSurfaceTemperature": "61.03",
+        "AirTemperature": "60.35"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 06:48:00 PM",
+        "RecordId": 3523922,
+        "RoadSurfaceTemperature": "62.84",
+        "AirTemperature": "59.65"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:49:00 PM",
+        "RecordId": 3553423,
+        "RoadSurfaceTemperature": "59.56",
+        "AirTemperature": "59.69"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:53:00 PM",
+        "RecordId": 3553427,
+        "RoadSurfaceTemperature": "59.48",
+        "AirTemperature": "59.74"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:59:00 PM",
+        "RecordId": 3553433,
+        "RoadSurfaceTemperature": "59.30",
+        "AirTemperature": "59.71"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 06:51:00 PM",
+        "RecordId": 452473,
+        "RoadSurfaceTemperature": "22. Jun",
+        "AirTemperature": "24.89"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:03:00 PM",
+        "RecordId": 452485,
+        "RoadSurfaceTemperature": "22. Jun",
+        "AirTemperature": "25. Jun"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:02:00 PM",
+        "RecordId": 2547644,
+        "RoadSurfaceTemperature": "63.13",
+        "AirTemperature": "59.31"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:06:00 PM",
+        "RecordId": 452488,
+        "RoadSurfaceTemperature": "22. Aug",
+        "AirTemperature": "25. Feb"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:06:00 PM",
+        "RecordId": 3587362,
+        "RoadSurfaceTemperature": "60.68",
+        "AirTemperature": "60.68"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:04:00 PM",
+        "RecordId": 3500375,
+        "RoadSurfaceTemperature": "61.87",
+        "AirTemperature": "64.41"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:07:00 PM",
+        "RecordId": 3500378,
+        "RoadSurfaceTemperature": "61.83",
+        "AirTemperature": "64.27"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 06:59:00 PM",
+        "RecordId": 3593348,
+        "RoadSurfaceTemperature": "61.05",
+        "AirTemperature": "60.34"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:09:00 PM",
+        "RecordId": 3593358,
+        "RoadSurfaceTemperature": "60.82",
+        "AirTemperature": "60.05"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 06:57:00 PM",
+        "RecordId": 3553431,
+        "RoadSurfaceTemperature": "59.37",
+        "AirTemperature": "59.79"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:09:00 PM",
+        "RecordId": 3553443,
+        "RoadSurfaceTemperature": "59.17",
+        "AirTemperature": "59.43"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:08:00 PM",
+        "RecordId": 2441970,
+        "RoadSurfaceTemperature": "63.83",
+        "AirTemperature": "63.83"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:16:00 PM",
+        "RecordId": 2441978,
+        "RoadSurfaceTemperature": "63.74",
+        "AirTemperature": "63.74"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:09:00 PM",
+        "RecordId": 2547651,
+        "RoadSurfaceTemperature": "63.00",
+        "AirTemperature": "59.26"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:14:00 PM",
+        "RecordId": 452496,
+        "RoadSurfaceTemperature": "22. Okt",
+        "AirTemperature": "25. Mrz"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:17:00 PM",
+        "RecordId": 452499,
+        "RoadSurfaceTemperature": "22. Okt",
+        "AirTemperature": "25. Jan"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:17:00 PM",
+        "RecordId": 2547659,
+        "RoadSurfaceTemperature": "62.85",
+        "AirTemperature": "59.18"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:05:00 PM",
+        "RecordId": 3500376,
+        "RoadSurfaceTemperature": "61.85",
+        "AirTemperature": "64.52"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:10:00 PM",
+        "RecordId": 3587366,
+        "RoadSurfaceTemperature": "60.58",
+        "AirTemperature": "60.58"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:19:00 PM",
+        "RecordId": 3587375,
+        "RoadSurfaceTemperature": "60.36",
+        "AirTemperature": "60.36"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:14:00 PM",
+        "RecordId": 3593363,
+        "RoadSurfaceTemperature": "60.71",
+        "AirTemperature": "59.74"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:07:00 PM",
+        "RecordId": 3523941,
+        "RoadSurfaceTemperature": "62.79",
+        "AirTemperature": "59.16"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:12:00 PM",
+        "RecordId": 3523946,
+        "RoadSurfaceTemperature": "62.74",
+        "AirTemperature": "59.74"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:15:00 PM",
+        "RecordId": 3523949,
+        "RoadSurfaceTemperature": "62.70",
+        "AirTemperature": "59.64"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:18:00 PM",
+        "RecordId": 3523952,
+        "RoadSurfaceTemperature": "62.69",
+        "AirTemperature": "59.55"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:18:00 PM",
+        "RecordId": 2547660,
+        "RoadSurfaceTemperature": "62.83",
+        "AirTemperature": "59.18"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:25:00 PM",
+        "RecordId": 2547667,
+        "RoadSurfaceTemperature": "62.61",
+        "AirTemperature": "59.09"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:30:00 PM",
+        "RecordId": 452512,
+        "RoadSurfaceTemperature": "22.13",
+        "AirTemperature": "25. Nov"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:23:00 PM",
+        "RecordId": 2441985,
+        "RoadSurfaceTemperature": "63.69",
+        "AirTemperature": "63.69"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:20:00 PM",
+        "RecordId": 3593369,
+        "RoadSurfaceTemperature": "60.59",
+        "AirTemperature": "59.51"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:22:00 PM",
+        "RecordId": 3593371,
+        "RoadSurfaceTemperature": "60.55",
+        "AirTemperature": "59.46"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:16:00 PM",
+        "RecordId": 3553450,
+        "RoadSurfaceTemperature": "59.08",
+        "AirTemperature": "59.34"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:22:00 PM",
+        "RecordId": 3553456,
+        "RoadSurfaceTemperature": "59.03",
+        "AirTemperature": "59.03"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:22:00 PM",
+        "RecordId": 3500393,
+        "RoadSurfaceTemperature": "61.57",
+        "AirTemperature": "64.82"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:25:00 PM",
+        "RecordId": 3500396,
+        "RoadSurfaceTemperature": "61.48",
+        "AirTemperature": "64.98"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:37:00 PM",
+        "RecordId": 2441999,
+        "RoadSurfaceTemperature": "63.64",
+        "AirTemperature": "63.64"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:28:00 PM",
+        "RecordId": 2547670,
+        "RoadSurfaceTemperature": "62.48",
+        "AirTemperature": "59.15"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:27:00 PM",
+        "RecordId": 452509,
+        "RoadSurfaceTemperature": "22. Dez",
+        "AirTemperature": "25. Mai"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:36:00 PM",
+        "RecordId": 452518,
+        "RoadSurfaceTemperature": "22.14",
+        "AirTemperature": "25.20"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:31:00 PM",
+        "RecordId": 3587387,
+        "RoadSurfaceTemperature": "60.18",
+        "AirTemperature": "60.18"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:36:00 PM",
+        "RecordId": 3587392,
+        "RoadSurfaceTemperature": "60.11",
+        "AirTemperature": "60.11"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:39:00 PM",
+        "RecordId": 3587395,
+        "RoadSurfaceTemperature": "60.07",
+        "AirTemperature": "60.07"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:39:00 PM",
+        "RecordId": 3523973,
+        "RoadSurfaceTemperature": "62.44",
+        "AirTemperature": "58.82"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:32:00 PM",
+        "RecordId": 3593381,
+        "RoadSurfaceTemperature": "60.38",
+        "AirTemperature": "59.39"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:33:00 PM",
+        "RecordId": 3553467,
+        "RoadSurfaceTemperature": "58.95",
+        "AirTemperature": "58.83"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:38:00 PM",
+        "RecordId": 3553472,
+        "RoadSurfaceTemperature": "58.95",
+        "AirTemperature": "58.88"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:38:00 PM",
+        "RecordId": 3500409,
+        "RoadSurfaceTemperature": "61.10",
+        "AirTemperature": "64.44"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:42:00 PM",
+        "RecordId": 2547684,
+        "RoadSurfaceTemperature": "62.07",
+        "AirTemperature": "59.00"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 07:40:00 PM",
+        "RecordId": 452522,
+        "RoadSurfaceTemperature": "22.16",
+        "AirTemperature": "25.28"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:40:00 PM",
+        "RecordId": 2442002,
+        "RoadSurfaceTemperature": "63.62",
+        "AirTemperature": "63.62"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:44:00 PM",
+        "RecordId": 2442006,
+        "RoadSurfaceTemperature": "63.60",
+        "AirTemperature": "63.60"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:38:00 PM",
+        "RecordId": 3587394,
+        "RoadSurfaceTemperature": "60.09",
+        "AirTemperature": "60.09"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:38:00 PM",
+        "RecordId": 3523972,
+        "RoadSurfaceTemperature": "62.47",
+        "AirTemperature": "58.90"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:46:00 PM",
+        "RecordId": 3523980,
+        "RoadSurfaceTemperature": "62.37",
+        "AirTemperature": "58.84"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 07:48:00 PM",
+        "RecordId": 3553482,
+        "RoadSurfaceTemperature": "58.90",
+        "AirTemperature": "58.89"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:38:00 PM",
+        "RecordId": 3593387,
+        "RoadSurfaceTemperature": "60.29",
+        "AirTemperature": "59.34"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:41:00 PM",
+        "RecordId": 3593390,
+        "RoadSurfaceTemperature": "60.25",
+        "AirTemperature": "59.34"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:47:00 PM",
+        "RecordId": 3593396,
+        "RoadSurfaceTemperature": "60.18",
+        "AirTemperature": "59.40"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:49:00 PM",
+        "RecordId": 3593398,
+        "RoadSurfaceTemperature": "60.16",
+        "AirTemperature": "59.45"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 07:58:00 PM",
+        "RecordId": 2547700,
+        "RoadSurfaceTemperature": "61.56",
+        "AirTemperature": "58.81"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:50:00 PM",
+        "RecordId": 3587406,
+        "RoadSurfaceTemperature": "59.97",
+        "AirTemperature": "59.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 07:59:00 PM",
+        "RecordId": 3587415,
+        "RoadSurfaceTemperature": "59.90",
+        "AirTemperature": "59.90"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:11:00 AM",
+        "RecordId": 2546633,
+        "RoadSurfaceTemperature": "60.28",
+        "AirTemperature": "57.62"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:12:00 AM",
+        "RecordId": 2546634,
+        "RoadSurfaceTemperature": "60.26",
+        "AirTemperature": "57.63"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:13:00 AM",
+        "RecordId": 2546635,
+        "RoadSurfaceTemperature": "60.24",
+        "AirTemperature": "57.63"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:14:00 AM",
+        "RecordId": 2546636,
+        "RoadSurfaceTemperature": "60.24",
+        "AirTemperature": "57.67"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:15:00 AM",
+        "RecordId": 2546637,
+        "RoadSurfaceTemperature": "60.23",
+        "AirTemperature": "57.70"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 2546638,
+        "RoadSurfaceTemperature": "60.22",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 2546639,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.75"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 2546640,
+        "RoadSurfaceTemperature": "60.19",
+        "AirTemperature": "57.79"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 2546641,
+        "RoadSurfaceTemperature": "60.17",
+        "AirTemperature": "57.81"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 2546642,
+        "RoadSurfaceTemperature": "60.16",
+        "AirTemperature": "57.79"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:06:00 AM",
+        "RecordId": 3586342,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:07:00 AM",
+        "RecordId": 3586343,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:08:00 AM",
+        "RecordId": 3586344,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:09:00 AM",
+        "RecordId": 3586345,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:10:00 AM",
+        "RecordId": 3586346,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:11:00 AM",
+        "RecordId": 3586347,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:12:00 AM",
+        "RecordId": 3586348,
+        "RoadSurfaceTemperature": "61.14",
+        "AirTemperature": "61.14"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:13:00 AM",
+        "RecordId": 3586349,
+        "RoadSurfaceTemperature": "61.14",
+        "AirTemperature": "61.14"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:14:00 AM",
+        "RecordId": 3586350,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:15:00 AM",
+        "RecordId": 3586351,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 3586352,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 3586353,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 3586354,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 3586355,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 3586356,
+        "RoadSurfaceTemperature": "61.13",
+        "AirTemperature": "61.13"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:06:00 AM",
+        "RecordId": 3499357,
+        "RoadSurfaceTemperature": "58.54",
+        "AirTemperature": "62.62"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:07:00 AM",
+        "RecordId": 3499358,
+        "RoadSurfaceTemperature": "58.54",
+        "AirTemperature": "62.64"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:08:00 AM",
+        "RecordId": 3499359,
+        "RoadSurfaceTemperature": "58.54",
+        "AirTemperature": "62.70"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:09:00 AM",
+        "RecordId": 3499360,
+        "RoadSurfaceTemperature": "58.54",
+        "AirTemperature": "62.74"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:10:00 AM",
+        "RecordId": 3499361,
+        "RoadSurfaceTemperature": "58.54",
+        "AirTemperature": "62.79"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:11:00 AM",
+        "RecordId": 3499362,
+        "RoadSurfaceTemperature": "58.53",
+        "AirTemperature": "62.90"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:12:00 AM",
+        "RecordId": 3499363,
+        "RoadSurfaceTemperature": "58.53",
+        "AirTemperature": "62.89"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:13:00 AM",
+        "RecordId": 3499364,
+        "RoadSurfaceTemperature": "58.52",
+        "AirTemperature": "62.87"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:14:00 AM",
+        "RecordId": 3499365,
+        "RoadSurfaceTemperature": "58.52",
+        "AirTemperature": "62.92"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:15:00 AM",
+        "RecordId": 3499366,
+        "RoadSurfaceTemperature": "58.51",
+        "AirTemperature": "62.91"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 3499367,
+        "RoadSurfaceTemperature": "58.51",
+        "AirTemperature": "62.82"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 3499368,
+        "RoadSurfaceTemperature": "58.50",
+        "AirTemperature": "62.84"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 3499369,
+        "RoadSurfaceTemperature": "58.50",
+        "AirTemperature": "62.96"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 3499370,
+        "RoadSurfaceTemperature": "58.50",
+        "AirTemperature": "62.95"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 3499371,
+        "RoadSurfaceTemperature": "58.49",
+        "AirTemperature": "63.13"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 2440958,
+        "RoadSurfaceTemperature": "63.86",
+        "AirTemperature": "63.86"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 2440959,
+        "RoadSurfaceTemperature": "63.85",
+        "AirTemperature": "63.85"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 2440960,
+        "RoadSurfaceTemperature": "63.84",
+        "AirTemperature": "63.84"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 2440961,
+        "RoadSurfaceTemperature": "63.83",
+        "AirTemperature": "63.83"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 2440962,
+        "RoadSurfaceTemperature": "63.82",
+        "AirTemperature": "63.82"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:21:00 AM",
+        "RecordId": 2440963,
+        "RoadSurfaceTemperature": "63.82",
+        "AirTemperature": "63.82"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:22:00 AM",
+        "RecordId": 2440964,
+        "RoadSurfaceTemperature": "63.81",
+        "AirTemperature": "63.81"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:23:00 AM",
+        "RecordId": 2440965,
+        "RoadSurfaceTemperature": "63.80",
+        "AirTemperature": "63.80"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:24:00 AM",
+        "RecordId": 2440966,
+        "RoadSurfaceTemperature": "63.78",
+        "AirTemperature": "63.78"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:25:00 AM",
+        "RecordId": 2440967,
+        "RoadSurfaceTemperature": "63.78",
+        "AirTemperature": "63.78"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 2440968,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 2440969,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 2440970,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 2440971,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 2440972,
+        "RoadSurfaceTemperature": "63.77",
+        "AirTemperature": "63.77"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 451478,
+        "RoadSurfaceTemperature": "18.76",
+        "AirTemperature": "27.23"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:17:00 AM",
+        "RecordId": 451479,
+        "RoadSurfaceTemperature": "18.76",
+        "AirTemperature": "27.24"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:18:00 AM",
+        "RecordId": 451480,
+        "RoadSurfaceTemperature": "18.77",
+        "AirTemperature": "27.28"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:19:00 AM",
+        "RecordId": 451481,
+        "RoadSurfaceTemperature": "18.78",
+        "AirTemperature": "27.30"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:20:00 AM",
+        "RecordId": 451482,
+        "RoadSurfaceTemperature": "18.80",
+        "AirTemperature": "27.29"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:21:00 AM",
+        "RecordId": 451483,
+        "RoadSurfaceTemperature": "18.80",
+        "AirTemperature": "27.28"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:22:00 AM",
+        "RecordId": 451484,
+        "RoadSurfaceTemperature": "18.80",
+        "AirTemperature": "27.25"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:23:00 AM",
+        "RecordId": 451485,
+        "RoadSurfaceTemperature": "18.82",
+        "AirTemperature": "27.23"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:24:00 AM",
+        "RecordId": 451486,
+        "RoadSurfaceTemperature": "18.82",
+        "AirTemperature": "27.21"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:25:00 AM",
+        "RecordId": 451487,
+        "RoadSurfaceTemperature": "18.84",
+        "AirTemperature": "27.20"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:26:00 AM",
+        "RecordId": 451488,
+        "RoadSurfaceTemperature": "18.84",
+        "AirTemperature": "27.17"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:27:00 AM",
+        "RecordId": 451489,
+        "RoadSurfaceTemperature": "18.85",
+        "AirTemperature": "27.15"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:28:00 AM",
+        "RecordId": 451490,
+        "RoadSurfaceTemperature": "18.86",
+        "AirTemperature": "27.15"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:29:00 AM",
+        "RecordId": 451491,
+        "RoadSurfaceTemperature": "18.88",
+        "AirTemperature": "27.13"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 02:30:00 AM",
+        "RecordId": 451492,
+        "RoadSurfaceTemperature": "18.88",
+        "AirTemperature": "27. Dez"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:16:00 AM",
+        "RecordId": 3592345,
+        "RoadSurfaceTemperature": "62.83",
+        "AirTemperature": "58.17"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/20/2020 09:36:00 AM",
+        "RecordId": 3877610,
+        "RoadSurfaceTemperature": "62.28",
+        "AirTemperature": "53.31"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:17:00 PM",
+        "RecordId": 3886471,
+        "RoadSurfaceTemperature": "67.72",
+        "AirTemperature": "61.37"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:18:00 PM",
+        "RecordId": 3886472,
+        "RoadSurfaceTemperature": "67.77",
+        "AirTemperature": "61.31"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:19:00 PM",
+        "RecordId": 3886473,
+        "RoadSurfaceTemperature": "67.82",
+        "AirTemperature": "61.48"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:20:00 PM",
+        "RecordId": 3886474,
+        "RoadSurfaceTemperature": "67.87",
+        "AirTemperature": "61.61"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:21:00 PM",
+        "RecordId": 3886475,
+        "RoadSurfaceTemperature": "67.92",
+        "AirTemperature": "61.65"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:22:00 PM",
+        "RecordId": 3886476,
+        "RoadSurfaceTemperature": "67.96",
+        "AirTemperature": "61.61"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:23:00 PM",
+        "RecordId": 3886477,
+        "RoadSurfaceTemperature": "68.01",
+        "AirTemperature": "61.42"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:24:00 PM",
+        "RecordId": 3886478,
+        "RoadSurfaceTemperature": "68.05",
+        "AirTemperature": "61.41"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:25:00 PM",
+        "RecordId": 3886479,
+        "RoadSurfaceTemperature": "68.08",
+        "AirTemperature": "61.35"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:26:00 PM",
+        "RecordId": 3886480,
+        "RoadSurfaceTemperature": "68.12",
+        "AirTemperature": "61.38"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:27:00 PM",
+        "RecordId": 3886481,
+        "RoadSurfaceTemperature": "68.15",
+        "AirTemperature": "61.45"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:28:00 PM",
+        "RecordId": 3886482,
+        "RoadSurfaceTemperature": "68.18",
+        "AirTemperature": "61.14"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:29:00 PM",
+        "RecordId": 3886483,
+        "RoadSurfaceTemperature": "68.20",
+        "AirTemperature": "61.01"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 01:30:00 PM",
+        "RecordId": 3886484,
+        "RoadSurfaceTemperature": "68.24",
+        "AirTemperature": "60.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:26:00 PM",
+        "RecordId": 3949902,
+        "RoadSurfaceTemperature": "70.98",
+        "AirTemperature": "70.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:27:00 PM",
+        "RecordId": 3949903,
+        "RoadSurfaceTemperature": "70.97",
+        "AirTemperature": "70.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:28:00 PM",
+        "RecordId": 3949904,
+        "RoadSurfaceTemperature": "70.97",
+        "AirTemperature": "70.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:29:00 PM",
+        "RecordId": 3949905,
+        "RoadSurfaceTemperature": "70.98",
+        "AirTemperature": "70.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:30:00 PM",
+        "RecordId": 3949906,
+        "RoadSurfaceTemperature": "70.98",
+        "AirTemperature": "70.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:31:00 PM",
+        "RecordId": 3949907,
+        "RoadSurfaceTemperature": "70.98",
+        "AirTemperature": "70.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:32:00 PM",
+        "RecordId": 3949908,
+        "RoadSurfaceTemperature": "70.97",
+        "AirTemperature": "70.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:33:00 PM",
+        "RecordId": 3949909,
+        "RoadSurfaceTemperature": "70.97",
+        "AirTemperature": "70.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:34:00 PM",
+        "RecordId": 3949910,
+        "RoadSurfaceTemperature": "70.97",
+        "AirTemperature": "70.97"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:35:00 PM",
+        "RecordId": 3949911,
+        "RoadSurfaceTemperature": "70.98",
+        "AirTemperature": "70.98"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:36:00 PM",
+        "RecordId": 3949912,
+        "RoadSurfaceTemperature": "70.99",
+        "AirTemperature": "70.99"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:37:00 PM",
+        "RecordId": 3949913,
+        "RoadSurfaceTemperature": "71.02",
+        "AirTemperature": "71.02"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:38:00 PM",
+        "RecordId": 3949914,
+        "RoadSurfaceTemperature": "71.04",
+        "AirTemperature": "71.04"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:39:00 PM",
+        "RecordId": 3949915,
+        "RoadSurfaceTemperature": "71.06",
+        "AirTemperature": "71.06"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 02:56:00 PM",
+        "RecordId": 3949992,
+        "RoadSurfaceTemperature": "80.60",
+        "AirTemperature": "80.60"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 03:43:00 PM",
+        "RecordId": 2804627,
+        "RoadSurfaceTemperature": "64.36",
+        "AirTemperature": "64.36"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:06:00 PM",
+        "RecordId": 814619,
+        "RoadSurfaceTemperature": "18.48",
+        "AirTemperature": "19.18"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 04:12:00 PM",
+        "RecordId": 3950068,
+        "RoadSurfaceTemperature": "74.20",
+        "AirTemperature": "74.20"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 04:19:00 PM",
+        "RecordId": 3950075,
+        "RoadSurfaceTemperature": "73.73",
+        "AirTemperature": "73.73"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:14:00 PM",
+        "RecordId": 3886648,
+        "RoadSurfaceTemperature": "68.88",
+        "AirTemperature": "64.36"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:14:00 PM",
+        "RecordId": 3916148,
+        "RoadSurfaceTemperature": "90.30",
+        "AirTemperature": "68.12"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:10:00 PM",
+        "RecordId": 3956059,
+        "RoadSurfaceTemperature": "79.95",
+        "AirTemperature": "68.00"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:20:00 PM",
+        "RecordId": 3956069,
+        "RoadSurfaceTemperature": "79.92",
+        "AirTemperature": "66.23"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:07:00 PM",
+        "RecordId": 3863078,
+        "RoadSurfaceTemperature": "85.70",
+        "AirTemperature": "69.14"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:16:00 PM",
+        "RecordId": 3863087,
+        "RoadSurfaceTemperature": "86.10",
+        "AirTemperature": "69.24"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:16:00 PM",
+        "RecordId": 814629,
+        "RoadSurfaceTemperature": "18.29",
+        "AirTemperature": "18.91"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:17:00 PM",
+        "RecordId": 2910359,
+        "RoadSurfaceTemperature": "93.50",
+        "AirTemperature": "64.14"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:30:00 PM",
+        "RecordId": 814643,
+        "RoadSurfaceTemperature": "17.98",
+        "AirTemperature": "18. Jan"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:28:00 PM",
+        "RecordId": 2910370,
+        "RoadSurfaceTemperature": "93.70",
+        "AirTemperature": "65.18"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:30:00 PM",
+        "RecordId": 2910372,
+        "RoadSurfaceTemperature": "93.80",
+        "AirTemperature": "65.33"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:22:00 PM",
+        "RecordId": 3956071,
+        "RoadSurfaceTemperature": "79.85",
+        "AirTemperature": "65.89"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:26:00 PM",
+        "RecordId": 3886660,
+        "RoadSurfaceTemperature": "68.75",
+        "AirTemperature": "65.43"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:17:00 PM",
+        "RecordId": 3916151,
+        "RoadSurfaceTemperature": "90.30",
+        "AirTemperature": "68.28"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:17:00 PM",
+        "RecordId": 3863088,
+        "RoadSurfaceTemperature": "86.20",
+        "AirTemperature": "69.29"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:19:00 PM",
+        "RecordId": 2804663,
+        "RoadSurfaceTemperature": "64.81",
+        "AirTemperature": "64.81"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:29:00 PM",
+        "RecordId": 2804673,
+        "RoadSurfaceTemperature": "64.98",
+        "AirTemperature": "64.98"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:32:00 PM",
+        "RecordId": 2804676,
+        "RoadSurfaceTemperature": "65.05",
+        "AirTemperature": "65.05"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:29:00 PM",
+        "RecordId": 2910371,
+        "RoadSurfaceTemperature": "93.80",
+        "AirTemperature": "65.24"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:34:00 PM",
+        "RecordId": 2910376,
+        "RoadSurfaceTemperature": "93.90",
+        "AirTemperature": "64.49"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:34:00 PM",
+        "RecordId": 3956083,
+        "RoadSurfaceTemperature": "79.40",
+        "AirTemperature": "65.53"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:38:00 PM",
+        "RecordId": 3956087,
+        "RoadSurfaceTemperature": "79.25",
+        "AirTemperature": "65.42"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:29:00 PM",
+        "RecordId": 3863100,
+        "RoadSurfaceTemperature": "86.50",
+        "AirTemperature": "69.51"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:33:00 PM",
+        "RecordId": 3916167,
+        "RoadSurfaceTemperature": "90.10",
+        "AirTemperature": "69.04"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:44:00 PM",
+        "RecordId": 2910386,
+        "RoadSurfaceTemperature": "94.00",
+        "AirTemperature": "64.50"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 04:37:00 PM",
+        "RecordId": 3950093,
+        "RoadSurfaceTemperature": "72.60",
+        "AirTemperature": "72.60"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:38:00 PM",
+        "RecordId": 814651,
+        "RoadSurfaceTemperature": "17.80",
+        "AirTemperature": "18.19"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:40:00 PM",
+        "RecordId": 814653,
+        "RoadSurfaceTemperature": "17.76",
+        "AirTemperature": "18.53"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:44:00 PM",
+        "RecordId": 814657,
+        "RoadSurfaceTemperature": "17.66",
+        "AirTemperature": "18.25"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:42:00 PM",
+        "RecordId": 3886676,
+        "RoadSurfaceTemperature": "68.59",
+        "AirTemperature": "64.70"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:42:00 PM",
+        "RecordId": 3916176,
+        "RoadSurfaceTemperature": "89.80",
+        "AirTemperature": "68.48"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:50:00 PM",
+        "RecordId": 3916184,
+        "RoadSurfaceTemperature": "89.40",
+        "AirTemperature": "68.43"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:42:00 PM",
+        "RecordId": 3956091,
+        "RoadSurfaceTemperature": "79.06",
+        "AirTemperature": "65.50"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:39:00 PM",
+        "RecordId": 2804683,
+        "RoadSurfaceTemperature": "65.15",
+        "AirTemperature": "65.15"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:37:00 PM",
+        "RecordId": 3863108,
+        "RoadSurfaceTemperature": "86.70",
+        "AirTemperature": "69.53"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:41:00 PM",
+        "RecordId": 3863112,
+        "RoadSurfaceTemperature": "86.80",
+        "AirTemperature": "69.89"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 04:51:00 PM",
+        "RecordId": 3950107,
+        "RoadSurfaceTemperature": "71.85",
+        "AirTemperature": "71.85"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:50:00 PM",
+        "RecordId": 2910392,
+        "RoadSurfaceTemperature": "94.00",
+        "AirTemperature": "64.81"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:54:00 PM",
+        "RecordId": 2910396,
+        "RoadSurfaceTemperature": "94.10",
+        "AirTemperature": "64.50"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 04:58:00 PM",
+        "RecordId": 2910400,
+        "RoadSurfaceTemperature": "94.10",
+        "AirTemperature": "64.63"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:52:00 PM",
+        "RecordId": 814665,
+        "RoadSurfaceTemperature": "17.47",
+        "AirTemperature": "18.70"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:47:00 PM",
+        "RecordId": 3956096,
+        "RoadSurfaceTemperature": "78.75",
+        "AirTemperature": "65.37"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:56:00 PM",
+        "RecordId": 3956105,
+        "RoadSurfaceTemperature": "78.81",
+        "AirTemperature": "65.93"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:49:00 PM",
+        "RecordId": 3886683,
+        "RoadSurfaceTemperature": "68.54",
+        "AirTemperature": "64.97"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:51:00 PM",
+        "RecordId": 3886685,
+        "RoadSurfaceTemperature": "68.52",
+        "AirTemperature": "64.97"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:57:00 PM",
+        "RecordId": 3886691,
+        "RoadSurfaceTemperature": "68.50",
+        "AirTemperature": "65.46"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:58:00 PM",
+        "RecordId": 3916192,
+        "RoadSurfaceTemperature": "89.20",
+        "AirTemperature": "68.33"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:52:00 PM",
+        "RecordId": 2804696,
+        "RoadSurfaceTemperature": "65.34",
+        "AirTemperature": "65.34"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 04:55:00 PM",
+        "RecordId": 2804699,
+        "RoadSurfaceTemperature": "65.39",
+        "AirTemperature": "65.39"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:47:00 PM",
+        "RecordId": 3863118,
+        "RoadSurfaceTemperature": "86.80",
+        "AirTemperature": "69.78"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:49:00 PM",
+        "RecordId": 3863120,
+        "RoadSurfaceTemperature": "86.90",
+        "AirTemperature": "69.98"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:00:00 PM",
+        "RecordId": 3863131,
+        "RoadSurfaceTemperature": "87.00",
+        "AirTemperature": "70.20"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 04:58:00 PM",
+        "RecordId": 3950114,
+        "RoadSurfaceTemperature": "71.40",
+        "AirTemperature": "71.40"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 05:07:00 PM",
+        "RecordId": 3950123,
+        "RoadSurfaceTemperature": "70.86",
+        "AirTemperature": "70.86"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:06:00 PM",
+        "RecordId": 2804710,
+        "RoadSurfaceTemperature": "65.54",
+        "AirTemperature": "65.54"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 04:56:00 PM",
+        "RecordId": 814669,
+        "RoadSurfaceTemperature": "17.37",
+        "AirTemperature": "18. Jul"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:10:00 PM",
+        "RecordId": 814683,
+        "RoadSurfaceTemperature": "17. Apr",
+        "AirTemperature": "18.60"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 04:56:00 PM",
+        "RecordId": 3956105,
+        "RoadSurfaceTemperature": "78.81",
+        "AirTemperature": "65.93"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 04:57:00 PM",
+        "RecordId": 3916191,
+        "RoadSurfaceTemperature": "89.20",
+        "AirTemperature": "68.44"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:04:00 PM",
+        "RecordId": 3916198,
+        "RoadSurfaceTemperature": "88.80",
+        "AirTemperature": "67.49"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 04:56:00 PM",
+        "RecordId": 3886690,
+        "RoadSurfaceTemperature": "68.51",
+        "AirTemperature": "65.38"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:01:00 PM",
+        "RecordId": 3886695,
+        "RoadSurfaceTemperature": "68.48",
+        "AirTemperature": "65.35"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:07:00 PM",
+        "RecordId": 3886701,
+        "RoadSurfaceTemperature": "68.45",
+        "AirTemperature": "64.81"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 04:58:00 PM",
+        "RecordId": 3863129,
+        "RoadSurfaceTemperature": "86.90",
+        "AirTemperature": "69.92"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:04:00 PM",
+        "RecordId": 3863135,
+        "RoadSurfaceTemperature": "87.00",
+        "AirTemperature": "70.77"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:20:00 PM",
+        "RecordId": 2804724,
+        "RoadSurfaceTemperature": "65.70",
+        "AirTemperature": "65.70"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:10:00 PM",
+        "RecordId": 2910412,
+        "RoadSurfaceTemperature": "94.00",
+        "AirTemperature": "64.46"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:13:00 PM",
+        "RecordId": 2910415,
+        "RoadSurfaceTemperature": "93.90",
+        "AirTemperature": "64.69"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:13:00 PM",
+        "RecordId": 814686,
+        "RoadSurfaceTemperature": "16.97",
+        "AirTemperature": "18.60"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:16:00 PM",
+        "RecordId": 814689,
+        "RoadSurfaceTemperature": "16.89",
+        "AirTemperature": "18.61"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 05:15:00 PM",
+        "RecordId": 3950131,
+        "RoadSurfaceTemperature": "70.45",
+        "AirTemperature": "70.45"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 05:15:00 PM",
+        "RecordId": 3956124,
+        "RoadSurfaceTemperature": "79.99",
+        "AirTemperature": "65.62"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:08:00 PM",
+        "RecordId": 3916202,
+        "RoadSurfaceTemperature": "88.60",
+        "AirTemperature": "67.83"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:15:00 PM",
+        "RecordId": 3916209,
+        "RoadSurfaceTemperature": "88.20",
+        "AirTemperature": "68.52"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:18:00 PM",
+        "RecordId": 3916212,
+        "RoadSurfaceTemperature": "87.90",
+        "AirTemperature": "68.37"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:20:00 PM",
+        "RecordId": 3916214,
+        "RoadSurfaceTemperature": "87.80",
+        "AirTemperature": "68.89"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:14:00 PM",
+        "RecordId": 3886708,
+        "RoadSurfaceTemperature": "68.41",
+        "AirTemperature": "64.82"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:07:00 PM",
+        "RecordId": 3863138,
+        "RoadSurfaceTemperature": "87.00",
+        "AirTemperature": "71.00"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:09:00 PM",
+        "RecordId": 3863140,
+        "RoadSurfaceTemperature": "87.00",
+        "AirTemperature": "70.80"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:14:00 PM",
+        "RecordId": 3863145,
+        "RoadSurfaceTemperature": "87.00",
+        "AirTemperature": "71.18"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:16:00 PM",
+        "RecordId": 3863147,
+        "RoadSurfaceTemperature": "86.90",
+        "AirTemperature": "71.29"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:18:00 PM",
+        "RecordId": 3863149,
+        "RoadSurfaceTemperature": "86.90",
+        "AirTemperature": "71.34"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:27:00 PM",
+        "RecordId": 2910429,
+        "RoadSurfaceTemperature": "93.50",
+        "AirTemperature": "65.10"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:29:00 PM",
+        "RecordId": 2910431,
+        "RoadSurfaceTemperature": "93.50",
+        "AirTemperature": "65.10"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:26:00 PM",
+        "RecordId": 814699,
+        "RoadSurfaceTemperature": "16.66",
+        "AirTemperature": "18.45"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 05:23:00 PM",
+        "RecordId": 3950139,
+        "RoadSurfaceTemperature": "70.06",
+        "AirTemperature": "70.06"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 05:16:00 PM",
+        "RecordId": 3956125,
+        "RoadSurfaceTemperature": "80.10",
+        "AirTemperature": "65.65"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 05:22:00 PM",
+        "RecordId": 3956131,
+        "RoadSurfaceTemperature": "80.30",
+        "AirTemperature": "65.60"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:16:00 PM",
+        "RecordId": 3886710,
+        "RoadSurfaceTemperature": "68.40",
+        "AirTemperature": "64.64"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:23:00 PM",
+        "RecordId": 3886717,
+        "RoadSurfaceTemperature": "68.35",
+        "AirTemperature": "64.81"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:16:00 PM",
+        "RecordId": 3863147,
+        "RoadSurfaceTemperature": "86.90",
+        "AirTemperature": "71.29"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:28:00 PM",
+        "RecordId": 2910430,
+        "RoadSurfaceTemperature": "93.50",
+        "AirTemperature": "65.05"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "05/26/2020 05:40:00 PM",
+        "RecordId": 2910442,
+        "RoadSurfaceTemperature": "93.10",
+        "AirTemperature": "64.73"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:27:00 PM",
+        "RecordId": 2804731,
+        "RoadSurfaceTemperature": "65.79",
+        "AirTemperature": "65.79"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:30:00 PM",
+        "RecordId": 2804734,
+        "RoadSurfaceTemperature": "65.81",
+        "AirTemperature": "65.81"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:33:00 PM",
+        "RecordId": 2804737,
+        "RoadSurfaceTemperature": "65.84",
+        "AirTemperature": "65.84"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:33:00 PM",
+        "RecordId": 814706,
+        "RoadSurfaceTemperature": "16.50",
+        "AirTemperature": "18.43"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:51:00 PM",
+        "RecordId": 3593400,
+        "RoadSurfaceTemperature": "60.14",
+        "AirTemperature": "59.50"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 07:53:00 PM",
+        "RecordId": 3593402,
+        "RoadSurfaceTemperature": "60.12",
+        "AirTemperature": "59.38"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:51:00 PM",
+        "RecordId": 2442013,
+        "RoadSurfaceTemperature": "63.59",
+        "AirTemperature": "63.59"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:52:00 PM",
+        "RecordId": 2442014,
+        "RoadSurfaceTemperature": "63.58",
+        "AirTemperature": "63.58"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 08:07:00 PM",
+        "RecordId": 2547709,
+        "RoadSurfaceTemperature": "61.28",
+        "AirTemperature": "58.51"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 08:08:00 PM",
+        "RecordId": 2547710,
+        "RoadSurfaceTemperature": "61.25",
+        "AirTemperature": "58.48"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 08:09:00 PM",
+        "RecordId": 2547711,
+        "RoadSurfaceTemperature": "61.23",
+        "AirTemperature": "58.43"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 08:10:00 PM",
+        "RecordId": 2547712,
+        "RoadSurfaceTemperature": "61.20",
+        "AirTemperature": "58.36"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:56:00 PM",
+        "RecordId": 2442018,
+        "RoadSurfaceTemperature": "63.55",
+        "AirTemperature": "63.55"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:57:00 PM",
+        "RecordId": 2442019,
+        "RoadSurfaceTemperature": "63.56",
+        "AirTemperature": "63.56"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:58:00 PM",
+        "RecordId": 2442020,
+        "RoadSurfaceTemperature": "63.55",
+        "AirTemperature": "63.55"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 07:59:00 PM",
+        "RecordId": 2442021,
+        "RoadSurfaceTemperature": "63.53",
+        "AirTemperature": "63.53"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:00:00 PM",
+        "RecordId": 2442022,
+        "RoadSurfaceTemperature": "63.51",
+        "AirTemperature": "63.51"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:01:00 PM",
+        "RecordId": 2442023,
+        "RoadSurfaceTemperature": "63.52",
+        "AirTemperature": "63.52"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:02:00 PM",
+        "RecordId": 2442024,
+        "RoadSurfaceTemperature": "63.51",
+        "AirTemperature": "63.51"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:03:00 PM",
+        "RecordId": 2442025,
+        "RoadSurfaceTemperature": "63.50",
+        "AirTemperature": "63.50"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:04:00 PM",
+        "RecordId": 2442026,
+        "RoadSurfaceTemperature": "63.48",
+        "AirTemperature": "63.48"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:05:00 PM",
+        "RecordId": 2442027,
+        "RoadSurfaceTemperature": "63.48",
+        "AirTemperature": "63.48"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:06:00 PM",
+        "RecordId": 2442028,
+        "RoadSurfaceTemperature": "63.47",
+        "AirTemperature": "63.47"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:07:00 PM",
+        "RecordId": 2442029,
+        "RoadSurfaceTemperature": "63.47",
+        "AirTemperature": "63.47"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:08:00 PM",
+        "RecordId": 2442030,
+        "RoadSurfaceTemperature": "63.44",
+        "AirTemperature": "63.44"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:09:00 PM",
+        "RecordId": 2442031,
+        "RoadSurfaceTemperature": "63.41",
+        "AirTemperature": "63.41"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:10:00 PM",
+        "RecordId": 2442032,
+        "RoadSurfaceTemperature": "63.40",
+        "AirTemperature": "63.40"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:55:00 PM",
+        "RecordId": 3523989,
+        "RoadSurfaceTemperature": "62.27",
+        "AirTemperature": "58.94"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:56:00 PM",
+        "RecordId": 3523990,
+        "RoadSurfaceTemperature": "62.27",
+        "AirTemperature": "58.95"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:57:00 PM",
+        "RecordId": 3523991,
+        "RoadSurfaceTemperature": "62.27",
+        "AirTemperature": "58.97"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:58:00 PM",
+        "RecordId": 3523992,
+        "RoadSurfaceTemperature": "62.25",
+        "AirTemperature": "59.06"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 07:59:00 PM",
+        "RecordId": 3523993,
+        "RoadSurfaceTemperature": "62.23",
+        "AirTemperature": "59.06"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:00:00 PM",
+        "RecordId": 3523994,
+        "RoadSurfaceTemperature": "62.22",
+        "AirTemperature": "59.00"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:01:00 PM",
+        "RecordId": 3523995,
+        "RoadSurfaceTemperature": "62.22",
+        "AirTemperature": "58.88"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:02:00 PM",
+        "RecordId": 3523996,
+        "RoadSurfaceTemperature": "62.19",
+        "AirTemperature": "58.75"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:03:00 PM",
+        "RecordId": 3523997,
+        "RoadSurfaceTemperature": "62.18",
+        "AirTemperature": "58.66"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:04:00 PM",
+        "RecordId": 3523998,
+        "RoadSurfaceTemperature": "62.18",
+        "AirTemperature": "58.75"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:05:00 PM",
+        "RecordId": 3523999,
+        "RoadSurfaceTemperature": "62.18",
+        "AirTemperature": "58.76"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:06:00 PM",
+        "RecordId": 3524000,
+        "RoadSurfaceTemperature": "62.17",
+        "AirTemperature": "58.59"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:07:00 PM",
+        "RecordId": 3524001,
+        "RoadSurfaceTemperature": "62.14",
+        "AirTemperature": "58.54"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:08:00 PM",
+        "RecordId": 3524002,
+        "RoadSurfaceTemperature": "62.13",
+        "AirTemperature": "58.60"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 08:09:00 PM",
+        "RecordId": 3524003,
+        "RoadSurfaceTemperature": "62.13",
+        "AirTemperature": "58.53"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:55:00 PM",
+        "RecordId": 3500426,
+        "RoadSurfaceTemperature": "60.72",
+        "AirTemperature": "64.47"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:56:00 PM",
+        "RecordId": 3500427,
+        "RoadSurfaceTemperature": "60.70",
+        "AirTemperature": "64.40"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:57:00 PM",
+        "RecordId": 3500428,
+        "RoadSurfaceTemperature": "60.68",
+        "AirTemperature": "64.44"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:58:00 PM",
+        "RecordId": 3500429,
+        "RoadSurfaceTemperature": "60.66",
+        "AirTemperature": "64.21"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 07:59:00 PM",
+        "RecordId": 3500430,
+        "RoadSurfaceTemperature": "60.63",
+        "AirTemperature": "64.28"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:00:00 PM",
+        "RecordId": 3500431,
+        "RoadSurfaceTemperature": "60.61",
+        "AirTemperature": "64.30"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:01:00 PM",
+        "RecordId": 3500432,
+        "RoadSurfaceTemperature": "60.58",
+        "AirTemperature": "64.19"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:02:00 PM",
+        "RecordId": 3500433,
+        "RoadSurfaceTemperature": "60.58",
+        "AirTemperature": "64.21"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:03:00 PM",
+        "RecordId": 3500434,
+        "RoadSurfaceTemperature": "60.54",
+        "AirTemperature": "64.30"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:04:00 PM",
+        "RecordId": 3500435,
+        "RoadSurfaceTemperature": "60.52",
+        "AirTemperature": "64.28"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:05:00 PM",
+        "RecordId": 3500436,
+        "RoadSurfaceTemperature": "60.49",
+        "AirTemperature": "64.21"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:06:00 PM",
+        "RecordId": 3500437,
+        "RoadSurfaceTemperature": "60.49",
+        "AirTemperature": "64.26"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:07:00 PM",
+        "RecordId": 3500438,
+        "RoadSurfaceTemperature": "60.45",
+        "AirTemperature": "64.15"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:08:00 PM",
+        "RecordId": 3500439,
+        "RoadSurfaceTemperature": "60.43",
+        "AirTemperature": "64.11"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:09:00 PM",
+        "RecordId": 3500440,
+        "RoadSurfaceTemperature": "60.40",
+        "AirTemperature": "64.20"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:06:00 PM",
+        "RecordId": 2442028,
+        "RoadSurfaceTemperature": "63.47",
+        "AirTemperature": "63.47"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:07:00 PM",
+        "RecordId": 2442029,
+        "RoadSurfaceTemperature": "63.47",
+        "AirTemperature": "63.47"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:08:00 PM",
+        "RecordId": 2442030,
+        "RoadSurfaceTemperature": "63.44",
+        "AirTemperature": "63.44"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:09:00 PM",
+        "RecordId": 2442031,
+        "RoadSurfaceTemperature": "63.41",
+        "AirTemperature": "63.41"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:10:00 PM",
+        "RecordId": 2442032,
+        "RoadSurfaceTemperature": "63.40",
+        "AirTemperature": "63.40"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:11:00 PM",
+        "RecordId": 2442033,
+        "RoadSurfaceTemperature": "63.39",
+        "AirTemperature": "63.39"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:12:00 PM",
+        "RecordId": 2442034,
+        "RoadSurfaceTemperature": "63.39",
+        "AirTemperature": "63.39"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:13:00 PM",
+        "RecordId": 2442035,
+        "RoadSurfaceTemperature": "63.38",
+        "AirTemperature": "63.38"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:14:00 PM",
+        "RecordId": 2442036,
+        "RoadSurfaceTemperature": "63.36",
+        "AirTemperature": "63.36"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:15:00 PM",
+        "RecordId": 2442037,
+        "RoadSurfaceTemperature": "63.35",
+        "AirTemperature": "63.35"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:16:00 PM",
+        "RecordId": 2442038,
+        "RoadSurfaceTemperature": "63.33",
+        "AirTemperature": "63.33"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:17:00 PM",
+        "RecordId": 2442039,
+        "RoadSurfaceTemperature": "63.31",
+        "AirTemperature": "63.31"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:18:00 PM",
+        "RecordId": 2442040,
+        "RoadSurfaceTemperature": "63.31",
+        "AirTemperature": "63.31"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:19:00 PM",
+        "RecordId": 2442041,
+        "RoadSurfaceTemperature": "63.31",
+        "AirTemperature": "63.31"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "09/17/2019 08:20:00 PM",
+        "RecordId": 2442042,
+        "RoadSurfaceTemperature": "63.30",
+        "AirTemperature": "63.30"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:16:00 PM",
+        "RecordId": 452558,
+        "RoadSurfaceTemperature": "22.28",
+        "AirTemperature": "26.29"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:17:00 PM",
+        "RecordId": 452559,
+        "RoadSurfaceTemperature": "22.29",
+        "AirTemperature": "26.36"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:18:00 PM",
+        "RecordId": 452560,
+        "RoadSurfaceTemperature": "22.29",
+        "AirTemperature": "26.42"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:19:00 PM",
+        "RecordId": 452561,
+        "RoadSurfaceTemperature": "22.29",
+        "AirTemperature": "26.42"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:20:00 PM",
+        "RecordId": 452562,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.45"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:21:00 PM",
+        "RecordId": 452563,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.43"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:22:00 PM",
+        "RecordId": 452564,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.36"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:23:00 PM",
+        "RecordId": 452565,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.30"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:24:00 PM",
+        "RecordId": 452566,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.29"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:25:00 PM",
+        "RecordId": 452567,
+        "RoadSurfaceTemperature": "22.31",
+        "AirTemperature": "26.27"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:26:00 PM",
+        "RecordId": 452568,
+        "RoadSurfaceTemperature": "22.32",
+        "AirTemperature": "26.24"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:27:00 PM",
+        "RecordId": 452569,
+        "RoadSurfaceTemperature": "22.33",
+        "AirTemperature": "26.23"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/18/2019 03:16:00 PM",
+        "RecordId": 3554650,
+        "RoadSurfaceTemperature": "82.70",
+        "AirTemperature": "66.39"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/18/2019 03:17:00 PM",
+        "RecordId": 3554651,
+        "RoadSurfaceTemperature": "82.60",
+        "AirTemperature": "66.54"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/18/2019 03:18:00 PM",
+        "RecordId": 3554652,
+        "RoadSurfaceTemperature": "82.60",
+        "AirTemperature": "66.67"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/18/2019 03:19:00 PM",
+        "RecordId": 3554653,
+        "RoadSurfaceTemperature": "82.60",
+        "AirTemperature": "66.67"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 01:40:00 PM",
+        "RecordId": 3949916,
+        "RoadSurfaceTemperature": "71.08",
+        "AirTemperature": "71.08"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "05/26/2020 05:40:00 PM",
+        "RecordId": 814713,
+        "RoadSurfaceTemperature": "16.32",
+        "AirTemperature": "18.96"
+    },
+    {
+        "StationName": "35thAveSW_SWMyrtleSt",
+        "StationLocation": "POINT (-122.37658 47.53918)",
+        "DateTime": "05/26/2020 05:40:00 PM",
+        "RecordId": 2804744,
+        "RoadSurfaceTemperature": "65.89",
+        "AirTemperature": "65.89"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 05:34:00 PM",
+        "RecordId": 3950150,
+        "RoadSurfaceTemperature": "69.57",
+        "AirTemperature": "69.57"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "05/26/2020 05:37:00 PM",
+        "RecordId": 3950153,
+        "RoadSurfaceTemperature": "69.43",
+        "AirTemperature": "69.43"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:32:00 PM",
+        "RecordId": 3886726,
+        "RoadSurfaceTemperature": "68.26",
+        "AirTemperature": "64.45"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "05/26/2020 05:36:00 PM",
+        "RecordId": 3886730,
+        "RoadSurfaceTemperature": "68.20",
+        "AirTemperature": "64.60"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "05/26/2020 05:34:00 PM",
+        "RecordId": 3916228,
+        "RoadSurfaceTemperature": "86.80",
+        "AirTemperature": "66.51"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 05:30:00 PM",
+        "RecordId": 3956139,
+        "RoadSurfaceTemperature": "80.50",
+        "AirTemperature": "65.52"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "05/26/2020 05:35:00 PM",
+        "RecordId": 3956144,
+        "RoadSurfaceTemperature": "80.50",
+        "AirTemperature": "65.30"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:28:00 PM",
+        "RecordId": 3863159,
+        "RoadSurfaceTemperature": "86.40",
+        "AirTemperature": "71.67"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:29:00 PM",
+        "RecordId": 3863160,
+        "RoadSurfaceTemperature": "86.40",
+        "AirTemperature": "71.80"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:30:00 PM",
+        "RecordId": 3863161,
+        "RoadSurfaceTemperature": "86.40",
+        "AirTemperature": "71.87"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:31:00 PM",
+        "RecordId": 3863162,
+        "RoadSurfaceTemperature": "86.30",
+        "AirTemperature": "71.85"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:32:00 PM",
+        "RecordId": 3863163,
+        "RoadSurfaceTemperature": "86.30",
+        "AirTemperature": "71.86"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:28:00 PM",
+        "RecordId": 452570,
+        "RoadSurfaceTemperature": "22.34",
+        "AirTemperature": "26.25"
+    },
+    {
+        "StationName": "AlbroPlaceAirportWay",
+        "StationLocation": "POINT (-122.314114 47.547426)",
+        "DateTime": "09/17/2019 08:29:00 PM",
+        "RecordId": 452571,
+        "RoadSurfaceTemperature": "22.34",
+        "AirTemperature": "26.25"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "05/26/2020 05:33:00 PM",
+        "RecordId": 3863164,
+        "RoadSurfaceTemperature": "86.20",
+        "AirTemperature": "71.89"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:46:00 AM",
+        "RecordId": 2546608,
+        "RoadSurfaceTemperature": "60.61",
+        "AirTemperature": "57.80"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:47:00 AM",
+        "RecordId": 2546609,
+        "RoadSurfaceTemperature": "60.60",
+        "AirTemperature": "57.81"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:48:00 AM",
+        "RecordId": 2546610,
+        "RoadSurfaceTemperature": "60.59",
+        "AirTemperature": "57.78"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:49:00 AM",
+        "RecordId": 2546611,
+        "RoadSurfaceTemperature": "60.57",
+        "AirTemperature": "57.77"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:50:00 AM",
+        "RecordId": 2546612,
+        "RoadSurfaceTemperature": "60.56",
+        "AirTemperature": "57.77"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:51:00 AM",
+        "RecordId": 2546613,
+        "RoadSurfaceTemperature": "60.54",
+        "AirTemperature": "57.80"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:52:00 AM",
+        "RecordId": 2546614,
+        "RoadSurfaceTemperature": "60.52",
+        "AirTemperature": "57.83"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:53:00 AM",
+        "RecordId": 2546615,
+        "RoadSurfaceTemperature": "60.51",
+        "AirTemperature": "57.84"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:54:00 AM",
+        "RecordId": 2546616,
+        "RoadSurfaceTemperature": "60.50",
+        "AirTemperature": "57.82"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:55:00 AM",
+        "RecordId": 2546617,
+        "RoadSurfaceTemperature": "60.48",
+        "AirTemperature": "57.84"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:56:00 AM",
+        "RecordId": 2546618,
+        "RoadSurfaceTemperature": "60.47",
+        "AirTemperature": "57.87"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:57:00 AM",
+        "RecordId": 2546619,
+        "RoadSurfaceTemperature": "60.47",
+        "AirTemperature": "57.89"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:58:00 AM",
+        "RecordId": 2546620,
+        "RoadSurfaceTemperature": "60.45",
+        "AirTemperature": "57.95"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 01:59:00 AM",
+        "RecordId": 2546621,
+        "RoadSurfaceTemperature": "60.43",
+        "AirTemperature": "57.99"
+    },
+    {
+        "StationName": "HarborAveUpperNorthBridge",
+        "StationLocation": "POINT (-122.370873 47.571695)",
+        "DateTime": "09/17/2019 02:00:00 AM",
+        "RecordId": 2546622,
+        "RoadSurfaceTemperature": "60.42",
+        "AirTemperature": "58.02"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:46:00 AM",
+        "RecordId": 3586382,
+        "RoadSurfaceTemperature": "61.09",
+        "AirTemperature": "61.09"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:47:00 AM",
+        "RecordId": 3586383,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:48:00 AM",
+        "RecordId": 3586384,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:49:00 AM",
+        "RecordId": 3586385,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:50:00 AM",
+        "RecordId": 3586386,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:51:00 AM",
+        "RecordId": 3586387,
+        "RoadSurfaceTemperature": "61.07",
+        "AirTemperature": "61.07"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:52:00 AM",
+        "RecordId": 3586388,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:53:00 AM",
+        "RecordId": 3586389,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:54:00 AM",
+        "RecordId": 3586390,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:55:00 AM",
+        "RecordId": 3586391,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:56:00 AM",
+        "RecordId": 3586392,
+        "RoadSurfaceTemperature": "61.07",
+        "AirTemperature": "61.07"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:57:00 AM",
+        "RecordId": 3586393,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:58:00 AM",
+        "RecordId": 3586394,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:59:00 AM",
+        "RecordId": 3586395,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 03:00:00 AM",
+        "RecordId": 3586396,
+        "RoadSurfaceTemperature": "61.08",
+        "AirTemperature": "61.08"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:46:00 AM",
+        "RecordId": 3499397,
+        "RoadSurfaceTemperature": "58.41",
+        "AirTemperature": "62.02"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:47:00 AM",
+        "RecordId": 3499398,
+        "RoadSurfaceTemperature": "58.41",
+        "AirTemperature": "62.11"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:48:00 AM",
+        "RecordId": 3499399,
+        "RoadSurfaceTemperature": "58.40",
+        "AirTemperature": "61.99"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:49:00 AM",
+        "RecordId": 3499400,
+        "RoadSurfaceTemperature": "58.40",
+        "AirTemperature": "62.13"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:50:00 AM",
+        "RecordId": 3499401,
+        "RoadSurfaceTemperature": "58.40",
+        "AirTemperature": "62.13"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:51:00 AM",
+        "RecordId": 3499402,
+        "RoadSurfaceTemperature": "58.40",
+        "AirTemperature": "62.16"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:52:00 AM",
+        "RecordId": 3499403,
+        "RoadSurfaceTemperature": "58.40",
+        "AirTemperature": "62.23"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:53:00 AM",
+        "RecordId": 3499404,
+        "RoadSurfaceTemperature": "58.39",
+        "AirTemperature": "62.27"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:54:00 AM",
+        "RecordId": 3499405,
+        "RoadSurfaceTemperature": "58.39",
+        "AirTemperature": "62.41"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:55:00 AM",
+        "RecordId": 3499406,
+        "RoadSurfaceTemperature": "58.38",
+        "AirTemperature": "62.45"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:56:00 AM",
+        "RecordId": 3499407,
+        "RoadSurfaceTemperature": "58.37",
+        "AirTemperature": "62.50"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:57:00 AM",
+        "RecordId": 3499408,
+        "RoadSurfaceTemperature": "58.37",
+        "AirTemperature": "62.50"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:58:00 AM",
+        "RecordId": 3499409,
+        "RoadSurfaceTemperature": "58.36",
+        "AirTemperature": "62.51"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:59:00 AM",
+        "RecordId": 3499410,
+        "RoadSurfaceTemperature": "58.36",
+        "AirTemperature": "62.30"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 03:00:00 AM",
+        "RecordId": 3499411,
+        "RoadSurfaceTemperature": "58.36",
+        "AirTemperature": "62.21"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:46:00 AM",
+        "RecordId": 3592375,
+        "RoadSurfaceTemperature": "62.46",
+        "AirTemperature": "58.79"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:47:00 AM",
+        "RecordId": 3592376,
+        "RoadSurfaceTemperature": "62.45",
+        "AirTemperature": "58.79"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:48:00 AM",
+        "RecordId": 3592377,
+        "RoadSurfaceTemperature": "62.44",
+        "AirTemperature": "58.79"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:49:00 AM",
+        "RecordId": 3592378,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "58.82"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:50:00 AM",
+        "RecordId": 3592379,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "58.83"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:51:00 AM",
+        "RecordId": 3592380,
+        "RoadSurfaceTemperature": "62.40",
+        "AirTemperature": "58.85"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:52:00 AM",
+        "RecordId": 3592381,
+        "RoadSurfaceTemperature": "62.39",
+        "AirTemperature": "58.83"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:53:00 AM",
+        "RecordId": 3592382,
+        "RoadSurfaceTemperature": "62.38",
+        "AirTemperature": "58.84"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:54:00 AM",
+        "RecordId": 3592383,
+        "RoadSurfaceTemperature": "62.37",
+        "AirTemperature": "58.86"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:55:00 AM",
+        "RecordId": 3592384,
+        "RoadSurfaceTemperature": "62.36",
+        "AirTemperature": "58.86"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:56:00 AM",
+        "RecordId": 3592385,
+        "RoadSurfaceTemperature": "62.35",
+        "AirTemperature": "58.87"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:57:00 AM",
+        "RecordId": 3592386,
+        "RoadSurfaceTemperature": "62.34",
+        "AirTemperature": "58.88"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:58:00 AM",
+        "RecordId": 3592387,
+        "RoadSurfaceTemperature": "62.34",
+        "AirTemperature": "58.88"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 02:59:00 AM",
+        "RecordId": 3592388,
+        "RoadSurfaceTemperature": "62.32",
+        "AirTemperature": "58.92"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 03:00:00 AM",
+        "RecordId": 3592389,
+        "RoadSurfaceTemperature": "62.32",
+        "AirTemperature": "58.95"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:46:00 AM",
+        "RecordId": 3552460,
+        "RoadSurfaceTemperature": "60.24",
+        "AirTemperature": "57.60"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:47:00 AM",
+        "RecordId": 3552461,
+        "RoadSurfaceTemperature": "60.24",
+        "AirTemperature": "57.58"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:48:00 AM",
+        "RecordId": 3552462,
+        "RoadSurfaceTemperature": "60.22",
+        "AirTemperature": "57.55"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:49:00 AM",
+        "RecordId": 3552463,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.51"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:50:00 AM",
+        "RecordId": 3552464,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.50"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:51:00 AM",
+        "RecordId": 3552465,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.47"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:52:00 AM",
+        "RecordId": 3552466,
+        "RoadSurfaceTemperature": "60.20",
+        "AirTemperature": "57.48"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:53:00 AM",
+        "RecordId": 3552467,
+        "RoadSurfaceTemperature": "60.19",
+        "AirTemperature": "57.45"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:54:00 AM",
+        "RecordId": 3552468,
+        "RoadSurfaceTemperature": "60.16",
+        "AirTemperature": "57.43"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:55:00 AM",
+        "RecordId": 3552469,
+        "RoadSurfaceTemperature": "60.16",
+        "AirTemperature": "57.43"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:56:00 AM",
+        "RecordId": 3552470,
+        "RoadSurfaceTemperature": "60.15",
+        "AirTemperature": "57.42"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:57:00 AM",
+        "RecordId": 3552471,
+        "RoadSurfaceTemperature": "60.13",
+        "AirTemperature": "57.42"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:58:00 AM",
+        "RecordId": 3552472,
+        "RoadSurfaceTemperature": "60.11",
+        "AirTemperature": "57.43"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 02:59:00 AM",
+        "RecordId": 3552473,
+        "RoadSurfaceTemperature": "60.11",
+        "AirTemperature": "57.43"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 03:00:00 AM",
+        "RecordId": 3552474,
+        "RoadSurfaceTemperature": "60.11",
+        "AirTemperature": "57.43"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:18:00 PM",
+        "RecordId": 3500089,
+        "RoadSurfaceTemperature": "62.54",
+        "AirTemperature": "62.00"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:19:00 PM",
+        "RecordId": 3500090,
+        "RoadSurfaceTemperature": "62.54",
+        "AirTemperature": "62.02"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 02:20:00 PM",
+        "RecordId": 3500091,
+        "RoadSurfaceTemperature": "62.54",
+        "AirTemperature": "62.00"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:15:00 PM",
+        "RecordId": 3587071,
+        "RoadSurfaceTemperature": "63.79",
+        "AirTemperature": "63.79"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:16:00 PM",
+        "RecordId": 3587072,
+        "RoadSurfaceTemperature": "63.74",
+        "AirTemperature": "63.74"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:17:00 PM",
+        "RecordId": 3587073,
+        "RoadSurfaceTemperature": "63.72",
+        "AirTemperature": "63.72"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:18:00 PM",
+        "RecordId": 3587074,
+        "RoadSurfaceTemperature": "63.68",
+        "AirTemperature": "63.68"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:19:00 PM",
+        "RecordId": 3587075,
+        "RoadSurfaceTemperature": "63.66",
+        "AirTemperature": "63.66"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:20:00 PM",
+        "RecordId": 3587076,
+        "RoadSurfaceTemperature": "63.63",
+        "AirTemperature": "63.63"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:21:00 PM",
+        "RecordId": 3587077,
+        "RoadSurfaceTemperature": "63.61",
+        "AirTemperature": "63.61"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:22:00 PM",
+        "RecordId": 3587078,
+        "RoadSurfaceTemperature": "63.62",
+        "AirTemperature": "63.62"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:23:00 PM",
+        "RecordId": 3587079,
+        "RoadSurfaceTemperature": "63.63",
+        "AirTemperature": "63.63"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:24:00 PM",
+        "RecordId": 3587080,
+        "RoadSurfaceTemperature": "63.64",
+        "AirTemperature": "63.64"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:25:00 PM",
+        "RecordId": 3587081,
+        "RoadSurfaceTemperature": "63.65",
+        "AirTemperature": "63.65"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:26:00 PM",
+        "RecordId": 3587082,
+        "RoadSurfaceTemperature": "63.66",
+        "AirTemperature": "63.66"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:27:00 PM",
+        "RecordId": 3587083,
+        "RoadSurfaceTemperature": "63.66",
+        "AirTemperature": "63.66"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:28:00 PM",
+        "RecordId": 3587084,
+        "RoadSurfaceTemperature": "63.66",
+        "AirTemperature": "63.66"
+    },
+    {
+        "StationName": "RooseveltWay_NE80thSt",
+        "StationLocation": "POINT (-122.31765 47.692098)",
+        "DateTime": "09/17/2019 02:29:00 PM",
+        "RecordId": 3587085,
+        "RoadSurfaceTemperature": "63.64",
+        "AirTemperature": "63.64"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:15:00 PM",
+        "RecordId": 3523649,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.94"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:16:00 PM",
+        "RecordId": 3523650,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.89"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:17:00 PM",
+        "RecordId": 3523651,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.83"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:18:00 PM",
+        "RecordId": 3523652,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.86"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:19:00 PM",
+        "RecordId": 3523653,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.89"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:20:00 PM",
+        "RecordId": 3523654,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "59.98"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:21:00 PM",
+        "RecordId": 3523655,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "60.05"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:22:00 PM",
+        "RecordId": 3523656,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "60.11"
+    },
+    {
+        "StationName": "AuroraBridge",
+        "StationLocation": "POINT (-122.347278 47.643174)",
+        "DateTime": "09/17/2019 02:23:00 PM",
+        "RecordId": 3523657,
+        "RoadSurfaceTemperature": "62.42",
+        "AirTemperature": "60.09"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:49:00 PM",
+        "RecordId": 3593458,
+        "RoadSurfaceTemperature": "59.53",
+        "AirTemperature": "57.64"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:50:00 PM",
+        "RecordId": 3593459,
+        "RoadSurfaceTemperature": "59.53",
+        "AirTemperature": "57.66"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:51:00 PM",
+        "RecordId": 3593460,
+        "RoadSurfaceTemperature": "59.51",
+        "AirTemperature": "57.72"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:52:00 PM",
+        "RecordId": 3593461,
+        "RoadSurfaceTemperature": "59.50",
+        "AirTemperature": "57.73"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:53:00 PM",
+        "RecordId": 3593462,
+        "RoadSurfaceTemperature": "59.49",
+        "AirTemperature": "57.69"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:54:00 PM",
+        "RecordId": 3593463,
+        "RoadSurfaceTemperature": "59.47",
+        "AirTemperature": "57.68"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:55:00 PM",
+        "RecordId": 3593464,
+        "RoadSurfaceTemperature": "59.46",
+        "AirTemperature": "57.65"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:56:00 PM",
+        "RecordId": 3593465,
+        "RoadSurfaceTemperature": "59.45",
+        "AirTemperature": "57.60"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:57:00 PM",
+        "RecordId": 3593466,
+        "RoadSurfaceTemperature": "59.44",
+        "AirTemperature": "57.56"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:58:00 PM",
+        "RecordId": 3593467,
+        "RoadSurfaceTemperature": "59.43",
+        "AirTemperature": "57.56"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 08:59:00 PM",
+        "RecordId": 3593468,
+        "RoadSurfaceTemperature": "59.42",
+        "AirTemperature": "57.56"
+    },
+    {
+        "StationName": "NE45StViaduct",
+        "StationLocation": "POINT (-122.301929 47.66127)",
+        "DateTime": "09/17/2019 09:00:00 PM",
+        "RecordId": 3593469,
+        "RoadSurfaceTemperature": "59.41",
+        "AirTemperature": "57.56"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:45:00 PM",
+        "RecordId": 3500476,
+        "RoadSurfaceTemperature": "59.73",
+        "AirTemperature": "64.49"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:46:00 PM",
+        "RecordId": 3500477,
+        "RoadSurfaceTemperature": "59.72",
+        "AirTemperature": "64.32"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:47:00 PM",
+        "RecordId": 3500478,
+        "RoadSurfaceTemperature": "59.70",
+        "AirTemperature": "64.36"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:48:00 PM",
+        "RecordId": 3500479,
+        "RoadSurfaceTemperature": "59.69",
+        "AirTemperature": "64.30"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:49:00 PM",
+        "RecordId": 3500480,
+        "RoadSurfaceTemperature": "59.68",
+        "AirTemperature": "64.38"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:50:00 PM",
+        "RecordId": 3500481,
+        "RoadSurfaceTemperature": "59.66",
+        "AirTemperature": "64.42"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:51:00 PM",
+        "RecordId": 3500482,
+        "RoadSurfaceTemperature": "59.64",
+        "AirTemperature": "64.44"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:52:00 PM",
+        "RecordId": 3500483,
+        "RoadSurfaceTemperature": "59.63",
+        "AirTemperature": "64.46"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:53:00 PM",
+        "RecordId": 3500484,
+        "RoadSurfaceTemperature": "59.60",
+        "AirTemperature": "64.38"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:54:00 PM",
+        "RecordId": 3500485,
+        "RoadSurfaceTemperature": "59.60",
+        "AirTemperature": "64.27"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:55:00 PM",
+        "RecordId": 3500486,
+        "RoadSurfaceTemperature": "59.59",
+        "AirTemperature": "64.27"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:56:00 PM",
+        "RecordId": 3500487,
+        "RoadSurfaceTemperature": "59.58",
+        "AirTemperature": "64.41"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:57:00 PM",
+        "RecordId": 3500488,
+        "RoadSurfaceTemperature": "59.56",
+        "AirTemperature": "64.42"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:58:00 PM",
+        "RecordId": 3500489,
+        "RoadSurfaceTemperature": "59.55",
+        "AirTemperature": "64.43"
+    },
+    {
+        "StationName": "SpokaneSwingBridge",
+        "StationLocation": "POINT (-122.351743 47.571389)",
+        "DateTime": "09/17/2019 08:59:00 PM",
+        "RecordId": 3500490,
+        "RoadSurfaceTemperature": "59.54",
+        "AirTemperature": "64.40"
+    },
+    {
+        "StationName": "MagnoliaBridge",
+        "StationLocation": "POINT (-122.387341 47.633454)",
+        "DateTime": "09/17/2019 08:46:00 PM",
+        "RecordId": 3553540,
+        "RoadSurfaceTemperature": "58.04",
+        "AirTemperature": "57.67"
+    }
+]

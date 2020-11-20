@@ -1,0 +1,68 @@
+Description
+
+Distribution of various currently-licensed pets (cats, dogs, pigeons) by neighbourhood.
+
+Note that this is a snapshot of pets that were licensed as of the last update date of this dataset; if a pet was licensed a number of years ago but that license has since expired and not been renewed, the details of that pet will not appear in this dataset. It is therefore not possible to use this dataset to see trends in pet licensing over time.
+
+The rows with a year value of '2017' for example do not represent a comprehensive list of all pets that were licensed in 2017, but rather the subset of those pets that are still licensed as of the last update date of this dataset.
+
+
+Columns
+
+YEAR	
+Year when the pet is licensed
+Number
+	
+MONTH	
+Month name when pet is licensed.
+Plain Text
+	
+MONTH_NUMBER	
+Number for month when pet is licenced.
+Number
+	
+LICENSE_DATE	
+Month and year date when pet is licensed
+Date & Time
+	
+NEIGHBOURHOOD	
+Name of Neighbourhood where one may find the licensed pet.
+Plain Text
+	
+NEIGHBOURHOOD_ID	
+Unique Neighbourhood identifier
+Plain Text
+	
+PET_TYPE	
+Categorization of licensed pet - cat, dog or pigeon
+Plain Text
+	
+BREED	
+A breed is a group of domestic animals with a homogeneous appearance, behavior, and other characteristics that distinguish it from other animals of the same species, and arrived at through selective breeding.
+Plain Text
+	
+GENDER	
+Gender of pet animal - Male or Female
+Plain Text
+	
+SPAYED_OR_NEUTERED	
+Declaration if pet has been spayed or neutered
+Plain Text
+	
+LATITUDE	
+Horizontal location of Neighbourhood Centroid
+Number
+	
+LONGITUDE	
+Vertical location of Neighbourhood Centroid
+Number
+	
+LOCATION	
+Centroid Location of Neighbourhood
+Location
+	
+COUNT	
+Unique count for record - used for reportingNumber
+	
+Point Location
+Point

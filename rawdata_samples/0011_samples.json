@@ -1,0 +1,26 @@
+[
+    {
+        "Ticket Issue Date": "01/18/2020",
+        "Issue Time": "10:50",
+        "Meter": "MASS-1239",
+        "Violation Description": "METER EXP",
+        "Location": "* 1280 MASS AVE\nCambridge, MA\n(42.372581997000054, -71.11697699499996)",
+        "Department": "Traffic & Parking"
+    },
+    {
+        "Ticket Issue Date": "11/25/2019",
+        "Issue Time": "09:57",
+        "Meter": null,
+        "Violation Description": "STREET CLE",
+        "Location": "OPP 5 WASHINGTON AVE\nCambridge, MA\n(42.38413301400004, -71.12280400999998)",
+        "Department": "Police"
+    },
+    {
+        "Ticket Issue Date": "12/18/2019",
+        "Issue Time": "09:10",
+        "Meter": "MASS-1582",
+        "Violation Description": "O/T TIME",
+        "Location": "1580 MASS AVE\nCambridge, MA\n(42.379243012000074, -71.12056998099996)",
+        "Department": "Traffic & Parking"
+    }
+]

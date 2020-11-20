@@ -1,0 +1,104 @@
+[
+    {
+        "datasetid": "kfr-incidents",
+        "recordid": "9b950e52e4cd3584d6daef4dd1adc5fb1162f523",
+        "fields": {
+            "stations": "BROCK ST",
+            "response_time_median": 8.08,
+            "incident_duration": 32.7,
+            "geo_point_2d": [
+                44.2471198816,
+                -76.488965779
+            ],
+            "geojson": {
+                "type": "Point",
+                "coordinates": [
+                    -76.48896577904848,
+                    44.24711988163837
+                ]
+            },
+            "alarm_time": "2018-05-21",
+            "incident": "18-0500488",
+            "incident_type": "Other Response",
+            "units": "P241",
+            "unit_count": 1,
+            "call_type": "Other"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.488965779,
+                44.2471198816
+            ]
+        },
+        "record_timestamp": "2020-11-09T06:39:00+01:00"
+    },
+    {
+        "datasetid": "kfr-incidents",
+        "recordid": "97bdb9014c2274397bea4463ac96d9d196618eb8",
+        "fields": {
+            "stations": "BROCK ST,PALACE RD,RAILWAY ST",
+            "response_time_median": 4.7,
+            "incident_duration": 49.42,
+            "geo_point_2d": [
+                44.2341599764,
+                -76.4832051106
+            ],
+            "geojson": {
+                "type": "Point",
+                "coordinates": [
+                    -76.48320511059644,
+                    44.23415997636289
+                ]
+            },
+            "alarm_time": "2018-05-21",
+            "incident": "18-0500489",
+            "incident_type": "Alarm System Equipment - Malfunction",
+            "units": "L241,P241,P251,P261",
+            "unit_count": 4,
+            "call_type": "False Fire Call"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.4832051106,
+                44.2341599764
+            ]
+        },
+        "record_timestamp": "2020-11-09T06:39:00+01:00"
+    },
+    {
+        "datasetid": "kfr-incidents",
+        "recordid": "3b418d6047388f722474362409f9f388d402248f",
+        "fields": {
+            "stations": "BROCK ST",
+            "response_time_median": 4.3,
+            "incident_duration": 6.47,
+            "geo_point_2d": [
+                44.2333480589,
+                -76.4775773676
+            ],
+            "geojson": {
+                "type": "Point",
+                "coordinates": [
+                    -76.47757736760126,
+                    44.23334805894668
+                ]
+            },
+            "alarm_time": "2018-05-22",
+            "incident": "18-0500507",
+            "incident_type": "Medical/resuscitator call no action required",
+            "units": "P241",
+            "unit_count": 1,
+            "call_type": "Medical"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.4775773676,
+                44.2333480589
+            ]
+        },
+        "record_timestamp": "2020-11-09T06:39:00+01:00"
+    }
+]

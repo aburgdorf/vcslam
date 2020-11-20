@@ -1,0 +1,59 @@
+Description
+
+This dataset contains information about bikeways in City of Vancouver. 
+Note
+
+Some fields may be blank or have zero values if the information is not available.
+Data currency
+
+This data is updated frequently in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this website is updated weekly.
+Data accuracy
+
+These bikeways follow street centrelines so their placement in the street right of way is approximate. This dataset is maintained manually.
+
+This dataset includes data on shorter bikeway segments which can be different than how the bikeways are dispayed in the Vancouver Cycling Map. 
+
+
+Columns
+
+Unique ID
+Unique identification number attached to each bikeway segment
+
+Bike Route Name
+Bike route name (usually as it appears on street signs)
+
+Street Name
+Name of the street where the bikeway segment is located
+
+Bikeway Type
+Transportation planning definition of the bikeway types
+	Note: If there are different types at each side of the bikeway 	segment only one will be used.
+	Protected Bike Lanes: A dedicated bike lane that is physical protected from motor vehicle traffic or an off-street pathway
+	Local Street: A shared relatively quiet neighbourhood street with bike pavement markings and/or signs
+	Painted Lanes: A dedicated bike lane that is defined by paint lines and located between a sidewalk or a parking lane and a moving vehicle lane
+	Shared Lanes: A shared traffic lane on a relatively busy street with bike pavement markings
+
+Status
+Status of the specified bikeway segment- Active for existing, Planned for future bikeway
+
+Length
+Approximate length of segment measured in meters
+
+Year of Construction
+Year of construction. The year when the segment became an active bikeway of any type. Note: This field may be zero or blank if the information is not available
+
+Direction of Movement
+The general direction of movement: EW means East-west; NS means north-south
+
+Street Segment Types
+Street segment types, as follows: 
+	Arterial: Highest capacity roads identified to be significant for access to regional activity centres and critical for the movement of goods and people through the City. Arterial routes support heavy 				volumes of truck, transit and vehicle traffic
+	Collector: Roads intended to connect neighbourhoods with the arterial road network.
+	Lane: Neighbourhood roads intended as the primary access point to residential and commercial properties for local services such as waste collection and parking access.
+	Pathway: Walking and cycling routes intended to provide preferred routes for pedestrians and cyclists. Not generally intended for vehicle traffic.
+	Residential: Neighbourhood roads intended for the movement of people and services within local neighbourhoods.
+	Sec Arterial: High capacity roads critical for the movement of goods and people through the City. Routes support moderate truck, transit and vehicle traffic.
+
+Geom
+Spatial representation of specified bikeway segment
+

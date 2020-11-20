@@ -1,0 +1,48 @@
+Description
+
+Address and Locations for Hospitals in Montgomery County, MD and the immediate vicinity.
+
+
+
+Columns
+
+NAME	
+Hospital Name
+Plain Text
+	
+ADDRESS	
+Street Address of the Hospital
+Plain Text
+	
+CITY	
+City for the Hospital
+Plain Text
+	
+ZIP CODE	
+5 digit postal Zip Code for the Hospital
+Number
+	
+PHONE	
+Primary telephone number for the Hospital
+Plain Text
+	
+URL	
+Internet address (URL) for the Hospital's website
+Plain Text
+	
+IN COUNTY	
+Indicates whether the Hospital is located in Montgomery County ("In-County") or a neighboring jurisdiction ("Out-of-County")
+Plain Text
+	
+LONGITUDE	
+Longitude location for the Hospital
+Number
+	
+LATITUDE	
+Latitude location for the Hospital
+Number
+	
+LOCATION	
+Location field generated to indicate the location of the Hospital on a map
+Point
+	

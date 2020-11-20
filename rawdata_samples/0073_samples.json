@@ -1,0 +1,62 @@
+[
+    {
+        "intersection_leg": "020S-148A-E",
+        "description": "NE 20th St east of 148th Ave NE",
+        "start_date": "2018-10-11T00:00:00.000",
+        "days": "3",
+        "awdt": "17443",
+        "eb_peak_am_hour": "11:00 AM",
+        "eb_peak_am_volume": "483",
+        "eb_peak_pm_hour": "5:00 PM",
+        "eb_peak_pm_volume": "743",
+        "wb_peak_am_hour": "9:00 AM",
+        "wb_peak_am_volume": "621",
+        "wb_peak_pm_hour": "5:00 PM",
+        "wb_peak_pm_volume": "994",
+        "location": {
+            "latitude": "47.627869",
+            "longitude": "-122.140512"
+        },
+        ":@computed_region_gvnt_vbhy": "17806"
+    },
+    {
+        "intersection_leg": "020S-148A-S",
+        "description": "148th Ave NE south of NE 20th St",
+        "start_date": "2009-09-29T00:00:00.000",
+        "days": "3",
+        "awdt": "32368",
+        "nb_peak_am_hour": "8:00 AM",
+        "nb_peak_am_volume": "1263",
+        "nb_peak_pm_hour": "5:00 PM",
+        "nb_peak_pm_volume": "1120",
+        "sb_peak_am_hour": "9:00 AM",
+        "sb_peak_am_volume": "1027",
+        "sb_peak_pm_hour": "5:00 PM",
+        "sb_peak_pm_volume": "1462",
+        "location": {
+            "latitude": "47.627518",
+            "longitude": "-122.143"
+        },
+        ":@computed_region_gvnt_vbhy": "31853"
+    },
+    {
+        "intersection_leg": "020S-148A-S",
+        "description": "148th Ave NE south of NE 20th St",
+        "start_date": "2007-09-11T00:00:00.000",
+        "days": "3",
+        "awdt": "31816",
+        "nb_peak_am_hour": "8:00 AM",
+        "nb_peak_am_volume": "1244",
+        "nb_peak_pm_hour": "5:00 PM",
+        "nb_peak_pm_volume": "981",
+        "sb_peak_am_hour": "11:00 AM",
+        "sb_peak_am_volume": "940",
+        "sb_peak_pm_hour": "5:00 PM",
+        "sb_peak_pm_volume": "1576",
+        "location": {
+            "latitude": "47.627518",
+            "longitude": "-122.143"
+        },
+        ":@computed_region_gvnt_vbhy": "31853"
+    }
+]

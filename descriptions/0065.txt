@@ -1,0 +1,43 @@
+Description
+
+The dataset contains location and information of food vendors on Vancouver streets. It does not include business with roaming food vending permit.
+
+Data currency
+
+This data is updated in June and in the normal course of business as new information is available, however priorities and resources determine how fast a change in reality is reflected in this dataset.
+
+Data accuracy
+
+The locations of street food vendors are based on the sites approved by the City. They will be very close to the exact locations but should be considered approximate.
+
+There is no known error but there may be some loss of quality from data entry error as this data set is maintained manually.
+
+
+Columns
+
+KEY
+Unique identifier for each street food vendor business
+
+VENDOR_TYPE
+Type of vendor business.
+
+STATUS
+Current status of specified street food vendor business, as follows:
+	* Open: Food cart permit has already been issued
+	* Pending: Permit in application, evaluation or renewal stage
+	Note: Priorities and resources determine how fast a change in reality is reflected in this field.
+
+BUSINESS_NAME
+Name of business usually conducted under. Note: This field may be blank or contains same data as Description field, if business name information is not available.
+
+LOCATION
+Approximate location of the street vendor business.
+
+DESCRIPTION
+Type of food the specified vendor business offers.
+
+GEO_LOCALAREA
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+
+Geom
+Spatial representation of food vendors.

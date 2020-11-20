@@ -1,0 +1,44 @@
+[
+    {
+        "Height restriction (m)": "Between 4.6 and 5.1",
+        "Height restriction (imperial)": "Between 15'0\" and 16'6\"",
+        "Easting": 549062,
+        "Northing": 183214,
+        "Grid Reference": "TQ4906283214",
+        "Lat": "51,528168",
+        "Lng": "0,147455",
+        "Borough": "Barking & Dagenham",
+        "Road name": "Chequers Lane",
+        "Road number": " ",
+        "TLRN [Red route]?": "No",
+        "Comments": null
+    },
+    {
+        "Height restriction (m)": "Between 4.6 and 5.1",
+        "Height restriction (imperial)": "Between 15'0\" and 16'6\"",
+        "Easting": 528611,
+        "Northing": 184683,
+        "Grid Reference": "TQ2861184683",
+        "Lat": "51,546393",
+        "Lng": "-0,14664731",
+        "Borough": "Camden",
+        "Road name": "Prince Of Wales Road",
+        "Road number": " ",
+        "TLRN [Red route]?": "No",
+        "Comments": null
+    },
+    {
+        "Height restriction (m)": "Between 4.6 and 5.1",
+        "Height restriction (imperial)": "Between 15'0\" and 16'6\"",
+        "Easting": 515399,
+        "Northing": 183904,
+        "Grid Reference": "TQ1539983904",
+        "Lat": "51,542246",
+        "Lng": "-0,33734636",
+        "Borough": "Ealing",
+        "Road name": "Green Park Way",
+        "Road number": " ",
+        "TLRN [Red route]?": "No",
+        "Comments": null
+    }
+]

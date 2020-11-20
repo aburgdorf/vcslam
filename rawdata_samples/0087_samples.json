@@ -1,0 +1,41 @@
+[
+    {
+        "kiosk_id": "3793",
+        "kiosk_name": "Rio Grande & 28th",
+        "kiosk_status": "active",
+        "latitude": "30.29333",
+        "longitude": "-97.74412",
+        "location": {
+            "latitude": "30.29333",
+            "longitude": "-97.74412"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3291",
+        "kiosk_name": "11th & San Jacinto",
+        "kiosk_status": "active",
+        "latitude": "30.27193",
+        "longitude": "-97.73854",
+        "location": {
+            "latitude": "30.27193",
+            "longitude": "-97.73854"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "4058",
+        "kiosk_name": "Hollow Creek & Barton Hills",
+        "kiosk_status": "active",
+        "latitude": "30.26139",
+        "longitude": "-97.77234",
+        "location": {
+            "latitude": "30.26139",
+            "longitude": "-97.77234"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    }
+]

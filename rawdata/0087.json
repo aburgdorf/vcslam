@@ -1,0 +1,1250 @@
+[
+    {
+        "kiosk_id": "3793",
+        "kiosk_name": "Rio Grande & 28th",
+        "kiosk_status": "active",
+        "latitude": "30.29333",
+        "longitude": "-97.74412",
+        "location": {
+            "latitude": "30.29333",
+            "longitude": "-97.74412"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3291",
+        "kiosk_name": "11th & San Jacinto",
+        "kiosk_status": "active",
+        "latitude": "30.27193",
+        "longitude": "-97.73854",
+        "location": {
+            "latitude": "30.27193",
+            "longitude": "-97.73854"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "4058",
+        "kiosk_name": "Hollow Creek & Barton Hills",
+        "kiosk_status": "active",
+        "latitude": "30.26139",
+        "longitude": "-97.77234",
+        "location": {
+            "latitude": "30.26139",
+            "longitude": "-97.77234"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    },
+    {
+        "kiosk_id": "3797",
+        "kiosk_name": "21st & University",
+        "kiosk_status": "active",
+        "latitude": "30.28354",
+        "longitude": "-97.73953",
+        "location": {
+            "latitude": "30.28354",
+            "longitude": "-97.73953"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2546",
+        "kiosk_name": "ACC - West & 12th Street",
+        "kiosk_status": "closed",
+        "latitude": "30.27624",
+        "longitude": "-97.74831",
+        "location": {
+            "latitude": "30.27624",
+            "longitude": "-97.74831"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3838",
+        "kiosk_name": "Nueces & 26th",
+        "kiosk_status": "active",
+        "latitude": "30.29068",
+        "longitude": "-97.74292",
+        "location": {
+            "latitude": "30.29068",
+            "longitude": "-97.74292"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2544",
+        "kiosk_name": "East 6th & Pedernales St.",
+        "kiosk_status": "active",
+        "latitude": "30.25895",
+        "longitude": "-97.71475",
+        "location": {
+            "latitude": "30.25895",
+            "longitude": "-97.71475"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "3390",
+        "kiosk_name": "Brazos & 6th",
+        "kiosk_status": "active",
+        "latitude": "30.26754",
+        "longitude": "-97.74154",
+        "location": {
+            "latitude": "30.26754",
+            "longitude": "-97.74154"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1008",
+        "kiosk_name": "Nueces @ 3rd",
+        "kiosk_status": "closed",
+        "latitude": "30.26694",
+        "longitude": "-97.74939",
+        "location": {
+            "latitude": "30.26694",
+            "longitude": "-97.74939"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2823",
+        "kiosk_name": "Capital Metro HQ - East 5th at Broadway",
+        "kiosk_status": "active",
+        "latitude": "30.2563",
+        "longitude": "-97.71007",
+        "location": {
+            "latitude": "30.2563",
+            "longitude": "-97.71007"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2550",
+        "kiosk_name": "Republic Square @ Guadalupe & 4th St.",
+        "kiosk_status": "closed",
+        "latitude": "30.26774",
+        "longitude": "-97.74692",
+        "location": {
+            "latitude": "30.26774",
+            "longitude": "-97.74692"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2538",
+        "kiosk_name": "Bullock Museum @ Congress & MLK",
+        "kiosk_status": "closed",
+        "latitude": "30.28039",
+        "longitude": "-97.73809",
+        "location": {
+            "latitude": "30.28039",
+            "longitude": "-97.73809"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2711",
+        "kiosk_name": "Barton Springs @ Kinney Ave",
+        "kiosk_status": "active",
+        "latitude": "30.262",
+        "longitude": "-97.76118",
+        "location": {
+            "latitude": "30.262",
+            "longitude": "-97.76118"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    },
+    {
+        "kiosk_id": "3685",
+        "kiosk_name": "Henderson & 9th",
+        "kiosk_status": "active",
+        "latitude": "30.27217",
+        "longitude": "-97.75246",
+        "location": {
+            "latitude": "30.27217",
+            "longitude": "-97.75246"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4052",
+        "kiosk_name": "Rosewood & Angelina",
+        "kiosk_status": "active",
+        "latitude": "30.26888",
+        "longitude": "-97.72431",
+        "location": {
+            "latitude": "30.26888",
+            "longitude": "-97.72431"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "3621",
+        "kiosk_name": "Nueces & 3rd",
+        "kiosk_status": "active",
+        "latitude": "30.26697",
+        "longitude": "-97.74929",
+        "location": {
+            "latitude": "30.26697",
+            "longitude": "-97.74929"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3686",
+        "kiosk_name": "Sterzing at Barton Springs",
+        "kiosk_status": "active",
+        "latitude": "30.26406",
+        "longitude": "-97.76385",
+        "location": {
+            "latitude": "30.26406",
+            "longitude": "-97.76385"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    },
+    {
+        "kiosk_id": "3684",
+        "kiosk_name": "Congress & Cesar Chavez",
+        "kiosk_status": "active",
+        "latitude": "30.26332",
+        "longitude": "-97.74508",
+        "location": {
+            "latitude": "30.26332",
+            "longitude": "-97.74508"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4055",
+        "kiosk_name": "11th & Salina",
+        "kiosk_status": "active",
+        "latitude": "30.26638",
+        "longitude": "-97.7214",
+        "location": {
+            "latitude": "30.26638",
+            "longitude": "-97.7214"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2566",
+        "kiosk_name": "Pfluger Bridge @ W 2nd Street",
+        "kiosk_status": "active",
+        "latitude": "30.26717",
+        "longitude": "-97.75484",
+        "location": {
+            "latitude": "30.26717",
+            "longitude": "-97.75484"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4059",
+        "kiosk_name": "Nash Hernandez @ RBJ South",
+        "kiosk_status": "active",
+        "latitude": "30.25189",
+        "longitude": "-97.73323",
+        "location": {
+            "latitude": "30.25189",
+            "longitude": "-97.73323"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "3635",
+        "kiosk_name": "13th & San Antonio",
+        "kiosk_status": "active",
+        "latitude": "30.27616",
+        "longitude": "-97.74488",
+        "location": {
+            "latitude": "30.27616",
+            "longitude": "-97.74488"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3513",
+        "kiosk_name": "South Congress & Barton Springs at the Austin American-Statesman",
+        "kiosk_status": "active",
+        "latitude": "30.25839",
+        "longitude": "-97.74592",
+        "location": {
+            "latitude": "30.25839",
+            "longitude": "-97.74592"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1002",
+        "kiosk_name": "6th & Navasota St.",
+        "kiosk_status": "closed",
+        "latitude": "30.26383",
+        "longitude": "-97.72864",
+        "location": {
+            "latitude": "30.26383",
+            "longitude": "-97.72864"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2541",
+        "kiosk_name": "State Capitol @ 14th & Colorado",
+        "kiosk_status": "closed",
+        "latitude": "30.27654",
+        "longitude": "-97.74155",
+        "location": {
+            "latitude": "30.27654",
+            "longitude": "-97.74155"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "4050",
+        "kiosk_name": "5th & Campbell",
+        "kiosk_status": "active",
+        "latitude": "30.27489",
+        "longitude": "-97.76483",
+        "location": {
+            "latitude": "30.27489",
+            "longitude": "-97.76483"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2499",
+        "kiosk_name": "City Hall / Lavaca & 2nd",
+        "kiosk_status": "active",
+        "latitude": "30.26476",
+        "longitude": "-97.74678",
+        "location": {
+            "latitude": "30.26476",
+            "longitude": "-97.74678"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2568",
+        "kiosk_name": "East 11th St. at Victory Grill",
+        "kiosk_status": "active",
+        "latitude": "30.26896",
+        "longitude": "-97.72843",
+        "location": {
+            "latitude": "30.26896",
+            "longitude": "-97.72843"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2575",
+        "kiosk_name": "Riverside @ S. Lamar",
+        "kiosk_status": "active",
+        "latitude": "30.26446",
+        "longitude": "-97.75665",
+        "location": {
+            "latitude": "30.26446",
+            "longitude": "-97.75665"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    },
+    {
+        "kiosk_id": "2502",
+        "kiosk_name": "Barton Springs & Riverside",
+        "kiosk_status": "active",
+        "latitude": "30.2587",
+        "longitude": "-97.74872",
+        "location": {
+            "latitude": "30.2587",
+            "longitude": "-97.74872"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2563",
+        "kiosk_name": "Davis at Rainey Street",
+        "kiosk_status": "active",
+        "latitude": "30.26019",
+        "longitude": "-97.73845",
+        "location": {
+            "latitude": "30.26019",
+            "longitude": "-97.73845"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4061",
+        "kiosk_name": "Lakeshore @ Austin Hostel",
+        "kiosk_status": "active",
+        "latitude": "30.24472",
+        "longitude": "-97.72336",
+        "location": {
+            "latitude": "30.24472",
+            "longitude": "-97.72336"
+        },
+        ":@computed_region_a3it_2a2z": "3256",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2707",
+        "kiosk_name": "Rainey St @ Cummings",
+        "kiosk_status": "active",
+        "latitude": "30.25579",
+        "longitude": "-97.73982",
+        "location": {
+            "latitude": "30.25579",
+            "longitude": "-97.73982"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2545",
+        "kiosk_name": "ACC - Rio Grande & 12th",
+        "kiosk_status": "closed",
+        "latitude": "30.27595",
+        "longitude": "-97.74739",
+        "location": {
+            "latitude": "30.27595",
+            "longitude": "-97.74739"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2549",
+        "kiosk_name": "Long Center @ South 1st & Riverside",
+        "kiosk_status": "active",
+        "latitude": "30.25941",
+        "longitude": "-97.74971",
+        "location": {
+            "latitude": "30.25941",
+            "longitude": "-97.74971"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2561",
+        "kiosk_name": "State Capitol Visitors Garage @ San Jacinto & 12th",
+        "kiosk_status": "active",
+        "latitude": "30.27336",
+        "longitude": "-97.73805",
+        "location": {
+            "latitude": "30.27336",
+            "longitude": "-97.73805"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2494",
+        "kiosk_name": "2nd & Congress",
+        "kiosk_status": "active",
+        "latitude": "30.26408",
+        "longitude": "-97.74355",
+        "location": {
+            "latitude": "30.26408",
+            "longitude": "-97.74355"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3464",
+        "kiosk_name": "Pease Park",
+        "kiosk_status": "closed",
+        "latitude": "30.28118",
+        "longitude": "-97.75219",
+        "location": {
+            "latitude": "30.28118",
+            "longitude": "-97.75219"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2570",
+        "kiosk_name": "South Congress & Academy",
+        "kiosk_status": "active",
+        "latitude": "30.25226",
+        "longitude": "-97.74854",
+        "location": {
+            "latitude": "30.25226",
+            "longitude": "-97.74854"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2540",
+        "kiosk_name": "17th & Guadalupe",
+        "kiosk_status": "active",
+        "latitude": "30.27974",
+        "longitude": "-97.74254",
+        "location": {
+            "latitude": "30.27974",
+            "longitude": "-97.74254"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2498",
+        "kiosk_name": "Convention Center / 4th St. @ MetroRail",
+        "kiosk_status": "active",
+        "latitude": "30.26483",
+        "longitude": "-97.739",
+        "location": {
+            "latitude": "30.26483",
+            "longitude": "-97.739"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3794",
+        "kiosk_name": "Dean Keeton & Speedway",
+        "kiosk_status": "active",
+        "latitude": "30.28953",
+        "longitude": "-97.73695",
+        "location": {
+            "latitude": "30.28953",
+            "longitude": "-97.73695"
+        },
+        ":@computed_region_a3it_2a2z": "2861",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2547",
+        "kiosk_name": "Guadalupe & 21st",
+        "kiosk_status": "active",
+        "latitude": "30.28395",
+        "longitude": "-97.74198",
+        "location": {
+            "latitude": "30.28395",
+            "longitude": "-97.74198"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2712",
+        "kiosk_name": "Toomey Rd @ South Lamar",
+        "kiosk_status": "closed",
+        "latitude": "30.26304",
+        "longitude": "-97.75824",
+        "location": {
+            "latitude": "30.26304",
+            "longitude": "-97.75824"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "5"
+    },
+    {
+        "kiosk_id": "2501",
+        "kiosk_name": "5th & Bowie",
+        "kiosk_status": "active",
+        "latitude": "30.2696",
+        "longitude": "-97.75332",
+        "location": {
+            "latitude": "30.2696",
+            "longitude": "-97.75332"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2572",
+        "kiosk_name": "Barton Springs Pool",
+        "kiosk_status": "active",
+        "latitude": "30.26452",
+        "longitude": "-97.7712",
+        "location": {
+            "latitude": "30.26452",
+            "longitude": "-97.7712"
+        },
+        ":@computed_region_a3it_2a2z": "3260",
+        ":@computed_region_8spj_utxs": "8"
+    },
+    {
+        "kiosk_id": "2576",
+        "kiosk_name": "Rainey @ River St",
+        "kiosk_status": "closed",
+        "latitude": "30.25802",
+        "longitude": "-97.7391",
+        "location": {
+            "latitude": "30.25802",
+            "longitude": "-97.7391"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2567",
+        "kiosk_name": "Palmer Auditorium",
+        "kiosk_status": "active",
+        "latitude": "30.25971",
+        "longitude": "-97.75346",
+        "location": {
+            "latitude": "30.25971",
+            "longitude": "-97.75346"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3381",
+        "kiosk_name": "East 7th & Pleasant Valley",
+        "kiosk_status": "closed",
+        "latitude": "30.26025",
+        "longitude": "-97.71002",
+        "location": {
+            "latitude": "30.26025",
+            "longitude": "-97.71002"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "1006",
+        "kiosk_name": "Zilker Park West",
+        "kiosk_status": "closed",
+        "latitude": "30.26587",
+        "longitude": "-97.76826",
+        "location": {
+            "latitude": "30.26587",
+            "longitude": "-97.76826"
+        },
+        ":@computed_region_a3it_2a2z": "3260",
+        ":@computed_region_8spj_utxs": "8"
+    },
+    {
+        "kiosk_id": "3799",
+        "kiosk_name": "23rd & San Jacinto @ DKR Stadium",
+        "kiosk_status": "active",
+        "latitude": "30.2856",
+        "longitude": "-97.7335",
+        "location": {
+            "latitude": "30.2856",
+            "longitude": "-97.7335"
+        },
+        ":@computed_region_a3it_2a2z": "2861",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "3660",
+        "kiosk_name": "Medina & East 6th",
+        "kiosk_status": "active",
+        "latitude": "30.26455",
+        "longitude": "-97.73165",
+        "location": {
+            "latitude": "30.26455",
+            "longitude": "-97.73165"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "3791",
+        "kiosk_name": "Lake Austin & Enfield",
+        "kiosk_status": "active",
+        "latitude": "30.29439",
+        "longitude": "-97.78375",
+        "location": {
+            "latitude": "30.29439",
+            "longitude": "-97.78375"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "10"
+    },
+    {
+        "kiosk_id": "4057",
+        "kiosk_name": "6th & Chalmers",
+        "kiosk_status": "active",
+        "latitude": "30.26269",
+        "longitude": "-97.72438",
+        "location": {
+            "latitude": "30.26269",
+            "longitude": "-97.72438"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2537",
+        "kiosk_name": "West & 6th St.",
+        "kiosk_status": "active",
+        "latitude": "30.27041",
+        "longitude": "-97.75046",
+        "location": {
+            "latitude": "30.27041",
+            "longitude": "-97.75046"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2503",
+        "kiosk_name": "South Congress & James",
+        "kiosk_status": "active",
+        "latitude": "30.25103",
+        "longitude": "-97.74926",
+        "location": {
+            "latitude": "30.25103",
+            "longitude": "-97.74926"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3792",
+        "kiosk_name": "22nd & Pearl",
+        "kiosk_status": "active",
+        "latitude": "30.2853",
+        "longitude": "-97.7467",
+        "location": {
+            "latitude": "30.2853",
+            "longitude": "-97.7467"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3293",
+        "kiosk_name": "East 2nd & Pedernales",
+        "kiosk_status": "active",
+        "latitude": "30.25542",
+        "longitude": "-97.71665",
+        "location": {
+            "latitude": "30.25542",
+            "longitude": "-97.71665"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "4062",
+        "kiosk_name": "Lakeshore & Pleasant Valley",
+        "kiosk_status": "active",
+        "latitude": "30.24258",
+        "longitude": "-97.71726",
+        "location": {
+            "latitude": "30.24258",
+            "longitude": "-97.71726"
+        },
+        ":@computed_region_a3it_2a2z": "3256",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2571",
+        "kiosk_name": "Red River & 8th Street",
+        "kiosk_status": "active",
+        "latitude": "30.26854",
+        "longitude": "-97.73646",
+        "location": {
+            "latitude": "30.26854",
+            "longitude": "-97.73646"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3798",
+        "kiosk_name": "21st & Speedway @PCL",
+        "kiosk_status": "active",
+        "latitude": "30.283",
+        "longitude": "-97.7375",
+        "location": {
+            "latitude": "30.283",
+            "longitude": "-97.7375"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2548",
+        "kiosk_name": "UT West Mall @ Guadalupe",
+        "kiosk_status": "active",
+        "latitude": "30.28576",
+        "longitude": "-97.74181",
+        "location": {
+            "latitude": "30.28576",
+            "longitude": "-97.74181"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3795",
+        "kiosk_name": "Dean Keeton & Whitis",
+        "kiosk_status": "active",
+        "latitude": "30.2898",
+        "longitude": "-97.74041",
+        "location": {
+            "latitude": "30.2898",
+            "longitude": "-97.74041"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2500",
+        "kiosk_name": "Republic Square",
+        "kiosk_status": "closed",
+        "latitude": "30.26751",
+        "longitude": "-97.74802",
+        "location": {
+            "latitude": "30.26751",
+            "longitude": "-97.74802"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2542",
+        "kiosk_name": "Plaza Saltillo",
+        "kiosk_status": "active",
+        "latitude": "30.26217",
+        "longitude": "-97.72743",
+        "location": {
+            "latitude": "30.26217",
+            "longitude": "-97.72743"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "3619",
+        "kiosk_name": "6th & Congress",
+        "kiosk_status": "active",
+        "latitude": "30.26822",
+        "longitude": "-97.74285",
+        "location": {
+            "latitude": "30.26822",
+            "longitude": "-97.74285"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4048",
+        "kiosk_name": "South Congress @ Bouldin Creek",
+        "kiosk_status": "active",
+        "latitude": "30.25495",
+        "longitude": "-97.74755",
+        "location": {
+            "latitude": "30.25495",
+            "longitude": "-97.74755"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3790",
+        "kiosk_name": "Lake Austin Blvd @ Deep Eddy",
+        "kiosk_status": "active",
+        "latitude": "30.27807",
+        "longitude": "-97.77272",
+        "location": {
+            "latitude": "30.27807",
+            "longitude": "-97.77272"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "10"
+    },
+    {
+        "kiosk_id": "2536",
+        "kiosk_name": "Waller & 6th St.",
+        "kiosk_status": "closed",
+        "latitude": "30.26461",
+        "longitude": "-97.73049",
+        "location": {
+            "latitude": "30.26461",
+            "longitude": "-97.73049"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2495",
+        "kiosk_name": "4th & Congress",
+        "kiosk_status": "active",
+        "latitude": "30.26634",
+        "longitude": "-97.74378",
+        "location": {
+            "latitude": "30.26634",
+            "longitude": "-97.74378"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1007",
+        "kiosk_name": "Lavaca & 6th",
+        "kiosk_status": "closed",
+        "latitude": "30.26889",
+        "longitude": "-97.74525",
+        "location": {
+            "latitude": "30.26889",
+            "longitude": "-97.74525"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3841",
+        "kiosk_name": "23rd & Rio Grande",
+        "kiosk_status": "active",
+        "latitude": "30.28728",
+        "longitude": "-97.74495",
+        "location": {
+            "latitude": "30.28728",
+            "longitude": "-97.74495"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2562",
+        "kiosk_name": "San Jacinto & 8th Street",
+        "kiosk_status": "active",
+        "latitude": "30.26912",
+        "longitude": "-97.73986",
+        "location": {
+            "latitude": "30.26912",
+            "longitude": "-97.73986"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2822",
+        "kiosk_name": "East 6th at Robert Martinez",
+        "kiosk_status": "active",
+        "latitude": "30.26032",
+        "longitude": "-97.71899",
+        "location": {
+            "latitude": "30.26032",
+            "longitude": "-97.71899"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "4047",
+        "kiosk_name": "8th & Lavaca",
+        "kiosk_status": "active",
+        "latitude": "30.27059",
+        "longitude": "-97.74441",
+        "location": {
+            "latitude": "30.27059",
+            "longitude": "-97.74441"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3292",
+        "kiosk_name": "East 4th & Chicon",
+        "kiosk_status": "active",
+        "latitude": "30.25987",
+        "longitude": "-97.72373",
+        "location": {
+            "latitude": "30.25987",
+            "longitude": "-97.72373"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2497",
+        "kiosk_name": "Capitol Station / Congress & 11th",
+        "kiosk_status": "active",
+        "latitude": "30.2726",
+        "longitude": "-97.74127",
+        "location": {
+            "latitude": "30.2726",
+            "longitude": "-97.74127"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "3377",
+        "kiosk_name": "MoPac Pedestrian Bridge @ Veterans Drive",
+        "kiosk_status": "active",
+        "latitude": "30.27466",
+        "longitude": "-97.77028",
+        "location": {
+            "latitude": "30.27466",
+            "longitude": "-97.77028"
+        },
+        ":@computed_region_a3it_2a2z": "2858",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3687",
+        "kiosk_name": "Boardwalk West",
+        "kiosk_status": "active",
+        "latitude": "30.25457",
+        "longitude": "-97.74258",
+        "location": {
+            "latitude": "30.25457",
+            "longitude": "-97.74258"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1003",
+        "kiosk_name": "8th & Guadalupe",
+        "kiosk_status": "closed",
+        "latitude": "30.27106",
+        "longitude": "-97.74563",
+        "location": {
+            "latitude": "30.27106",
+            "longitude": "-97.74563"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2504",
+        "kiosk_name": "South Congress & Elizabeth",
+        "kiosk_status": "active",
+        "latitude": "30.24891",
+        "longitude": "-97.75019",
+        "location": {
+            "latitude": "30.24891",
+            "longitude": "-97.75019"
+        },
+        ":@computed_region_a3it_2a2z": "2859",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1001",
+        "kiosk_name": "OFFICE/Main/Shop/Repair",
+        "kiosk_status": "active",
+        "latitude": "30.27186",
+        "longitude": "-97.73997",
+        "location": {
+            "latitude": "30.27186",
+            "longitude": "-97.73997"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2574",
+        "kiosk_name": "Zilker Park",
+        "kiosk_status": "active",
+        "latitude": "30.2659",
+        "longitude": "-97.76822",
+        "location": {
+            "latitude": "30.2659",
+            "longitude": "-97.76822"
+        },
+        ":@computed_region_a3it_2a2z": "3260",
+        ":@computed_region_8spj_utxs": "8"
+    },
+    {
+        "kiosk_id": "2569",
+        "kiosk_name": "East 11th St. & San Marcos",
+        "kiosk_status": "active",
+        "latitude": "30.26968",
+        "longitude": "-97.73074",
+        "location": {
+            "latitude": "30.26968",
+            "longitude": "-97.73074"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2539",
+        "kiosk_name": "Convention Center / 3rd & Trinity",
+        "kiosk_status": "active",
+        "latitude": "30.26426",
+        "longitude": "-97.74023",
+        "location": {
+            "latitude": "30.26426",
+            "longitude": "-97.74023"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3294",
+        "kiosk_name": "Lavaca & 6th",
+        "kiosk_status": "active",
+        "latitude": "30.26911",
+        "longitude": "-97.7462",
+        "location": {
+            "latitude": "30.26911",
+            "longitude": "-97.7462"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2496",
+        "kiosk_name": "8th & Congress",
+        "kiosk_status": "active",
+        "latitude": "30.2698",
+        "longitude": "-97.74186",
+        "location": {
+            "latitude": "30.2698",
+            "longitude": "-97.74186"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "2564",
+        "kiosk_name": "5th & San Marcos",
+        "kiosk_status": "closed",
+        "latitude": "30.26416",
+        "longitude": "-97.73289",
+        "location": {
+            "latitude": "30.26416",
+            "longitude": "-97.73289"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "3"
+    },
+    {
+        "kiosk_id": "2565",
+        "kiosk_name": "Trinity & 6th Street",
+        "kiosk_status": "active",
+        "latitude": "30.26735",
+        "longitude": "-97.73933",
+        "location": {
+            "latitude": "30.26735",
+            "longitude": "-97.73933"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4054",
+        "kiosk_name": "Rosewood & Chicon",
+        "kiosk_status": "active",
+        "latitude": "30.26969",
+        "longitude": "-97.71873",
+        "location": {
+            "latitude": "30.26969",
+            "longitude": "-97.71873"
+        },
+        ":@computed_region_a3it_2a2z": "2857",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "1004",
+        "kiosk_name": "Red River & LBJ Library",
+        "kiosk_status": "closed",
+        "latitude": "30.2848",
+        "longitude": "-97.72756",
+        "location": {
+            "latitude": "30.2848",
+            "longitude": "-97.72756"
+        },
+        ":@computed_region_a3it_2a2z": "2860",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "2552",
+        "kiosk_name": "3rd & West",
+        "kiosk_status": "active",
+        "latitude": "30.2678",
+        "longitude": "-97.75189",
+        "location": {
+            "latitude": "30.2678",
+            "longitude": "-97.75189"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "3455",
+        "kiosk_name": "Republic Square @ 5th & Guadalupe",
+        "kiosk_status": "active",
+        "latitude": "30.26753",
+        "longitude": "-97.74805",
+        "location": {
+            "latitude": "30.26753",
+            "longitude": "-97.74805"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "1005",
+        "kiosk_name": "State Parking Garage @ Brazos & 18th",
+        "kiosk_status": "closed",
+        "latitude": "30.27907",
+        "longitude": "-97.73715",
+        "location": {
+            "latitude": "30.27907",
+            "longitude": "-97.73715"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    },
+    {
+        "kiosk_id": "4060",
+        "kiosk_name": "Red River/Cesar Chavez @ The Fairmont",
+        "kiosk_status": "active",
+        "latitude": "30.26212",
+        "longitude": "-97.73815",
+        "location": {
+            "latitude": "30.26212",
+            "longitude": "-97.73815"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "9"
+    },
+    {
+        "kiosk_id": "4051",
+        "kiosk_name": "10th & Red River",
+        "kiosk_status": "active",
+        "latitude": "30.27024",
+        "longitude": "-97.73578",
+        "location": {
+            "latitude": "30.27024",
+            "longitude": "-97.73578"
+        },
+        ":@computed_region_a3it_2a2z": "2856",
+        ":@computed_region_8spj_utxs": "1"
+    }
+]

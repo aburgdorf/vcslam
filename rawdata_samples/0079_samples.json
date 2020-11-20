@@ -1,0 +1,41 @@
+[
+    {
+        "STATION ID": 1,
+        "TIME": "2018-08-01 12:30:02",
+        "LAST UPDATED": "2018-08-01 12:26:05",
+        "NAME": "CLARENDON ROW",
+        "BIKE STANDS": 31,
+        "AVAILABLE BIKE STANDS": 1,
+        "AVAILABLE BIKES": 30,
+        "STATUS": "Open",
+        "ADDRESS": "Clarendon Row",
+        "LATITUDE": 53.340927,
+        "LONGITUDE": -6.262501
+    },
+    {
+        "STATION ID": 1,
+        "TIME": "2018-08-01 12:35:02",
+        "LAST UPDATED": "2018-08-01 12:33:03",
+        "NAME": "CLARENDON ROW",
+        "BIKE STANDS": 31,
+        "AVAILABLE BIKE STANDS": 2,
+        "AVAILABLE BIKES": 29,
+        "STATUS": "Open",
+        "ADDRESS": "Clarendon Row",
+        "LATITUDE": 53.340927,
+        "LONGITUDE": -6.262501
+    },
+    {
+        "STATION ID": 1,
+        "TIME": "2018-08-01 12:40:02",
+        "LAST UPDATED": "2018-08-01 12:33:03",
+        "NAME": "CLARENDON ROW",
+        "BIKE STANDS": 31,
+        "AVAILABLE BIKE STANDS": 2,
+        "AVAILABLE BIKES": 29,
+        "STATUS": "Open",
+        "ADDRESS": "Clarendon Row",
+        "LATITUDE": 53.340927,
+        "LONGITUDE": -6.262501
+    }
+]

@@ -1,0 +1,53 @@
+Description
+
+The City of Seattle has made paid parking transaction data set available for public use for research and entrepreneurial purposes under the City’s Open Data Program. This dataset is derived from parking pay stations placed on streets within city limits and the paid by phone parking transactions. The dataset is downloaded nightly with the prior days paid parking transaction data.
+
+
+Columns
+
+Transaction ID	
+The unique transaction identifier
+Plain Text
+	
+Meter Code	
+Unique identifier of the pay station
+Plain Text
+	
+Transaction DateTime	
+The date and time of the transaction as recorded
+Date & Time
+	
+Payment Mean	
+They type of payment
+Plain Text
+	
+Amount Paid	
+The amount of the transactions in dollars
+Number
+	
+Duration In Minutes
+Number
+	
+Blockface Name	
+Street segment, name of street with the “from street” and “to street; ” Example is “1ST AVE BETWEEN BELL ST AND BATTERY ST” Combined with Side of Street for Blockface -- 1ST AVE BETWEEN BELL ST AND BATTERY ST SW Side. Also referred to as UnitDesc (description)
+Plain Text
+	
+Side Of Street	
+Options are: E, S, N, W, NE, SW, SE, NW. The two digits are because many Seattle streets are at an angle. Avenues run north-south, Streets run east-west. 1st Ave on the SW side is the west side of the street
+Plain Text
+	
+Element key	
+Unique identifier for the city street segment where the pay station is located; Use this column to match with SDOT’s Pay Station data and other curbspace asset data
+Plain Text
+	
+Parking Space Number	
+The assigned parking space identifier on the street segment that the payment was made for.
+Plain Text
+	
+Latitude	
+Calculated based on the known location of a pay station along the same blockface. See Issues section for more info.
+Number
+	
+Longitude	
+Calculated based on the known location of a pay station along the same blockface. See Issues section for more info.
+Number

@@ -1,0 +1,45 @@
+Description
+
+This dataset contains locations and attributes of all public washrooms that are on city streets and public parks.
+
+
+Columns
+
+NAME
+Unofficial name of public washroom
+
+ADDRESS
+Street address of the washroom Note: this field will be blank if the information is unavailable
+
+TYPE
+Type of public washroom: 
+	Automated Public Toilet: There are a number of Automated Public Toilets (APTs) located throughout the downtown. APTs are available to use 24hrs a day and undergo a cleaning cycle after each use.
+	Comfort Station: Comfort Stations are staffed washrooms with long opening hours 
+	Washroom in Park: Washroom located in park
+
+LOCATION
+Location of washroom in parks or nearby street intersections
+
+SUMMER_HOURS
+Summer operating hours of the washroom  which is usually from Victoria Day weekend to Labour Day weekend
+
+WINTER_HOURS
+Winter operating hours of the washroom which is usually after Labour Day weekend until Victoria Day weekend
+
+WHEEL_ACCESS
+Yes means the washroom is wheelchair accessible; No means it is not wheelchair accessible
+
+MAINTAINER
+Indication if the washroom is maintained by the Engineering department (City) or Parks & Recreation (Parks)
+
+NOTE
+Additional information on the washroom
+
+Geom
+Spatial representation of feature
+
+Geo Local Area	
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+
+PRIMARYIND
+Unique identifier for each public washroom

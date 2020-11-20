@@ -1,0 +1,80 @@
+[
+    {
+        "vin_1_10": "JA4J24A5XJ",
+        "county": "King",
+        "city": "KENT",
+        "state": "WA",
+        "zip_code": "98032",
+        "model_year": "2018",
+        "make": "MITSUBISHI",
+        "model": "OUTLANDER",
+        "ev_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+        "cafv_type": "Not eligible due to low battery range",
+        "electric_range": "22",
+        "base_msrp": "34595",
+        "legislative_district": "33",
+        "dol_vehicle_id": "245053693",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.26132099999998,
+                47.390601
+            ]
+        },
+        ":@computed_region_fny7_vc3j": "9",
+        ":@computed_region_8ddd_yn5v": "36",
+        ":@computed_region_x4ys_rtnd": "3009"
+    },
+    {
+        "vin_1_10": "JN1AZ0CP7B",
+        "county": "King",
+        "city": "COVINGTON",
+        "state": "WA",
+        "zip_code": "98042",
+        "model_year": "2011",
+        "make": "NISSAN",
+        "model": "LEAF",
+        "ev_type": "Battery Electric Vehicle (BEV)",
+        "cafv_type": "Clean Alternative Fuel Vehicle Eligible",
+        "electric_range": "73",
+        "base_msrp": "32780",
+        "legislative_district": "47",
+        "dol_vehicle_id": "265513174",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.11667400000002,
+                47.363112
+            ]
+        },
+        ":@computed_region_fny7_vc3j": "8",
+        ":@computed_region_8ddd_yn5v": "46",
+        ":@computed_region_x4ys_rtnd": "3009"
+    },
+    {
+        "vin_1_10": "1G1FW6S07H",
+        "county": "Clark",
+        "city": "CAMAS",
+        "state": "WA",
+        "zip_code": "98607",
+        "model_year": "2017",
+        "make": "CHEVROLET",
+        "model": "BOLT",
+        "ev_type": "Battery Electric Vehicle (BEV)",
+        "cafv_type": "Clean Alternative Fuel Vehicle Eligible",
+        "electric_range": "238",
+        "base_msrp": "37495",
+        "legislative_district": "18",
+        "dol_vehicle_id": "8930036",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.40849800000001,
+                45.620943
+            ]
+        },
+        ":@computed_region_fny7_vc3j": "3",
+        ":@computed_region_8ddd_yn5v": "25",
+        ":@computed_region_x4ys_rtnd": "2977"
+    }
+]

@@ -1,0 +1,85 @@
+Description
+
+Historic and live continuous air quality data from Bristol City Council and Defra.
+
+    NOx data are from chemiluminescent NOx analysers (API T200).
+    Colston Avenue PM10 data are from a BAM 1020 instrument and are corrected to gravimetric.
+    PM2.5 at Parson Street School is from a heated inlet BAM and given as equivalent to gravimetric
+    PM10 and PM2.5 data from the Bristol St. Pauls site are from a TEOM instrument.
+    PM10 data from Temple Way are from a BAM instrument.
+    Hourly observations are shown.
+    BCC data older than the current month have been ratified and corrected in accordance with UK air quality guidance LAQM TG.16.
+    For the ratifaction of Defra data, please refer to the UK-AIR website.
+    Data from the Defra sites are reproduced under © Crown 2019 copyright Defra via uk-air.defra.gov.uk, licenced under the Open Government Licence (OGL).
+
+
+Columns
+
+Date Time
+Date and time of measurement
+
+NOx
+Concentration of oxides of nitrogen
+
+NO2
+Concentration of nitrogen dioxide
+
+NO
+Concentration of nitric oxide
+
+SiteID
+Site ID for the station
+
+PM10
+Concentration of particulate matter <10 micron diameter
+
+NVPM10
+Concentration of non - volatile particulate matter <10 micron diameter
+
+VPM10
+Concentration of volatile particulate matter <10 micron diameter
+
+NVPM2.5
+Concentration of non volatile particulate matter <2.5 micron diameter
+
+PM2.5
+Concentration of particulate matter <2.5 micron diameter
+
+VPM2.5
+Concentration of volatile particulate matter <2.5 micron diameter
+
+CO
+Concentration of carbon monoxide
+
+O3
+Concentration of ozone
+
+SO2
+Concentration of sulphur dioxide
+
+Temperature
+Air temperature
+
+RH
+Relative Humidity
+
+Air Pressure
+Air Pressure
+
+Location
+Text description of location
+
+geo_point_2d
+Latitude and longitude
+
+DateStart
+The date monitoring started
+
+DateEnd
+The date monitoring ended
+
+Current
+Is the monitor currently operating
+
+Instrument Type
+Classification of the instrument

@@ -1,0 +1,64 @@
+Description
+
+This dataset provides information on the location and operators of permitted clothing drop boxes.
+
+The Clothing Drop Box by-law ensures that the public is aware of where used clothing donations are going, creates a registry of clothing box owners, and deters litter and unsightly views for residents.
+
+Toronto Municipal Code Chapter 395, "Clothing Drop Boxes", requires that all clothing drop box operators obtain a location permit for each box. All operators, including charitable organizations, must display the permit sticker on the box.
+
+    For more information refer to the clothing drop box operator licence or clothing drop box permit pages.
+
+Limitations
+
+    This data set contains all clothing drop box permits issued from October 1st, 2019 onward. Cancelled permits will have a date in the "Cancellation Date" field.
+
+    Earlier permit data can be found in this data set: "Municipal Licensing and Standards - Business Licences and Permits". Filter for "CLOTHING DROP BOX LOCATION PERMIT" – the permit numbers will start with "P90".
+
+    Each clothing drop box operator must also hold a "Clothing Drop Box Operator" business licence. Those licences can be found in this data set: "Municipal Licensing and Standards - Business Licences and Permits". Filter for "CLOTHING DROP BOX OPERATOR" – the licence numbers will start with "B90".
+
+    Investigation activity (such as complaints or service requests related to clothing drop boxes and collected through 311) is not available in this set or in the "Municipal Licensing and Standards - Investigation Activity" and the "311 Service Requests" data sets.
+
+
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+Permit_No
+Unique permit number assigned to each drop box bythe City of Toronto
+
+Permit_Sticker_No
+Unique Clothing drop box sticker number assigned byCity of Toronto
+
+Permit_Class
+Clothing drop box type e.g For Profit , Non-Profit
+
+Permit_Holder
+Clothing drop box operator name
+
+Permit_Address_Street_No
+Clothing drop box location street number
+
+Permit_Address_Street_Name
+Clothing drop box location street name
+
+Permit_Address_Unit
+Clothing drop box location unit
+
+Permit_Address_Postal_Code
+Clothing drop box location postal code
+
+Permit_Address_Ward
+Ward that the clothing drop box is located in
+
+Permit_Contact_Phone_No_
+Contact number for a clothing drop box
+
+Issue_Date
+Issuance date for a clothing drop box permit
+
+Cancellation_Date
+Cancellation date for a clothing drop box permit
+
+geometry	

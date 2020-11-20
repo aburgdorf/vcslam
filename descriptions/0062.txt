@@ -1,0 +1,61 @@
+Description
+
+The Vancouver Board of Parks and Recreation maintains over 220 parks and 40 major facilities throughout the City of Vancouver. This dataset provides information of the parks and facilities that are available in them. Additional details are found in related datasets:
+
+    Parks washrooms
+    Parks facilities
+    Parks special features
+
+The parks - polygon representation dataset shows the boundaries of the parks.
+Note
+
+For advisories, please consult the press release or the official website of the Vancouver Board of Parks and Recreation.
+
+Data currency
+
+The extract on this website is updated weekly
+
+
+Columns
+
+ParkID
+Identification number to identify parks in City of Vancouver
+
+Name
+Name of park
+
+Official
+Flag to indicate if the name of park is officially named; Note: 0 means not official.  1 means official
+
+Advisories
+
+SpecialFeatures
+
+Facilities
+
+Washrooms
+	
+StreetNumber
+A number assigned to an address where the park is located
+
+StreetName
+The name of the street where the park is located
+
+EWStreet
+The name of east-west running street where the park is located
+
+NSStreet
+The name of north-south running street where the park is located
+
+NeighbourhoodName
+Name of the neighbourhood where the park is located
+
+NeighbourhoodURL
+Website address of the neighbourhood where the park is located
+
+Hectare
+Area of Park, numeric field
+
+GoogleMapDest
+Destination for use in GoogleMaps, may contain x-y co-ordinates
+

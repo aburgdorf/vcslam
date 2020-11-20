@@ -1,0 +1,148 @@
+Description
+
+This dataset includes parking space inventory information for Montgomery County Public Parking Facilities.
+
+Update Frequency: Monthly
+
+
+Columns
+
+District	
+The Parking Lot District (PLD) the facility is located in. There are four PLD's.
+Plain Text
+	
+Facility Number	
+The unique number assigned to a facility distinguishing it from the other facilities. Each facility's number falls between 0 - 99.
+Plain Text
+	
+Address	
+The facility's street address plus the street name of the secondary entrance, if applicable.
+Plain Text
+	
+Hours Requiring Payment	
+The days of the week and corresponding time period in which the facility's customers are required to pay the posted fees.
+Plain Text
+	
+Payment Options 	
+The type of payment methods accepted by the facility.
+Plain Text
+	
+Floors	
+The existing number of levels in the facility including the basement, where applicable.
+Number
+	
+Clearance Height (Feet)	
+The maximum vertical clearance permitted within the facility.
+Number
+	
+Clearance Height (Inches)	
+The maximum vertical clearance permitted within the facility.
+Number
+	
+Facility Name	
+The established name of the facility.
+Plain Text
+	
+Total Capacity	
+The total number of vehicular, motorcycle and bicycle spaces within the facility.
+Number
+	
+ADA Spaces	
+The total number of accessible parking spaces for cars within the facility. The total number of accessible parking spaces for vans within the facility.
+Number
+	
+ADA Van Spaces	
+The total number of accessible parking spaces for vans within the facility.
+Number
+	
+Bike Spaces 	
+The total number of bicycle spaces found on bicycle-specific racks within the facility.
+Number
+	
+Car Spaces 	
+The total number of vehicular spaces, excluding ADA and ADA-Van spaces, within the facility.
+Number
+	
+Motorcycle Spaces 	
+The total number of individual motorcycle parking spaces within the facility.
+Number
+	
+Motorcycle Area	
+The total number of motorcycles designed to park in the motorcycle area within the facility.
+Plain Text
+	
+Other Information	
+Miscellaneous information pertaining to the facility.
+Plain Text
+	
+Latitude	
+Depicts a digital representation of the facility's location expressed in latitudinal degrees.
+Number
+	
+Longitude	
+Depicts a digital representation of the facility's location expressed in longitudinal degrees.
+Number
+	
+5 Minute Limit	
+The total number of spaces within the facility whose posted duration is 5 minutes.
+Number
+	
+30 Minute Limit	
+The total number of spaces within the facility whose posted duration is 30 minutes.
+Number
+	
+1 Hour Limit	
+The total number of spaces within the facility whose posted duration is 1 hour.
+Number
+	
+2 Hour Limit	
+The total number of spaces within the facility whose posted duration is 2 hours.
+Number
+	
+3 Hour Limit	
+The total number of spaces within the facility whose posted duration is 3 hours.
+Number
+	
+4 Hour Limit	
+The total number of spaces within the facility whose posted duration is 4 hours.
+Number
+	
+9 Hour Limit	
+The total number of spaces within the facility whose posted duration is 9 hours.
+Number	
+	
+12 Hour Limit	
+The total number of spaces within the facility whose posted duration is 12 hours.
+Number
+	
+15 Hour Limit	
+The total number of spaces within the facility whose posted duration is 15 hours.
+Number
+	
+Parking Convenience Stickers	
+The total number of spaces within the facility allocated to Parking Convenience Sticker (PCS) users.
+Number
+	
+Carpool	
+The total number of spaces within the facility allocated to Carpool users.
+Number
+	
+Restricted	
+The total number of spaces within the facility whose use is restricted to specified groups and is not open to the public.
+Plain Text
+	
+Inactive	
+The total number of spaces within the facility that are currently closed and prohibited from use by any user group.
+Plain Text
+	
+Additional Information	
+Link to a webpage administered by MCDOT's Division of Parking Management disclosing further details about the facility.
+Plain Text
+	
+Last Update	
+The last date and time information pertaining to the facility was modified.
+Date & Time
+	
+Location	
+Socrata generated location field
+Point

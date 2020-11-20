@@ -1,0 +1,80 @@
+[
+    {
+        "event_number": "E20064228",
+        "event_type_group": "CA",
+        "event_description": "CITIZEN ASSIST",
+        "approximate_location": "CASTLE DOWNS STN NW / CASTLE DOWNS STN NW",
+        "neighbourhood_id": "3040",
+        "neighbourhood_name": "BEAUMARIS",
+        "dispatch_date": "2020-11-09T00:00:00.000",
+        "dispatch_time": "23:04:03",
+        "dispatch_year": "2020",
+        "dispatch_month_name": "NOVEMBER",
+        "dispatch_month_number": "11",
+        "dispatch_day_number": "09",
+        "day_of_week": "Monday",
+        "event_close_date": "2020-11-09T00:00:00.000",
+        "event_close_time": "23:15:54",
+        "latitude": "53.617568794534925",
+        "longitude": "-113.51760214279528",
+        "location": {
+            "latitude": "53.617568794534925",
+            "longitude": "-113.51760214279528",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "count": "1",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "event_number": "E20064225",
+        "event_type_group": "MD",
+        "event_description": "MEDICAL",
+        "approximate_location": "92 ST NW / 95 ST NW",
+        "neighbourhood_id": "1140",
+        "neighbourhood_name": "MCCAULEY",
+        "dispatch_date": "2020-11-09T00:00:00.000",
+        "dispatch_time": "22:50:59",
+        "dispatch_year": "2020",
+        "dispatch_month_name": "NOVEMBER",
+        "dispatch_month_number": "11",
+        "dispatch_day_number": "09",
+        "day_of_week": "Monday",
+        "event_close_date": "2020-11-09T00:00:00.000",
+        "event_close_time": "23:40:57",
+        "latitude": "53.559531342358426",
+        "longitude": "-113.48343331520415",
+        "location": {
+            "latitude": "53.559531342358426",
+            "longitude": "-113.48343331520415",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "count": "1",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "event_number": "E20064221",
+        "event_type_group": "AL",
+        "event_description": "ALARMS",
+        "approximate_location": "No location",
+        "neighbourhood_id": "3470",
+        "neighbourhood_name": "CARLTON",
+        "dispatch_date": "2020-11-09T00:00:00.000",
+        "dispatch_time": "22:34:51",
+        "dispatch_year": "2020",
+        "dispatch_month_name": "NOVEMBER",
+        "dispatch_month_number": "11",
+        "dispatch_day_number": "09",
+        "day_of_week": "Monday",
+        "event_close_date": "2020-11-09T00:00:00.000",
+        "event_close_time": "23:06:33",
+        "latitude": "53.627150184652066",
+        "longitude": "-113.55676735398085",
+        "location": {
+            "latitude": "53.627150184652066",
+            "longitude": "-113.55676735398085",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "count": "1",
+        ":@computed_region_da6r_6gkw": "2"
+    }
+]

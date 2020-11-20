@@ -1,0 +1,94 @@
+Description
+
+All tows performed on behalf of the Parking Violations Bureau. Call (716) 851-5369 and notify the representative if your car is impounded. Any outstanding tickets under the registered owners name and/or the titled owner must be paid, the vehicle must be registered and insured and all towing and storage charges satisfied in order to obtain a release form. If the police have a hold on the vehicle you will also need written authorization from the Police Department in order to retrieve the vehicle.
+
+
+Columns
+
+UNIQUE KEY	
+A unique identifier for each tow
+Plain Text
+	
+TOW DATE	
+The date the vehicle was towed
+Date & Time
+	
+AGENCY	
+The abbreviation of the towing company that towed the vehicle.
+Plain Text
+	
+VEHICLE YEAR	
+The vehicle model year
+Plain Text
+	
+VEHICLE MAKE	
+The abbreviation of the make of vehicle
+Plain Text
+	
+LICENSE PLATE	
+The license plate number associated with the towed vehicle at the time of the tow
+Plain Text
+	
+LICENSE STATE	
+The state where the license plate was issued
+Plain Text
+	
+TOW LOCATION	
+The full street address where the vehicle was retrieved
+Plain Text
+	
+CITY	
+The city where the vehicle was retrieved
+Plain Text
+	
+STATE	
+The state where the vehicle was retrieved
+Plain Text
+	
+ZIP	
+The zip code where the vehicle was retrieved
+Plain Text
+	
+TOW REASON	
+The reason the vehicle was towed
+Plain Text
+	
+TOW DESCRIPTION	
+The detailed description of the reason the vehicle was towed
+Plain Text
+	
+LOCATION	
+The geographic location where the vehicle was retrieved
+Location
+	
+LATITUDE	
+The latitiude where the vehicle was retrieved
+Plain Text
+	
+LONGITUDE	
+The longitude where the vehicle was retrieved
+Plain Text
+	
+COUNCIL DISTRICT	
+The council district where the vehicle was retrieved
+Plain Text
+	
+POLICE DISTRICT	
+The police district where the vehicle was retrieved
+Plain Text
+	
+CENSUS TRACT	
+The census tract where the vehicle was retrieved
+Plain Text
+	
+CENSUS BLOCK GROUP	
+The census block group where the vehicle was retrieved
+Plain Text
+	
+CENSUS BLOCK	
+The census block where the vehicle was retrieved
+Plain Text
+	
+NEIGHBORHOOD	
+The neighborhood where the vehicle was retrieved
+Plain Text

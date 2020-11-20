@@ -1,0 +1,73 @@
+Description
+
+All code compliance complaints and violations that SDCI is reviewing and processing.
+
+Columns
+
+RecordNum	
+The tracking number used to refer to this complaint or violation in SDCI's tracking system.
+Plain Text
+	
+RecordType	
+The broad category of complaint or violation that we are reviewing or processing.
+Plain Text
+	
+RecordTypeMapped	
+This tells you whether the issue is a complaint (usually Request) or a violation (Case).
+Plain Text
+	
+RecordTypeDesc	
+A more detailed description about the type of complaint or violoation that we are reviewing or processing. This is left blank for some types of complaints that don't have this level of detail
+Plain Text
+	
+Description	
+A brief description of the complaint or violation.
+Plain Text
+	
+OpenDate	
+The date SDCI received the complaint or opened a case regarding a violation.
+Plain Text
+	
+LastInspDate	
+The date of the last Compliance inspection so far.
+Plain Text
+	
+LastInspResult	
+The result of the last Compliance inspection so far. Note that a “Failed” inspection may result when even a single item is not yet in compliance.
+Plain Text
+	
+StatusCurrent	
+The current status in the complaint/review/inspection life cycle. This status shows the most recent process step that was fully completed.
+Plain Text
+	
+OriginalAddress1	
+The street name and number of the record.
+Plain Text
+	
+OriginalCity	
+The city for the record's address.
+Plain Text
+	
+OriginalState	
+The state for the record's address.
+Plain Text
+	
+OriginalZip	
+The Zip code for the record's address.
+Plain Text
+	
+Link
+A link to view full details and current status information about this record at SDCI's website.
+Website URL
+	
+Latitude	
+Latitude where code compliance activity occurs. May be missing for a small number of sites considered "unaddressable."
+Plain Text
+	
+Longitude	
+Location where code compliance activity occurs. May be missing for a small number of sites considered "unaddressable."
+Number
+	
+Location1	
+Location where code compliance activity occurs. May be missing for a small number of sites considered "unaddressable."
+Location

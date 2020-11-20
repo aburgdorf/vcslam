@@ -1,0 +1,58 @@
+Description
+
+A list of known unreinforced masonry buildings in the Seattle city limits.
+
+
+Columns
+
+Preliminary Risk Category	
+The risk category is based on how the building is used.
+Plain Text
+	
+Neighborhood	
+Seattle neighborhood where the building is located
+Plain Text
+	
+Address	
+Building address
+Plain Text
+	
+City	
+The City where the unreinforced masonry building is located.
+Plain Text
+	
+State	
+The state where the unreinforced masonry building is
+Plain Text
+	
+Zip Code	
+The Zip code for the area of the city.
+Plain Text
+	
+Year Built	
+Year building was built.
+Plain Text
+	
+No. Stories	
+Number of stories
+Number
+	
+Retrofit Level	
+How much earthquake mitigation has been done
+Plain Text
+	
+Building Use	
+How is the building used.
+Plain Text
+	
+Estimated Number of Occupants	
+Estimated number of occupants of the building.
+Plain Text
+	
+Confirmation Source	
+How we know it’s an Unreinforced Masonry Building.
+Plain Text
+	
+Long/Lat	
+Longitude and Latitude for each building
+Point

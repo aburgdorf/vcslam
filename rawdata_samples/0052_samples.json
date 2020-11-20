@@ -1,0 +1,87 @@
+[
+    {
+        "datasetid": "street-trees",
+        "recordid": "41ebb6b58111f3d3fc115818755c54db43c057cc",
+        "fields": {
+            "std_street": "BEATRICE ST",
+            "on_street": "BEATRICE ST",
+            "species_name": "CARNEA   X",
+            "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
+            "root_barrier": "N",
+            "diameter": 16,
+            "street_side_name": "ODD",
+            "genus_name": "AESCULUS",
+            "assigned": "Y",
+            "civic_number": "4643",
+            "plant_area": "8",
+            "curb": "Y",
+            "tree_id": "59277",
+            "common_name": "RUBY RED HORSECHESTNUT",
+            "height_range_id": 4,
+            "on_street_block": "4600",
+            "cultivar_name": "BRIOTTI",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.066689,
+                    49.243267
+                ]
+            }
+        },
+        "record_timestamp": "2020-11-09T12:32:15.862+01:00"
+    },
+    {
+        "datasetid": "street-trees",
+        "recordid": "12fe1b4a99a2ee6bc8c4f6caddb6251bf33d51aa",
+        "fields": {
+            "std_street": "BEATRICE ST",
+            "on_street": "BEATRICE ST",
+            "species_name": "AUCUPARIA",
+            "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
+            "root_barrier": "N",
+            "diameter": 10,
+            "street_side_name": "EVEN",
+            "genus_name": "SORBUS",
+            "assigned": "N",
+            "civic_number": "4658",
+            "plant_area": "10",
+            "curb": "Y",
+            "tree_id": "59278",
+            "common_name": "EUROPEAN MOUNTAIN ASH",
+            "height_range_id": 2,
+            "on_street_block": "4600"
+        },
+        "record_timestamp": "2020-11-09T12:32:15.862+01:00"
+    },
+    {
+        "datasetid": "street-trees",
+        "recordid": "fd7774976296d793e9f8e1d2feb730b701657c07",
+        "fields": {
+            "std_street": "BEATRICE ST",
+            "on_street": "BEATRICE ST",
+            "species_name": "CARNEA   X",
+            "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
+            "root_barrier": "N",
+            "diameter": 17,
+            "street_side_name": "ODD",
+            "genus_name": "AESCULUS",
+            "assigned": "N",
+            "civic_number": "4659",
+            "plant_area": "8",
+            "curb": "Y",
+            "tree_id": "59280",
+            "common_name": "RUBY RED HORSECHESTNUT",
+            "height_range_id": 4,
+            "on_street_block": "4600",
+            "cultivar_name": "BRIOTTI",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.066692,
+                    49.243111
+                ]
+            }
+        },
+        "record_timestamp": "2020-11-09T12:32:15.862+01:00"
+    }
+]

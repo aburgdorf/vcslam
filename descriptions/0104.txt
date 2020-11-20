@@ -1,0 +1,32 @@
+Description
+
+This dataset includes a listing of the Little Rock Police Department Facilities.
+
+
+
+Columns
+
+FACILITY	
+Name of Police Facility
+Plain Text
+	
+ADDRESS	
+Street Address of Police Facility
+Plain Text
+	
+CITY AND STATE	
+City and State of Police Facility
+Plain Text
+	
+ZIP	
+Zip Code of Police Facility
+Plain Text
+	
+ZIP4	
+Zip Code Plus 4 of Police Facility
+Plain Text
+	
+the_geom	
+Latitude and Longitude of Police Facility
+Point
+	

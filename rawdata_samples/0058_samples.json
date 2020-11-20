@@ -1,0 +1,63 @@
+[
+    {
+        "datasetid": "drinking-fountains",
+        "recordid": "46f9d9cc2bdcf0d0a99623a37a01d9f9871f9afe",
+        "fields": {
+            "maintainer": "Parks",
+            "name": "Fountain location:\nAdanac Park",
+            "mapid": "DFPB0002",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0241254441794,
+                    49.27596410057139
+                ]
+            },
+            "location": "SW side of Field house",
+            "in_operation": "spring to fall",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2020-11-09T12:30:41.993+01:00"
+    },
+    {
+        "datasetid": "drinking-fountains",
+        "recordid": "d57af30d08edc2d76b613e730263936fe12861e0",
+        "fields": {
+            "maintainer": "Parks",
+            "name": "Fountain location:\nAndy Livingstone Park - North of basketball court",
+            "mapid": "DFPB0005",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10617896100499,
+                    49.278917130264055
+                ]
+            },
+            "location": "by amphitheatre steps near bas",
+            "in_operation": "spring to fall",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2020-11-09T12:30:41.993+01:00"
+    },
+    {
+        "datasetid": "drinking-fountains",
+        "recordid": "bd055300b5c537fb4506e230e660d44cff805b63",
+        "fields": {
+            "photo_name": "Discovery Square - drinking fountain - 2005.JPG",
+            "name": "Fountain location:\nArt Phillips Park (Discovery Square)",
+            "mapid": "DFPB0009",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12092403672209,
+                    49.28602527394457
+                ]
+            },
+            "location": "NW plaza",
+            "maintainer": "Parks",
+            "in_operation": "spring to fall",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2020-11-09T12:30:41.993+01:00"
+    }
+]

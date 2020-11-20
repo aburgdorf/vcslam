@@ -1,0 +1,110 @@
+Description
+
+ This data set includes all in service water (fire) hydrants on the Dedicated Fire Protection, Distribution, and Transmission water subsystems. Some hydrants maybe out of commission and this is indicated on the data set.
+
+Data currency
+
+The extract on this website is updated weekly.
+
+Data accuracy
+
+Data is accurate at the time of data extract to the best of record keeping ability.
+
+
+Columns
+
+ID
+hydrant identifier in the format WH-A99-999 where WH stands for Water Hydrant, A99 is the grid, and the first of the last three numbers is 0 for distribution or transmission subsystem, 1 for Dedicated Fire Protection, 8 for Musqueam owned, and 9 for a private hydrant.  The last two 9's are a sequence number.
+
+SUBSYSTEM
+the subsystem where DSTR is distribution; TRNS is transmission; and DFPS is dedicated fire protection
+
+CODE
+is the manufacturer
+
+COVWATERHYDRANTUNITTYPE
+hydrant model
+
+DISTANCEFROMCORNER
+distance in meters to the nearest street corner
+
+FEEDERLEN
+distance in meters from the hydrant to the hydrant control valve
+
+DIR
+direction of hydrant lateral
+
+LINE
+direction of hydrant lateral
+
+COLOR
+Red indicates < 500 Imperial Gallons Per Minute (GPM); Yellow indicates 500 - 1000 IMPERIAL GPM; Green indicates 1000 - 1500 IMPERIAL GPM; Blue indicates > 1500 IMPERIAL GPM; White indicates a PRIVATE HYDRANT
+
+INCOMM
+in commission yes or no
+
+CHR0
+contains no data
+
+CHR1
+contains no data
+
+STREET_NUMBER
+Number assigned to the street where the hydrant is located
+
+STREET
+location plus address or intersection. For example WS 123 Madeup Street means west side in front of 123 Madeup Street; if an intersection it will be the corner and the street and cross street for example NEC Madeup Street & Madeup Drive which means north east corner on Madeup Street where the cross street is Madeup Drive
+
+OLDHYDNUM
+old hydrant number
+
+CASTSUB
+sub designation for example Stanley Park
+
+OOCDATE
+last out of commission date
+
+OOCNOTES
+last out of commission notes
+
+INSTDATE1
+date hydrant was installed
+
+ORACLEID
+identifier in Oracle database
+
+ACTIVE
+all hydrants in this dataset are in service
+
+REMARKS
+any special notes
+
+FIREUSEONLY
+a 'Y' (yes) means not available for special use due to a special condition such as 		releasing water from the hydrant will set off fire alarms at nearby schools, etc.
+
+STATUS
+all hydrants in this dataset are in service
+
+COMPRESSION	
+'Yes' means this is a compression valve type hydrant; 'N' means a gate valve type hydrant
+
+ADDDTTM
+the date the hydrant was added to the database
+
+ADDBY
+the person or operation that added the hydrant
+
+MODBY
+the last person/operation that modified the record
+
+FEATURE_ID
+GIS internal number
+
+UNITID
+Infrastructure management internal number
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local	planning areas). For more details, see the Local area boundary data set.

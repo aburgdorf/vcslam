@@ -1,0 +1,27 @@
+Description
+This dataset gives information about locations of Ticket Vending Machines (TVM) in Canberra. These machines are used to buy a paper ticket or top-up MyWay cards. These machines accept credit card & cash as denoted inside the dataset for each TVM
+
+Columns
+
+TVM Identifier	
+Identifier for Ticket Vending Machines (TVM)		Plain Text
+	
+Latitude	
+Latitude of TVM						Number
+	
+Longitude	
+Longitude of TVM					Number
+	
+Coordinates	
+Co-ordinates of TVM					Plain Text
+	
+Address	
+location of TVM (street locations)			Plain Text
+	
+Pay by Credit card	
+Flag to notify whether TVMs have credit card facility enabled to buy tickets or top-up MyWay cards							Checkbox
+	
+Pay by Cash	
+Flag to notify whether TVMs acccecpt cash to buy tickets or top-up MyWay cards												Checkbox
+	
+Location						Point

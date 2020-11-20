@@ -1,0 +1,71 @@
+[
+    {
+        "date": "2011-12-16T00:00:00.000",
+        "parcel": "34L0840004400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1105 S Valmar St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1214.08",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312187,
+                34.740882
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L0920035700",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1623 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311849,
+                34.736114
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1890011100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1605 Jones St",
+        "zip_code": "72202",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.302679,
+                34.73528
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    }
+]

@@ -1,0 +1,33 @@
+Description
+
+All permitted construction work are subject to inspection by authorized Building and Safety inspectors. The permit applicant notifies Building and Safety when the work is ready for inspection. Common items inspected include foundation excavations, concrete work, wood framing, ventilation equipment, plumbing, electrical, and so forth. Upon completion, there will be a final inspection and approval of the completed project.
+
+Columns
+
+ADDRESS	
+The "street address" portion of the property address as shown on the permit.
+Plain Text
+	
+PERMIT	
+This is the permit number assigned by the Plan Check and Inspection System as soon as an application for a permit has been filed. Before a permit is issued, the number is known as the Application Number. After the permit is issued, this same number becomes the Permit Number.
+Plain Text
+	
+Permit Status	
+Status of a permit, or of a permit application.
+Plain Text
+	
+Inspection Date	
+The date when the inspection was, or is to be conducted.
+Date & Time
+	
+Inspection Type	
+Type of inspection performed, or to be performed.
+Plain Text
+	
+Inspection Result	
+Result of inspection.
+Plain Text
+	
+Latitude/Longitude	
+GPS location point.
+Location

@@ -1,0 +1,98 @@
+Description
+
+List of public libraries in Edmonton
+
+
+Columns
+
+Branch ID	
+Abbreviation of Library Name.
+Plain Text
+	
+Branch	
+Name of Library
+Plain Text
+	
+Address	
+Street Address for Library
+Plain Text
+	
+Postal Code	
+Postal Code for Library
+Plain Text
+	
+Phone Number	
+Phone number to contact Library.
+Plain Text
+	
+Free WiFi	
+Does the Library provide free WiFi for the public.
+Plain Text
+	
+Monday Open	
+Time when Library opens on Monday
+Plain Text
+	
+Monday Close	
+Time when Library closes on Monday
+Plain Text
+	
+Tuesday Open	
+Time when Library opens on Tuesday.
+Plain Text
+	
+Tuesday Close	
+Time when Library closes on Tuesday.
+Plain Text
+	
+Wednesday Open	
+Time when Library closes on Wednesday.
+Plain Text
+	
+Wednesday Close	
+Time when Library closes on Wednesday.
+Plain Text
+	
+Thursday Open	
+Time when Library opens on Thursday.
+Plain Text
+	
+Thursday Close	
+Time when Library closes on Thursday.
+Plain Text
+	
+Friday Open	
+Time when Library opens on Friday.
+Plain Text
+	
+Friday Close	
+Time when Library closes on Friday.
+Plain Text
+	
+Saturday Open	
+Time when Library closes on Saturday.
+Plain Text
+	
+Saturday Close	
+Time when Library closes on Saturday.
+Plain Text
+	
+Sunday Open	
+Time when Library opens on Sunday.
+Plain Text
+	
+Sunday Close	
+Time when Library closes on Sunday.
+Plain Text
+	
+Latitude	
+Latitude Coordinate for Library
+Number
+	
+Longitude	
+Longitude Coordinate for Library
+Number
+	
+Location	
+Geographic coordinates for Library
+Location

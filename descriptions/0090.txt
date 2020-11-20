@@ -1,0 +1,119 @@
+Description
+
+Granular inventory of Metro Nashville public pedestrian signals that describe their visual, audible, dimensional, and location characteristics that may affect their ADA compliance.
+
+
+
+
+Columns
+
+INTERSECTIONID	
+This is the unique identifier of the intersection. It is described by the ONST, CRST, QUAD fields that follow
+Plain Text
+	
+ONST	
+The name of the street that the pedestrian route follows along (i.e. parallel to the direction of travel)
+Plain Text
+	
+CRST	
+The name of the street that the pedestrian is crossing (i.e. perpendicular to the direction of travel)
+Plain Text
+	
+QUAD	
+The corner of the intersection being referenced
+Plain Text
+	
+INSPECTOR	
+The name of the person performing the inspection
+Plain Text
+	
+DATE	
+The date in which the data was collected
+Date & Time
+	
+EVNT_LAT	
+The WGS 84 Latitude of the location of the event/observation in decimal degrees
+Number
+	
+EVNT_LON	
+The WGS 84 Longitude of the location of the event/observation in decimal degrees
+Number
+	
+EVNT_MAP
+Plain Text
+	
+EVNT_TYPE	
+The type of event/observation along the sidewalk route
+Plain Text
+	
+PED_SIGNAL_PRES	
+Indicates the presence of a pedestrian signal at that location
+Checkbox
+	
+CPL_SIZE	
+Indicates TRUE or FALSE on whether the subject button is compliant with the minimum 2” diameter requirement
+Checkbox
+	
+CPL_FORCE	
+Indicates TRUE or FALSE on whether the subject button is compliant with the maximum 3.5 lbf required to initiate the signal
+Checkbox
+	
+CPL_OP	
+Indicates TRUE or FALSE on whether the subject button is compliant with the ability to initiate the signal with one’s fist
+Checkbox
+	
+CPL_CTRST	
+Indicates TRUE or FALSE on whether the subject button is compliant with visual contrast requirements between the button itself and it’s housing
+Checkbox
+	
+CPL_VIS	
+Indicates TRUE or FALSE on whether the subject button is compliant with the visual indicator requirements (i.e. Is there a visible indicator that the signal has been initiated?)
+Checkbox
+	
+CPL_AUD	
+Indicates TRUE or FALSE on whether the subject button is compliant with the audible indicator requirements (i.e. Is there an audible indicator that the signal has been initiated?)
+Checkbox
+	
+CMNT_1	
+Additional comments regarding the previous compliance data fields
+Plain Text
+	
+CPL_LDG	
+Indicates TRUE or FALSE on whether the landing adjacent to the subject button is compliant (i.e. measures at least 34”x54”, has no greater than a 1:48 slope and is stable, firm and slip resistant)
+Checkbox
+	
+CPL_PROX	
+Indicates TRUE or FALSE on whether the proximity between the landing and the subject button is compliant (i.e. within 10” of each other)
+Checkbox
+	
+CPL_PLACE	
+Indicates TRUE or FALSE on whether the control face of the subject button is compliant (i.e. the direction is parallel to the direction of travel and no closer than 30” to the curb line)
+Checkbox
+	
+CPL_SEP	
+Indicates TRUE or FALSE on whether the subject button is compliant with the requirement that no adjacent button be closer than 10’
+Checkbox
+	
+CPL_HGT	
+Indicates the height at which the subject button is located above ground level, in inches
+Plain Text
+	
+CPL_CW_1	
+Indicates the distance at which the subject button is located behind the curb line, in feet
+Plain Text
+	
+CPL_CW_2	
+Indicates the distance at which the lateral projection of the subject button is offset from outside edge of the cross-walk, in feet
+Plain Text
+	
+CMNT_2	
+Additional comments regarding the previous compliance data fields
+Plain Text
+	
+OA_CMNT	
+Overall/closing comments regarding the pedestrian signal
+Plain Text
+	
+Mapped Location	
+Combined latitude and longitude of the event / observation
+Point

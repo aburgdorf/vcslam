@@ -1,0 +1,68 @@
+[
+    {
+        "trade_name": "30 90",
+        "address": "520 FRENCHMEN ST",
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "zip": "70116",
+        "description": "8440 - Music for Entertainment,Dancing/Admission Charged",
+        "owner_legal_name": "FRENCHMEN STREET ENTERTAINMENT LLC",
+        "location_1": {
+            "latitude": "29.963026530677",
+            "longitude": "-90.0578251792975",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_ewbu_t8bu": "3318",
+        ":@computed_region_k37d_then": "3",
+        ":@computed_region_m56f_hbma": "249",
+        ":@computed_region_7fw3_kdpf": "44",
+        ":@computed_region_spev_d8jm": "3458",
+        ":@computed_region_sikx_bdeb": "249",
+        ":@computed_region_evki_aju8": "5",
+        ":@computed_region_u4yh_3wk9": "3318"
+    },
+    {
+        "trade_name": "ACE HOTEL",
+        "address": "600 CARONDELET ST",
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "zip": "70130",
+        "description": "8440 - Music for Entertainment,Dancing/Admission Charged",
+        "owner_legal_name": "ACE GROUP NEW ORLEANS LLC",
+        "location_1": {
+            "latitude": "29.9484041719003",
+            "longitude": "-90.0721543198545",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_ewbu_t8bu": "4899",
+        ":@computed_region_k37d_then": "2",
+        ":@computed_region_m56f_hbma": "21",
+        ":@computed_region_7fw3_kdpf": "12",
+        ":@computed_region_spev_d8jm": "4152",
+        ":@computed_region_sikx_bdeb": "21",
+        ":@computed_region_evki_aju8": "5",
+        ":@computed_region_u4yh_3wk9": "4899"
+    },
+    {
+        "trade_name": "APPLE BARREL",
+        "address": "609 FRENCHMEN ST",
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "zip": "70116",
+        "description": "8405 - Orchestras in Businesses/No Admission Charged",
+        "owner_legal_name": "ADLOFO'S RESTAURANT INC",
+        "location_1": {
+            "latitude": "29.9638056023555",
+            "longitude": "-90.0576765135927",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_ewbu_t8bu": "5860",
+        ":@computed_region_k37d_then": "3",
+        ":@computed_region_m56f_hbma": "249",
+        ":@computed_region_7fw3_kdpf": "44",
+        ":@computed_region_spev_d8jm": "3458",
+        ":@computed_region_sikx_bdeb": "249",
+        ":@computed_region_evki_aju8": "5",
+        ":@computed_region_u4yh_3wk9": "5860"
+    }
+]

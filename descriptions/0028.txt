@@ -1,0 +1,67 @@
+Description
+
+List of establishments that have a valid business licence to operate in the City of Edmonton.
+
+
+
+Columns
+
+Category	
+General classification of business
+Plain Text
+	
+Trade Name	
+Common Name for the business
+Plain Text
+	
+Address	
+The Municipal Address where the business is located.
+Plain Text
+	
+Licence Number	
+Unique identifier for a business permit
+Plain Text
+	
+Licence Status	
+Current Status of Licence - Issued, Expired
+Plain Text
+	
+Issue Date	
+Date Business Licence Issued
+Date & Time
+	
+Expiry Date	
+Date Business Licence Is to Expire
+Date & Time
+	
+Business Improvement Area	
+The Business Improvement Area for the business. If blank, it would mean there is not a registered Business Improvement Area defined for where the business is located.
+Plain Text
+	
+Neighbourhood ID	
+Unique number identifier for the Neighbourhood
+Number
+	
+Neighbourhood	
+The name of the Neighbourhood
+Plain Text
+	
+Ward	
+The municipal ward where the business is located.
+Plain Text
+	
+Latitude	
+The latitude value for the geo location of the business.
+Number
+	
+Longitude	
+The longitude value for the geo location of the business.
+Number
+	
+Location	
+The combination of latitude and longitude used for mapping purposes.
+Location
+	
+Count	
+Used to create visual reports
+Number

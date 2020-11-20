@@ -1,0 +1,115 @@
+Description
+
+This dataset comprises all street trees within the City of Buffalo. The City of Buffalo Bureau of Forestry is responsible for maintaining and preserving the public urban forest.
+
+
+
+Columns
+
+Editing	
+The organization responsible for tree maintenance
+Plain Text
+	
+Botanical Name	
+The species of the tree
+Plain Text
+	
+Common Name	
+The common name of the tree species
+Plain Text
+	
+DBH	
+Diameter at breast height, or DBH, is a standard method of expressing the diameter of the trunk or bole of a standing tree (in inches) measured at 4.5 feet above ground level.
+Number
+	
+Total Yearly Eco Benefits ($)	
+The total dollar amount of benefits that a tree provides. This is a combination of greenhouse gas benefits, water benefits, energy benefits, air quality benefits, and property benefits.
+Number
+	
+Stormwater Benefits ($)	
+The total dollar amount of stormwater benefits that a tree provides by reducing the amount of runoff and pollutant loading in receiving waters
+Number
+	
+Stormwater Gallons Saved	
+The total amount of gallons of water saved by a tree as a result of intercepting and storing rainfall in leaves and branches, increasing soil infiltration through root growth and decomposition, reducing soil erosion by diminishing the impact of rain on barren surfaces, and reducing soil moisture thereby increasing the soil's capacity to store rainfall.
+Number
+	
+Greenhouse CO2 Benefits ($)	
+The total dollar amount of benefits that a tree provides by reducing atmospheric greenhouse gases
+Number
+	
+CO2 Avoided (in lbs.)	
+The amount of carbon dioxide (in pounds) that isn't released into the atmosphere as a result of a tree reducing the demand for heating and air conditioning of nearby buildings.
+Number
+	
+CO2 Sequestered (in lbs.)	
+The amount of carbon dioxide sequestered (in lbs.) by a tree as it grows.
+Number
+	
+Energy Benefits ($)	
+The total dollar amount of benefits that a tree provides by modifying climate and conserving building energy use.
+Number
+	
+kWh Saved	
+The amount of kilowatt hours of energy saved by shading and transpiration (converting liquid water to water vapor which cools the environment).
+Number
+	
+Therms Saved	
+The amount of therms of heat energy saved by reducing wind speeds.
+Number
+	
+Air Quality Benefits ($)	
+The total dollar amount of benefits that a tree provides by increasing air quality through absorption of gaseous pollutants, intercepting particulates, releasing oxygen, transpiring water, shading surfaces, lowering air temperatures and reducing ozone levels.
+Number
+	
+Pollutants Saved (in lbs.)	
+The total amount of pollutants saved (in pounds) by a tree through absorbing gaseous pollutants, intercepting particulates, and reducing ozone levels.
+Number
+	
+Property Benefits ($)	
+The total dollar amount of increased property value through the increased curb appeal of having a tree in front of a property. Research has shown that buyers are willing to pay more for homes with ample trees.
+Number
+	
+Leaf Surface Area (in sq. ft.)	
+The measure of the total area of all leaf surface on a tree (in square feet)
+Number
+	
+Address	
+The house number associated with the location of the tree
+Number
+	
+Street	
+The street name where the tree is located
+Plain Text
+	
+Side	
+The location of the tree on the parcel
+Plain Text
+	
+Site	
+Site designated number when multiple trees exist for same location.
+Number
+	
+Council District	
+The council district where the tree is located
+Plain Text
+	
+Park Name	
+The park where the tree is located. Trees not in parks will have a value of 0.
+Plain Text
+	
+Latitude	
+The latitude where the tree is located.
+Number
+	
+Longitude	
+The longitude where the tree is located.
+Number
+	
+Site ID	
+An identification number for the site where the tree is located.
+Number
+	
+Location	
+The geographic location where the tree is located
+Location

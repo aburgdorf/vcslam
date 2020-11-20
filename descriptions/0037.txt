@@ -1,0 +1,64 @@
+Description
+
+List of all public schools in Edmonton for the 2015-2016 school year
+
+
+Columns
+
+AB_SCHOOL_NUMBER	
+School number assigned by Alberta Education
+Number
+	
+SCHOOL_NAME	
+Name of school
+Plain Text
+	
+ADDRESS	
+Street address of school
+Plain Text
+	
+POSTAL_CODE	
+Postal Code for school
+Plain Text
+	
+WARD	
+School ward where school is located
+Plain Text
+	
+WEBSITE	
+URL for school's website
+Website URL
+	
+PHONE_NUMBER	
+Phone number for school. Area code is 780 plus 7 digits
+Number
+	
+FAX_NUMBER	
+Fax Number for school. Area code is 780 plus 7 digit number.
+Number
+	
+EMAIL_ADDRESS	
+E-mail address for the school
+Plain Text
+	
+GRADE_LEVEL	
+Class levels at the school. Elementary = 1 to 6; Junior = 7 to 9; Senior = 10 to 12
+Plain Text
+	
+GRADES_OFFERED	
+Range of Grade years offered by the school
+Plain Text
+	
+PROGRAMS	
+Various programs offered at the school.
+Plain Text
+	
+LATITUDE
+Number
+	
+LONGITUDE
+Number
+	
+LOCATION	
+Geographic coordinates for school
+Location

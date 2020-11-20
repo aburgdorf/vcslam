@@ -1,0 +1,41 @@
+[
+    {
+        "sumd_id": "StandardNW5HJFO4R32LY",
+        "sumd_type": "Standard",
+        "sumd_group": "bicycle",
+        "gps_latitude": "36.150966",
+        "gps_longitude": "-86.852773",
+        "availability_start_date": "2018-12-22",
+        "availability_start_time": "06:02:51",
+        "availability_duration": "2880",
+        "real_time_fare": "0.05",
+        "company_website": "https://www.li.me/help",
+        "company_phone": "1 (888)-LIME-345"
+    },
+    {
+        "sumd_id": "PoweredJ6OI7QJIK4NO2",
+        "sumd_type": "Powered",
+        "sumd_group": "scooter",
+        "gps_latitude": "36.150618",
+        "gps_longitude": "-86.811081",
+        "availability_start_date": "2019-10-21",
+        "availability_start_time": "00:21:51",
+        "availability_duration": "1027.36177251545",
+        "real_time_fare": "0.15",
+        "company_website": "https://www.li.me/help",
+        "company_phone": "1 (888)-LIME-345"
+    },
+    {
+        "sumd_id": "PoweredB3UHX7HW3FTQQ",
+        "sumd_type": "Powered",
+        "sumd_group": "scooter",
+        "gps_latitude": "36.144774",
+        "gps_longitude": "-86.808135",
+        "availability_start_date": "2019-10-21",
+        "availability_start_time": "12:38:03",
+        "availability_duration": "291.16177251545",
+        "real_time_fare": "0.15",
+        "company_website": "https://www.li.me/help",
+        "company_phone": "1 (888)-LIME-345"
+    }
+]

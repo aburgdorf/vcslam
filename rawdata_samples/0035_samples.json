@@ -1,0 +1,35 @@
+[
+    {
+        "year": "2020",
+        "month": "August",
+        "month_number": "8",
+        "license_date": "2020-08-18T00:00:00.000",
+        "pet_type": "Cat",
+        "breed": "DOMESTIC (SHORT HAIR)",
+        "gender": "Female",
+        "spayed_or_neutered": "Yes",
+        "count": "1"
+    },
+    {
+        "year": "2020",
+        "month": "July",
+        "month_number": "7",
+        "license_date": "2020-07-10T00:00:00.000",
+        "pet_type": "Cat",
+        "breed": "DOMESTIC (SHORT HAIR)",
+        "gender": "Female",
+        "spayed_or_neutered": "Yes",
+        "count": "1"
+    },
+    {
+        "year": "2020",
+        "month": "October",
+        "month_number": "10",
+        "license_date": "2020-10-05T00:00:00.000",
+        "pet_type": "Cat",
+        "breed": "DOMESTIC (SHORT HAIR)",
+        "gender": "Male",
+        "spayed_or_neutered": "Yes",
+        "count": "1"
+    }
+]

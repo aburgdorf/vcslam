@@ -1,0 +1,62 @@
+Description
+
+A list of all City of Edmonton transportation maintenance areas and the date on which each is scheduled for residential street cleaning. Does NOT include arterials or major routes.
+
+
+Columns
+
+Maintenance Area	
+Unique identifier for a particular Maintenance Area
+Number
+	
+Neighbourhood Name	
+Name of Neighbourhood where street cleaning activity is going to occur
+Plain Text
+	
+Planned Start Week	
+The week when street cleaning activity is scheduled in the Neighbourhood.
+Plain Text
+	
+Earliest Scheduled Start Date
+Plain Text
+	
+Latest Scheduled Start Date
+Plain Text
+	
+Planned Start Date	
+The date the work is scheduled to start.
+Plain Text
+	
+Street Cleaning Status	
+Status for street cleaning activity in Neighbourhood. Note: TBD means To Be Determined
+Plain Text
+	
+Location	
+(latitude, longitude)
+Location
+	
+Data Update	
+Details of when the dataset was updated
+Date & Time
+	
+Planned Start Week Revised/Postponed	
+Whether or not the original planned week was postponed.
+Plain Text
+	
+Note
+Plain Text
+	
+Revised Start Week	
+The new start week if revised from the original planned week.
+Plain Text
+	
+Revised Earliest Scheduled Start Date	
+The earliest date that sweeping will begin, if revised from the original planned date.
+Plain Text
+	
+Revised Latest Scheduled Start Date	
+The latest date that sweeping will begin, if revised from the original planned date.
+Plain Text
+	
+Revised Start Date
+Plain Text

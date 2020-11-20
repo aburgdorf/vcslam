@@ -1,0 +1,77 @@
+[
+    {
+        "datasetid": "community-gardens-and-food-trees",
+        "recordid": "a59bc98f22d57bc2cd9d4ffdab9fd06db2ef0c46",
+        "fields": {
+            "jurisdiction": "Private",
+            "name": "1755 West 14th - Private apartment building garden",
+            "street_number": "1755",
+            "street_name": "14th",
+            "steward_or_managing_organization": "Apartment residents",
+            "mapid": "FA004",
+            "year_created": "2007",
+            "street_type": "Av",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1448703,
+                    49.2590496
+                ]
+            },
+            "street_direction": "W",
+            "geo_local_area": "Fairview",
+            "merged_address": "1755 W 14th Av, Vancouver, BC"
+        },
+        "record_timestamp": "2020-08-17T12:30:26.962+02:00"
+    },
+    {
+        "datasetid": "community-gardens-and-food-trees",
+        "recordid": "1ef9beb1aa76516d1573a253cd0fcbedeac6c2bc",
+        "fields": {
+            "name": "Barclay Heritage Square",
+            "street_number": "1433",
+            "street_name": "Barclay",
+            "jurisdiction": "Park Board",
+            "mapid": "FA010",
+            "number_of_plots": 0,
+            "food_tree_varieties": "Apple",
+            "street_type": "St",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13284501,
+                    49.28738755
+                ]
+            },
+            "number_of_food_trees": "2",
+            "geo_local_area": "West End",
+            "merged_address": "1433 Barclay St, Vancouver, BC"
+        },
+        "record_timestamp": "2020-08-17T12:30:26.962+02:00"
+    },
+    {
+        "datasetid": "community-gardens-and-food-trees",
+        "recordid": "bf43b566c265f1c65cde070f20b5292ac3a172fa",
+        "fields": {
+            "jurisdiction": "Private",
+            "name": "Bosman Hotel",
+            "street_number": "1060",
+            "street_name": "Howe",
+            "steward_or_managing_organization": "Bosman Hotel Society",
+            "mapid": "FA012",
+            "year_created": "2011",
+            "number_of_plots": 12,
+            "street_type": "St",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1250943,
+                    49.2791632
+                ]
+            },
+            "geo_local_area": "Downtown",
+            "merged_address": "1060 Howe St, Vancouver, BC"
+        },
+        "record_timestamp": "2020-08-17T12:30:26.962+02:00"
+    }
+]

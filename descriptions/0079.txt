@@ -1,0 +1,70 @@
+Description
+
+Dublinbikes: Real Time API, Near Real Time API, and Historical Data
+
+Dublin Bikes is a bike sharing scheme in operation from bicycle docks and stations in Dublin City. This page provides access to 2 APIs: 1) Dublinbikes BETA API by Derilinx which provides near real time data and historic data 2) JCDecaux API which provides real time data (no historic data) Dynamic data includes station state, number of available bikes, number of free bike stands, etc.
+
+There are also CSV resources: quarterly rollups of historic bike data and the file of static data. Static data provides stable information like bike station position, number of bike stands, payment terminal availability, etc. 
+
+
+
+Columns
+
+Column 	
+Type
+Label
+Description
+
+STATION ID 
+numeric
+STATION ID 	Globally unique identifier of station.
+
+TIME 
+timestamp 
+TIME
+Time of fetching the data.
+
+LAST UPDATED
+timestamp
+LAST UPDATED 
+Time of last updated information.
+
+NAME
+text
+NAME
+Station name.
+
+BIKE STANDS 
+numeric
+BIKE STANDS
+Station total number of bike stands.
+
+AVAILABLE BIKE STANDS
+numeric
+AVAILABLE BIKE STANDS
+Station available bike stands.
+
+AVAILABLE BIKES
+numeric
+AVAILABLE BIKES
+Station available bikes
+
+STATUS
+text
+STATUS
+Station status (Open/Close).
+
+ADDRESS
+text
+ADDRESS
+Station address.
+
+LATITUDE
+numeric
+LATITUDE
+Station latitude.
+
+LONGITUDE
+numeric
+LONGITUDE
+Station longitude.

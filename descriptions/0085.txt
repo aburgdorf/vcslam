@@ -1,0 +1,112 @@
+Description
+
+
+Billing and usage records for Santa Monica water customers.
+
+
+
+Columns
+
+occupant_code	
+identifier for the different occupants (over time) of a given premises
+Number
+	
+debtor_number	
+unique customer identifier
+Number
+	
+category_code	
+code for the account type. Within each category, there are multiple billing codes
+Plain Text
+	
+category_description	
+textual description of the account's billing type
+Plain Text
+	
+bill_code	
+code for the billing rate
+Plain Text
+	
+utility_type	
+type of service (W=water)
+Plain Text
+	
+start_date	
+the date an account was opened
+Date & Time
+	
+end_date	
+the date an account was closed
+Date & Time
+	
+current_read_date	
+the date the meter was read for this usage record
+Date & Time
+	
+last_read_date	
+the date the meter was read for the account's previous usage record
+Date & Time
+	
+usage_hcf	
+amount of water used during this date range, in Hundred Cubic Feet (HCF)
+Number
+	
+usage_gallons	
+amount of water used during this date range, in gallons
+Number
+	
+net	
+net charge for this date range of usage
+Number
+	
+bill_date	
+the date the bill for this usage was issued
+Date & Time
+	
+batch_number	
+the billing batch number
+Number
+	
+street_name	
+the name of the street where the usage occured
+Plain Text
+	
+block_address	
+block-level address of where the usage occured
+Plain Text
+	
+street_side	
+the side of the street where the usage occurred (even or odd)
+Plain Text
+	
+zip_code	
+the zip code where the usage occured
+Plain Text
+	
+census_block_id	
+the unique identifier for the U.S. Census Block where the usage occured
+Plain Text
+	
+street_centroid_lat	
+the latitude coordinate of the centroid of the street segment where the usage occured
+Number
+	
+street_centroid_lon	
+the longitude coordinate of the centroid of the street segment where the usage occured
+Number
+	
+street_centroid_wkt	
+the Well-Known Text representation of the centroid of the street segment where the usage occured
+Plain Text
+	
+street_centroid	
+the centroid of the street segment where the usage occured
+Location
+	
+street_segment_wkt	
+the Well-Known Text representation of the street segment where the usage occured
+Plain Text
+	
+id	
+the unique identifier for a record in this dataset
+Plain Text

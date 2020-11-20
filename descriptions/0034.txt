@@ -1,0 +1,58 @@
+Description
+
+Total number of citizen complaint driven or officer initiated snow on City sidewalk, nuisance property, graffiti, noxious weeds, and business licence Bylaw investigations
+
+Columns
+
+YEAR	
+Calendar Year number
+Number
+	
+MONTH_NUMBER	
+Month Number
+Number
+	
+MONTH	
+Month Name
+Plain Text
+	
+REPORT_PERIOD	
+Month and Year when complaint was made
+Plain Text
+	
+NEIGHBOURHOOD	
+Neighbourhood Name where infraction occured
+Plain Text
+	
+NEIGHBOURHOOD_ID	
+Unique Identifier for Neighbourhood where infraction occured
+Plain Text
+	
+COMPLAINT	
+General classification of complaint made according to a specific by-law
+Plain Text
+	
+INITIATED_BY	
+Identifies who initiated the complaint - either a Citizen or a By-law Officer
+Plain Text
+	
+STATUS	
+Current status of a complaint. It can be either Under Investigation or Resolved Complaint.
+Plain Text
+	
+COUNT	
+Total number of Complaints based upon Report Period, Neighbourhood, Complaint and Status
+Number
+	
+LATITUDE	
+Horizontal Geographic Coordinate for a Neighbourhood centroid location
+Number
+	
+LONGITUDE	
+Vertical Geographic Coordinate for a Neighbourhood centroid location
+Number
+	
+LOCATION	
+Spatial Centroid of a Neighbourhood where a by-law 
+complaint has been reported.
+Location

@@ -1,0 +1,88 @@
+Description
+
+This data shows the approximate locations of on-street parking for motorcycles.
+
+Data currency
+
+This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this web site is updated weekly.
+
+Data accuracy
+
+The locations shown are approximate; some icons may show as being in a parcel but the actual location of the motorcycle parking is on the street.
+
+
+
+Columns
+
+TYPE
+Type
+
+T_MF_9A_6P
+Time Limit Mon-Fri 9AM to 6PM
+
+T_MF_6P_10
+Time Limit Mon-Fri 6PM to 10PM
+
+T_SA_9A_6P
+Time Limit Sat 9AM to 6PM
+
+T_SA_6P_10
+Time Limit Sat 6PM to 10PM
+
+T_SU_9A_6P
+Time Limit Sun 9AM to 6PM
+
+T_SU_6P_10
+Time Limit Sun 6PM to 10PM
+
+TIME_MISC
+Time Limit Miscellaneous
+
+R_MF_9A_6P
+Rate Mon-Fri 9AM TO 6PM
+
+R_MF_6P_10
+Rate Mon-Fri 6PM TO 10PM
+
+R_SA_9A_6P
+Rate Sat 9AM TO 6PM
+
+R_SA_6P_10
+Rate Sat 6PM TO 10PM
+
+R_SA_6P_10
+Rate Sat 6PM TO 10PM
+
+R_SU_9A_6P
+Rate Sun 9AM TO 6PM
+
+R_SU_6P_10
+Rate Sun 6PM TO 10PM
+
+RATE_MISC
+Rate Miscellaneous
+
+CREDITCARD
+Credit Card Enabled
+
+LOCATION
+Location
+
+INTERSECTN
+Nearest Intersection
+
+TIMEINEFFE
+Time in Effect
+
+RUSH_HR
+Rush Hour Regulation
+
+MAPID
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). 
+
+

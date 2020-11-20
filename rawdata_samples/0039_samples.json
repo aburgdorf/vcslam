@@ -1,0 +1,62 @@
+[
+    {
+        "hydrant_number": "17244",
+        "dome_colour": "BLUE",
+        "flow_rate": "> 95 L/s",
+        "installation_year": "2003",
+        "latitude": "53.42327211446471",
+        "longitude": "-113.51609799585795",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -113.51609799585795,
+                53.42327211446471
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "126",
+        ":@computed_region_ecxu_fw7u": "100",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2"
+    },
+    {
+        "hydrant_number": "2628",
+        "dome_colour": "BLUE",
+        "flow_rate": "> 95 L/s",
+        "installation_year": "1982",
+        "latitude": "53.58906535247897",
+        "longitude": "-113.50421928352843",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -113.50421928352843,
+                53.58906535247897
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "36",
+        ":@computed_region_ecxu_fw7u": "223",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "5"
+    },
+    {
+        "hydrant_number": "9950",
+        "dome_colour": "BLUE",
+        "flow_rate": "> 95 L/s",
+        "installation_year": "1978",
+        "latitude": "53.443383159097785",
+        "longitude": "-113.40582948555291",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -113.40582948555291,
+                53.443383159097785
+            ]
+        },
+        ":@computed_region_7ccj_gre3": "250",
+        ":@computed_region_ecxu_fw7u": "7",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4"
+    }
+]

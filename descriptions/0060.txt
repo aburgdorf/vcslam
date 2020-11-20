@@ -1,0 +1,24 @@
+Description
+
+This data set provides information on the location of sites with graffiti as identified by City staff.
+
+Data currency
+
+This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this web site is updated weekly.
+
+Data accuracy
+
+Locations are identified by address and therefore locations are approximate.
+
+
+
+Columns
+
+COUNT
+The number of graffiti incidents at the location is shown.
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas).  For more details, see the Local area boundary data set.
+
+Geom
+Spatial representation of feature

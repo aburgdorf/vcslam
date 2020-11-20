@@ -1,0 +1,35 @@
+Description
+
+Indicates properties where violations have been found by an Inspector which are required to be fixed for compliance at the time with the Ontario Fire Code as well as properties with no observable violations. This dataset only includes 'Closed' Cases indicating that the inspection process has ended.
+
+Inspections that have commenced and are ongoing will not be available in the dataset until all related processes have ended. Any buildings that have an immediate threat to occupant or firefighter safety are required to implement temporary measures until Fire Code violations are corrected.
+
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+Inspections.ClosedDate
+Date TFS closed inspection file
+
+inspections.OpenedDate
+Date TFS opened inspection file
+
+latitude
+Latitude
+
+longitude
+Longitude
+
+propertyAddress
+Address of inspected property
+
+propertyWard
+Ward of inspected property based on 2019 boundaries
+
+violations.violationDescription
+Description of fire code under which violation was noted
+
+violations.violationFireCode
+Fire code under which violation was noted

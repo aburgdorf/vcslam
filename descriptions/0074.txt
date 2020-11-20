@@ -1,0 +1,138 @@
+Description
+
+Turning movement counts are collected by the City of Redmond to assess vehicle, pedestrian and bicycle movements through an intersection during designated time periods
+
+
+Columns
+
+Intersection	
+Intersection identifier, generally starting with the east-west street, then the north-south street
+Plain Text
+	
+Description	
+Description of the intersection, generally the east-west street crossed by the north-south street
+Plain Text
+	
+Collection Date	
+Date of collection
+Date & Time
+	
+Day of Week	
+Day of collection
+Plain Text
+	
+Peak Hour	
+Data provided lists the count within the peak hour of the collection period, where periods are defined by: AM - morning peak, MID - mid-day peak, PM - afternoon peak
+Plain Text
+	
+Total Entering Volume
+Number
+	
+Est. Average Daily Traffic
+Number
+	
+Heavy Vehicle Percentage
+Number
+
+Peak Hour Factor
+Number
+	
+EB Left	
+Number of left turns made for those traveling eastbound within the time range specified
+Number
+	
+EB Thru	
+Number of those traveling through the intersection in the eastbound direction within the time range specified
+Number
+	
+EB Right	
+Number of right turns made for those traveling eastbound within the time range specified
+Number
+	
+WB Left	
+Number of left turns made for those traveling westbound within the time range specified
+Number
+	
+WB Thru	
+Number of those traveling through the intersection in the westbound direction within the time range specified
+Number
+	
+WB Right	
+Number of right turns made for those traveling westbound within the time range specified
+Number
+	
+NB Left	
+Number of left turns made for those traveling northbound within the time range specified
+Number
+	
+NB Thru	
+Number of those traveling through the intersection in the northbound direction within the time range specified
+Number
+	
+NB Right	
+Number of right turns made for those traveling northbound within the time range specified
+Number
+	
+SB Left	
+Number of left turns made for those traveling southbound within the time range specified
+Number
+	
+SB Thru	
+Number of those traveling through the intersection in the southbound direction within the time range specified
+Number
+	
+SB Right	
+Number of right turns made for those traveling southbound within the time range specified
+Number
+	
+Heavy Vehicles EB	
+Number of heavy vehicles traveling eastbound
+Number
+	
+Heavy Vehicles WB	
+Number of heavy vehicles traveling westbound
+Number
+	
+Heavy Vehicles NB	
+Number of heavy vehicles traveling northbound
+Number
+	
+Heavy Vehicles SB	
+Number of heavy vehicles traveling southbound
+Number
+	
+Bicyclists EB	
+Number of bicyclists traveling eastbound
+Number
+	
+Bicyclists WB	
+Number of bicyclists traveling westbound
+Number
+	
+Bicyclists NB	
+Number of bicyclists traveling northbound
+Number
+	
+Bicyclists SB	
+Number of bicyclists traveling southbound
+Number
+	
+Pedestrians East Crossing Leg	
+Number of pedestrians traveling on the east crosswalk or crossing of the intersection
+Number
+	
+Pedestrians West Crossing Leg	
+Number of pedestrians traveling on the west crosswalk or crossing of the intersection
+Number
+	
+Pedestrians North Crossing Leg	
+Number of pedestrians traveling on the north crosswalk or crossing of the intersection
+Number
+	
+Pedestrians South Crossing Leg	
+Number of pedestrians traveling on the south crosswalk or crossing of the intersection
+Number
+	
+Location 1	
+Location of the intersection in latitude and longitude coordinates
+Location

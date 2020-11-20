@@ -1,0 +1,33 @@
+Description
+
+
+Traffic Intersections in the City of Dallas which have a reported accident count of 50 or greater during the five year period 2015 through 2019.
+
+
+
+Columns
+
+STREET_NAME	
+Street location of reported traffic accident
+Plain Text
+	
+STREET_NAME_2	
+Intersecting street location of reported traffic accident
+Plain Text
+	
+ACCIDENT_CNT	
+Total number of reported traffic accidents
+Number
+	
+INJURY_CNT	
+Total number of recorded injuries
+Number
+	
+DEATH_CNT	
+Total number of recorded deaths
+Number
+	
+GeoReference	
+Geographic location of street intersection
+Point
+	

@@ -1,0 +1,31 @@
+Description
+
+A list of all City of Edmonton transportation maintenance areas and the date on which each is scheduled for residential snow clearing. Does NOT include arterials or major routes.
+
+Please contact 311@edmonton.ca for further details and/or explanations.
+
+
+Columns
+
+Maintenance Area Number	
+Unique identifier for a particular Maintenance Area
+Number
+	
+Neighbourhood	
+Name of Neighbourhood where snow removal activity is going to occur
+Plain Text
+	
+Scheduled Date	
+Date when snow removal activity is to occur in the Neighbourhood
+Plain Text
+	
+Status	
+Status for snow removal activity in Neighbourhood. Note: TBD means To Be Determined
+Plain Text
+	
+Scheduled Day
+Plain Text
+	
+Location	
+Centroid of the Maintenance Area (concatenation of latitude and longitude)
+Location

@@ -1,0 +1,59 @@
+[
+    {
+        "maintenance_area_number": "100",
+        "neighbourhood": "McCauley, and parts of (Alberta Avenue)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.55582659",
+            "longitude": "-113.4818267",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "367",
+        ":@computed_region_ecxu_fw7u": "130",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "222",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "101",
+        "neighbourhood": "Parkdale, and parts of (Alberta Avenue)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.56576771",
+            "longitude": "-113.4782823",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "42",
+        ":@computed_region_ecxu_fw7u": "150",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "3",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "102",
+        "neighbourhood": "parts of (Prince Rupert, Queen Mary Park, and Central McDougall)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.55817376",
+            "longitude": "-113.507682",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "181",
+        ":@computed_region_ecxu_fw7u": "220",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "84",
+        ":@computed_region_da6r_6gkw": "6"
+    }
+]

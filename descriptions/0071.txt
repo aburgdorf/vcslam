@@ -1,0 +1,58 @@
+Description
+
+Displays parking information capacity live.
+Information on Parking lots; 1, 2A, 2B, 3, 4, 5, 6, 7, C.
+Data is updated every five minutes
+
+
+
+Columns
+
+
+Key_Value	
+Internal parking lot key value
+Plain Text
+	
+LotDescription	
+Parking lot description
+Plain Text
+	
+ParkingID	
+External parking lot ID
+Plain Text
+	
+ParkingName	
+Parking lot name
+Plain Text
+
+TotalParkingSpaces	
+Total available parking spaces (this is a static number and may not represent actual available spaces)
+Plain Text
+	
+Occupied	
+Total current spaces occupied
+Plain Text
+	
+FreeSpaces	
+Free Spaces = [TotalParkingSpaces] – [Occupied]
+Plain Text
+
+FullCapacity	
+Percentage of spaces occupied
+Plain Text
+	
+Color	
+Color indicator to indicate percentage occupied
+Plain Text
+	
+DataExportDateTime	
+Data export from source system
+Date & Time
+	
+Long	
+Longitude
+Number
+	
+Lat	
+Latitude
+Number

@@ -1,0 +1,22 @@
+Description
+
+A list of Community Centers within Tacoma. For more information, visit the Metro Parks website at www.MetroparksTacoma.org
+
+
+Columns
+
+Center Name	
+the name of the community center
+Plain Text
+	
+Phone	
+phone number of the community center
+Plain Text
+	
+Website	
+the community center website address.
+Website URL
+	
+Center Location	
+mapped location of the community center.
+Location

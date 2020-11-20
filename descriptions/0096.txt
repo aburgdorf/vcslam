@@ -1,0 +1,110 @@
+Description
+
+Pursuant to the umbrella of International Codes with New York State modifications and applicable chapters of the City Charter, the Department of Permit & Inspection Services (DPIS) responds to complaints or concerns to determine if properties are in compliance with the Uniform Fire Prevention and Building Code and City ordinances. Appropriate response is taken (i.e. no cause for action, letter of violation, referral to the appropriate agency, etc.) as a result of what the inspector finds at the property.
+
+
+A general inspection means that a City inspector is responding to a complaint or concern given through 311 or other sources to ascertain validity.
+
+
+
+Columns
+
+APCASEINSPKEY	
+A key used to identify a general inspection case
+Plain Text
+	
+INSPTYPE	
+The inspection type
+Plain Text
+	
+CASENO	
+The case number of a general inspection
+Plain Text
+	
+SCHEDDTTM	
+The scheduled datetime of a general inspection
+Date & Time (with timezone)
+	
+COMPDTTM	
+The completion datetime of a general inspection
+Date & Time (with timezone)
+	
+RESULTDTTM	
+The result datetime of a general inspection
+Date & Time (with timezone)
+	
+RESULT	
+The result of a general inspection
+Plain Text
+	
+INSPBY	
+The inspector of a general inspection
+Plain Text
+	
+COMMENTS	
+Comments recorded regarding a general inspection
+Plain Text
+	
+ADDRESS NUMBER	
+The address number associated with the property of a general inspection
+Number
+	
+STREET NAME	
+The street name associated with the property of a general inspection
+Plain Text
+	
+ADDRESS	
+The address associated with the property of a general inspection
+Plain Text
+	
+CITY	
+The city associated with the property of a general inspection
+Plain Text
+	
+STATE	
+The state associated with the property of a general inspection
+Plain Text
+	
+ZIP	
+The zip code associated with the property of a general inspection
+Plain Text
+	
+SBL	
+The SBL associated with the property of a general inspection
+Plain Text
+	
+LATITUDE	
+The latitude associated with the property of a general inspection
+Number
+	
+LONGITUDE	
+The longitude associated with the property of a general inspection
+Number
+	
+LOCATION	
+The location associated with the property of a general inspection
+Point
+	
+COUNCIL DISTRICT	
+The council district associated with the property of a general inspection
+Plain Text
+	
+POLICE DISTRICT	
+The police district associated with the property of a general inspection
+Plain Text
+	
+CENSUS TRACT	
+The census tract associated with the property of a general inspection
+Plain Text
+	
+CENSUS BLOCK GROUP	
+The census block group associated with the property of a general inspection
+Plain Text
+	
+CENSUS BLOCK	
+The census block associated with the property of a general inspection
+Plain Text
+	
+NEIGHBORHOOD	
+The neighborhood associated with the property of a general inspection
+Plain Text

@@ -1,0 +1,42 @@
+Description
+
+This dataset contains information about incidents attended by Kingston Fire & Rescue since 2016. Incidents details include call type, incident type, location and date. All location information has been anonymized in order to protect privacy.
+
+
+
+
+Columns
+
+Incident #
+Internal system identifier of the incident.
+
+Alarm Time
+The date of the incident.
+
+Call Type
+The general category of the incident:
+
+Incident Type
+The specific category of the incident.
+
+Response Time (Median)
+The response time in minutes of the incident.
+
+Incident Duration
+The duration in minutes of the incident.
+
+Stations
+Station names which responded to the incident.
+
+Units
+Unit names which responded to the incident.
+
+Unit Count
+The number of units which responded to the incident.
+
+GeoJSON
+Geographic description encoded in GeoJSON format.
+
+geo_point_2d
+Latitude & longitude coordinates in decimal degrees.
+

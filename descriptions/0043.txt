@@ -1,0 +1,55 @@
+Description
+
+The WYSP uses devices called speed display signs or driver feedback signs which contain a radar device and an LED display. These signs are installed on a dedicated wooden pole. The radar measures the speeds of oncoming vehicles and the LED sign displays their speeds to the passing motorists, thereby reminding them to check their speeds and to obey speed limits. The City’s permanent units are installed in Safety Zones. This dataset contains the locations and operating parameters for installed signs. See Detailed Speed Counts for hourly speed counts recorded by these signs and Monthly Summary Data for a monthly summary of these speed data
+
+See here for more: https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/vision-zero/safety-initiatives/safety-zones/
+
+Limitations
+
+    Sign addresses have not been verified. They may represent the address of the property adjacent to the sign, which may not be on the same street as the sign.
+    The speed limit column is reflective of the most recent operating parameter and does not necessarily the current or previous speed limit at that location
+
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+address
+Approximate street address where the sign is located
+
+dir
+Cardinal direction of travel
+
+end_date
+Date sign stopped reporting data
+
+flash_speed
+Device setting for speed at which digits flash
+
+geometry
+location of the sign
+
+min_speed
+Speed at which the sign begins to display a speed
+
+schedule
+Times of week when the sign is on. Signs still record speeds when the display is inactive
+
+sign_id
+unique identifier for the sign's location
+
+sign_name
+The street the sign is operating on and the direction of travel
+
+speed_limit
+Device setting for the speed limit
+
+start_date
+Date sign started reporting data
+
+strobe_speed
+Device setting for speed at which strobes start
+
+ward_no
+Ward number

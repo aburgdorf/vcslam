@@ -1,0 +1,48 @@
+Description
+
+This dataset includes locations of permanent and temporary public drinking fountains (and bottle filling station) in the City that are managed by Parks and Recreation and Engineering Services Water Design departments.
+Note
+
+Field may be blank if related information is not available
+
+Data currency
+
+The extract for this dataset is updated weekly. There may be no change in data content from one week to the next because there is no change in source data. Priorities and resources will also determine how fast a change in reality is reflected in the database.
+
+Data accuracy
+
+The locations shown are approximate locations of the fountains.
+
+There is no known error. This dataset is manually maintained by respective business departments. 
+
+Columns
+
+MAPID
+Unique identifier for each drinking fountain
+
+NAME
+Name of drinking fountain location or facility where the specified 	drinking fountain is located at.
+
+LOCATION
+Additional location information or direction of the drinking fountain at an intersection
+
+MAINTAINER
+Department responsible to maintain specified public drinking fountain
+
+IN_OPERATION
+Time period when the drinking fountain is in operation
+
+PET_FRIENDLY
+Yes/No (Y/N) indication if the drinking fountain is pet-friendly
+
+PHOTO_NAME
+Photo found in http://vanmapp1.vancouver.ca/photo/drinking_fountains/eng/
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+
+
+

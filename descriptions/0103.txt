@@ -1,0 +1,53 @@
+Description
+
+This dataset contains the listing of the Landbank Properties that are available for purchase from the City of Little Rock.
+
+
+
+Columns
+
+Date	
+Date City added property to Landbank
+Date & Time
+	
+Parcel	
+Parcel number associated with the property
+Plain Text
+	
+Property Details	
+Description of what is on the property - vacant lot, undeveloped lot, structure or rehab structure
+Plain Text
+	
+Property Type	
+Noting that property is part of Landbank program
+Plain Text
+	
+Ward	
+City Ward where property is located
+Plain Text
+	
+Street Address	
+Physical address of the property
+Plain Text
+	
+Zip Code
+Plain Text
+	
+Title Status	
+Type of title the City has for the property
+Plain Text
+	
+Available for Purchase	
+Status of yes, denotes property is available for purchase from the City
+Plain Text
+	
+Purchase Price	
+Listed price of the property
+Number
+	
+Funding Source	
+Funding source that the City used to acquire the property for the Landbank
+Plain Text
+	
+New Georeferenced Column
+Point

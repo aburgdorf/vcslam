@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Washington Adventist Hospital",
+        "address": "7600 Carroll Ave",
+        "city": "Takoma Park",
+        "zip_code": "20912",
+        "phone": "301-891-7600",
+        "url": "http://www.adventisthealthcare.com/WAH",
+        "in_county": "In-County",
+        "longitude": "-77.0016854172",
+        "latitude": "38.9852319245",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0016854172,
+                38.9852319245
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "5",
+        ":@computed_region_kbsp_ykn9": "4",
+        ":@computed_region_rbt8_3x7n": "11",
+        ":@computed_region_d7bw_bq6x": "3062"
+    },
+    {
+        "name": "Suburban Hospital Healthcare System",
+        "address": "8600 Old Georgetown Rd",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "phone": "301-896-3100",
+        "url": "http://www.suburbanhospital.org/",
+        "in_county": "In-County",
+        "longitude": "-77.1103465218",
+        "latitude": "38.9971968158",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1103465218,
+                38.9971968158
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "103"
+    },
+    {
+        "name": "National Institue of Health (NIH)",
+        "address": "9000 Rockville Pik",
+        "city": "Bethesda",
+        "zip_code": "20892",
+        "phone": "301-496-4000",
+        "url": "http://www.nih.gov/",
+        "in_county": "In-County",
+        "longitude": "-77.1018313185",
+        "latitude": "38.997365505",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1018313185,
+                38.997365505
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "111"
+    }
+]

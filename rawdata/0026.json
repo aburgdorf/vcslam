@@ -1,0 +1,3327 @@
+[
+    {
+        "maintenance_area_number": "100",
+        "neighbourhood": "McCauley, and parts of (Alberta Avenue)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.55582659",
+            "longitude": "-113.4818267",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "367",
+        ":@computed_region_ecxu_fw7u": "130",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "222",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "101",
+        "neighbourhood": "Parkdale, and parts of (Alberta Avenue)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.56576771",
+            "longitude": "-113.4782823",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "42",
+        ":@computed_region_ecxu_fw7u": "150",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "3",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "102",
+        "neighbourhood": "parts of (Prince Rupert, Queen Mary Park, and Central McDougall)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.55817376",
+            "longitude": "-113.507682",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "181",
+        ":@computed_region_ecxu_fw7u": "220",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "84",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "103",
+        "neighbourhood": "parts of (Oliver, Central McDougall, and Queen Mary Park)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.5452667",
+            "longitude": "-113.5150494",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "222",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "264",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "104",
+        "neighbourhood": "parts of (Inglewood, Prince Rupert, Queen Mary Park, and Westmount)",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.55816568",
+            "longitude": "-113.5270208",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "179",
+        ":@computed_region_ecxu_fw7u": "47",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "263",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "105",
+        "neighbourhood": "parts of (Oliver, and Westmount)",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.53987205",
+            "longitude": "-113.5228492",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "182",
+        ":@computed_region_ecxu_fw7u": "144",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "264",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "106",
+        "neighbourhood": "parts of (Boyle Street and Downtown)",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.54343509",
+            "longitude": "-113.4932697",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "338",
+        ":@computed_region_ecxu_fw7u": "242",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "114",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "107",
+        "neighbourhood": "Rossdale, and parts of (Downtown and Oliver)",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.53262575",
+            "longitude": "-113.4856254",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "315",
+        ":@computed_region_ecxu_fw7u": "3",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "341",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "108",
+        "neighbourhood": "Virgina Park, Cromdale, Riverdale, and parts of (Boyle Street)",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.56115624",
+            "longitude": "-113.4636697",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "256",
+        ":@computed_region_ecxu_fw7u": "153",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "96",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "109",
+        "neighbourhood": "Highlands, and Bellevue",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.56357062",
+            "longitude": "-113.4349897",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "8",
+        ":@computed_region_ecxu_fw7u": "168",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "156",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "110",
+        "neighbourhood": "parts of (Beverly Heights)",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.56428329",
+            "longitude": "-113.4092887",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "197",
+        ":@computed_region_ecxu_fw7u": "175",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "294",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "111",
+        "neighbourhood": "Rundle Heights, and parts of (Beverly Heights)",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.56138275",
+            "longitude": "-113.3878609",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "232",
+        ":@computed_region_ecxu_fw7u": "176",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "321",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "112",
+        "neighbourhood": "Abbottsfield, Beacon Heights, and Bergman",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.57604578",
+            "longitude": "-113.4035779",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "33",
+        ":@computed_region_ecxu_fw7u": "177",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "32",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "113",
+        "neighbourhood": "Newton and parts of (Montrose)",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.57607643",
+            "longitude": "-113.4308172",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "226",
+        ":@computed_region_ecxu_fw7u": "174",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "253",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "114",
+        "neighbourhood": "Elmwood park, and parts of (Eastwood, and Montrose)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57429843",
+            "longitude": "-113.4486184",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "226",
+        ":@computed_region_ecxu_fw7u": "8",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "253",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "115",
+        "neighbourhood": "Delton and parts of (Alberta Avenue, and Eastwood)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57617058",
+            "longitude": "-113.4799895",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "42",
+        ":@computed_region_ecxu_fw7u": "155",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "3",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "116",
+        "neighbourhood": "Westwood, and parts of (Spruce Avenue)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57015894",
+            "longitude": "-113.4986147",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "4",
+        ":@computed_region_ecxu_fw7u": "151",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "336",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "117",
+        "neighbourhood": "Blatchford, and parts of (Spruce Avenue)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57029574",
+            "longitude": "-113.5168037",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "209",
+        ":@computed_region_ecxu_fw7u": "221",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "49",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "201",
+        "neighbourhood": "Garneau, and parts of (Queen Alexandra, and Strathcona)",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.51881244",
+            "longitude": "-113.5079124",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "286",
+        ":@computed_region_ecxu_fw7u": "9",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "143",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "202",
+        "neighbourhood": "Windsor Park, and U of A",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.52639795",
+            "longitude": "-113.5273222",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "121",
+        ":@computed_region_ecxu_fw7u": "146",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "363",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "203",
+        "neighbourhood": "Belgravia",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.5102983",
+            "longitude": "-113.5356211",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "283",
+        ":@computed_region_ecxu_fw7u": "17",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "35",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "204",
+        "neighbourhood": "Parkallen, and McKernan",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.50706287",
+            "longitude": "-113.5222058",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "17",
+        ":@computed_region_ecxu_fw7u": "18",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "272",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "205",
+        "neighbourhood": "Allendale, and as parts (Queen Alexandra)",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.505301",
+            "longitude": "-113.5030715",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "16",
+        ":@computed_region_ecxu_fw7u": "10",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "7",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "206",
+        "neighbourhood": "Empire Park, and Pleasantview",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.49010703",
+            "longitude": "-113.5045143",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "50",
+        ":@computed_region_ecxu_fw7u": "19",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "278",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "207",
+        "neighbourhood": "Lendrum Place, University Reasearch Station, and Malmo Plains",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.49089596",
+            "longitude": "-113.5291991",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "260",
+        ":@computed_region_ecxu_fw7u": "197",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "361",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "208",
+        "neighbourhood": "Grandview Heights, University Reasearch Station, and Lansdowne",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.49496828",
+            "longitude": "-113.5504035",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "260",
+        ":@computed_region_ecxu_fw7u": "185",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "361",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "209",
+        "neighbourhood": "Brookside",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.49431869",
+            "longitude": "-113.5627512",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "262",
+        ":@computed_region_ecxu_fw7u": "180",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "380",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "210",
+        "neighbourhood": "Brander Gardens, and Ramsay Heights",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.49084443",
+            "longitude": "-113.5789745",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "259",
+        ":@computed_region_ecxu_fw7u": "178",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "56",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "211",
+        "neighbourhood": "Patricia Heights, Quesnell Heights and Rio Terrace",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.50782343",
+            "longitude": "-113.5828497",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "68",
+        ":@computed_region_ecxu_fw7u": "16",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "288",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "212",
+        "neighbourhood": "Callingwood North, and Lymburn",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.50785242",
+            "longitude": "-113.6393124",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "135",
+        ":@computed_region_ecxu_fw7u": "97",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "213",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "213",
+        "neighbourhood": "Granville, and Glastonbury",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.5041551",
+            "longitude": "-113.675725",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "292",
+        ":@computed_region_ecxu_fw7u": "142",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "135",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "214",
+        "neighbourhood": "Callingwood South, and Ormsby Place",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.4994241",
+            "longitude": "-113.6390561",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "69",
+        ":@computed_region_ecxu_fw7u": "25",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "265",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "215",
+        "neighbourhood": "Oleskiw, and Westridge",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.49633307",
+            "longitude": "-113.602485",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "219",
+        ":@computed_region_ecxu_fw7u": "179",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "301",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "216",
+        "neighbourhood": "Bulyea Heights, and Ogilvie Ridge",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.47630789",
+            "longitude": "-113.5645412",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "194",
+        ":@computed_region_ecxu_fw7u": "160",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "64",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "217",
+        "neighbourhood": "Aspen Gardens, and Westbrook Estates",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.4735798",
+            "longitude": "-113.5496494",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "56",
+        ":@computed_region_ecxu_fw7u": "170",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "374",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "218",
+        "neighbourhood": "Royal Gardens",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.47967017",
+            "longitude": "-113.5288913",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "110",
+        ":@computed_region_ecxu_fw7u": "13",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "304",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "219",
+        "neighbourhood": "Duggan, and Rideau Park",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.4747232",
+            "longitude": "-113.5038",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "143",
+        ":@computed_region_ecxu_fw7u": "20",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "115",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "220",
+        "neighbourhood": "Greenfield",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.47128014",
+            "longitude": "-113.5279147",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "47",
+        ":@computed_region_ecxu_fw7u": "172",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "155",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "221",
+        "neighbourhood": "Blue Quill, Skyrattler, and Sweet Grass",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.45960552",
+            "longitude": "-113.5326528",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "140",
+        ":@computed_region_ecxu_fw7u": "171",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "50",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "222",
+        "neighbourhood": "Ermineskin, and Steinhauer",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.46114851",
+            "longitude": "-113.5041522",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "281",
+        ":@computed_region_ecxu_fw7u": "173",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "130",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "223",
+        "neighbourhood": "Bearspaw and Keheewin",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.44687972",
+            "longitude": "-113.504654",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "163",
+        ":@computed_region_ecxu_fw7u": "109",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "186",
+        ":@computed_region_da6r_6gkw": "10"
+    },
+    {
+        "maintenance_area_number": "224",
+        "neighbourhood": "Twin Brooks",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.44330324",
+            "longitude": "-113.5276329",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "309",
+        ":@computed_region_ecxu_fw7u": "108",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "362",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "225",
+        "neighbourhood": "Blackburne",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.43223145",
+            "longitude": "-113.5047877",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "129",
+        ":@computed_region_ecxu_fw7u": "102",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "45",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "226",
+        "neighbourhood": "Cashman, Blackmud Creek, and Cavanagh",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.41083848",
+            "longitude": "-113.5068183",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "360",
+        ":@computed_region_ecxu_fw7u": "100",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "83",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "227",
+        "neighbourhood": "Allard, and Callaghan",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.40417202",
+            "longitude": "-113.5256483",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "196",
+        ":@computed_region_ecxu_fw7u": "111",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "2",
+        ":@computed_region_eq8d_jmrp": "69",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "228",
+        "neighbourhood": "Rutherford",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.41762129",
+            "longitude": "-113.5289905",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "168",
+        ":@computed_region_ecxu_fw7u": "117",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "326",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "229",
+        "neighbourhood": "MacEwan",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.43103153",
+            "longitude": "-113.5295443",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "180",
+        ":@computed_region_ecxu_fw7u": "101",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "215",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "230",
+        "neighbourhood": "Magrath Heights, and Mactaggart",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.44471255",
+            "longitude": "-113.5605771",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "332",
+        ":@computed_region_ecxu_fw7u": "89",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "218",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "231",
+        "neighbourhood": "Desrochers, Desrochers Villages",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.39768123",
+            "longitude": "-113.55327323",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "290",
+        ":@computed_region_ecxu_fw7u": "82",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "109",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "232",
+        "neighbourhood": "Hays Ridge Chappelle Area",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.4136406",
+            "longitude": "-113.5717209",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "305",
+        ":@computed_region_ecxu_fw7u": "76",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "169",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "233",
+        "neighbourhood": "Terwillegar Towne and Terwillegar South",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.44462288",
+            "longitude": "-113.5815504",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "371",
+        ":@computed_region_ecxu_fw7u": "88",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "334",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "234",
+        "neighbourhood": "Ambleside",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.43410265",
+            "longitude": "-113.6029153",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "306",
+        ":@computed_region_ecxu_fw7u": "78",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "8",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "235",
+        "neighbourhood": "Glenridding",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.41031666",
+            "longitude": "-113.5993724",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "387",
+        ":@computed_region_ecxu_fw7u": "68",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "86",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "236",
+        "neighbourhood": "Keswick",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.40836696",
+            "longitude": "-113.636239",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "392",
+        ":@computed_region_ecxu_fw7u": "59",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "390",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "237",
+        "neighbourhood": "Carter Crest and Leger",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.46148846",
+            "longitude": "-113.5682401",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "158",
+        ":@computed_region_ecxu_fw7u": "69",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "79",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "238",
+        "neighbourhood": "Henderson Estates, and Haddow",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.47637305",
+            "longitude": "-113.6073468",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "124",
+        ":@computed_region_ecxu_fw7u": "79",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "310",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "239",
+        "neighbourhood": "Rhatigan Ridge and Falconer Heights",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.4710685",
+            "longitude": "-113.5921474",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "85",
+        ":@computed_region_ecxu_fw7u": "64",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "133",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "240",
+        "neighbourhood": "Edgemont",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4678905",
+            "longitude": "-113.67594405",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "364",
+        ":@computed_region_ecxu_fw7u": "22",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "120",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "241",
+        "neighbourhood": "The Hamptons",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.48773348",
+            "longitude": "-113.6756852",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "361",
+        ":@computed_region_ecxu_fw7u": "5",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "354",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "242",
+        "neighbourhood": "Jamieson Place",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.48883368",
+            "longitude": "-113.6513667",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "399",
+        ":@computed_region_ecxu_fw7u": "26",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "183",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "243",
+        "neighbourhood": "Dechene, and Gariepy",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.49120351",
+            "longitude": "-113.627854",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "137",
+        ":@computed_region_ecxu_fw7u": "43",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "142",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "244",
+        "neighbourhood": "Wedgewood Heights Donsdale",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.48158135",
+            "longitude": "-113.6404438",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "397",
+        ":@computed_region_ecxu_fw7u": "44",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "367",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "245",
+        "neighbourhood": "Cameron Heights",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.47138806",
+            "longitude": "-113.6258932",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "354",
+        ":@computed_region_ecxu_fw7u": "2",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "70",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "246",
+        "neighbourhood": "The Uplands",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4620902",
+            "longitude": "-113.651773",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "363",
+        ":@computed_region_ecxu_fw7u": "149",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "356",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "247",
+        "neighbourhood": "River's Edge",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4578811",
+            "longitude": "-113.6315641",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "333",
+        ":@computed_region_ecxu_fw7u": "15",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "319",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "248",
+        "neighbourhood": "parts of (Riverview Area, River's Edge)",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4455467",
+            "longitude": "-113.6520367",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "345",
+        ":@computed_region_ecxu_fw7u": "148",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "316",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "249",
+        "neighbourhood": "Stillwater",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4497036",
+            "longitude": "-113.6767052",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "346",
+        ":@computed_region_ecxu_fw7u": "27",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "340",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "250",
+        "neighbourhood": "parts of (Riverview Area)",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4320656",
+            "longitude": "-113.6722884",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "345",
+        ":@computed_region_ecxu_fw7u": "33",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "316",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "251",
+        "neighbourhood": "parts of (Riverview Area)",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.413083",
+            "longitude": "-113.6730841",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "345",
+        ":@computed_region_ecxu_fw7u": "35",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "316",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "252",
+        "neighbourhood": "Windermere, and Westpoint Estates",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.43536178",
+            "longitude": "-113.627485",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "327",
+        ":@computed_region_ecxu_fw7u": "77",
+        ":@computed_region_izdr_ja4x": "8",
+        ":@computed_region_5jki_au6x": "6",
+        ":@computed_region_mnf4_kaez": "12",
+        ":@computed_region_eq8d_jmrp": "389",
+        ":@computed_region_da6r_6gkw": "9"
+    },
+    {
+        "maintenance_area_number": "300",
+        "neighbourhood": "Wellington",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.59592617",
+            "longitude": "-113.5534274",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "86",
+        ":@computed_region_ecxu_fw7u": "50",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "370",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "301",
+        "neighbourhood": "Athlone",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.58837176",
+            "longitude": "-113.5516239",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "62",
+        ":@computed_region_ecxu_fw7u": "105",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "24",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "302",
+        "neighbourhood": "Prince Charles, and parts of (Hagman Estate Industrial)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57694666",
+            "longitude": "-113.5362037",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "18",
+        ":@computed_region_ecxu_fw7u": "106",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "240",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "303",
+        "neighbourhood": "Sherbrooke, and parts of (Hagman Estate Industrial)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57782219",
+            "longitude": "-113.5501884",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "48",
+        ":@computed_region_ecxu_fw7u": "107",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "312",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "304",
+        "neighbourhood": "Dovercourt",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.57625143",
+            "longitude": "-113.5578384",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "49",
+        ":@computed_region_ecxu_fw7u": "215",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "113",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "305",
+        "neighbourhood": "Woodcroft",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.56473181",
+            "longitude": "-113.5578856",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "19",
+        ":@computed_region_ecxu_fw7u": "209",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "385",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "306",
+        "neighbourhood": "parts of Inglewood",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.56472402",
+            "longitude": "-113.5437956",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "104",
+        ":@computed_region_ecxu_fw7u": "48",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "181",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "307",
+        "neighbourhood": "parts of Westmount",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.55348702",
+            "longitude": "-113.5438223",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "164",
+        ":@computed_region_ecxu_fw7u": "198",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "375",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "308",
+        "neighbourhood": "McQueen and North Glenora",
+        "scheduled_date": "27-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.55508117",
+            "longitude": "-113.564706",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "14",
+        ":@computed_region_ecxu_fw7u": "195",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "257",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "309",
+        "neighbourhood": "Canora and Highpark",
+        "scheduled_date": "27-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.55022467",
+            "longitude": "-113.5843894",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "84",
+        ":@computed_region_ecxu_fw7u": "188",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "72",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "310",
+        "neighbourhood": "Britannia/Youngstown and Mayfield",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.54999869",
+            "longitude": "-113.6029574",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "30",
+        ":@computed_region_ecxu_fw7u": "87",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "59",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "311",
+        "neighbourhood": "Grovenor, and parts of Glenora",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.54493203",
+            "longitude": "-113.5670724",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "29",
+        ":@computed_region_ecxu_fw7u": "196",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "160",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "312",
+        "neighbourhood": "parts of Glenora and Westmount",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.5423397",
+            "longitude": "-113.5509181",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "139",
+        ":@computed_region_ecxu_fw7u": "145",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "9",
+        ":@computed_region_eq8d_jmrp": "144",
+        ":@computed_region_da6r_6gkw": "6"
+    },
+    {
+        "maintenance_area_number": "313",
+        "neighbourhood": "Crestwood",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.53523699",
+            "longitude": "-113.5677483",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "75",
+        ":@computed_region_ecxu_fw7u": "85",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "95",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "314",
+        "neighbourhood": "West Jasper Place",
+        "scheduled_date": "27-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.53648738",
+            "longitude": "-113.5843134",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "91",
+        ":@computed_region_ecxu_fw7u": "187",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "371",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "315",
+        "neighbourhood": "parts of Glenwood",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.53653998",
+            "longitude": "-113.5966534",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "31",
+        ":@computed_region_ecxu_fw7u": "186",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "147",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "316",
+        "neighbourhood": "West Meadowlark Park",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.53055361",
+            "longitude": "-113.6093443",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "92",
+        ":@computed_region_ecxu_fw7u": "93",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "372",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "317",
+        "neighbourhood": "Meadowlark Park",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.5256394",
+            "longitude": "-113.5967571",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "27",
+        ":@computed_region_ecxu_fw7u": "99",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "235",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "318",
+        "neighbourhood": "Jasper Park, and Sherwood",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.52561499",
+            "longitude": "-113.5843168",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "39",
+        ":@computed_region_ecxu_fw7u": "83",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "184",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "319",
+        "neighbourhood": "Parkview",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.52417879",
+            "longitude": "-113.5656757",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "32",
+        ":@computed_region_ecxu_fw7u": "115",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "273",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "320",
+        "neighbourhood": "Laurier Heights",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.51344441",
+            "longitude": "-113.5606514",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "172",
+        ":@computed_region_ecxu_fw7u": "23",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "207",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "321",
+        "neighbourhood": "Lynnwood",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.51598506",
+            "longitude": "-113.5875786",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "241",
+        ":@computed_region_ecxu_fw7u": "116",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "214",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "322",
+        "neighbourhood": "Elmwood",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.51601941",
+            "longitude": "-113.6063694",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "9",
+        ":@computed_region_ecxu_fw7u": "98",
+        ":@computed_region_izdr_ja4x": "5",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "90",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "323",
+        "neighbourhood": "Thorncliff",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.51697631",
+            "longitude": "-113.6232677",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "10",
+        ":@computed_region_ecxu_fw7u": "96",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "8",
+        ":@computed_region_eq8d_jmrp": "357",
+        ":@computed_region_da6r_6gkw": "5"
+    },
+    {
+        "maintenance_area_number": "324",
+        "neighbourhood": "Aldergrove",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.51713752",
+            "longitude": "-113.6453692",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "34",
+        ":@computed_region_ecxu_fw7u": "94",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "5",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "325",
+        "neighbourhood": "Summerlea, and Terra Losa",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.5273811",
+            "longitude": "-113.6233874",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "28",
+        ":@computed_region_ecxu_fw7u": "95",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "346",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "326",
+        "neighbourhood": "LaPerle and Belmead",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.53023489",
+            "longitude": "-113.6454625",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "132",
+        ":@computed_region_ecxu_fw7u": "159",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "200",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "327",
+        "neighbourhood": "Breckenridge Greens, Potter Greens, Suder Greens, Stewart Greens, Lewis Farms Industrial, and Webber Greens",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.52705047",
+            "longitude": "-113.6746441",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "155",
+        ":@computed_region_ecxu_fw7u": "158",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "366",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "328",
+        "neighbourhood": "Secord, Rosenthal, and Rural West Lewis Farms",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.52687167",
+            "longitude": "-113.7013909",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "340",
+        ":@computed_region_ecxu_fw7u": "143",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "4",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "330",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "331",
+        "neighbourhood": "Pembina, Cumberland, and Hudson",
+        "scheduled_date": "28-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.60719646",
+            "longitude": "-113.5535741",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "378",
+        ":@computed_region_ecxu_fw7u": "216",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "177",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "332",
+        "neighbourhood": "Carlton, and Oxford",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.62180784",
+            "longitude": "-113.5535659",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "388",
+        ":@computed_region_ecxu_fw7u": "121",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "78",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "333",
+        "neighbourhood": "Albany",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.6336937",
+            "longitude": "-113.5532534",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "254",
+        ":@computed_region_ecxu_fw7u": "136",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "2",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "387",
+        "neighbourhood": "Starling, and parts of (Kinokamau Plains Area)",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.58691162",
+            "longitude": "-113.6518244",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "313",
+        ":@computed_region_ecxu_fw7u": "53",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "337",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "388",
+        "neighbourhood": "Trumpeter",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.58522858",
+            "longitude": "-113.6762884",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "303",
+        ":@computed_region_ecxu_fw7u": "138",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "359",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "389",
+        "neighbourhood": "Hawks Ridge, Rural West Big Lake, and Big Lake Estate",
+        "scheduled_date": "28-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.58146436",
+            "longitude": "-113.7015849",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "301",
+        ":@computed_region_ecxu_fw7u": "137",
+        ":@computed_region_izdr_ja4x": "3",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "1",
+        ":@computed_region_eq8d_jmrp": "195",
+        ":@computed_region_da6r_6gkw": "1"
+    },
+    {
+        "maintenance_area_number": "400",
+        "neighbourhood": "Canon Ridge, Homesteader, Overlanders",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.5806256",
+            "longitude": "-113.3882429",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "244",
+        ":@computed_region_ecxu_fw7u": "29",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "267",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "401",
+        "neighbourhood": "Kernohan, Belmont, and Sifton Park",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.59278795",
+            "longitude": "-113.394577",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "391",
+        ":@computed_region_ecxu_fw7u": "199",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "40",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "402",
+        "neighbourhood": "Clareview Campus, Kirkness, Hairsine, and Manning Industrial",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.60674478",
+            "longitude": "-113.3987318",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "202",
+        ":@computed_region_ecxu_fw7u": "184",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "88",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "403",
+        "neighbourhood": "York",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.60317388",
+            "longitude": "-113.4308288",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "24",
+        ":@computed_region_ecxu_fw7u": "181",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "393",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "404",
+        "neighbourhood": "Belvedere",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.5953368",
+            "longitude": "-113.4326342",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "215",
+        ":@computed_region_ecxu_fw7u": "169",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "41",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "405",
+        "neighbourhood": "Casselman and McLeod",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.61047983",
+            "longitude": "-113.4304792",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "11",
+        ":@computed_region_ecxu_fw7u": "182",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "81",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "406",
+        "neighbourhood": "Kilkenny",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.61054989",
+            "longitude": "-113.4554575",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "167",
+        ":@computed_region_ecxu_fw7u": "166",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "192",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "407",
+        "neighbourhood": "Kildare",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.6034344",
+            "longitude": "-113.4555176",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "15",
+        ":@computed_region_ecxu_fw7u": "165",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "191",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "408",
+        "neighbourhood": "Delwood",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.59610964",
+            "longitude": "-113.4553295",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "237",
+        ":@computed_region_ecxu_fw7u": "164",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "108",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "409",
+        "neighbourhood": "Balwin",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.58804264",
+            "longitude": "-113.4552343",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "242",
+        ":@computed_region_ecxu_fw7u": "156",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "26",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "410",
+        "neighbourhood": "Killarney",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.588005",
+            "longitude": "-113.4798154",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "38",
+        ":@computed_region_ecxu_fw7u": "152",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "193",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "411",
+        "neighbourhood": "Glengarry",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.59605042",
+            "longitude": "-113.4798518",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "12",
+        ":@computed_region_ecxu_fw7u": "157",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "136",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "412",
+        "neighbourhood": "Northmount",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.60336901",
+            "longitude": "-113.4800313",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "2",
+        ":@computed_region_ecxu_fw7u": "161",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "10",
+        ":@computed_region_eq8d_jmrp": "258",
+        ":@computed_region_da6r_6gkw": "7"
+    },
+    {
+        "maintenance_area_number": "413",
+        "neighbourhood": "Evansdale",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.61101662",
+            "longitude": "-113.4799865",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "1",
+        ":@computed_region_ecxu_fw7u": "162",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "131",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "414",
+        "neighbourhood": "Griesbach",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.60697163",
+            "longitude": "-113.5046291",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "151",
+        ":@computed_region_ecxu_fw7u": "226",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "159",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "415",
+        "neighbourhood": "Rosslyn",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.59596544",
+            "longitude": "-113.5045276",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "37",
+        ":@computed_region_ecxu_fw7u": "224",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "303",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "416",
+        "neighbourhood": "Lauderdale",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.5865816",
+            "longitude": "-113.5044716",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "36",
+        ":@computed_region_ecxu_fw7u": "223",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "205",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "417",
+        "neighbourhood": "Calder",
+        "scheduled_date": "15-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Saturday",
+        "location": {
+            "latitude": "53.58624272",
+            "longitude": "-113.5290037",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "70",
+        ":@computed_region_ecxu_fw7u": "104",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "66",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "418",
+        "neighbourhood": "Kensington",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.59601428",
+            "longitude": "-113.5290921",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "253",
+        ":@computed_region_ecxu_fw7u": "49",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "188",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "419",
+        "neighbourhood": "Caernarvon, Baranow, and Carlisle",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.60831821",
+            "longitude": "-113.5292185",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "170",
+        ":@computed_region_ecxu_fw7u": "225",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "5",
+        ":@computed_region_eq8d_jmrp": "65",
+        ":@computed_region_da6r_6gkw": "2"
+    },
+    {
+        "maintenance_area_number": "420",
+        "neighbourhood": "Canossa, and Rapperswill",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.63976132",
+            "longitude": "-113.529027",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "316",
+        ":@computed_region_ecxu_fw7u": "139",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "283",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "421",
+        "neighbourhood": "Beaumaris, and Lorelei",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.62167132",
+            "longitude": "-113.5060273",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "191",
+        ":@computed_region_ecxu_fw7u": "236",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "212",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "422",
+        "neighbourhood": "Baturyn, Chambery, and Elsinore",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.63979715",
+            "longitude": "-113.5045391",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "198",
+        ":@computed_region_ecxu_fw7u": "140",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "128",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "423",
+        "neighbourhood": "Klavatten, and Lago Lindo",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.63970988",
+            "longitude": "-113.4791312",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "353",
+        ":@computed_region_ecxu_fw7u": "190",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "199",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "424",
+        "neighbourhood": "Belle Rive, and Eaux Claires",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.62157311",
+            "longitude": "-113.480112",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "238",
+        ":@computed_region_ecxu_fw7u": "163",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "118",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "425",
+        "neighbourhood": "Crystallina Nera, Schonsee, and Crystallina Nera East",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.6396951",
+            "longitude": "-113.4544895",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "382",
+        ":@computed_region_ecxu_fw7u": "191",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "97",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "426",
+        "neighbourhood": "Mayliewan and Ozerna",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.62244735",
+            "longitude": "-113.4554128",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "169",
+        ":@computed_region_ecxu_fw7u": "167",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "227",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "427",
+        "neighbourhood": "Matt Berry, and Hollick-Kenyon",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.62242959",
+            "longitude": "-113.42859",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "153",
+        ":@computed_region_ecxu_fw7u": "183",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "168",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "428",
+        "neighbourhood": "McConachie, and CY Becker",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.63474149",
+            "longitude": "-113.4184459",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "381",
+        ":@computed_region_ecxu_fw7u": "192",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "223",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "429",
+        "neighbourhood": "Dunluce",
+        "scheduled_date": "14-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.62170265",
+            "longitude": "-113.5304934",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "190",
+        ":@computed_region_ecxu_fw7u": "122",
+        ":@computed_region_izdr_ja4x": "1",
+        ":@computed_region_5jki_au6x": "1",
+        ":@computed_region_mnf4_kaez": "6",
+        ":@computed_region_eq8d_jmrp": "63",
+        ":@computed_region_da6r_6gkw": "3"
+    },
+    {
+        "maintenance_area_number": "430",
+        "neighbourhood": "Brintnell, and Miller",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.61964415",
+            "longitude": "-113.4085174",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "217",
+        ":@computed_region_ecxu_fw7u": "189",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "2",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "58",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "432",
+        "neighbourhood": "parts of Evergreen",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.6225476",
+            "longitude": "-113.3566689",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "326",
+        ":@computed_region_ecxu_fw7u": "217",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "323",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "433",
+        "neighbourhood": "Fraser, and Bannerman",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.60802318",
+            "longitude": "-113.372491",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "321",
+        ":@computed_region_ecxu_fw7u": "210",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "138",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "437",
+        "neighbourhood": "Evergreen",
+        "scheduled_date": "16-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Sunday",
+        "location": {
+            "latitude": "53.62140406",
+            "longitude": "-113.332218",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "326",
+        ":@computed_region_ecxu_fw7u": "218",
+        ":@computed_region_izdr_ja4x": "2",
+        ":@computed_region_5jki_au6x": "3",
+        ":@computed_region_mnf4_kaez": "7",
+        ":@computed_region_eq8d_jmrp": "323",
+        ":@computed_region_da6r_6gkw": "4"
+    },
+    {
+        "maintenance_area_number": "500",
+        "neighbourhood": "Avonmore",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.50780615",
+            "longitude": "-113.4530106",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "188",
+        ":@computed_region_ecxu_fw7u": "73",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "25",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "501",
+        "neighbourhood": "Hazeldean, and Argyll",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.50567126",
+            "longitude": "-113.4724132",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "272",
+        ":@computed_region_ecxu_fw7u": "67",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "170",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "502",
+        "neighbourhood": "Ritchie",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.5133914",
+            "longitude": "-113.4800289",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "156",
+        ":@computed_region_ecxu_fw7u": "66",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "290",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "503",
+        "neighbourhood": "King Edward Park",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.51527775",
+            "longitude": "-113.4549076",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "374",
+        ":@computed_region_ecxu_fw7u": "74",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "194",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "504",
+        "neighbourhood": "Bonnie Doon, and Idylwylde",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.5255319",
+            "longitude": "-113.4679146",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "269",
+        ":@computed_region_ecxu_fw7u": "80",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "47",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "505",
+        "neighbourhood": "Holyrood",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.53152219",
+            "longitude": "-113.450387",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "152",
+        ":@computed_region_ecxu_fw7u": "91",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "39",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "506",
+        "neighbourhood": "Cloverdale, and Strathearn",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.53181909",
+            "longitude": "-113.4645749",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "342",
+        ":@computed_region_ecxu_fw7u": "126",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "344",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "507",
+        "neighbourhood": "Terrace Heights",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.54219053",
+            "longitude": "-113.4376954",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "184",
+        ":@computed_region_ecxu_fw7u": "125",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "352",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "508",
+        "neighbourhood": "Forest Heights",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.5441159",
+            "longitude": "-113.4591243",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "289",
+        ":@computed_region_ecxu_fw7u": "1",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "306",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "509",
+        "neighbourhood": "Fulton Place",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.54641301",
+            "longitude": "-113.4296745",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "67",
+        ":@computed_region_ecxu_fw7u": "103",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "139",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "510",
+        "neighbourhood": "Capilano",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.55599501",
+            "longitude": "-113.4186228",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "41",
+        ":@computed_region_ecxu_fw7u": "31",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "75",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "511",
+        "neighbourhood": "Gold Bar",
+        "scheduled_date": "18-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.5471618",
+            "longitude": "-113.4101929",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "239",
+        ":@computed_region_ecxu_fw7u": "30",
+        ":@computed_region_izdr_ja4x": "4",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "149",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "512",
+        "neighbourhood": "Ottewell",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.53167377",
+            "longitude": "-113.4309449",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "23",
+        ":@computed_region_ecxu_fw7u": "123",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "266",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "513",
+        "neighbourhood": "Kenilworth",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.52170998",
+            "longitude": "-113.4309968",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "266",
+        ":@computed_region_ecxu_fw7u": "75",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "148",
+        ":@computed_region_da6r_6gkw": "8"
+    },
+    {
+        "maintenance_area_number": "514",
+        "neighbourhood": "Micheals Park, and Tweddle Place",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.47892087",
+            "longitude": "-113.4549901",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "225",
+        ":@computed_region_ecxu_fw7u": "240",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "360",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "515",
+        "neighbourhood": "Lee Ridge, and Richfield",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.46982559",
+            "longitude": "-113.4529012",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "40",
+        ":@computed_region_ecxu_fw7u": "239",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "285",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "516",
+        "neighbourhood": "Kameyosek, and Tipaskan",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.46221086",
+            "longitude": "-113.4512144",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "54",
+        ":@computed_region_ecxu_fw7u": "56",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "358",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "517",
+        "neighbourhood": "Meyonohk, and Millwoods Park",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.45552754",
+            "longitude": "-113.4511899",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "52",
+        ":@computed_region_ecxu_fw7u": "238",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "238",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "518",
+        "neighbourhood": "Satoo, Menisa, and Ekota",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.44587987",
+            "longitude": "-113.4522761",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "73",
+        ":@computed_region_ecxu_fw7u": "34",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "236",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "519",
+        "neighbourhood": "Ellerslie",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.43221004",
+            "longitude": "-113.4553586",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "128",
+        ":@computed_region_ecxu_fw7u": "28",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "126",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "520",
+        "neighbourhood": "Summerside",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.4176162",
+            "longitude": "-113.4614321",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "356",
+        ":@computed_region_ecxu_fw7u": "45",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "347",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "521",
+        "neighbourhood": "Charlesworth, Aurora Walker and Walker",
+        "scheduled_date": "27-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.42408204",
+            "longitude": "-113.4306483",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "218",
+        ":@computed_region_ecxu_fw7u": "21",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "365",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "522",
+        "neighbourhood": "Meyokumin and Sakaw",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.44581256",
+            "longitude": "-113.4293696",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "245",
+        ":@computed_region_ecxu_fw7u": "14",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "237",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "523",
+        "neighbourhood": "Tawa",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.45978371",
+            "longitude": "-113.4285212",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "111",
+        ":@computed_region_ecxu_fw7u": "46",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "350",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "524",
+        "neighbourhood": "Greenview, and Hillview",
+        "scheduled_date": "20-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Thursday",
+        "location": {
+            "latitude": "53.47614412",
+            "longitude": "-113.4294031",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "46",
+        ":@computed_region_ecxu_fw7u": "57",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "158",
+        ":@computed_region_da6r_6gkw": "11"
+    },
+    {
+        "maintenance_area_number": "525",
+        "neighbourhood": "Jackson Heights and Kiniski Gardens",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.47893633",
+            "longitude": "-113.406239",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "125",
+        ":@computed_region_ecxu_fw7u": "58",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "3",
+        ":@computed_region_eq8d_jmrp": "196",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "526",
+        "neighbourhood": "Bisset, Weinlos, and Minchau",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.46347893",
+            "longitude": "-113.4076757",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "77",
+        ":@computed_region_ecxu_fw7u": "65",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "368",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "527",
+        "neighbourhood": "Daly Grove, Pollard Meadows, and Crawford Plains",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.44659518",
+            "longitude": "-113.4073389",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "250",
+        ":@computed_region_ecxu_fw7u": "7",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "279",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "528",
+        "neighbourhood": "Charlesworth East of 50 street SW",
+        "scheduled_date": "24-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.426669",
+            "longitude": "-113.399564",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "213",
+        ":@computed_region_ecxu_fw7u": "6",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "87",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "529",
+        "neighbourhood": "Larkspur, Wild Rose",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.4752262",
+            "longitude": "-113.3816149",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "74",
+        ":@computed_region_ecxu_fw7u": "135",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "381",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "530",
+        "neighbourhood": "Maple and parts of Tamarack",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.4726534",
+            "longitude": "-113.356707",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "162",
+        ":@computed_region_ecxu_fw7u": "40",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "220",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "531",
+        "neighbourhood": "Silver Berry",
+        "scheduled_date": "17-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Monday",
+        "location": {
+            "latitude": "53.4605775",
+            "longitude": "-113.3816912",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "230",
+        ":@computed_region_ecxu_fw7u": "134",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "295",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "532",
+        "neighbourhood": "Tamarack",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.4588135",
+            "longitude": "-113.3638916",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "161",
+        ":@computed_region_ecxu_fw7u": "129",
+        ":@computed_region_izdr_ja4x": "7",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "349",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "533",
+        "neighbourhood": "Laurel",
+        "scheduled_date": "25-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Tuesday",
+        "location": {
+            "latitude": "53.44597588",
+            "longitude": "-113.3817062",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "328",
+        ":@computed_region_ecxu_fw7u": "119",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "206",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "539",
+        "neighbourhood": "The Orchards at Ellerslie",
+        "scheduled_date": "21-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Friday",
+        "location": {
+            "latitude": "53.40319311",
+            "longitude": "-113.4643145",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "362",
+        ":@computed_region_ecxu_fw7u": "112",
+        ":@computed_region_izdr_ja4x": "9",
+        ":@computed_region_5jki_au6x": "7",
+        ":@computed_region_mnf4_kaez": "4",
+        ":@computed_region_eq8d_jmrp": "355",
+        ":@computed_region_da6r_6gkw": "12"
+    },
+    {
+        "maintenance_area_number": "590",
+        "neighbourhood": "Parts of Strathcona",
+        "scheduled_date": "19-Feb-2020",
+        "status": "Completed",
+        "scheduled_day": "Wednesday",
+        "location": {
+            "latitude": "53.52496215",
+            "longitude": "-113.4845926",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        ":@computed_region_7ccj_gre3": "315",
+        ":@computed_region_ecxu_fw7u": "12",
+        ":@computed_region_izdr_ja4x": "6",
+        ":@computed_region_5jki_au6x": "5",
+        ":@computed_region_mnf4_kaez": "11",
+        ":@computed_region_eq8d_jmrp": "341",
+        ":@computed_region_da6r_6gkw": "8"
+    }
+]

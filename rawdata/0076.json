@@ -1,0 +1,2248 @@
+[
+    {
+        "property_name": "New York & Ted Brown Building",
+        "date_designated": "2003-09-16T00:00:00.000",
+        "resolution_number": "35944",
+        "location_1": {
+            "human_address": "{\"address\": \"1119-1121 Broadway Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Blackwell, William House",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "architect": "Smith, Andrew H",
+        "location_1": {
+            "latitude": "47.260711",
+            "longitude": "-122.443151",
+            "human_address": "{\"address\": \"401 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Slavonian Hall",
+        "date_designated": "1992-06-09T00:00:00.000",
+        "resolution_number": "31784",
+        "built": "1901-02-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.274741",
+            "longitude": "-122.467388",
+            "human_address": "{\"address\": \"2306 North 30th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Swedish Mission Tabernacle",
+        "date_designated": "2012-04-10T00:00:00.000",
+        "resolution_number": "38469",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Heath & Twitchell",
+        "location_1": {
+            "latitude": "47.253307",
+            "longitude": "-122.449252",
+            "human_address": "{\"address\": \"910 South 10th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Abbott/Passages Building",
+        "date_designated": "2000-10-10T00:00:00.000",
+        "resolution_number": "34930",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "Pickles and Sutton",
+        "location_1": {
+            "human_address": "{\"address\": \"708 South Broadway Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Semple Residence",
+        "date_designated": "2011-05-24T00:00:00.000",
+        "resolution_number": "38267",
+        "location_1": {
+            "latitude": "47.273081",
+            "longitude": "-122.466919",
+            "human_address": "{\"address\": \"2802 North Carr Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Fire Station - Engine House No. 11",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "city engineer",
+        "location_1": {
+            "latitude": "47.222811",
+            "longitude": "-122.420853",
+            "human_address": "{\"address\": \"3802 McKinley Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12602",
+        ":@computed_region_vdmk_m8s5": "2",
+        ":@computed_region_rrmn_rvi4": "8"
+    },
+    {
+        "property_name": "Bridge - East 34th Street Bridge",
+        "date_designated": "1992-01-01T00:00:00.000",
+        "built": "1915-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"Pacific Avenue to A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - Adam Pfenning House",
+        "date_designated": "1995-12-05T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1904-01-01T00:00:00.000",
+        "architect": "Pfenning, Adam",
+        "location_1": {
+            "latitude": "47.247042",
+            "longitude": "-122.45645",
+            "human_address": "{\"address\": \"1524 South Cushman\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Fire Station - Engine House No. 4",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1935-01-01T00:00:00.000",
+        "architect": "Nelson, Silas and/or Shaw, Frederick",
+        "location_1": {
+            "human_address": "{\"address\": \"220-226 East 26th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - McIlvaine Apartments",
+        "date_designated": "1997-12-16T00:00:00.000",
+        "resolution_number": "33860",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Larkins, John P.",
+        "location_1": {
+            "latitude": "47.254239",
+            "longitude": "-122.450481",
+            "human_address": "{\"address\": \"920 South 9th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Municipal Barn",
+        "date_designated": "2014-07-01T00:00:00.000",
+        "resolution_number": "38941",
+        "built": "1910-01-01T00:00:00.000",
+        "architect": "W.C. Raleigh",
+        "location_1": {
+            "latitude": "47.240358",
+            "longitude": "-122.437188",
+            "human_address": "{\"address\": \"2324 S C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "First Baptist Church (Urban Grace Church)",
+        "date_designated": "2009-11-24T00:00:00.000",
+        "resolution_number": "37927",
+        "built": "1925-01-01T00:00:00.000",
+        "architect": "Heath, Gove & Bell",
+        "location_1": {
+            "latitude": "47.25484",
+            "longitude": "-122.441921",
+            "human_address": "{\"address\": \"902 Market Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Cunningham Electric",
+        "date_designated": "2003-09-30T00:00:00.000",
+        "resolution_number": "35968",
+        "built": "1927-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.242123",
+            "longitude": "-122.435988",
+            "human_address": "{\"address\": \"2123 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Manley-Thompson Ford Agency",
+        "date_designated": "2008-02-12T00:00:00.000",
+        "resolution_number": "37397",
+        "built": "1918-01-01T00:00:00.000",
+        "architect": "Bresemann, Emanuel J.",
+        "location_1": {
+            "human_address": "{\"address\": \"1302-1306 Fawcett Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Tacoma Building",
+        "date_designated": "2000-12-13T00:00:00.000",
+        "resolution_number": "35020",
+        "built": "1910-01-01T00:00:00.000",
+        "architect": "Potter and Merill (1910), Frost & Associates (1955)",
+        "location_1": {
+            "human_address": "{\"address\": \"1015-1021 A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Bostwick Building",
+        "date_designated": "1999-02-09T00:00:00.000",
+        "resolution_number": "34303",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "Dennis, Oliver P",
+        "location_1": {
+            "latitude": "47.255692",
+            "longitude": "-122.440639",
+            "human_address": "{\"address\": \"764 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fraternity Hall",
+        "date_designated": "2001-10-09T00:00:00.000",
+        "resolution_number": "35303",
+        "built": "1890-01-01T00:00:00.000",
+        "architect": "Roath, Rollin J.",
+        "location_1": {
+            "human_address": "{\"address\": \"1111-1117 Tacoma Avenue South\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Rutland and Woodstock Apartments",
+        "date_designated": "1988-03-01T00:00:00.000",
+        "resolution_number": "29931",
+        "architect": "Russell and Babcock",
+        "location_1": {
+            "latitude": "47.262792",
+            "longitude": "-122.450001",
+            "human_address": "{\"address\": \"115 North Yakima\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 15",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "architect": "Nicholson, Morton J.",
+        "location_1": {
+            "latitude": "47.275682",
+            "longitude": "-122.397107",
+            "human_address": "{\"address\": \"3510 East 11th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4838",
+        ":@computed_region_vdmk_m8s5": "13",
+        ":@computed_region_rrmn_rvi4": "2"
+    },
+    {
+        "property_name": "Dickman Lumber Company Head Saw",
+        "date_designated": "1979-12-11T00:00:00.000",
+        "resolution_number": "26119",
+        "built": "1923-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.279639",
+            "longitude": "-122.475893",
+            "human_address": "{\"address\": \"3017 Ruston Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Hilltop - St. James Apartments",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "34224",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "Schneider, J.H.",
+        "location_1": {
+            "human_address": "{\"address\": \"821 South Yakima Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Mead-Keyser House",
+        "date_designated": "2015-10-13T00:00:00.000",
+        "resolution_number": "39287",
+        "built": "1903-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.272194",
+            "longitude": "-122.482595",
+            "human_address": "{\"address\": \"2702 N Puget Sound Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Holy Rosary Church",
+        "date_designated": "1975-08-19T00:00:00.000",
+        "resolution_number": "23502",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "MacMahon, Frank",
+        "location_1": {
+            "latitude": "47.233645",
+            "longitude": "-122.43893",
+            "human_address": "{\"address\": \"512 South 30th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fire Station - Engine House No. 13",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1911-01-01T00:00:00.000",
+        "architect": "city engineer",
+        "location_1": {
+            "latitude": "47.27014",
+            "longitude": "-122.488559",
+            "human_address": "{\"address\": \"3825 North 25th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12605",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Lavroff, Samuel Home",
+        "date_designated": "2006-01-31T00:00:00.000",
+        "resolution_number": "36772",
+        "built": "1925-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.271682",
+            "longitude": "-122.456598",
+            "human_address": "{\"address\": \"820 North Stadium Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Snyder, Ella and John House",
+        "date_designated": "2012-07-17T00:00:00.000",
+        "resolution_number": "38510",
+        "built": "1905-01-01T00:00:00.000",
+        "architect": "Ambrose J. Russell",
+        "location_1": {
+            "latitude": "47.265374",
+            "longitude": "-122.452993",
+            "human_address": "{\"address\": \"612 North 4th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Sandberg-Schoenfeld Building",
+        "date_designated": "1999-02-09T00:00:00.000",
+        "resolution_number": "34302",
+        "built": "1907-01-01T00:00:00.000",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "human_address": "{\"address\": \"1411-1423 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - Agnew House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "architect": "Agnew, James",
+        "location_1": {
+            "latitude": "47.257458",
+            "longitude": "-122.446976",
+            "human_address": "{\"address\": \"605 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fire Station - Electrical Maintenance Shop",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1919-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.258896",
+            "longitude": "-122.445847",
+            "human_address": "{\"address\": \"425 South Tacoma Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "National Bank of Tacoma",
+        "date_designated": "2006-08-01T00:00:00.000",
+        "resolution_number": "36927",
+        "built": "1922-01-01T00:00:00.000",
+        "architect": "Sutton, Whitney and Dugan",
+        "location_1": {
+            "latitude": "47.252636",
+            "longitude": "-122.438451",
+            "human_address": "{\"address\": \"1123 Pacific\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Albers Brothers Mill",
+        "date_designated": "2003-08-13T00:00:00.000",
+        "resolution_number": "35597",
+        "built": "1904-01-01T00:00:00.000",
+        "architect": "Donnellan, John J",
+        "location_1": {
+            "latitude": "47.244872",
+            "longitude": "-122.43423",
+            "human_address": "{\"address\": \"1821 Dock Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "School - McKinley Elementary School",
+        "date_designated": "2014-10-14T00:00:00.000",
+        "resolution_number": "39037",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "latitude": "47.223923",
+            "longitude": "-122.420834",
+            "human_address": "{\"address\": \"3720 McKinley Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12602",
+        ":@computed_region_vdmk_m8s5": "4",
+        ":@computed_region_rrmn_rvi4": "8"
+    },
+    {
+        "property_name": "School - Washington Elementary School",
+        "date_designated": "2006-08-01T00:00:00.000",
+        "resolution_number": "36927",
+        "built": "1906-01-01T00:00:00.000",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "latitude": "47.271066",
+            "longitude": "-122.486444",
+            "human_address": "{\"address\": \"3701 N 26th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12605",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Nisqually Power Substation",
+        "date_designated": "2000-12-13T00:00:00.000",
+        "resolution_number": "35021",
+        "built": "1911-01-01T00:00:00.000",
+        "architect": "Gronen, Hamilton F. (engineer)",
+        "location_1": {
+            "latitude": "47.239311",
+            "longitude": "-122.43694",
+            "human_address": "{\"address\": \"2416 South C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "School - Jason Lee Middle School",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1924-01-01T00:00:00.000",
+        "architect": "Borhek, Roland E.",
+        "location_1": {
+            "latitude": "47.256394",
+            "longitude": "-122.463034",
+            "human_address": "{\"address\": \"602 North Sprague\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Brix, Anton House",
+        "date_designated": "1995-12-05T00:00:00.000",
+        "resolution_number": "33213",
+        "built": "1907-01-01T00:00:00.000",
+        "architect": "Evans, John",
+        "location_1": {
+            "latitude": "47.253898",
+            "longitude": "-122.465913",
+            "human_address": "{\"address\": \"646 South State Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "5",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Waddell Building",
+        "date_designated": "2003-05-06T00:00:00.000",
+        "resolution_number": "35841",
+        "architect": "Mendel, Louis and G.C. Clements & Co./Darmer and Cutting",
+        "location_1": {
+            "latitude": "47.248949",
+            "longitude": "-122.437618",
+            "human_address": "{\"address\": \"1502 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Ansonia Apartments",
+        "date_designated": "2008-09-30T00:00:00.000",
+        "resolution_number": "37604",
+        "built": "1914-01-01T00:00:00.000",
+        "architect": "Heath & Gove",
+        "location_1": {
+            "human_address": "{\"address\": \"215-219 Tacoma Avenue N\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Carnegie Library (Tacoma Public Library)",
+        "date_designated": "1975-01-14T00:00:00.000",
+        "resolution_number": "23183",
+        "built": "1903-01-01T00:00:00.000",
+        "architect": "Jardine, Kent and Jardine",
+        "location_1": {
+            "latitude": "47.25224",
+            "longitude": "-122.444312",
+            "human_address": "{\"address\": \"1102 Tacoma Avenue South\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Bridge - Highway 16, over Tacoma Narrows",
+        "date_designated": "1992-10-20T00:00:00.000",
+        "resolution_number": "31955",
+        "built": "1950-01-01T00:00:00.000",
+        "architect": "Moran and Proctor/Moisseif/Eldridge",
+        "location_1": {
+            "human_address": "{\"address\": \"spans over Tacoma Narrows\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Olympic Garage",
+        "date_designated": "2008-04-08T00:00:00.000",
+        "built": "1919-01-01T00:00:00.000",
+        "architect": "Hill and Mock",
+        "location_1": {
+            "latitude": "47.250891",
+            "longitude": "-122.444006",
+            "human_address": "{\"address\": \"1224 Tacoma Avenue S\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Rhodes, Henry House",
+        "date_designated": "2006-01-31T00:00:00.000",
+        "resolution_number": "36775",
+        "built": "1901-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.2637",
+            "longitude": "-122.459506",
+            "human_address": "{\"address\": \"701 North J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Marymac/Carlton Apartments",
+        "date_designated": "2000-10-10T00:00:00.000",
+        "resolution_number": "34928",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "Nelson, Silas",
+        "location_1": {
+            "latitude": "47.256785",
+            "longitude": "-122.446422",
+            "human_address": "{\"address\": \"615 South 7th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Geiger, Henry O. House",
+        "date_designated": "1993-04-27T00:00:00.000",
+        "resolution_number": "32171",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "Robertson, R.L.",
+        "location_1": {
+            "latitude": "47.265674",
+            "longitude": "-122.462148",
+            "human_address": "{\"address\": \"912 North I Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Pythian Temple",
+        "date_designated": "1988-03-29T00:00:00.000",
+        "resolution_number": "29962",
+        "built": "1906-01-01T00:00:00.000",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "human_address": "{\"address\": \"924-926 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Totem Pole",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "built": "1903-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"Fireman's Park\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hammer Building",
+        "date_designated": "2006-11-28T00:00:00.000",
+        "resolution_number": "37049",
+        "built": "1905-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.251499",
+            "longitude": "-122.444146",
+            "human_address": "{\"address\": \"1135 Tacoma Ave S\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Wagner Motors Building",
+        "date_designated": "2001-01-03T00:00:00.000",
+        "resolution_number": "35054",
+        "built": "1928-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.257951",
+            "longitude": "-122.442841",
+            "human_address": "{\"address\": \"616 St. Helens Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Thomas Carroll Double House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1890-01-01T00:00:00.000",
+        "architect": "Farrell and Darmer",
+        "location_1": {
+            "human_address": "{\"address\": \"802-804 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Fire Station - Engine House No. 9",
+        "date_designated": "1976-02-24T00:00:00.000",
+        "resolution_number": "23774",
+        "built": "1907-01-01T00:00:00.000",
+        "architect": "Bergfield, Paul",
+        "location_1": {
+            "latitude": "47.25601",
+            "longitude": "-122.473619",
+            "human_address": "{\"address\": \"611 North Pine Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12605",
+        ":@computed_region_vdmk_m8s5": "5",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Tacoma Nash Sales Company Building",
+        "date_designated": "2004-02-17T00:00:00.000",
+        "resolution_number": "36102",
+        "built": "1921-01-01T00:00:00.000",
+        "architect": "Bullard and Mason",
+        "location_1": {
+            "latitude": "47.253935",
+            "longitude": "-122.44172",
+            "human_address": "{\"address\": \"933 Market Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Sprague Building",
+        "date_designated": "1992-06-09T00:00:00.000",
+        "resolution_number": "31784",
+        "architect": "Pickles and Sutton",
+        "location_1": {
+            "human_address": "{\"address\": \"1501-05 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Union Station",
+        "date_designated": "1974-11-12T00:00:00.000",
+        "resolution_number": "23098",
+        "built": "1907-11-01T00:00:00.000",
+        "architect": "Reed & Stem",
+        "location_1": {
+            "latitude": "47.246363",
+            "longitude": "-122.436896",
+            "human_address": "{\"address\": \"1717 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Hillside Grocery",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1890-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.247323",
+            "longitude": "-122.444691",
+            "human_address": "{\"address\": \"1602 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Watermark Building",
+        "date_designated": "2001-06-26T00:00:00.000",
+        "resolution_number": "35200",
+        "architect": "Albertson, Arthur",
+        "location_1": {
+            "human_address": "{\"address\": \"1113-1115 A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - Anderson House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1910-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.247046",
+            "longitude": "-122.444629",
+            "human_address": "{\"address\": \"1610 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Olsen House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1926-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.237892",
+            "longitude": "-122.455848",
+            "human_address": "{\"address\": \"2314 South Ainsworth\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Eldridge Hotel/Y.M.C.A. Building",
+        "date_designated": "2007-03-20T00:00:00.000",
+        "resolution_number": "37132",
+        "built": "1891-01-01T00:00:00.000",
+        "architect": "Sexton, Frederick A.",
+        "location_1": {
+            "human_address": "{\"address\": \"747-9 St. Helens Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - Frank Calvert House",
+        "date_designated": "1995-12-03T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1901-01-01T00:00:00.000",
+        "architect": "Calvert, Frank",
+        "location_1": {
+            "latitude": "47.244055",
+            "longitude": "-122.443954",
+            "human_address": "{\"address\": \"1908 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Blue Mouse Theatre",
+        "date_designated": "2008-12-16T00:00:00.000",
+        "resolution_number": "37684",
+        "built": "1923-01-01T00:00:00.000",
+        "architect": "Leather, Fitzherbert",
+        "location_1": {
+            "latitude": "47.271177",
+            "longitude": "-122.488891",
+            "human_address": "{\"address\": \"2611 N Proctor\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Gray, Claude House",
+        "date_designated": "2000-05-16T00:00:00.000",
+        "resolution_number": "34780",
+        "built": "1922-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.224469",
+            "longitude": "-122.439089",
+            "human_address": "{\"address\": \"3701 Tacoma Avenue South\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4836",
+        ":@computed_region_vdmk_m8s5": "11",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Hilltop - Cone/Reynolds House",
+        "date_designated": "1995-12-02T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1908-01-01T00:00:00.000",
+        "architect": "Cone, Amanda",
+        "location_1": {
+            "latitude": "47.249013",
+            "longitude": "-122.458373",
+            "human_address": "{\"address\": \"1244 South Ainsworth\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Perkins Building",
+        "date_designated": "2000-10-10T00:00:00.000",
+        "resolution_number": "34929",
+        "built": "1907-10-01T00:00:00.000",
+        "architect": "Russell and Babcock",
+        "location_1": {
+            "latitude": "47.25332",
+            "longitude": "-122.437111",
+            "human_address": "{\"address\": \"1101 A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Murray, Frederick H. House",
+        "date_designated": "1985-12-17T00:00:00.000",
+        "resolution_number": "29009",
+        "architect": "Russell and Babcock",
+        "location_1": {
+            "latitude": "47.258875",
+            "longitude": "-122.458148",
+            "human_address": "{\"address\": \"402 North Sheridan Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Fort Nisqually",
+        "date_designated": "1976-02-24T00:00:00.000",
+        "resolution_number": "23773",
+        "built": "1843-01-01T00:00:00.000",
+        "architect": "Hudson's Bay Company",
+        "location_1": {
+            "human_address": "{\"address\": \"Point Defiance Park\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 14",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "architect": "Nicholson, Morton J.",
+        "location_1": {
+            "latitude": "47.285842",
+            "longitude": "-122.500095",
+            "human_address": "{\"address\": \"4701 North 41st Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Wright Park",
+        "date_designated": "1975-07-22T00:00:00.000",
+        "resolution_number": "23472",
+        "built": "1890-01-01T00:00:00.000",
+        "architect": "Schwageral, E.O. and Ebeneezer Roberts",
+        "location_1": {
+            "human_address": "{\"address\": \"Division Avenue, Sixth Avenue, South G Street and South I Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "School - Stewart Middle School",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1924-01-01T00:00:00.000",
+        "architect": "Borhek, Roland E.",
+        "location_1": {
+            "latitude": "47.210882",
+            "longitude": "-122.433962",
+            "human_address": "{\"address\": \"5010 Pacific Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13239",
+        ":@computed_region_vdmk_m8s5": "11",
+        ":@computed_region_rrmn_rvi4": "8"
+    },
+    {
+        "property_name": "Armory",
+        "date_designated": "1976-12-28T00:00:00.000",
+        "resolution_number": "24216",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Russell and Babcock",
+        "location_1": {
+            "latitude": "47.252564",
+            "longitude": "-122.446304",
+            "human_address": "{\"address\": \"715 South 11th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Born-Lindstrom House",
+        "date_designated": "2015-07-28T00:00:00.000",
+        "resolution_number": "39246",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "Roath, Rollin J.",
+        "location_1": {
+            "latitude": "47.263566",
+            "longitude": "-122.452238",
+            "human_address": "{\"address\": \"224 N Yakima Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "School - Oakland Elementary School ",
+        "date_designated": "2014-10-14T00:00:00.000",
+        "resolution_number": "39037",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "latitude": "47.229785",
+            "longitude": "-122.486062",
+            "human_address": "{\"address\": \"3319 S Adams Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13241",
+        ":@computed_region_vdmk_m8s5": "8",
+        ":@computed_region_rrmn_rvi4": "7"
+    },
+    {
+        "property_name": "Auditorium Dance Hall, The",
+        "date_designated": "2008-02-12T00:00:00.000",
+        "resolution_number": "37397",
+        "built": "1922-01-01T00:00:00.000",
+        "architect": "Borhek, Roland E.",
+        "location_1": {
+            "human_address": "{\"address\": \"1308-10 Fawcett Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Hilltop - Schultz Apartments",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1911-01-01T00:00:00.000",
+        "architect": "Darmer and Cutting",
+        "location_1": {
+            "latitude": "47.251104",
+            "longitude": "-122.450234",
+            "human_address": "{\"address\": \"1002 Ernest S Brazill Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "South J Street Historic District",
+        "date_designated": "1992-10-20T00:00:00.000",
+        "resolution_number": "31954",
+        "architect": "Proctor and Dennis (3 of 8)",
+        "location_1": {
+            "human_address": "{\"address\": \"708, 710, 712, 714, 716, 718, 720, 722 South J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Starr Street Houses",
+        "date_designated": "2006-01-31T00:00:00.000",
+        "resolution_number": "36772",
+        "built": "1908-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"2721, 2723, 2801 and 2803 North Starr Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Titlow, Aaron House",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "built": "1893-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.257225",
+            "longitude": "-122.460624",
+            "human_address": "{\"address\": \"1605 Division\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 2",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "architect": "Bergfield, Paul",
+        "location_1": {
+            "latitude": "47.235412",
+            "longitude": "-122.440474",
+            "human_address": "{\"address\": \"2701 South Tacoma Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Drum, Henry House",
+        "date_designated": "1976-12-28T00:00:00.000",
+        "resolution_number": "24214",
+        "location_1": {
+            "latitude": "47.263681",
+            "longitude": "-122.446776",
+            "human_address": "{\"address\": \"9 St. Helens Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fogg House",
+        "date_designated": "1995-02-07T00:00:00.000",
+        "resolution_number": "32903",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "Washington Building Association",
+        "location_1": {
+            "latitude": "47.269851",
+            "longitude": "-122.454422",
+            "human_address": "{\"address\": \"620 North C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Hilltop - H.C. Pochert Building",
+        "date_designated": "2013-06-25T00:00:00.000",
+        "resolution_number": "38685",
+        "built": "1904-01-01T00:00:00.000",
+        "architect": "Darmer, Carl A.",
+        "location_1": {
+            "human_address": "{\"address\": \"1110-12 Martin Luther King, Jr. Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Holgerson, Rhode House",
+        "date_designated": "2007-03-20T00:00:00.000",
+        "resolution_number": "37132",
+        "built": "1890-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.230351",
+            "longitude": "-122.42298",
+            "human_address": "{\"address\": \"618 East 35th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12602",
+        ":@computed_region_vdmk_m8s5": "4",
+        ":@computed_region_rrmn_rvi4": "8"
+    },
+    {
+        "property_name": "Hilltop - W.G. Nyman  House",
+        "date_designated": "1995-12-05T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1890-01-01T00:00:00.000",
+        "architect": "Nyman, W.G.",
+        "location_1": {
+            "human_address": "{\"address\": \"1910-12 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Foreman, B.H. Residence",
+        "date_designated": "2001-06-26T00:00:00.000",
+        "resolution_number": "35201",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "Russell, Ambrose",
+        "location_1": {
+            "latitude": "47.286178",
+            "longitude": "-122.493814",
+            "human_address": "{\"address\": \"4121 Madrona Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Dorothy Apartments",
+        "date_designated": "2008-08-19T00:00:00.000",
+        "resolution_number": "37573",
+        "built": "1928-01-01T00:00:00.000",
+        "architect": "Heath & Gove",
+        "location_1": {
+            "latitude": "47.265514",
+            "longitude": "-122.451245",
+            "human_address": "{\"address\": \"301 Tacoma Ave N\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Medical Arts Building (Tacoma Municipal Building)",
+        "date_designated": "1978-11-14T00:00:00.000",
+        "resolution_number": "25385",
+        "architect": "Graham, John Sr.",
+        "location_1": {
+            "latitude": "47.255777",
+            "longitude": "-122.442155",
+            "human_address": "{\"address\": \"747 Market Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Puget Sound Brewing Company",
+        "date_designated": "1988-03-23T00:00:00.000",
+        "resolution_number": "23805",
+        "architect": "Darmer, Carl A.",
+        "location_1": {
+            "human_address": "{\"address\": \"2510, 2512, and 2524 South C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Masonic Temple and Temple Theater",
+        "date_designated": "1991-12-03T00:00:00.000",
+        "resolution_number": "31562",
+        "built": "1927-01-01T00:00:00.000",
+        "architect": "Russell, Ambrose J.",
+        "location_1": {
+            "latitude": "47.262986",
+            "longitude": "-122.446266",
+            "human_address": "{\"address\": \"47 St. Helens\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "First Presbyterian Church",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "architect": "Cram, Ralph Adams",
+        "location_1": {
+            "human_address": "{\"address\": \"Division and Tacoma Avenue South\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Bridge Clinic (Marcourt Building)",
+        "date_designated": "2004-02-17T00:00:00.000",
+        "resolution_number": "36102",
+        "built": "1931-01-01T00:00:00.000",
+        "architect": "Russell, Lumm and Lance",
+        "location_1": {
+            "latitude": "47.25583",
+            "longitude": "-122.442168",
+            "human_address": "{\"address\": \"744 Market Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Lord, George T, Residence",
+        "date_designated": "2007-09-25T00:00:00.000",
+        "resolution_number": "37292",
+        "built": "1906-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.274056",
+            "longitude": "-122.476209",
+            "human_address": "{\"address\": \"2902 N Cedar Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "School - Central Administration Building / Central Elementary",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1912-01-01T00:00:00.000",
+        "architect": "Heath (1912) and Parker (addition, 1967)",
+        "location_1": {
+            "latitude": "47.255737",
+            "longitude": "-122.446185",
+            "human_address": "{\"address\": \"601 South 8th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "First Swedish Baptist Church",
+        "date_designated": "2005-05-03T00:00:00.000",
+        "resolution_number": "36495",
+        "built": "1900-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.250908",
+            "longitude": "-122.450008",
+            "human_address": "{\"address\": \"1201 South J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Federal Building",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "23501",
+        "built": "1908-10-01T00:00:00.000",
+        "architect": "Taylor, James Knox",
+        "location_1": {
+            "latitude": "47.253041",
+            "longitude": "-122.437046",
+            "human_address": "{\"address\": \"1102 A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Ellington House",
+        "date_designated": "1995-02-07T00:00:00.000",
+        "resolution_number": "32903",
+        "built": "1889-01-01T00:00:00.000",
+        "architect": "unknown",
+        "location_1": {
+            "latitude": "47.265404",
+            "longitude": "-122.45433",
+            "human_address": "{\"address\": \"423 North G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Edgecliff Apartments",
+        "date_designated": "2010-08-17T00:00:00.000",
+        "resolution_number": "38092",
+        "built": "1919-01-01T00:00:00.000",
+        "architect": "1924 remodel by Heath, Gove and Bell",
+        "location_1": {
+            "latitude": "47.264511",
+            "longitude": "-122.446736",
+            "human_address": "{\"address\": \"1 North Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Brenden House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1902-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.248185",
+            "longitude": "-122.443391",
+            "human_address": "{\"address\": \"1510 Tacoma Avenue South\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Carman Manufacturing Building",
+        "date_designated": "2009-03-10T00:00:00.000",
+        "resolution_number": "37748",
+        "architect": "Darmer, Carl A. (1893)",
+        "location_1": {
+            "human_address": "{\"address\": \"711-25 E 25th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Virginia V Steam Vessel",
+        "date_designated": "1998-02-24T00:00:00.000",
+        "resolution_number": "33969",
+        "built": "1898-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"Tacoma/Seattle\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Walker Apartments",
+        "date_designated": "1992-12-15T00:00:00.000",
+        "resolution_number": "32007",
+        "built": "1927-01-01T00:00:00.000",
+        "architect": "Borhek, Roland E.",
+        "location_1": {
+            "latitude": "47.258501",
+            "longitude": "-122.443701",
+            "human_address": "{\"address\": \"405 Sixth Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Johnson-Gehri, Residence",
+        "date_designated": "2008-02-12T00:00:00.000",
+        "resolution_number": "37397",
+        "built": "1909-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.257575",
+            "longitude": "-122.458434",
+            "human_address": "{\"address\": \"1416 South 5th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Webster Apartments",
+        "date_designated": "2001-01-30T00:00:00.000",
+        "resolution_number": "35053",
+        "built": "1904-01-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "latitude": "47.257852",
+            "longitude": "-122.442778",
+            "human_address": "{\"address\": \"629 St Helens Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "McNeely, James House",
+        "date_designated": "2006-03-28T00:00:00.000",
+        "resolution_number": "36819",
+        "built": "1917-01-01T00:00:00.000",
+        "architect": "Russell and Parker",
+        "location_1": {
+            "latitude": "47.272177",
+            "longitude": "-122.470637",
+            "human_address": "{\"address\": \"102 West Road N\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12605",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "School - Lincoln Park High School",
+        "date_designated": "2006-08-01T00:00:00.000",
+        "resolution_number": "36927",
+        "built": "1913-01-01T00:00:00.000",
+        "architect": "Heath and Gove",
+        "location_1": {
+            "latitude": "47.224699",
+            "longitude": "-122.441962",
+            "human_address": "{\"address\": \"701 S 37th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4836",
+        ":@computed_region_vdmk_m8s5": "11",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Beutel, Conrad F. & Annie Residence",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1908-09-01T00:00:00.000",
+        "architect": "Keating, Harry",
+        "location_1": {
+            "latitude": "47.267565",
+            "longitude": "-122.461695",
+            "human_address": "{\"address\": \"701 North 10th St\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Wilson/Ladenburg House",
+        "date_designated": "1996-08-27T00:00:00.000",
+        "resolution_number": "33490",
+        "built": "1907-09-01T00:00:00.000",
+        "architect": "Gore, George",
+        "location_1": {
+            "latitude": "47.252085",
+            "longitude": "-122.468275",
+            "human_address": "{\"address\": \"844 South Steele Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "5",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Seaman's Rest",
+        "date_designated": "1975-08-19T00:00:00.000",
+        "resolution_number": "23503",
+        "location_1": {
+            "latitude": "47.273081",
+            "longitude": "-122.466919",
+            "human_address": "{\"address\": \"2802 North Carr Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "School - Stadium High School",
+        "date_designated": "1975-01-02T00:00:00.000",
+        "resolution_number": "23159",
+        "architect": "Hewitt and Hewitt/Frederick Heath",
+        "location_1": {
+            "latitude": "47.264829",
+            "longitude": "-122.446187",
+            "human_address": "{\"address\": \"111 North E Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Bone Dry Shoe Manufacturing Company",
+        "date_designated": "2000-05-16T00:00:00.000",
+        "resolution_number": "34779",
+        "built": "1919-01-01T00:00:00.000",
+        "architect": "Hill, Mock & Griffin",
+        "location_1": {
+            "human_address": "{\"address\": \"2111-2115 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Snyder, Andrew House",
+        "date_designated": "1995-12-05T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1890-01-01T00:00:00.000",
+        "architect": "Duff, R.D. (developer)",
+        "location_1": {
+            "latitude": "47.258698",
+            "longitude": "-122.462807",
+            "human_address": "{\"address\": \"1511 North Seventh Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Yuncker, John F. House",
+        "date_designated": "1985-12-17T00:00:00.000",
+        "resolution_number": "29009",
+        "architect": "Darmer, Carl A.",
+        "location_1": {
+            "latitude": "47.258077",
+            "longitude": "-122.447114",
+            "human_address": "{\"address\": \"519 South G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Sunset Telephone and Telegraph Company",
+        "date_designated": "1985-12-17T00:00:00.000",
+        "resolution_number": "29009",
+        "location_1": {
+            "human_address": "{\"address\": \"1101 South Fawcett avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 4",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1935-01-01T00:00:00.000",
+        "architect": "Nelson, Silas",
+        "location_1": {
+            "latitude": "47.250408",
+            "longitude": "-122.456787",
+            "human_address": "{\"address\": \"1453 South 12th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "School - Fern Hill Elementary School",
+        "resolution_number": "38158",
+        "architect": "Heath (1912) and O. F. Larson, Knoell Brothers",
+        "location_1": {
+            "latitude": "47.178851",
+            "longitude": "-122.441973",
+            "human_address": "{\"address\": \"8442 South Park Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4847",
+        ":@computed_region_vdmk_m8s5": "12",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Larsen, Idius M Home",
+        "date_designated": "2004-10-26T00:00:00.000",
+        "resolution_number": "36328",
+        "built": "1905-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.274718",
+            "longitude": "-122.476545",
+            "human_address": "{\"address\": \"3102 North 30th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Hunt-Mottet Warehouse",
+        "date_designated": "2014-04-08T00:00:00.000",
+        "resolution_number": "38877",
+        "built": "1907-01-01T00:00:00.000",
+        "architect": "Bullard and Hill",
+        "location_1": {
+            "latitude": "47.242437",
+            "longitude": "-122.437655",
+            "human_address": "{\"address\": \"2109 S C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Provident Building",
+        "date_designated": "2007-03-20T00:00:00.000",
+        "resolution_number": "37132",
+        "built": "1903-04-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "latitude": "47.254612",
+            "longitude": "-122.438901",
+            "human_address": "{\"address\": \"917 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Whitworth Literary Society Hall",
+        "date_designated": "2006-11-28T00:00:00.000",
+        "resolution_number": "37049",
+        "built": "1906-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.283412",
+            "longitude": "-122.498943",
+            "human_address": "{\"address\": \"4604 N 38th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Hilltop - Hob Nob Restaurant",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1925-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"712-716 Sixth Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "School - Hoyt Elementary School",
+        "date_designated": "2014-10-14T00:00:00.000",
+        "resolution_number": "39037",
+        "built": "1957-01-01T00:00:00.000",
+        "architect": "Price, Robert Billsbrugh",
+        "location_1": {
+            "latitude": "47.272083",
+            "longitude": "-122.484218",
+            "human_address": "{\"address\": \"2708 N Union Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "YMCA (The Kensington Apartments)",
+        "date_designated": "1978-11-14T00:00:00.000",
+        "resolution_number": "25386",
+        "built": "1909-10-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "latitude": "47.256701",
+            "longitude": "-122.442361",
+            "human_address": "{\"address\": \"714 Market Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 18 (Fireboat)",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "architect": "Nicholson, Morton J.",
+        "location_1": {
+            "latitude": "47.254572",
+            "longitude": "-122.427921",
+            "human_address": "{\"address\": \"302 East 11th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4838",
+        ":@computed_region_vdmk_m8s5": "13",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "School - McCarver Elementary",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1925-01-01T00:00:00.000",
+        "architect": "Hill and Mock",
+        "location_1": {
+            "latitude": "47.241476",
+            "longitude": "-122.447854",
+            "human_address": "{\"address\": \"2111 South J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Hilltop - Buren/Holden Apartments",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1908-01-01T00:00:00.000",
+        "architect": "Heath and Twichell",
+        "location_1": {
+            "human_address": "{\"address\": \"708-710 South Eighth Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Fire Station - Engine House No. 8",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "city engineer",
+        "location_1": {
+            "latitude": "47.218236",
+            "longitude": "-122.449386",
+            "human_address": "{\"address\": \"4301 South L Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4836",
+        ":@computed_region_vdmk_m8s5": "11",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Shaw, Stanley Residence",
+        "date_designated": "2014-10-14T00:00:00.000",
+        "resolution_number": "39037",
+        "architect": "Stanley T Shaw (1931 remodel)",
+        "location_1": {
+            "human_address": "{\"address\": \"2500 N Lawrence Sette\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Northern Pacific Railroad Headquarters Building",
+        "date_designated": "1975-01-02T00:00:00.000",
+        "resolution_number": "23159",
+        "architect": "Talbot, Charles B.",
+        "location_1": {
+            "latitude": "47.257555",
+            "longitude": "-122.43955",
+            "human_address": "{\"address\": \"621 Pacific Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Fireboat No. 1",
+        "date_designated": "1983-06-07T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "T. McK, Rowlands",
+        "location_1": {
+            "human_address": "{\"address\": \"Marine Park, at approximately 3400 Ruston Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Central Lutheran Church",
+        "date_designated": "2010-06-29T00:00:00.000",
+        "resolution_number": "38061",
+        "built": "1957-01-01T00:00:00.000",
+        "architect": "Lea, Pearson and Richards",
+        "location_1": {
+            "latitude": "47.266082",
+            "longitude": "-122.453001",
+            "human_address": "{\"address\": \"401 Tacoma Avenue North\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Haddaway Hall",
+        "date_designated": "1992-06-09T00:00:00.000",
+        "resolution_number": "31784",
+        "built": "1923-01-01T00:00:00.000",
+        "architect": "Meade and Hamilton",
+        "location_1": {
+            "latitude": "47.288071",
+            "longitude": "-122.495984",
+            "human_address": "{\"address\": \"4301 North Stevens\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "National Shuffleboard Sales Company",
+        "date_designated": "2003-09-30T00:00:00.000",
+        "resolution_number": "35968",
+        "built": "1922-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.252165",
+            "longitude": "-122.444295",
+            "human_address": "{\"address\": \"1119 Tacoma Ave S\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Bob's Java Jive",
+        "date_designated": "2003-09-30T00:00:00.000",
+        "resolution_number": "35968",
+        "built": "1929-01-01T00:00:00.000",
+        "architect": "Button, Otis G (builder)",
+        "location_1": {
+            "latitude": "47.231984",
+            "longitude": "-122.464776",
+            "human_address": "{\"address\": \"2102 South Tacoma Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13241",
+        ":@computed_region_vdmk_m8s5": "6",
+        ":@computed_region_rrmn_rvi4": "7"
+    },
+    {
+        "property_name": "Frisko Freeze",
+        "date_designated": "2008-08-19T00:00:00.000",
+        "resolution_number": "37573",
+        "built": "1950-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.259844",
+            "longitude": "-122.455444",
+            "human_address": "{\"address\": \"1201 Division Ave\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Commencement Bay Building",
+        "date_designated": "1991-11-05T00:00:00.000",
+        "resolution_number": "31531",
+        "architect": "Darmer, Carl A.",
+        "location_1": {
+            "latitude": "47.25276",
+            "longitude": "-122.436981",
+            "human_address": "{\"address\": \"1117 A Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Pantages Theatre/Jones Building",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "architect": "Russell and Babcock",
+        "location_1": {
+            "human_address": "{\"address\": \"901 and 909 Broadway Plaza\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Old City Hall",
+        "date_designated": "1974-10-08T00:00:00.000",
+        "resolution_number": "23038",
+        "built": "1893-01-01T00:00:00.000",
+        "architect": "Hatherton, E.A.",
+        "location_1": {
+            "latitude": "47.257491",
+            "longitude": "-122.44032",
+            "human_address": "{\"address\": \"625 Commerce Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "YWCA",
+        "date_designated": "1977-07-12T00:00:00.000",
+        "resolution_number": "24544",
+        "built": "1927-01-01T00:00:00.000",
+        "architect": "Duggan, Earl N.",
+        "location_1": {
+            "latitude": "47.260553",
+            "longitude": "-122.443041",
+            "human_address": "{\"address\": \"405 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Cabin No. 97 (Walter Crooks' Cabin)",
+        "date_designated": "1992-06-09T00:00:00.000",
+        "resolution_number": "31784",
+        "built": "1916-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.297221",
+            "longitude": "-122.530269",
+            "human_address": "{\"address\": \"97 North Salmon Beach\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "1"
+    },
+    {
+        "property_name": "Rust, William R. House",
+        "date_designated": "1976-12-28T00:00:00.000",
+        "resolution_number": "24215",
+        "built": "1905-01-01T00:00:00.000",
+        "architect": "Russell, Ambrose J.",
+        "location_1": {
+            "latitude": "47.266046",
+            "longitude": "-122.463336",
+            "human_address": "{\"address\": \"1001 North I Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Kress Building",
+        "date_designated": "2006-03-28T00:00:00.000",
+        "resolution_number": "36819",
+        "built": "1925-01-01T00:00:00.000",
+        "architect": "Hoffman, E.J.T",
+        "location_1": {
+            "human_address": "{\"address\": \"934-936 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Crescent Apartments (New York Apartments)",
+        "date_designated": "2004-02-17T00:00:00.000",
+        "resolution_number": "36102",
+        "built": "1889-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"321-323 North G Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Lynn Funeral Home",
+        "date_designated": "2005-05-03T00:00:00.000",
+        "resolution_number": "36495",
+        "built": "1917-01-01T00:00:00.000",
+        "architect": "Lundberg & Mahon",
+        "location_1": {
+            "latitude": "47.256191",
+            "longitude": "-122.445212",
+            "human_address": "{\"address\": \"717 Tacoma Avenue S\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Park Universalist Church",
+        "date_designated": "2008-08-19T00:00:00.000",
+        "resolution_number": "37573",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Woodroofe & Constable",
+        "location_1": {
+            "latitude": "47.261542",
+            "longitude": "-122.452885",
+            "human_address": "{\"address\": \"206 North J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Burkee-Francois House",
+        "date_designated": "1995-01-31T00:00:00.000",
+        "resolution_number": "32895",
+        "built": "1904-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.238526",
+            "longitude": "-122.450136",
+            "human_address": "{\"address\": \"2326 South L Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "McCormack Mansion",
+        "date_designated": "1995-02-07T00:00:00.000",
+        "resolution_number": "32903",
+        "built": "1925-01-01T00:00:00.000",
+        "architect": "Russell, Ambrose J.",
+        "location_1": {
+            "latitude": "47.265235",
+            "longitude": "-122.45481",
+            "human_address": "{\"address\": \"705 North 5th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Tacoma Cold Storage Building ",
+        "date_designated": "2005-01-25T00:00:00.000",
+        "resolution_number": "36413",
+        "built": "1922-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.237508",
+            "longitude": "-122.437554",
+            "human_address": "{\"address\": \"2602 South Holgate Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Tacoma Buddhist Church",
+        "date_designated": "1995-12-05T00:00:00.000",
+        "resolution_number": "33231",
+        "built": "1931-01-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "human_address": "{\"address\": \"1717 South Fawcett Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "JD Aubrey Wagon & Auto Works",
+        "date_designated": "2014-04-08T00:00:00.000",
+        "resolution_number": "38877",
+        "built": "1910-01-01T00:00:00.000",
+        "architect": "O.F. Larson, builder",
+        "location_1": {
+            "latitude": "47.242616",
+            "longitude": "-122.4377",
+            "human_address": "{\"address\": \"2105 S C Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "14",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Epworth LeSourd United Methodist Church",
+        "date_designated": "2015-12-08T00:00:00.000",
+        "resolution_number": "39339",
+        "built": "1926-01-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "latitude": "47.253964",
+            "longitude": "-122.472501",
+            "human_address": "{\"address\": \"710 S Anderson Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "5",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "Seymour Conservatory (Wright Park)",
+        "date_designated": "1975-05-16T00:00:00.000",
+        "resolution_number": "23503",
+        "built": "1907-01-01T00:00:00.000",
+        "location_1": {
+            "human_address": "{\"address\": \"Wright Park\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Thompson, Walter J Residence ",
+        "date_designated": "2005-05-03T00:00:00.000",
+        "resolution_number": "36495",
+        "built": "1885-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.263823",
+            "longitude": "-122.44687",
+            "human_address": "{\"address\": \"7 Saint Helens Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Hilltop - Kellogg-Sicker Building",
+        "date_designated": "2013-06-25T00:00:00.000",
+        "resolution_number": "38685",
+        "built": "1906-01-01T00:00:00.000",
+        "architect": "Darmer, Carl. A.",
+        "location_1": {
+            "human_address": "{\"address\": \"1114-16 Martin Luther King, Jr. Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "University Union Club",
+        "date_designated": "2009-07-21T00:00:00.000",
+        "resolution_number": "37829",
+        "built": "1888-01-01T00:00:00.000",
+        "architect": "Whidden & Lewis",
+        "location_1": {
+            "latitude": "47.258623",
+            "longitude": "-122.441717",
+            "human_address": "{\"address\": \"539 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Bridge - 11th Street Bridge",
+        "date_designated": "2000-10-19T00:00:00.000",
+        "resolution_number": "34929",
+        "architect": "Waddell and Harrington",
+        "location_1": {
+            "human_address": "{\"address\": \"Spans Foss Waterway at 11th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Tacoma Mausoleum",
+        "date_designated": "1998-02-24T00:00:00.000",
+        "resolution_number": "33969",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Gove, George",
+        "location_1": {
+            "latitude": "47.208282",
+            "longitude": "-122.474979",
+            "human_address": "{\"address\": \"5302 South Junett\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13241",
+        ":@computed_region_vdmk_m8s5": "8",
+        ":@computed_region_rrmn_rvi4": "7"
+    },
+    {
+        "property_name": "Saint Peter's Church (Episcopal)",
+        "date_designated": "1975-02-18T00:00:00.000",
+        "resolution_number": "23227",
+        "built": "1873-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.274032",
+            "longitude": "-122.463722",
+            "human_address": "{\"address\": \"2910 North Starr Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Shackleford, John A. House",
+        "date_designated": "2007-03-20T00:00:00.000",
+        "resolution_number": "37132",
+        "built": "1888-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.261582",
+            "longitude": "-122.453011",
+            "human_address": "{\"address\": \"211 North J Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Rialto Theatre",
+        "date_designated": "1990-09-18T00:00:00.000",
+        "resolution_number": "31055",
+        "built": "1918-01-01T00:00:00.000",
+        "architect": "Borhek, Roland E.",
+        "location_1": {
+            "latitude": "47.255212",
+            "longitude": "-122.441266",
+            "human_address": "{\"address\": \"310 South 9th street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Bowes Building (Tacoma Savings and Loan)",
+        "date_designated": "1979-12-11T00:00:00.000",
+        "resolution_number": "26121",
+        "built": "1908-09-01T00:00:00.000",
+        "architect": "Heath, Frederick",
+        "location_1": {
+            "latitude": "47.255551",
+            "longitude": "-122.438002",
+            "human_address": "{\"address\": \"100 S Ninth St\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Osgood-Anderson House",
+        "date_designated": "2007-09-25T00:00:00.000",
+        "resolution_number": "37292",
+        "built": "1893-01-01T00:00:00.000",
+        "architect": "Sutton, Albert (1893); C.A. Darmer (1903)",
+        "location_1": {
+            "latitude": "47.267008",
+            "longitude": "-122.452337",
+            "human_address": "{\"address\": \"407 North E Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Gardener, C.N. Building",
+        "date_designated": "2001-01-30T00:00:00.000",
+        "resolution_number": "35055",
+        "built": "1907-01-01T00:00:00.000",
+        "architect": "Bullard, George W.",
+        "location_1": {
+            "human_address": "{\"address\": \"928-930 Broadway Plaza\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "property_name": "Fire Station - Fire Station No. 10",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "built": "1928-01-01T00:00:00.000",
+        "architect": "Nicholson, Morton J.",
+        "location_1": {
+            "latitude": "47.190885",
+            "longitude": "-122.441895",
+            "human_address": "{\"address\": \"7247 South Park Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13239",
+        ":@computed_region_vdmk_m8s5": "12",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Bridge - Tacoma Narrows Bridge Ruins",
+        "date_designated": "1992-10-20T00:00:00.000",
+        "resolution_number": "31955",
+        "built": "1940-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.25308",
+            "longitude": "-122.44153",
+            "human_address": "{\"address\": \"\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Saint Luke's Memorial Church",
+        "date_designated": "2008-08-19T00:00:00.000",
+        "resolution_number": "37573",
+        "architect": "Sherwin, Joseph A (1883); Muri, Russell, Lance (1936)",
+        "location_1": {
+            "latitude": "47.280765",
+            "longitude": "-122.499855",
+            "human_address": "{\"address\": \"3615 North Gove Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Hilltop - Charles Madsen House",
+        "date_designated": "1998-06-16T00:00:00.000",
+        "resolution_number": "34080",
+        "built": "1909-10-01T00:00:00.000",
+        "architect": "Madsen, Charles",
+        "location_1": {
+            "latitude": "47.248088",
+            "longitude": "-122.455227",
+            "human_address": "{\"address\": \"1419 South Sheridan\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "4"
+    },
+    {
+        "property_name": "School - Whitman Elementary School",
+        "date_designated": "2010-12-08T00:00:00.000",
+        "resolution_number": "38158",
+        "built": "1951-01-01T00:00:00.000",
+        "architect": "Lea, Pearson & Richards",
+        "location_1": {
+            "latitude": "47.221798",
+            "longitude": "-122.449298",
+            "human_address": "{\"address\": \"1120 South 39th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4836",
+        ":@computed_region_vdmk_m8s5": "11",
+        ":@computed_region_rrmn_rvi4": "6"
+    },
+    {
+        "property_name": "Olof Carlson House",
+        "date_designated": "2003-09-30T00:00:00.000",
+        "resolution_number": "35968",
+        "built": "1899-01-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.271004",
+            "longitude": "-122.46213",
+            "human_address": "{\"address\": \"1116 North 26th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Fire Station - Fire Communications Center",
+        "date_designated": "1987-01-06T00:00:00.000",
+        "resolution_number": "29457",
+        "architect": "Nicholson, Morton J.",
+        "location_1": {
+            "latitude": "47.25894",
+            "longitude": "-122.445858",
+            "human_address": "{\"address\": \"415 South Tacoma Avenue\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Point Defiance Streetcar Station",
+        "date_designated": "2014-01-13T00:00:00.000",
+        "resolution_number": "39101",
+        "built": "1914-01-01T00:00:00.000",
+        "architect": "Twichell, Luther",
+        "location_1": {
+            "latitude": "47.305675",
+            "longitude": "-122.515607",
+            "human_address": "{\"address\": \"5801 Trolley Lane\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "13238",
+        ":@computed_region_vdmk_m8s5": "16",
+        ":@computed_region_rrmn_rvi4": "1"
+    }
+]

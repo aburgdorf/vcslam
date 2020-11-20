@@ -1,0 +1,49 @@
+[
+    {
+        "localid": "530082",
+        "county": "Erie",
+        "municipality": "Clarence",
+        "on": "TRANSIT RD",
+        "from": "WEHRLE DR",
+        "to": "RT 5 MAIN ST",
+        "approach": "BETWEEN",
+        "direction": "2-WAY",
+        "aadt_year": "1987",
+        "aadt": "26300",
+        "location_1": {
+            "latitude": "42.960851",
+            "longitude": "-78.696871"
+        }
+    },
+    {
+        "localid": "530417",
+        "county": "Erie",
+        "municipality": "Hamburg",
+        "on": "MILESTRIP RD",
+        "from": "I-90 NYS THRUWAY",
+        "to": "MCKINLEY PKWY",
+        "approach": "BETWEEN",
+        "direction": "2-WAY",
+        "aadt_year": "2007",
+        "aadt": "23180",
+        "location_1": {
+            "latitude": "42.789764",
+            "longitude": "-78.813343"
+        }
+    },
+    {
+        "localid": "530926",
+        "county": "Erie",
+        "municipality": "Cheektowaga",
+        "on": "GENESEE ST",
+        "from": "BUFFALO CITY LN",
+        "to": "RT 240 HARLEM RD",
+        "direction": "2-WAY",
+        "aadt_year": "1985",
+        "aadt": "12600",
+        "location_1": {
+            "latitude": "42.9201978003155",
+            "longitude": "-78.7922286987305"
+        }
+    }
+]

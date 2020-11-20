@@ -1,0 +1,73 @@
+Description
+
+A list of properties that have registered their rental units with the City of Seattle under the Rental Registration and Inspection Ordinance.
+
+Columns
+
+RegistrationNum	
+The tracking number used to refer to this registration in SDCI's tracking system.
+Plain Text
+	
+RegisteredTypeMapped	
+The type of registration that we have issued or that is in progress.
+Plain Text
+	
+RegisteredTypeDesc	
+Additional information about the property.
+Plain Text
+	
+RentalHousingUnits	
+The number of rental units that are registered at the property.
+Number
+	
+PropertyName	
+The name of the registered property.
+Plain Text
+	
+RegisteredDate	
+The date the property registered it's rental units.
+Plain Text
+	
+ExpiresDate	
+The date the rental property registration expires.
+Plain Text
+	
+StatusCurrent	
+The status of the property registration.
+Plain Text
+	
+OriginalAddress1	
+The street name and number of the property.
+Plain Text
+	
+OriginalCity	
+The city for the property's address.
+Plain Text
+	
+OriginalState	
+The state for the property's address.
+Plain Text
+	
+OriginalZip	
+The Zip code for the property's address.
+Plain Text
+	
+PropertyContactName	
+The contact name for the property management.
+Plain Text
+	
+Link	
+A link to view full details and current status information about this permit at SDCI's website.
+Website URL
+	
+Latitude	
+The latitude of the rental property's address.
+Number
+	
+Longitude	
+The longitude of the rental property's address.
+Number
+	
+Location1	
+Mapping coordinates for the property address.
+Location

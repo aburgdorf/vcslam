@@ -1,0 +1,38 @@
+Description
+
+Representation of the trees maintained by the City of Kingston with information about installation date, tree type, ownership, and size. This information has been tracked since 2015. Some trees in this dataset may be privately owned or ownership unknown. For more information please contact the City's Forestry division through the public website.
+
+
+
+Columns
+
+Owner
+The ownership category of the tree.
+
+Common Name
+The common name of the tree.
+
+Scientific Name
+The scientific name of the tree species.
+
+Park
+The name of the park which the tree is in (if available).
+
+Number of Stems
+The number of stems or trunks of the tree.
+
+Trunk Diameter (cm)
+Diameter of the tree's trunk in centimeters.
+
+Date Installed
+Date that the tree was installed (if available).
+
+Memorial Tree
+Indicates that the tree is a memorial tree (if available).
+
+GeoJSON
+Geographic description encoded in GeoJSON format.
+
+Lat/Long
+Latitude & longitude coordinates in decimal degrees.
+

@@ -1,0 +1,50 @@
+[
+    {
+        "street_name": "TIMBERLINE DR",
+        "street_name_2": "WEBB CHAPEL EXT",
+        "accident_cnt": "53",
+        "injury_cnt": "59",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.86794255,
+                32.85917424
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "SKILLMAN ST",
+        "accident_cnt": "256",
+        "injury_cnt": "153",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.71760644,
+                32.90044651
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "GREENVILLE AVE",
+        "accident_cnt": "130",
+        "injury_cnt": "109",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.74336064,
+                32.91679203
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    }
+]

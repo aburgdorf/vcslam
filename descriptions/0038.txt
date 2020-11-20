@@ -1,0 +1,50 @@
+Description
+
+The Inventory of Historic Resources in Edmonton is an inventory of structures/resources in Edmonton that merit conservation and may be eligible for designation as Municipal Historic Resources. Resources are placed on the Inventory because they have architecture or social significance to the development of Edmonton or its neighbourhoods.
+
+Sustainable Development, in conjunction with the Edmonton Historical Board, has a mechanism to review nominations/amendments to add or delete properties to or from the Inventory. The Inventory also identifies buildings at Fort Edmonton, some landscapes and trees, cemeteries and monuments, street furnishings, and architectural fragments in the Appendix. The existing zoning, development rights and regulations continue to apply to properties on the Inventory.
+
+The Register of Historic Resources in Edmonton is the official list of all resources on the Inventory that have been designated as a Municipal Historic Resource. Municipal Historic Resources are legally protected by a Bylaw instrument from demolition and inappropriate alterations. Any building or structure on the Register is eligible for assistance under Policy C-450B.
+
+
+Columns
+
+Building Address	
+The municipal address of the Historic Resource.
+Plain Text
+	
+Construction Completion Year	
+The year when construction was completed for the Historic Resource.
+Plain Text
+	
+Name of Historic Resource	
+The registered name of the Historic Resource.
+Plain Text
+	
+Neighbourhood	
+The name of the neighbourhood of where the Historic Resource is located.
+Plain Text
+	
+Warning Type 1	
+The type of municipal designation the historic resource has. It can be on the Inventory of Historic Resources in Edmonton or a registered Municipal Historic Resources.
+Plain Text
+	
+Warning Type 2	
+The type of provincial designation the historic resource has. It can be a Provincial Historic Resource or a Provincial Registered Historic Resource.
+Plain Text
+	
+Latitude	
+The latitude value for the geo coordinate of the Historic Resource.
+Number
+	
+Longitude	
+The longitude value for the geo coordinate of the Historic Resource.
+Number
+	
+Location	
+The combination of the latitude/longitude value for the Historic Resource used for mapping purposes.
+Location
+	
+Statement of Significance	
+A link to a write up for the particular Historic Resource known as the Statement of Significance.
+Plain Text

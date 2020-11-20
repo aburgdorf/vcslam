@@ -1,0 +1,23 @@
+Description
+
+GiGL open space data sub-set (beta version) provides locations of selected open space sites in Greater London. It provides information about the sites including name, site reference and type. It is a mapped Geographic Information System (GIS) polygon dataset where one polygon represents one space. Subsequent versions will provide updates on a quarterly basis.
+
+This dataset has been created by Greenspace Information for Greater London CIC (GiGL). GiGL mobilises, curates and shares data that underpin our knowledge of London’s natural environment. We provide impartial evidence to enable informed discussion and decision-making in policy and practice. For any updates to the content of this dataset, please contact GiGL’s Database Officer.
+
+GiGL maps under license from the Greater London Authority. 
+
+
+Columns
+
+Field name 	Description			Example
+SiteName	Name of the site		Battersea 
+ParkSite	IDA uniqueidentifying code	OS_Wa_0025
+PrimaryUse	Primary land use type. 		Park
+Borough		London borough(s) containing the site.			Wandsworth
+AreaHa		Areaof site given in hectares. Measured from GIS.		80.7
+Easting		X coordinate of site centroid	528,067
+Northing	Y coordinate of site centroid	177,193
+Qualifier	Qualifier for Easting and Northing location		Centroid
+DataSource	The data source. Please see alist of sources in the table below.Data source: various
+DataVersion	The version of the dataset	1
+ReleaseDate	Date when the dataset was last updated and released 		March 2020

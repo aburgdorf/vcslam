@@ -1,0 +1,311 @@
+[
+    {
+        "name": "Washington Adventist Hospital",
+        "address": "7600 Carroll Ave",
+        "city": "Takoma Park",
+        "zip_code": "20912",
+        "phone": "301-891-7600",
+        "url": "http://www.adventisthealthcare.com/WAH",
+        "in_county": "In-County",
+        "longitude": "-77.0016854172",
+        "latitude": "38.9852319245",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0016854172,
+                38.9852319245
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "5",
+        ":@computed_region_kbsp_ykn9": "4",
+        ":@computed_region_rbt8_3x7n": "11",
+        ":@computed_region_d7bw_bq6x": "3062"
+    },
+    {
+        "name": "Suburban Hospital Healthcare System",
+        "address": "8600 Old Georgetown Rd",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "phone": "301-896-3100",
+        "url": "http://www.suburbanhospital.org/",
+        "in_county": "In-County",
+        "longitude": "-77.1103465218",
+        "latitude": "38.9971968158",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1103465218,
+                38.9971968158
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "103"
+    },
+    {
+        "name": "National Institue of Health (NIH)",
+        "address": "9000 Rockville Pik",
+        "city": "Bethesda",
+        "zip_code": "20892",
+        "phone": "301-496-4000",
+        "url": "http://www.nih.gov/",
+        "in_county": "In-County",
+        "longitude": "-77.1018313185",
+        "latitude": "38.997365505",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1018313185,
+                38.997365505
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "111"
+    },
+    {
+        "name": "Walter Reed National Military Medical Center",
+        "address": "8901 Rockville Pik",
+        "city": "Bethesda",
+        "zip_code": "20889",
+        "phone": "301-295-4611",
+        "url": "http://www.bethesda.med.navy.mil",
+        "in_county": "In-County",
+        "longitude": "-77.0936615415",
+        "latitude": "39.0006972896",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0936615415,
+                39.0006972896
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "111"
+    },
+    {
+        "name": "Holy Cross Hospital",
+        "address": "1500 Forest Glen Rd",
+        "city": "Silver Spring",
+        "zip_code": "20910",
+        "phone": "301-754-7000",
+        "url": "http://www.holycrosshealth.org/",
+        "in_county": "In-County",
+        "longitude": "-77.0352190903",
+        "latitude": "39.0147138223",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0352190903,
+                39.0147138223
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "5",
+        ":@computed_region_kbsp_ykn9": "10",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "3065"
+    },
+    {
+        "name": "Laurel Regional Hospital",
+        "address": "7300 Van Dusen Rd",
+        "city": "Laurel",
+        "zip_code": "20707",
+        "phone": "301-725-4300",
+        "url": "http://www.laurelregionalhospital.org/",
+        "in_county": "Out-of-County",
+        "longitude": "-76.8831508402",
+        "latitude": "39.0856656574",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -76.8831508402,
+                39.0856656574
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "1627"
+    },
+    {
+        "name": "Shady Grove Adventist Hospital",
+        "address": "9901 Medical Center Dr",
+        "city": "Rockville",
+        "zip_code": "20850",
+        "phone": "240-826-6000",
+        "url": "http://www.adventisthealthcare.com/SGAH",
+        "in_county": "In-County",
+        "longitude": "-77.1986726805",
+        "latitude": "39.0984661008",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1986726805,
+                39.0984661008
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "3",
+        ":@computed_region_kbsp_ykn9": "25",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "71"
+    },
+    {
+        "name": "Montgomery General Hospital",
+        "address": "18101 Prince Phillip Dr",
+        "city": "Olney",
+        "zip_code": "20832",
+        "phone": "301-774-8882",
+        "url": "http://www.montgomerygeneral.com/",
+        "in_county": "In-County",
+        "longitude": "-77.0546672094",
+        "latitude": "39.1540095531",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0546672094,
+                39.1540095531
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "4",
+        ":@computed_region_kbsp_ykn9": "58",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "100"
+    },
+    {
+        "name": "Germantown Emergency Center",
+        "address": "19731 Germantown Rd",
+        "city": "Germantown",
+        "zip_code": "20874",
+        "phone": "301-444-8000",
+        "url": "http://www.adventisthealthcare.com/SGAH/Germantown/index.aspx",
+        "in_county": "In-County",
+        "longitude": "-77.2639910177",
+        "latitude": "39.1798133104",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.2639910177,
+                39.1798133104
+            ]
+        },
+        ":@computed_region_tx5f_5em3": "2",
+        ":@computed_region_kbsp_ykn9": "39",
+        ":@computed_region_rbt8_3x7n": "1",
+        ":@computed_region_d7bw_bq6x": "39"
+    },
+    {
+        "name": "Frederick Memorial Hospital",
+        "address": "400 W Seventh St",
+        "city": "Frederick",
+        "zip_code": "21701",
+        "phone": "240-566-3300",
+        "url": "http://www.fmh.org",
+        "in_county": "Out-of-County",
+        "longitude": "-77.4121467963",
+        "latitude": "39.4215847649",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.4121467963,
+                39.4215847649
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "1954"
+    },
+    {
+        "name": "Howard County General Hospital",
+        "address": "5755 Cedar Ln",
+        "city": "Columbia",
+        "zip_code": "21044",
+        "phone": "410-740-7890",
+        "url": "http://www.hcgh.org/",
+        "in_county": "Out-of-County",
+        "longitude": "-76.8844584456",
+        "latitude": "39.2146542174",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -76.8844584456,
+                39.2146542174
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "1067"
+    },
+    {
+        "name": "Sibley Memorial Hospital",
+        "address": "5255 Loughboro Rd NW",
+        "city": "Washington",
+        "zip_code": "20016",
+        "phone": "202-537-4000",
+        "url": "http://www.sibley.org/",
+        "in_county": "Out-of-County",
+        "longitude": "-77.1084577309",
+        "latitude": "38.9390094916",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.1084577309,
+                38.9390094916
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "930"
+    },
+    {
+        "name": "Washington Hospital Center",
+        "address": "110 Irving St NW",
+        "city": "Washington",
+        "zip_code": "20010",
+        "phone": "202-877-7000",
+        "url": "http://www.whcenter.org/",
+        "in_county": "Out-of-County",
+        "longitude": "-77.0155513114",
+        "latitude": "38.929372848",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0155513114,
+                38.929372848
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "982"
+    },
+    {
+        "name": "Inova Fairfax Hospital",
+        "address": "3300 Gallows Rd",
+        "city": "Falls Church",
+        "zip_code": "22042",
+        "phone": "703-776-4001",
+        "url": "http://www.inova.org/patient-and-visitor-information/facilities/inova-fairfax-hospital/index.jsp",
+        "in_county": "Out-of-County",
+        "longitude": "-77.2272260279",
+        "latitude": "38.8576357758",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.2272260279,
+                38.8576357758
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "1480"
+    },
+    {
+        "name": "Childrens National Medical Center",
+        "address": "111 Michigan Ave NW",
+        "city": "Washington",
+        "zip_code": "20010",
+        "phone": "202-476-5000",
+        "url": "http://www.childrensnational.org/",
+        "in_county": "Out-of-County",
+        "longitude": "-77.0148491445",
+        "latitude": "38.9272899531",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -77.0148491445,
+                38.9272899531
+            ]
+        },
+        ":@computed_region_d7bw_bq6x": "982"
+    }
+]

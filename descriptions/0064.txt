@@ -1,0 +1,91 @@
+Description
+
+This data set provides locations and attributes of cultural spaces in the City of Vancouver, University Endowment Lands and Musqueam Community.
+
+The majority of cultural spaces are privately-owned.
+
+Office spaces are excluded for privacy reasons.
+
+This data set is maintained manually.
+Note
+
+This dataset is published as part of the City of Vancouver Cultural Spaces Map Pilot Project. The data is verified and updated through a survey of stakeholders in the cultural community annually in June. In order for a space to be included, information associated with the space such as a website and contact information must be publically available.
+
+Data currency
+
+The extract on this website will be updated annually or as necessary.
+
+Data accuracy
+
+Data is drawn primarily from public sources such as websites and brochures. Data for City of Vancouver spaces was compiled from various departments.
+
+City staff selected the attributes for Primary Use and Ownership for each space.
+
+For Square Feet and Number of Seats, data reported may have been calculated differently prior to publication.
+
+There is no known error but there may be some loss of quality from data entry errors.
+
+
+Columns
+
+YEAR
+Year
+
+CULTURAL_SPACE_NAME
+Name of cultural space or facility that it is formally or commonly known by
+
+WEBSITE
+Web page address; usually for the operator of the facility or space
+
+TYPE
+Seven groupings of Primary_Use categories for the purpose of display on the map legend.
+	MUSEUM/GALLERY: Museum/Gallery, Garden/Aquarium/Science Centre, Library/Archives
+	STUDIO/REHEARSAL: Artist Studio, Workshop, Rehearsal Studio, Film/Recording Studio, Artist Studio
+	COMMUNITY SPACE: Community Centre/Hall, Arena/Stadium, Plaza/Park/Band Shell, Place of Worship
+	THEATRE/PERFORMANCE: Theatre, Cinema, Performance Space
+	EDUCATIONAL: Educational Institution
+	CAFE/RESTAURANT/BAR: Bar/Lounge/Cabaret, Cafe/Restaurant
+	OTHER: Category type of cultural spaces which falls outside defined Types
+
+PRIMARY_USE
+Description of type of use of the cultural space or facility; where there is more than one use, the most significant cultural use is indicated
+	ARENA/STADIUM: Facility or space used for cultural programs	ARTIST HOUSING: Facility primarily providing artist housing with no studio or production facilities
+	ARTIST STUDIO: Facility with four or more individual studios; may have multiple artists; does not have employees
+	ARTIST STUDIO WITH RESIDENCE: Facility with one or more individual studios; may have multiple artists; incorporates living area for the artist(s).
+	BAR/LOUNGE/CABARET:  Facility or space with well-defined curated cultural program
+	CAFE/RESTAURANT: Facility or space with well-defined curated cultural program
+	CINEMA: Screen-based facility or space
+	COMMUNITY CENTRE/HALL: Community Centre, Community Hall or Neighbourhood House used for cultural programs
+	EDUCATIONAL INSTITUTION: Facility or space focused on arts and cultural education
+	FILM/RECORDING STUDIO: Film, video or sound production facility or space
+	GARDEN/AQUARIUM/SCIENCE CENTRE: Includes planetariums; considered museums according to provincial, national and international definitions
+	LIBRARY/ARCHIVES: Facility or space used for cultural programs
+	MUSEUM/GALLERY: Exhibition-based facility or space; includes collecting and non-collecting institutions
+	PERFORMANCE SPACE: Performance facility or space other than theatres
+	PLACE OF WORSHIP: Facility or space used for cultural programs
+	PLAZA/PARK/BAND SHELL: Facility or space used for cultural programs
+	REHEARSAL STUDIO: Primarily used for performing arts (dance, music, theatre, etc.)
+	RETAIL:  Retail space dedicated to cultural products or used for cultural programs
+	THEATRE: Purpose-built theatre facility or space; with seats (permanent or temporary); including proscenium or black box
+	WORKSHOP: Facility or space used for large-scale production; may have employees
+
+ADDRESS
+Full street address of the facility or space; usually includes postal code
+
+LOCAL_AREA
+Local area where the facility or space is located; Note: includes City's defined local areas which are within the City's legal jurisdiction, as well as UBC and Stanley Park
+
+OWNERSHIP
+Indicates the type of ownership of the space (City of Vancouver, Government, Non-profit, Other, Privately-owned, Vancouver Park Board)
+
+QUARE_FEET
+Total square footage (measured in feet) of the cultural facility or space
+
+NUMBER_OF_SEATS
+Maximum capacity seated; primarily for arena/stadium, cinema, performance space and theatre
+
+ACTIVE_SPACE
+“Yes” if the facility or space currently has a cultural use; “No” – if it no longer has a cultural use
+
+Geom
+Spatial representation

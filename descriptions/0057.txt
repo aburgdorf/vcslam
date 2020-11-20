@@ -1,0 +1,83 @@
+Description
+
+This dataset contains locations and attributes of community gardens and food trees in the City of Vancouver. While these community food assets are located within city boundaries, and some on City and Park Board lands, the vast majority are not administered by the City.
+
+This dataset is maintained manually and data is provided by the City and specified managing organizations.
+
+Note
+
+    Blank cell indicates specified information is not available
+    "Y" indicates unknown quantity
+    The site name titled "0 - Private Developments - Community Shared (pre-2010)" is not an actual community garden or food tree site, and its "NumberOfPlots" figure refers to the number of communal gardening plots on private properties or multi-family housing sites, derived through a city-wide survey conducted by City staff prior to 2010. 
+
+Data currency
+
+The extract on this website will be updated every six months or as needed
+
+Data accuracy
+
+    There is no known error but there may be some loss of quality from data entry errors
+    Number of garden plots and food trees may not be accurate
+    Update may not be available until the next data refresh cycle
+    A small number of communal gardening plots on private property may already be accounted for in the city-wide survey prior to 2010 (See "0 - Private Developments -​ Community Shared (pre-2010)"
+    Coordinates were determined using the BC Physical Address Geocoder
+
+Columns
+
+MAPID
+Unique identifier for each community garden
+
+YEAR_CREATED
+The year of which the community garden was created or the year when the first food tree was planted.
+
+NAME
+Name of the community garden and/or site where food trees are associated with.
+
+STREET_NUMBER
+Number assigned to the street where the community garden and/or food tree site is located
+		
+STREET_DIRECTION
+Cardinal direction of the street where the community garden, and/or food tree site is located
+
+STREET_TYPE
+Type of the street where the community garden, and/or food tree site is located
+
+MERGED_ADDRESS
+Combined site address assembled from StreetNumber, StreetDirection, StreetName, and StreetType fields
+
+NUMBER_OF_PLOTS
+Number of individual allotments on site used to grow food Note: There is no specific standard with regards to size or intensity of use for individual plots
+
+NUMBER_OF_FOOD_TREES
+Number of fruit and nut bearing trees on site.
+
+NOTES
+Additional information on the community garden and/or food tree.
+
+FOOD_TREE_VARIETIES
+Fruit, nut, and berry varieties that are planted on the site.
+
+OTHER_FOOD_ASSETS
+Apiaries, mason bee houses, number of collaborative garden plots, pollinator gardens, and other food assets not as commonly found in gardens Note: This is not activated yet but will be in the near future.
+
+JURISDICTION
+Owner or agency responsible for land parcel(s), distinguished between City of Vancouver departments (City), Park Board (Parks), Transit authority (TransLink), Private owner (Private), and Other.
+
+STEWARD_OR_MANAGING_ORGANIZATION
+The name of group or organization that helps steward food-growing operations on site
+
+PUBLIC_E_MAIL
+Contact e-mail address of the site
+
+WEBSITE
+Web page address of the site or the managing organization
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+
+Geom
+Spatial representation of feature
+
+
+
+

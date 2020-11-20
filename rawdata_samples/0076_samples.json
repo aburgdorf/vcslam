@@ -1,0 +1,45 @@
+[
+    {
+        "property_name": "Blackwell, William House",
+        "date_designated": "1975-04-01T00:00:00.000",
+        "resolution_number": "23292",
+        "architect": "Smith, Andrew H",
+        "location_1": {
+            "latitude": "47.260711",
+            "longitude": "-122.443151",
+            "human_address": "{\"address\": \"401 Broadway\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12600",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "property_name": "Slavonian Hall",
+        "date_designated": "1992-06-09T00:00:00.000",
+        "resolution_number": "31784",
+        "built": "1901-02-01T00:00:00.000",
+        "location_1": {
+            "latitude": "47.274741",
+            "longitude": "-122.467388",
+            "human_address": "{\"address\": \"2306 North 30th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12601",
+        ":@computed_region_vdmk_m8s5": "10",
+        ":@computed_region_rrmn_rvi4": "3"
+    },
+    {
+        "property_name": "Swedish Mission Tabernacle",
+        "date_designated": "2012-04-10T00:00:00.000",
+        "resolution_number": "38469",
+        "built": "1909-01-01T00:00:00.000",
+        "architect": "Heath & Twitchell",
+        "location_1": {
+            "latitude": "47.253307",
+            "longitude": "-122.449252",
+            "human_address": "{\"address\": \"910 South 10th Street\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "3",
+        ":@computed_region_rrmn_rvi4": "9"
+    }
+]

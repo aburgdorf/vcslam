@@ -1,0 +1,62 @@
+[
+    {
+        "datasetid": "food-vendors",
+        "recordid": "e1c4dceb7fc7a2871cb8be38f33e5d1c71341229",
+        "fields": {
+            "status": "open",
+            "description": "Hot Dogs",
+            "geo_localarea": "Downtown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114069374134,
+                    49.277427325294
+                ]
+            },
+            "location": "East Side of 800 Beatty St - 6 Metres South of Robson St",
+            "key": "DT48",
+            "vendor_type": "vendor_food"
+        },
+        "record_timestamp": "2019-06-03T13:01:35.843+02:00"
+    },
+    {
+        "datasetid": "food-vendors",
+        "recordid": "3178d2805a2c2ac958170361f0517a7bada3e983",
+        "fields": {
+            "status": "open",
+            "description": "Hot Dogs",
+            "geo_localarea": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.142926123068,
+                    49.28449251733
+                ]
+            },
+            "location": "South Side of 1700 Beach Ave - East Side of Bidwell St",
+            "key": "EB04",
+            "vendor_type": "vendor_food"
+        },
+        "record_timestamp": "2019-06-03T13:01:35.843+02:00"
+    },
+    {
+        "datasetid": "food-vendors",
+        "recordid": "258b731cf6b85b4bc2a437e2362ac920e835b88f",
+        "fields": {
+            "status": "open",
+            "description": "Hot Dogs",
+            "geo_localarea": "Downtown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122779848109,
+                    49.2747502295582
+                ]
+            },
+            "location": "South Side of 300 Davie St - 6 Metres East of Hamilton St",
+            "key": "DT21",
+            "vendor_type": "vendor_food"
+        },
+        "record_timestamp": "2019-06-03T13:01:35.843+02:00"
+    }
+]

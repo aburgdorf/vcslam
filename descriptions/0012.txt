@@ -1,0 +1,31 @@
+Description
+
+This dataset displays the name, breed, and approximate location of dogs in Cambridge. It is based on dog license data collected by Cambridge's Animal Commission. All locations listed in this dataset have been obscured to protect privacy. Please see the limitations section below for more information.
+
+
+Columns
+
+Dog_Name	
+The name given to the dog by its owner.
+Plain Text
+	
+Dog_Breed	
+The breed of the dog.
+Plain Text
+	
+Location_masked	
+The approximate location of the dog's home. Precise locations in this dataset have been obscured or masked to protect privacy of pets and their owners.
+Location
+	
+Latitude_masked	
+The approximate latitude of the dog's home. Precise locations in this dataset have been obscured or masked to protect privacy of pets and their owners.
+Number
+	
+Longitude_masked	
+The approximate longitude of the dog's home. Precise locations in this dataset have been obscured or masked to protect privacy of pets and their owners.
+Number
+	
+Neighborhood	
+The Cambridge neighborhood that each dog lives in.
+Plain Text
+	

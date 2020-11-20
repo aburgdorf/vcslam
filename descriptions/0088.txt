@@ -1,0 +1,106 @@
+Description
+
+
+Data collected to assess water quality conditions in the natural creeks, aquifers and lakes in the Austin area. This is raw data, provided directly from our Field Sample database (FSDB) and should be considered provisional. Data may or may not have been reviewed by project staff.
+
+
+More information about Austin B-Cycle is available here:
+http://austinbcycle.com/
+
+
+Columns
+
+WATERSHED	
+The watershed where this data was collected (some data represents laboratory samples from products or other non-spatial data).
+Plain Text
+	
+SAMPLE_DATE	
+The date and time at which the sample was collected. Time is in 24 hour notation where 15:00:00 represents 3pm. Check against TIME_NULL column -- if that is set to true, then time is set to default.
+Date & Time
+	
+SITE_NAME	
+The name we use to identify the site. Most often this name is adequately descriptive to give you a good idea of where it is located if you have a detailed City of Austin map. Sometimes this descriptor is non-geographic.
+Plain Text
+	
+SITE_TYPE	
+Useful for grouping sites by springs creeks sediment and bmp locations. This also implies the type of data that we primarily collect at this site.
+Plain Text
+	
+MEDIUM	
+The type of material (groundwater, surface water, sediment) analyzed.
+Plain Text
+	
+PARAM_TYPE	
+A classification or grouping value for different parameters.
+Plain Text
+	
+PARAMETER	
+The "thing" that we analyzed the sample for or measured in the field (aka, the analyte).
+Plain Text
+	
+QUALIFIER	
+When the qualifier code = '<' or '<J' it means that the value in the result column represents the lowest possible limit of detection for that date and lab; if there was any of the analyte in the sample, it was present at less than the result value.
+Plain Text
+	
+RESULT	
+This is the "RESULT."
+Number
+	
+UNIT	
+Commonly used unit descriptions: mg/kg -- milligrams/kilogram aka Parts Per Million in sediment mg/l -- milligrams/liter aka PPM in water ug/kg; ug/l -- micrograms per unit volume aka Parts Per Billion in sediment and water
+Plain Text
+	
+FILTER	
+Filter Fraction: most often used to distinguish between dissolved and total analyte or juvenile/adult macroinvertebrates.
+Plain Text
+	
+SAMPLE_ID	
+Most commonly used to differentiate between different transects or survey areas at the same Sample location.
+Plain Text
+	
+SAMPLE_SITE_NO	
+System-assigned primary key for all Sample locations represented in this dataset.
+Number
+	
+DEPTH_IN_METERS	
+The depth at which the sample was collected in meters. This is a useful field for Lake data (specifically our Lady Bird Lake data collection) and is null for other samples.
+Number
+	
+METHOD	
+The "standard" method designation. Some labs use their own custom methods however we most often insist on EPA or EPA-approved methods. Unknown means we haven't gotten a description of the method from the lab.
+Plain Text
+	
+QC_FLAG	
+Flag assigned by an automated comparison process using guidelines set by COA staff. Flag Description U Results are completely usable. R Results are completely unusable. J Results are qualified as estimated. G No guidelines exist for this data.
+Plain Text
+	
+PROJECT	
+This is the Quality Assurance Project Plan Name under which the data was collected.
+Plain Text
+	
+Location
+Location
+	
+DATA_REF_NO	
+This is a database reference number that can help us answer any questions you might have about a specific sample; primary key for this dataset (guaranteed unique but not necessarily contiguous).
+Number
+	
+LAT_DD_WGS84	
+Y coordinate in WGS_1984 decimal degrees (Commonly referred to as Latitude)
+Number
+	
+LON_DD_WGS84	
+X coordinate in WGS_1984 decimal degrees (Commonly referred to as Longitude)
+Number
+	
+SAMPLE_REF_NO	
+System-assigned unique key [Field_Sample_No] from FSDB that represents unique ID on samples.
+Number
+	
+TIME_NULL	
+When true, indicates that the Time in the Date/Time field is not precise; there was no ample_time recorded in the original data.
+Plain Text
+	
+QC_TYPE	
+For samples that were collected as part of a QA/QC plan ... Splits, Reps, Blanks, Etc.
+Plain Text

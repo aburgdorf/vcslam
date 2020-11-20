@@ -1,0 +1,135 @@
+Description
+
+This dataset provides information similar to what is sent to the Ontario Fire Marshal relating to only fire Incidents to which Toronto Fire responds in more detail than the dataset including all incident types. The Dataset includes only Fire incidents as defined by the Ontario Fire Marshal. For privacy purposes personal information is not provided and exact address have been aggregated to the nearest major or minor intersection. Some incidents have been excluded pursuant to exemptions under Section 8 of Municipal Freedom of Information and Protection of Privacy Act (MFIPPA).
+
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+Area_of_Origin
+OFM Area of Origin code and description
+
+Building_Status
+OFM Building status code and description
+
+Business_Impact
+OFM Business Impact code and description
+
+Civilian_Casualties
+Civilian casualties observed at scene
+
+Count_of_Persons_Rescued
+Number of persons rescued
+
+Estimated_Dollar_Loss
+Estimated Dollar Loss
+
+Estimated_Number_Of_Persons_Displaced
+Estimated Number Of Persons Displaced
+
+Exposures
+Number of exposure fires associated with this fire
+
+Ext_agent_app_or_defer_time
+Timestamp of agent first applied or decision to defer
+
+Extent_Of_Fire
+OFM Extent Of Fire code and description
+
+Final_Incident_Type
+Final incident type
+
+Fire_Alarm_System_Impact_on_Evacuation
+OFM Fire Alarm System Impact on Evacuation code and description
+
+Fire_Alarm_System_Operation
+OFM Fire Alarm System Operation code and description
+
+Fire_Alarm_System_Presence
+OFM Fire Alarm System Presence code and description
+
+Fire_Under_Control_Time
+Timestamp of fire under control
+
+Ignition_Source
+OFM Ignition Source code and description
+
+Incident_Number
+TFS incident number
+
+Incident_Station_Area
+TFS Station area where the incident occurred
+
+Incident_Ward
+Ward where the incident occurred, when available
+
+Initial_CAD_Event_Type
+First event type in CAD system of this incident
+
+Intersection
+Nearest major or minor intersection in the ward of the incident
+
+Last_TFS_Unit_Clear_Time
+Timestamp of last unit cleared from incident
+
+Latitude
+Latitude of nearest major or minor intersection in the ward of the incident
+
+Level_Of_Origin
+OFM Level Of Origin code and description
+
+Longitude 
+Longitude of nearest major or minor intersection in the ward of the incident
+
+Material_First_Ignited 
+OFM Material First Ignited code and description
+
+Method_Of_Fire_Control
+OFM Method Of Fire Control code and description
+
+Number_of_responding_apparatus
+Number of TFS responding apparatus
+
+Number_of_responding_personnel	
+Number of TFS responding personnel
+
+Possible_Cause
+OFM Possible Cause code and description
+
+Property_Use
+OFM Property use code and description
+
+Smoke_Alarm_at_Fire_Origin
+OFM Smoke Alarm at Fire Origin code and description
+
+Smoke_Alarm_at_Fire_Origin_Alarm_Failurw OFM 
+Smoke Alarm at Fire Origin Alarm Failure code and description
+
+Smoke_Alarm_at_Fire_Origin_Alarm_Type
+OFM Smoke Alarm at Fire Origin Alarm Type code and description
+
+Smoke_Alarm_Impact_on_Persons_Evacuating_Impact_on_Evacuation
+OFM Smoke Alarm Impact on Persons Evacuating Impact on Evacuation code and description
+
+Smoke_Spread
+OFM Smoke Spread code and description
+
+Sprinkler_System_Operation
+OFM Sprinkler System Operation code and description
+
+Sprinkler_System_Presence
+OFM Sprinkler System Presence code and description
+
+Status_of_Fire_On_Arrival
+OFM Status of Fire On Arrival code and description
+
+TFS_Alarm_Time
+Timestamp of when TFS was notified of the incident
+
+TFS_Arrival_Time
+Timestamp of first arriving unit to incident
+
+TFS_Firefighter_Casualties
+TFS Firefighter Casualties

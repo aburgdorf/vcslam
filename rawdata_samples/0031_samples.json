@@ -1,0 +1,47 @@
+[
+    {
+        "row_id": "05DA009-20201110052500",
+        "station_number": "05DA009",
+        "station_description": "North Saskatchewan River at Whirlpool Point",
+        "latitude": "52.00119",
+        "longitude": "-116.47093",
+        "station_location": {
+            "latitude": "52.00119",
+            "longitude": "-116.47093",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "date_and_time": "2020-11-10T05:25:00.000",
+        "water_level_m": "0.618",
+        "water_flow_cu_meter_per_sec": "-1"
+    },
+    {
+        "row_id": "05DA009-20201110052000",
+        "station_number": "05DA009",
+        "station_description": "North Saskatchewan River at Whirlpool Point",
+        "latitude": "52.00119",
+        "longitude": "-116.47093",
+        "station_location": {
+            "latitude": "52.00119",
+            "longitude": "-116.47093",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "date_and_time": "2020-11-10T05:20:00.000",
+        "water_level_m": "0.617",
+        "water_flow_cu_meter_per_sec": "-1"
+    },
+    {
+        "row_id": "05DA009-20201110051500",
+        "station_number": "05DA009",
+        "station_description": "North Saskatchewan River at Whirlpool Point",
+        "latitude": "52.00119",
+        "longitude": "-116.47093",
+        "station_location": {
+            "latitude": "52.00119",
+            "longitude": "-116.47093",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        },
+        "date_and_time": "2020-11-10T05:15:00.000",
+        "water_level_m": "0.616",
+        "water_flow_cu_meter_per_sec": "-1"
+    }
+]

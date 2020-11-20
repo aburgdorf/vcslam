@@ -1,0 +1,68 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -76.48488742724645,
+                "latitude": 44.258723479172
+            }
+        },
+        "properties": {
+            "scientific_name": "Gleditsia triacanthos",
+            "number_of_stems": 1,
+            "geo_point_2d": [
+                44.2587234792,
+                -76.4848874272
+            ],
+            "owner": "Municipal",
+            "trunk_diameter": 5,
+            "common_name": "Honey-Locust",
+            "date_installed": "2018-10-24"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -76.44581759599998,
+                "latitude": 44.263484480000045
+            }
+        },
+        "properties": {
+            "scientific_name": "Gleditsia triacanthos",
+            "number_of_stems": 1,
+            "geo_point_2d": [
+                44.26348448,
+                -76.445817596
+            ],
+            "owner": "Municipal",
+            "trunk_diameter": 7,
+            "common_name": "Honey-Locust"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -76.55745204915634,
+                "latitude": 44.266701305808475
+            }
+        },
+        "properties": {
+            "scientific_name": "Quercus rubra",
+            "number_of_stems": 1,
+            "park": "Halifax Dr Park",
+            "geo_point_2d": [
+                44.2667013058,
+                -76.5574520492
+            ],
+            "owner": "Municipal",
+            "trunk_diameter": 5,
+            "common_name": "Northern Red Oak",
+            "date_installed": "2016-12-31"
+        }
+    }
+]

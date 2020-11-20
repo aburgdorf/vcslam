@@ -1,0 +1,39 @@
+Description
+
+List of available WeGo Transit bus stops with details.
+
+
+
+Columns
+
+Stop ID	
+Stop number in the WeGo Transit system
+Plain Text
+	
+Stop Abbreviation	
+Short name of bus stop
+Plain Text
+	
+Stop Name	
+Name of bus stop
+Plain Text
+	
+Shelter?	
+Indicates whether the stop has a shelter
+Checkbox
+	
+Bench?	
+Indicates whether the stop has a bench
+Checkbox
+	
+Route Numbers	
+WeGo route numbers that the stop serves
+Plain Text
+	
+Route Name	
+WeGo route name
+Plain Text
+	
+Mapped Location	
+Combined latitude and longitude of the stop for mapping purposes
+Location

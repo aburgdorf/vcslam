@@ -1,0 +1,35 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -79.29955853956648,
+                "latitude": 43.71639367875451
+            }
+        },
+        "properties": {
+            "_id": "6",
+            "OBJECTID": "6",
+            "BLD_ID": "4332",
+            "DEV_ID": "1",
+            "DEV_NAME": "O'Connor Drive",
+            "NGHBRHD_NUM": "43",
+            "POLICE_DIV": "54",
+            "PSTL_CODE": "M4A 1A4",
+            "TTL_RES_UNIT": "2",
+            "MRKT_UNIT": "0",
+            "RGI_UNITS": "2",
+            "YR_BUILT": "1966",
+            "BLD_FORM": "House Semi-Detached Duplex",
+            "FLR_ABV_GR": "2",
+            "BLD_DESC": "2 - Storey Semi-Detached House - Duplex"
+        },
+        "crs": {
+            "type": "name",
+            "properties": {
+                "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+            }
+        }
+    }
+]

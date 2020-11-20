@@ -1,0 +1,45 @@
+[
+    {
+        "account_number": "1068451",
+        "assessment_year": "2017",
+        "house_number": "4007",
+        "street_name": "SAVARYN DRIVE SW",
+        "legal_description": "SW  22-51-24-4",
+        "neighbourhood_name": "SUMMERSIDE",
+        "garage": "N",
+        "zoning": "RF4",
+        "lot_size": "20599.437",
+        "assessed_value": "1431500",
+        "mill_class_1": "RESIDENTIAL",
+        "tax_class_pct_1": "100"
+    },
+    {
+        "account_number": "1077015",
+        "assessment_year": "2016",
+        "house_number": "1934",
+        "street_name": "YELLOWHEAD TRAIL NE",
+        "legal_description": "Plan: 6138HW  Lot: C",
+        "neighbourhood_name": "CLOVER BAR AREA",
+        "year_built": "2014",
+        "garage": "N",
+        "zoning": "IM",
+        "lot_size": "3793.699",
+        "assessed_value": "890000",
+        "mill_class_1": "COMMERCIAL",
+        "tax_class_pct_1": "100"
+    },
+    {
+        "account_number": "1127851",
+        "assessment_year": "2014",
+        "house_number": "3904",
+        "street_name": "MERIDIAN STREET NW",
+        "legal_description": "Plan: 8121577  Lot: 1",
+        "neighbourhood_name": "MAPLE",
+        "garage": "N",
+        "zoning": "A",
+        "lot_size": "135182.866",
+        "assessed_value": "3583500",
+        "mill_class_1": "RESIDENTIAL",
+        "tax_class_pct_1": "100"
+    }
+]

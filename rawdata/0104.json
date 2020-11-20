@@ -1,0 +1,141 @@
+[
+    {
+        "facility": "Northwest Patrol Division",
+        "address": "10001 KANIS RD",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72205",
+        "zip4": "6201",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.386183594157,
+                34.742190338227
+            ]
+        }
+    },
+    {
+        "facility": "River Market Kiosk",
+        "address": "400 PRESIDENT CLINTON AVE",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72201",
+        "zip4": "1622",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.265620418302,
+                34.747603427704
+            ]
+        }
+    },
+    {
+        "facility": "Pankey Substation",
+        "address": "13700 CANTRELL RD",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72223",
+        "zip4": "1506",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.42504170586,
+                34.801875518331
+            ]
+        }
+    },
+    {
+        "facility": "Internal Affairs, Willie Hinton Neighborhood Resource Center",
+        "address": "3805 W 12TH ST",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72204",
+        "zip4": "2042",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.316243314605,
+                34.739996175788
+            ]
+        }
+    },
+    {
+        "facility": "Police Department Headquarters",
+        "address": "700 W MARKHAM ST",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72201",
+        "zip4": "1304",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.277632873757,
+                34.749443860286
+            ]
+        }
+    },
+    {
+        "facility": "Southwest Patrol Division",
+        "address": "6401 BASELINE RD",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72209",
+        "zip4": "4703",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.352370493866,
+                34.667065068668
+            ]
+        }
+    },
+    {
+        "facility": "Training Division",
+        "address": "10901 ARCH ST",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72206",
+        "zip4": "4656",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.305532880174,
+                34.65064753646
+            ]
+        }
+    },
+    {
+        "facility": "Special Operations VAPD",
+        "address": "300 E ROOSEVELT RD",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72206",
+        "zip4": "2304",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.270980046602,
+                34.725325644036
+            ]
+        }
+    },
+    {
+        "facility": "Little Rock Downtown Patrol Service Center",
+        "address": "301 E CAPITOL AVE",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72202",
+        "zip4": "2415",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.268602548954,
+                34.743629561477
+            ]
+        }
+    },
+    {
+        "facility": "12th Street Station, Downtown Patrol Division, Major Crimes Division",
+        "address": "3917 W 12TH ST",
+        "city_state": "LITTLE ROCK, ARKANSAS",
+        "zip": "72204",
+        "the_geom": {
+            "type": "Point",
+            "coordinates": [
+                -92.317512985353,
+                34.74022483347
+            ]
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinate": {
+            "longitude": -79.588289,
+            "latitude": 43.747123
+        }
+    },
+    "properties": {
+        "_id": "3065",
+        "address": "68 Silverstone Drive",
+        "dir": "SB",
+        "flash_speed": "41",
+        "min_speed": "30",
+        "schedule": "Weekdays from 7 AM - 9 PM",
+        "sign_id": "300",
+        "sign_name": "Silverston Dr SB ",
+        "speed_limit": "40",
+        "start_date": "2019-04-03T09:00:00",
+        "strobe_speed": "46",
+        "ward_no": "1.0"
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}]

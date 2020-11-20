@@ -1,0 +1,60 @@
+Description
+
+ The dataset is a list of projects that are part of the initiatives under the Greenest City 2020 Action Plan. There are 4 categories of projects: City projects, City Studio projects, Greenest City Fund projects and Private projects. All projects are also categorized by one of the ten Greenest City goals. For projects to be included they must be a substantial project located in Vancouver, initiated since the formation of the Greenest City Action Team (2010), and contribute to a Greenest City goal.
+
+The dataset is maintained manually and data is provided by City departments and external agencies.
+Note
+
+Dataset includes community gardens; however, not all community gardens are included. Only new gardens that are created since 2010 or existing gardens that have had new plot or tree planted since 2010 are included.
+
+Dataset includes publicly accessible electric vehicle charging stations that are installed by the City and by private owners/businesses. City does not maintain privately installed charging stations and does not respond to issues regarding them. Some charging stations are funded by the City but categorized as private project when there is a private partnership.
+
+Data currency
+
+Data will be updated quarterly
+
+Data accuracy
+
+Data quality issues may exist in any one of the sources or there may be some loss of quality from data entry errors.
+
+Considerable effort has been made to ensure there are no known errors.
+
+
+Columns
+
+MAPID
+Unique identifier for the project
+
+NAME
+Name of project.
+
+CATEGORY1
+Category type which the project relates to the Greenest City 2020 Action Plan. There are four project categories:
+	1. City projects - city lead or implemented
+	2. City Studio projects - projects from the City Studio program (see link in dataset description). 
+	3. Greenest City Funded projects - these are projects funded through the Greenest City Fund run by Vancouver Foundation (see link in dataset description). There are 3 types of funding streams: Generation Green Grants, Greenest City Community Grants and Greenest City Neighbourhood Small Grants managed through the community neighbourhood houses.
+	4. Private projects - these are projects that have led by the community, sometimes the City is a partner in funding them, for example some of the electric vehicle charging stations but a private partner was involved.
+
+CATEGORY2
+One of the ten goals in the Greenest City 2020 Action Plan which the project targets to achieve.
+	
+ADDRESS
+Physical location where the project is located in Vancouver, British Columbia
+
+SHORT_DESCRIPTION
+Additional information about the project
+
+URL
+Related website
+
+URL2
+Related website
+
+URL3
+Related website
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas).

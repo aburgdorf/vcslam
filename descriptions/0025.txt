@@ -1,0 +1,76 @@
+Description
+
+This dataset provides information about what's happening on Edmonton's roads that could impact your drive, including:
+Major road closures and detours, Road construction, Travel delays and special events that impact traffic.
+
+
+
+Columns
+
+Disruption ID	
+Internal Disruption Number
+Number
+	
+Date Issued	
+Date when disruption is reported
+Date & Time
+	
+Start Date	
+Reported start date of traffic disruption.
+Date & Time
+	
+Finish Date	
+Reported finish date of disruption.
+Date & Time
+	
+Status	
+Change in condition for a previous traffic disruption.
+Plain Text
+	
+Closure	
+Primary Location and type of disruption.
+Plain Text
+	
+On Street	
+Primary location
+Plain Text
+	
+From Street	
+Effected start location.
+Plain Text
+	
+To Street	
+Effected end location.
+Plain Text
+	
+Impact	
+Level of traffic disruption.
+Plain Text
+	
+Duration	
+Time-line of disruption
+Plain Text
+	
+Details	
+Specific information on the traffic disruption and any available detour options.
+Plain Text
+	
+Description	
+General outline of work occurring at this location.
+Plain Text
+	
+Activity Type	
+Category of disruption.
+Plain Text
+	
+Traffic District	
+General location of disruption.
+Plain Text
+	
+Infrastructure	
+Infrastructure affected by Activity.
+Plain Text
+	
+point	
+General spatial point where traffic disruption is occurring.
+Point

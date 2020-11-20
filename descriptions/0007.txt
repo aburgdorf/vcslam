@@ -1,0 +1,91 @@
+Description
+
+This dataset contains the parking bays location in the London Borough of Camden. A parking bay consists of a number of parking spaces, therefore individual parking spaces cannot be identified in this dataset, however the attribution includes the approximate length of the parking bay in metres, and the approximate number of spaces in the parking bay. Other attribution includes restriction type, times of operation, maximum stay, tariff, road name and CPZ (Controlled Parking Zone). The Easting and Northing (and Longitude and Latitude) attributes are automatically calculated based on an arbitrary node along the polyline geometry of the parking bay; the WKT (Well Known Text) attributes can be used to redraw the full extent of each parking bay using a GIS (Geographic Information System).
+
+
+Columns
+
+Restriction Type	
+The type of vehicle or permit accepted in this parking bay		Plain Text
+	
+Parking Spaces	
+The number of parking spaces in this parking bay. Known issues
+with echelon shaped parking bays					Number
+	
+Times Of Operation	
+The days and hours the parking restriction is in operation		Plain Text
+	
+Maximum Stay	
+The length of time allowed in this parking bay				Plain Text
+	
+Tariff	
+The cost of parking in this parking bay					Plain Text
+	
+Cashless Identifier	
+Location ID for cashless payment					Plain Text
+	
+Nearest Machine								Plain Text
+	
+Road Name	
+The name of the road this parking bay is located on			Plain Text
+	
+Postcode	
+The nearest OS Code-Point Open postcode to this parking bay		Plain Text
+	
+Controlled Parking Zone	
+Defined geographical areas of restricted parking. Parking is
+restricted by appropriate orders in accordance with the
+signs on entry to the area						Plain Text
+	
+Valid Parking Permits							Plain Text
+	
+Parking Bay Length Metres	
+The length of this parking bay, with a nominal 4 metres
+removed to take into account the markings each end of
+the bay to mark the extent. Known issues with 
+echelon shaped parking bays						Number
+	
+Disclaimer	
+The disclaimer for this dataset						Plain Text
+	
+Easting	
+The British National Grid (EPSG:27700) X coordinate along the 
+line of a parking bay - not the centre of a parking bay			Number
+	
+Northing	
+The British National Grid (EPSG:27700) Y coordinate along the
+line of a parking bay - not the centre of a parking bay			Number
+	
+Longitude	
+The WGS84 (EPSG:4326) X coordinate along the line of a parking bay
+- not the centre of a parking bay					Number
+	
+Latitude	
+The WGS84 (EPSG:4326) Y coordinate along the line of a parking bay
+- not the centre of a parking bay					Number
+	
+EPSG:27700 Well Known Text Geometry	
+The OGC (Open Geospatial Consortium) mark-up language for describing
+the shape of the parking bay in the British National Grid (EPSG:27700)
+projection								Plain Text
+	
+EPSG:4326 Well Known Text Geometry	
+The OGC (Open Geospatial Consortium) mark-up language for describing
+the shape of the parking bay in the WGS84 (EPSG:4326) 
+projection								Plain Text
+	
+Unique Identifier	
+The unique ID of the parking bay.					Number
+	
+Spatial Accuracy	
+How the data is captured						Plain Text
+	
+Last Uploaded	
+The date and time when this record was uploaded to Socrata
+- Camden's open data platform						Date & Time
+	
+Location	
+A concatenation of the Longitude and Latitude columns so that data 
+can be mapped in the open data platform					Location
+	
+Organisation URI							Website URL

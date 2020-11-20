@@ -1,0 +1,61 @@
+Description
+
+Traffic count data are provided as a public service by GBNRTC’s and member agencies.Traffic volumes are collected by manual and mechanical means and are hosted at anindependent site. They represent typical volumes likely to be found at a location. Countsare reviewed for accuracy but are subject to inaccuracies inherent in the collectionmethod and variability of traffic flows. Traffic data collected prior to and including 2012were uploaded in bulk, and may be subject to data transfer and processing errors.
+
+Please be aware that errors may still exist even though reasonable efforts were made to identify and correct any errors.The data available is posted for informational purposes only. GBNRTC assumes no responsibility or any liability whatsoever, which may develop by users' review and use of this data. This data is periodically updated. Users are responsible to be aware of any updates and incorporate the updated data as may be appropriate for their work.
+
+
+
+Columns
+
+LOCAL ID	
+Identification code for the location where the count is taken
+Plain Text
+	
+COUNTY	
+County in which the location is located
+Plain Text
+	
+MUNICIPALITY	
+Name of the municipality in which the AADT was calculated
+Plain Text
+	
+ON	
+Name of the roadway the AADT was calculated for
+Plain Text
+	
+FROM	
+The description of the start of the segment of roadway for which the AADT applies
+Plain Text
+	
+TO	
+The description of the endof the segment of roadway for which the AADT applies
+Plain Text
+	
+APPROACH	
+For locations, direction from intersecting road
+Plain Text
+	
+DIRECTION	
+Direction of traffic flow
+Plain Text
+	
+AADT YEAR	
+Year for Annual Average Daily Traffic computation
+Plain Text
+	
+AADT	
+Annual Average Daily Traffic volume value: on any given day the average numbers of vehicles that pass the segment of roadway as described by the On/From/To/Approach descriptions. These figures are based on an actual count taken for that year or statistically validated estimated and forecasted values
+Number
+	
+AADT CARS	
+Annual Average Daily Traffic - Automobiles Only
+Number
+	
+AADT TRUCKS	
+Annual Average Daily Traffic - Trucks Only
+Number
+	
+LOCATION	
+The geographic location where the AADT was calculated
+Location

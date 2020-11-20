@@ -1,0 +1,1298 @@
+[
+    {
+        "street_name": "TIMBERLINE DR",
+        "street_name_2": "WEBB CHAPEL EXT",
+        "accident_cnt": "53",
+        "injury_cnt": "59",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.86794255,
+                32.85917424
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "SKILLMAN ST",
+        "accident_cnt": "256",
+        "injury_cnt": "153",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.71760644,
+                32.90044651
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "GREENVILLE AVE",
+        "accident_cnt": "130",
+        "injury_cnt": "109",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.74336064,
+                32.91679203
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "AUDELIA RD",
+        "street_name_2": "WHITEHURST DR",
+        "accident_cnt": "105",
+        "injury_cnt": "55",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.71909258,
+                32.89860423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "N HAMPTON RD",
+        "street_name_2": "SINGLETON BLVD",
+        "accident_cnt": "56",
+        "injury_cnt": "44",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85660256,
+                32.77861426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ARAPAHO RD",
+        "street_name_2": "DALLAS PKWY",
+        "accident_cnt": "63",
+        "injury_cnt": "25",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82078255,
+                32.95948422
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "US0075",
+        "accident_cnt": "70",
+        "injury_cnt": "68",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.76394653,
+                32.92419434
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "JOSEY LN",
+        "accident_cnt": "64",
+        "injury_cnt": "62",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.8818922,
+                32.9110285
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "W CAMP WISDOM RD",
+        "street_name_2": "CHAUCER PL",
+        "accident_cnt": "69",
+        "injury_cnt": "75",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.86786256,
+                32.66217428
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "3",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SH0352",
+        "street_name_2": "S FITZHUGH AVE",
+        "accident_cnt": "57",
+        "injury_cnt": "66",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.75832422,
+                32.77129919
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "N HAMPTON RD",
+        "street_name_2": "W JEFFERSON BLVD",
+        "accident_cnt": "91",
+        "injury_cnt": "82",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85697256,
+                32.74750426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "1",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0020",
+        "street_name_2": "S HAMPTON RD",
+        "accident_cnt": "78",
+        "injury_cnt": "75",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85687743,
+                32.64578281
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "8",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ALPHA RD",
+        "street_name_2": "DALLAS PKWY",
+        "accident_cnt": "59",
+        "injury_cnt": "50",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82170256,
+                32.93288423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ABRAMS RD",
+        "street_name_2": "ROYAL LN",
+        "accident_cnt": "56",
+        "injury_cnt": "43",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.74093258,
+                32.89306423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "MONTFORT DR",
+        "accident_cnt": "50",
+        "injury_cnt": "59",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.81123981,
+                32.92591822
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "GREENVILLE AVE",
+        "street_name_2": "ROYAL LN",
+        "accident_cnt": "68",
+        "injury_cnt": "57",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.75346258,
+                32.89354423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "MAPLE AVE",
+        "street_name_2": "OAK LAWN AVE",
+        "accident_cnt": "56",
+        "injury_cnt": "21",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.81433256,
+                32.80418425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "MIDWAY RD",
+        "accident_cnt": "183",
+        "injury_cnt": "141",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.8385459,
+                32.92518154
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "11",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "LAKE JUNE RD",
+        "accident_cnt": "52",
+        "injury_cnt": "51",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68288386,
+                32.73418404
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0035E",
+        "street_name_2": "SL0012",
+        "accident_cnt": "130",
+        "injury_cnt": "92",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.89377594,
+                32.86243057
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0035E",
+        "street_name_2": "ROYAL LN",
+        "accident_cnt": "56",
+        "injury_cnt": "27",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.89803436,
+                32.89595749
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0020",
+        "street_name_2": "S POLK ST",
+        "accident_cnt": "68",
+        "injury_cnt": "68",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.84025304,
+                32.6428975
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "8",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "JOHN WEST RD",
+        "accident_cnt": "64",
+        "injury_cnt": "51",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68273599,
+                32.80716042
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SS0303",
+        "street_name_2": "DUNCANVILLE RD",
+        "accident_cnt": "53",
+        "injury_cnt": "49",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.90875206,
+                32.70568456
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "3",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "MARSH LN",
+        "accident_cnt": "54",
+        "injury_cnt": "42",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85623328,
+                32.91792688
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "CADIZ ST",
+        "street_name_2": "S RIVERFRONT BLVD",
+        "accident_cnt": "76",
+        "injury_cnt": "73",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80354257,
+                32.76638426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "N FITZHUGH AVE",
+        "accident_cnt": "66",
+        "injury_cnt": "52",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.78940997,
+                32.81569953
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "HILLCREST RD",
+        "accident_cnt": "109",
+        "injury_cnt": "81",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.78624256,
+                32.92478759
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SH0352",
+        "street_name_2": "N MASTERS DR",
+        "accident_cnt": "57",
+        "injury_cnt": "46",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.6481817,
+                32.76231909
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SH0078",
+        "street_name_2": "SS0244",
+        "accident_cnt": "51",
+        "injury_cnt": "40",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.67076286,
+                32.86398476
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "13",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "PINE ST",
+        "street_name_2": "S 2ND AVE",
+        "accident_cnt": "97",
+        "injury_cnt": "86",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.75013258,
+                32.76581426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "INWOOD RD",
+        "accident_cnt": "64",
+        "injury_cnt": "43",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82119263,
+                32.92597916
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "11",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "FERGUSON RD",
+        "street_name_2": "PEAVY RD",
+        "accident_cnt": "52",
+        "injury_cnt": "52",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.6844526,
+                32.81870424
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "SS0348",
+        "accident_cnt": "163",
+        "injury_cnt": "105",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.90015411,
+                32.86458588
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "FOREST LN",
+        "accident_cnt": "67",
+        "injury_cnt": "37",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.76888711,
+                32.90934112
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "S HAMPTON RD",
+        "street_name_2": "W ILLINOIS AVE",
+        "accident_cnt": "65",
+        "injury_cnt": "69",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85710256,
+                32.72022427
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "1",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "DALLAS PKWY",
+        "street_name_2": "KELLER SPRINGS RD",
+        "accident_cnt": "60",
+        "injury_cnt": "33",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82122255,
+                32.96856422
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "LAKE JUNE RD",
+        "street_name_2": "N MASTERS DR",
+        "accident_cnt": "54",
+        "injury_cnt": "54",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.64843261,
+                32.73401426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "ROYAL LN",
+        "accident_cnt": "86",
+        "injury_cnt": "64",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.76906692,
+                32.8985679
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "SL0354",
+        "accident_cnt": "75",
+        "injury_cnt": "62",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.88084412,
+                32.85821915
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ELM ST",
+        "street_name_2": "N ST PAUL ST",
+        "accident_cnt": "62",
+        "injury_cnt": "41",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79591257,
+                32.78211425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "LEMMON AVE",
+        "street_name_2": "TURTLE CREEK BLVD",
+        "accident_cnt": "56",
+        "injury_cnt": "28",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80309257,
+                32.80969425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0067",
+        "street_name_2": "SL0012",
+        "accident_cnt": "68",
+        "injury_cnt": "69",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.84612274,
+                32.69128418
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "3",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "GRIFFIN ST E",
+        "street_name_2": "S ST PAUL ST",
+        "accident_cnt": "53",
+        "injury_cnt": "26",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79110257,
+                32.77389426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "COMMERCE ST",
+        "street_name_2": "S LAMAR ST",
+        "accident_cnt": "100",
+        "injury_cnt": "78",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80406257,
+                32.77882426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "HICKORY ST",
+        "street_name_2": "S CESAR CHAVEZ BLVD",
+        "accident_cnt": "57",
+        "injury_cnt": "38",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.78307257,
+                32.77326426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "BRUTON RD",
+        "street_name_2": "N PRAIRIE CREEK RD",
+        "accident_cnt": "58",
+        "injury_cnt": "52",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.66561261,
+                32.74862426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SH0190",
+        "street_name_2": "SH0289",
+        "accident_cnt": "52",
+        "injury_cnt": "23",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79542542,
+                33.01216888
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "14",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "MILITARY PKWY",
+        "accident_cnt": "121",
+        "injury_cnt": "108",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68270048,
+                32.76969432
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "CARUTH HAVEN LN",
+        "accident_cnt": "64",
+        "injury_cnt": "49",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.77032451,
+                32.86089482
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0030",
+        "street_name_2": "N COCKRELL HILL RD",
+        "accident_cnt": "54",
+        "injury_cnt": "34",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.8959228,
+                32.76659946
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0030",
+        "street_name_2": "SL0012",
+        "accident_cnt": "152",
+        "injury_cnt": "73",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68254089,
+                32.79812241
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0030",
+        "street_name_2": "N WESTMORELAND RD",
+        "accident_cnt": "50",
+        "injury_cnt": "28",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.87391647,
+                32.7674428
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "3",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "COMMERCE ST",
+        "street_name_2": "S HARWOOD ST",
+        "accident_cnt": "65",
+        "injury_cnt": "48",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79397257,
+                32.78094425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "1ST AVE",
+        "street_name_2": "ASH LN",
+        "accident_cnt": "59",
+        "injury_cnt": "26",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.76843258,
+                32.78171425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "BRUTON RD",
+        "street_name_2": "S 2ND AVE",
+        "accident_cnt": "54",
+        "injury_cnt": "72",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.72860259,
+                32.74754426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "WALNUT HILL LN",
+        "accident_cnt": "83",
+        "injury_cnt": "57",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.77013329,
+                32.8799659
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "11",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "ELAM RD",
+        "accident_cnt": "58",
+        "injury_cnt": "43",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.6829668,
+                32.71959427
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0030",
+        "street_name_2": "SL0012",
+        "accident_cnt": "54",
+        "injury_cnt": "32",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.6825407,
+                32.79812168
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "ABRAMS RD",
+        "accident_cnt": "87",
+        "injury_cnt": "42",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.73515638,
+                32.91123846
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "AUDELIA RD",
+        "street_name_2": "FOREST LN",
+        "accident_cnt": "67",
+        "injury_cnt": "65",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.71787258,
+                32.90955423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "DALLAS PKWY",
+        "accident_cnt": "103",
+        "injury_cnt": "74",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82023417,
+                32.92597663
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "MCKINNEY AVE",
+        "street_name_2": "N PEARL ST",
+        "accident_cnt": "53",
+        "injury_cnt": "20",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80286257,
+                32.79281425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "MILLER RD",
+        "street_name_2": "PLANO RD",
+        "accident_cnt": "62",
+        "injury_cnt": "42",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.70048259,
+                32.89457423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "CANTON ST",
+        "street_name_2": "S 2ND AVE",
+        "accident_cnt": "64",
+        "injury_cnt": "46",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.77454258,
+                32.78405425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "2",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ELM ST",
+        "street_name_2": "N GRIFFIN ST",
+        "accident_cnt": "69",
+        "injury_cnt": "52",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80319257,
+                32.78056425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "N HASKELL AVE",
+        "accident_cnt": "57",
+        "injury_cnt": "35",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79324755,
+                32.80715588
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ADLETA BLVD",
+        "street_name_2": "SKILLMAN ST",
+        "accident_cnt": "72",
+        "injury_cnt": "59",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.71376258,
+                32.90368423
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "9",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0175",
+        "street_name_2": "SL0012",
+        "accident_cnt": "121",
+        "injury_cnt": "78",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.6832962,
+                32.71321869
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0354",
+        "street_name_2": "LOMBARDY LN",
+        "accident_cnt": "52",
+        "injury_cnt": "43",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.88182098,
+                32.86645778
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "S WESTMORELAND RD",
+        "street_name_2": "W ILLINOIS AVE",
+        "accident_cnt": "56",
+        "injury_cnt": "39",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.87439255,
+                32.72029427
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "1",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "S HAMPTON RD",
+        "street_name_2": "W WHEATLAND RD",
+        "accident_cnt": "64",
+        "injury_cnt": "68",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.85713256,
+                32.64753428
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "8",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ELM ST",
+        "street_name_2": "N LAMAR ST",
+        "accident_cnt": "68",
+        "injury_cnt": "54",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.80445257,
+                32.78031426
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "BRUTON RD",
+        "accident_cnt": "58",
+        "injury_cnt": "41",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68283676,
+                32.74876271
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "5",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SL0012",
+        "street_name_2": "SAMUELL BLVD",
+        "accident_cnt": "80",
+        "injury_cnt": "60",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.68501389,
+                32.79251218
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "7",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "BELT LINE RD",
+        "street_name_2": "DALLAS PKWY",
+        "accident_cnt": "137",
+        "injury_cnt": "66",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.82227255,
+                32.95398422
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "10",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "E LOVERS LN",
+        "accident_cnt": "50",
+        "injury_cnt": "40",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.77133888,
+                32.85126855
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "ELM ST",
+        "street_name_2": "N CESAR CHAVEZ BLVD",
+        "accident_cnt": "59",
+        "injury_cnt": "33",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.79132257,
+                32.78307425
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "12",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "IH0635",
+        "street_name_2": "WEBB CHAPEL RD",
+        "accident_cnt": "88",
+        "injury_cnt": "71",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.87341639,
+                32.91293136
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "SH0180",
+        "street_name_2": "SL0012",
+        "accident_cnt": "54",
+        "injury_cnt": "19",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.91863251,
+                32.74969101
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "6",
+        ":@computed_region_2f7u_b5gs": "3"
+    },
+    {
+        "street_name": "US0075",
+        "street_name_2": "PARK LN",
+        "accident_cnt": "55",
+        "injury_cnt": "24",
+        "death_cnt": "0",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -96.77024775,
+                32.87178482
+            ]
+        },
+        ":@computed_region_sjyw_rtbm": "11",
+        ":@computed_region_2f7u_b5gs": "3"
+    }
+]

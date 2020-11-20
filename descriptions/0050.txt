@@ -1,0 +1,51 @@
+Description
+
+This dataset contains data of licenced rental properties with 5 or more units that have current (unresolved) by-law issues. These issues related to the enforcement of the following City of Vancouver by-laws:
+
+    Building Bylaw
+    Electrical Bylaw
+    Gas Fitting Bylaw
+    Plumbing Services (Building Bylaw - Part 7)
+    Sewer and Watercourse Bylaw
+    Sign Bylaw
+    Standards of Maintenance Bylaw
+    Tree Protection Bylaw
+    Untidy Premise Bylaw
+    Zoning & Development Bylaw
+
+Data currency
+
+The extract on this website is updated daily.
+
+Note: data for rental standards comes from a number of City systems - there is a delay of 48 hours between when most data is updated in its home system and the publication to the Rental Standards database and Open Data feed.
+Data accuracy
+
+Data for the Rental Standards database is amalgamated from a number of systems. It is possible that some information may not be shown because of data synchronization issues or data quality issues in any one of the source systems.
+
+
+Columns
+
+BUSINESSOPERATOR
+(Landlord and/or owner). The ownership of the business; Note: Data for this field is not available for all buildings.
+
+DetailURL
+Address of the webpage which contains additional information on the current by-law issue(s)
+
+StreetNumber
+The number assigned to an address where the business is located
+
+Street
+The name of the street where the business is located; Note: A City designated main address of a business consists of StreetNumber and Street information. Other associated entrance addresses are not 			included.
+
+TOTALOUTSTANDING
+Combined total of current issues for all Bylaws (for main address as well as other associated entrance addresses)
+
+TotalUnits
+Official space identifier for a building - combined total; Note: Data for this field is not available for all buildings.
+
+Geom
+Spatial representation of feature
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+

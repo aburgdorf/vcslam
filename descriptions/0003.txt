@@ -1,0 +1,48 @@
+Description
+
+DATASET DISCLAIMER: Spatial location of road crashes within the ACT since 2012 which have been reported by the Police or the Public through the AFP Crash Report Form. This dataset only represents crashes that have been reported using the AFP Crash Report Form, and any crashes which have been reported through other channels are not displayed within this dataset. Note that this data may not represent the exact spatial location of each reported road crash, as the points of each crash are purely indicative of the intersection or midblock location as indicated by the point attributes. Crashes are reviewed on an annual basis, so the existing data may change over time as a result of this review.
+
+
+Columns
+
+CRASH_ID	
+Unique Identifier for Crash				Plain Text
+	
+CRASH_DATE	
+Reported date of crash					Date & Time
+	
+CRASH_TIME	
+Reported approximate time of crash			Plain Text
+	
+SUBURB_LOCATION	
+Suburb/Rural Division location of crash			Plain Text
+	
+LONGITUDE	
+Longitude coordinate for spatial location of crash	Number
+	
+LATITUDE	
+Latitude coordinate for spatial location of crash	Number
+	
+INTERSECTION	
+Indicates whether the crash occurred at an intersection	Plain Text
+	
+MIDBLOCK	
+Indicates whether the crash occurred within
+a road midblock						Plain Text
+	
+CRASH_DIRECTION	
+Direction of travel at location of crash		Plain Text
+	
+CRASH_SEVERITY	
+Level of severity for crash				Plain Text
+	
+LIGHTING_CONDITION	
+Level of lighting present at the time of the crash	Plain Text
+	
+ROAD_CONDITION	
+Level of moisture on road at time of crash		Plain Text
+	
+WEATHER_CONDITION	
+Weather condition at the time of the crash		Plain Text
+	
+Location						Location

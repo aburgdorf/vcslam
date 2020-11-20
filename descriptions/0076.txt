@@ -1,0 +1,29 @@
+Description
+
+A list of all designated historical properties within the City of Tacoma
+
+Columns
+
+Property Name	
+Name of the historical property.
+Plain Text
+	
+Date Designated	
+The date the property was designated as historical.
+Date & Time
+	
+Resolution Number	
+The City of Tacoma resolution number designating the property as historical.
+Plain Text
+	
+Built	
+The year the property was built.
+Date & Time
+	
+Architect	
+The architect who designed the historical property.
+Plain Text
+	
+Property Location	
+The mapped location of the historical property.
+Location

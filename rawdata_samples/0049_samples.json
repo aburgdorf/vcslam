@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -123.118596122757,
+                "latitude": 49.2635657969344
+            }
+        },
+        "properties": {
+            "status": "Issued",
+            "expireddate": "2014-12-31",
+            "house": "601",
+            "licencerevisionnumber": "00",
+            "street": "W BROADWAY",
+            "unit": "400",
+            "city": "Vancouver",
+            "businesstype": "Office",
+            "businesssubtype": "Barrister & Solicitor",
+            "unittype": "Unit",
+            "licencersn": "2143019",
+            "province": "BC",
+            "extractdate": "2019-07-21T22:49:11+02:00",
+            "numberofemployees": "000",
+            "localarea": "Fairview",
+            "folderyear": "14",
+            "businessname": "John G Buchannon (John Buchannon)",
+            "postalcode": "V5Z 4C2",
+            "issueddate": "2014-02-13T22:30:16+01:00",
+            "country": "CA",
+            "feepaid": "152",
+            "licencenumber": "14-130609"
+        }
+    }
+]

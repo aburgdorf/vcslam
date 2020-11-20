@@ -1,0 +1,87 @@
+Description
+
+Moby bikes is an e-bike bikeshare scheme in operation in Dublin. Electric powered bicycles may be rented from and returned to designated cycle stands inside the designated area. The designated area and bicycle stands data are available as static resources (geoJSON attachments) and are also highlighted in the map explorer visualisation. The API provides current locations of the bikes in operation in the Dublin area and is updated every 5 minutes. There are also rollups of historic bike location data (30 minutes granularity) available as downloadable CSV resources.
+
+
+
+Columns
+
+Column
+Type
+Label
+Description
+
+HarvestTime
+timestamp
+Harvest Time
+Data retrieval timestamp
+
+BikeID 
+numeric
+Unique bike ID
+Use for rent bike
+
+Battery
+numeric
+Battery status
+Bike max distance in km
+
+BikeIdentifier
+numeric
+Bike Identifier
+Generally contains only digits, might contains chars
+
+BikeTypeName
+text
+Bike type name
+Every bike has to be of some Bike Type
+
+EBikeProfileID
+numeric
+E-bike Profile ID
+Every ebike profile has defined Geofence (allowed riding areas)
+
+EBikeStateID
+numeric
+EBike State
+Indicates: {1:'Warning - is in move and not rented',2:'Normal',3:'Switched Off',4:'Firmware Upgrade',5:'Laying on the ground'}
+
+IsEBike
+text
+Is electronic bike
+Bike sends messages to Backend (bike is equipped with electronic, bluetooth etc.)
+
+IsMotor
+text
+Has engine
+Electric engine might be used for ride
+
+IsSmartLock
+text
+Bike has smart lock
+Bike has smart lock
+
+LastGPSTime
+timestamp
+Last valid GPS message
+Last time bike connected with GPS
+
+LastRentalStart
+timestamp
+Last rent of bike
+Last time bike was rented
+
+Latitude
+numeri
+Bike Latitude
+Bike coordinates if bike is locked out of station
+
+Longitude
+numeric
+Bike Longitude
+Bike coordinates if bike is locked out of station
+
+SpikeID
+numeric
+Spike ID
+Might be used for rent bike instead of BikeID

@@ -1,0 +1,73 @@
+[
+    {
+        "datasetid": "cultural-spaces",
+        "recordid": "105dc9424c0e3ae1bd5bb0189d0ee1e74b36bf44",
+        "fields": {
+            "website": "https://thecultch.com/locations/york-theatre/",
+            "number_of_seats": 370,
+            "active_space": "Yes",
+            "year": "2014",
+            "square_feet": 15000,
+            "cultural_space_name": "York Theatre",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0707458,
+                    49.2786795
+                ]
+            },
+            "local_area": "Grandview-Woodland",
+            "ownership": "City of Vancouver",
+            "address": "639 Commercial Dr, Vancouver, BC, V5L 2W2",
+            "type": "Theatre/Performance",
+            "primary_use": "Theatre"
+        },
+        "record_timestamp": "2019-06-05T17:32:12.633+02:00"
+    },
+    {
+        "datasetid": "cultural-spaces",
+        "recordid": "175877b8ced51e2e710ed75a924e91763d088677",
+        "fields": {
+            "website": "http://anotherspace.ca/",
+            "active_space": "Yes",
+            "year": "2017",
+            "cultural_space_name": "Another Space for Community Creative Arts Studio",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.073608,
+                    49.280458
+                ]
+            },
+            "local_area": "Grandview-Woodland",
+            "ownership": "Privately Owned",
+            "address": "1523 E Pender St, Vancouver, BC, V5L 1V9",
+            "type": "Studio/Rehearsal",
+            "primary_use": "Artist Studio"
+        },
+        "record_timestamp": "2019-06-05T17:32:12.633+02:00"
+    },
+    {
+        "datasetid": "cultural-spaces",
+        "recordid": "3a019da03b86577ff57564c9aa33d6f615d7b2c3",
+        "fields": {
+            "website": "http://www.theartemporium.ca",
+            "active_space": "Yes",
+            "year": "2017",
+            "cultural_space_name": "Art Emporium",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1383072,
+                    49.2593906
+                ]
+            },
+            "local_area": "Fairview",
+            "ownership": "Privately Owned",
+            "address": "2928 Granville St, Vancouver, BC, V6H 3J7",
+            "type": "Museum/Gallery",
+            "primary_use": "Museum/Gallery"
+        },
+        "record_timestamp": "2019-06-05T17:32:12.633+02:00"
+    }
+]

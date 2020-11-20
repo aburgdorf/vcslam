@@ -1,0 +1,69 @@
+[
+    {
+        "stop_id_number": "4133",
+        "stop_abbreviation": "GRWHIWN",
+        "stopname": "GREEN LN & WHITES CREEK PIKE WB",
+        "shelter": false,
+        "bench": false,
+        "route_number": "41",
+        "route_name": "GOLDEN VALLEY",
+        "geocoded_column": {
+            "latitude": "36.236249",
+            "longitude": "-86.816722"
+        },
+        ":@computed_region_p6sk_2acq": "16",
+        ":@computed_region_gxvr_9jxz": "6",
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_sjpq_96s8": "30386",
+        ":@computed_region_f73m_vb2k": "1",
+        ":@computed_region_c9xn_skx3": "9",
+        ":@computed_region_gisn_y5cm": "6",
+        ":@computed_region_v3ji_vzam": "2005"
+    },
+    {
+        "stop_id_number": "4083",
+        "stop_abbreviation": "Z9AEDGSN",
+        "stopname": "_ 9TH AVE S & EDGEHILL AVE SB",
+        "shelter": false,
+        "bench": false,
+        "route_number": "8",
+        "route_name": "8TH AVENUE SOUTH",
+        "geocoded_column": {
+            "latitude": "36.142642",
+            "longitude": "-86.780897"
+        },
+        ":@computed_region_p6sk_2acq": "18",
+        ":@computed_region_gxvr_9jxz": "40",
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_cfa7_hbpz": "624",
+        ":@computed_region_sjpq_96s8": "30406",
+        ":@computed_region_f73m_vb2k": "7",
+        ":@computed_region_c9xn_skx3": "11",
+        ":@computed_region_gisn_y5cm": "5",
+        ":@computed_region_v3ji_vzam": "2005"
+    },
+    {
+        "stop_id_number": "5066",
+        "stop_abbreviation": "MXODONEL",
+        "stopname": "DONELSON/DELL STATION OUTBOUND",
+        "shelter": true,
+        "bench": false,
+        "route_number": "15,55",
+        "route_name": "MURFREESBORO PIKE",
+        "geocoded_column": {
+            "latitude": "36.105615",
+            "longitude": "-86.672004"
+        },
+        ":@computed_region_p6sk_2acq": "22",
+        ":@computed_region_gxvr_9jxz": "22",
+        ":@computed_region_wvby_4s8j": "1",
+        ":@computed_region_3aw5_2wv7": "1",
+        ":@computed_region_sjpq_96s8": "16166",
+        ":@computed_region_f73m_vb2k": "9",
+        ":@computed_region_c9xn_skx3": "26",
+        ":@computed_region_gisn_y5cm": "7",
+        ":@computed_region_v3ji_vzam": "2005"
+    }
+]

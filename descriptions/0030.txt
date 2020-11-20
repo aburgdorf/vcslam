@@ -1,0 +1,44 @@
+Description
+
+Rainfall is measured to assess storms and their effects on flooding and sewer performance and design.
+
+Rainfall location color icons indicate rainfall totals and maximum storm rating during the past 24 hours. Data is sent once 2mm is accumulated in each gauge, so timing will vary.
+
+Website is updated every 15 minutes . Higher storm ratings and rainfall totals may have occurred if a storm lasts more than 24h. Storm ratings and rainfall are based on data at the gauge location only - nearby areas may experience differing conditions due to variability of rainstorms.
+
+Rainfall is measured between May and October; snowfall is not measured.
+
+
+Columns
+
+DATE	
+Date when rain gauge rain fall data is collected
+Date & Time
+	
+TIME	
+Time when rain fall data is collected.
+Plain Text
+	
+STATION_NUMBER	
+Unique identifier for a rain gauge.
+Plain Text
+	
+TOTAL_AMOUNT_FALLEN_PAST_24_HOURS	
+Rolling 24-hour rainfall total, in millimetres. Values will hold steady until the next data point restarts the calculations, until the following 23:59:59 at the latest (gauge sends a zero data point each day at 23:59:59 so there is always recent data if not raining).
+Number
+	
+STORM_RATING_ID	
+Unique identifier for the Storm Rating Description. Maximum Rating over past 24 hours. Values will hold steady until the next data point restarts the calculations, until the following 23:59:59 at the latest. Calculation based on rainfall total and intensity, land characteristics in the area (e.g.-amount of pavement), and an index for wetness of the ground.
+Number
+	
+STORM_RATING_DESCRIPTION	
+Estimated effects of current rain storm’s Storm Rating on nearby neighborhoods
+Plain Text
+	
+Amount Legend	
+The rainfall amount range measured in millimetres, used for the map legend.
+Plain Text
+	
+LOCATION	
+Spatial Location where the rain gauge is located.
+Location

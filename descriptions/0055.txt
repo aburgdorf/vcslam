@@ -1,0 +1,123 @@
+Description
+
+This dataset contains data of non-market housing projects - both the buildings owned by City of Vancouver, and the buildings provided by other agencies.
+
+Non-market housing is for low and moderate income singles and families, often subsidized through a variety of ways, including senior government support. This housing is managed through various operators, including the public, non-profit, co-op, and urban indigenous sectors.
+
+Non-market housing is located throughout Vancouver in the forms of social, supportive, and co-op housing. This dataset includes temporary modular housing, which are demountable structures, not permanently affixed to land and assembled within months.
+
+The inventory does not include the following types of housing:
+
+    Special Needs Residential Facilities - includes community care facilities providing licensed care services, and group residences providing housing as required by law, rehabilitative programs, or temporary housing
+    Single Room Accommodation - privately-owned single room occupancy (SRO) hotels, rooming houses, and other housing with rooms less than 320 square feet, typically featuring units with a basic cooking setup and shared bathrooms
+    Shelters - provide temporary beds, meals, and services to the city's homeless population
+
+Note
+
+    Unit total (and breakdown) of projects could change over the course of development and are not captured real time
+    Housing projects with "proposed", "approved" and "under construction" status may not contain unit number breakdown by "Design"
+    Housing projects with "proposed", "approved" and "under construction" status may not contain information on operator names or type
+    Unit total is the sum of clientele groups (families, seniors, and others)
+
+Data currency
+
+This dataset is updated quarterly.
+Data accuracy
+
+Data for this dataset is amalgamated from a number of sources. It is possible that some information may not be shown because of data synchronization issues.
+
+There may be some loss of quality from data entry errors.
+
+Non-housing market projects for which geographic coordinates are not available yet will not show up on the map or in the spatial formats. For a complete list, please consult the XLS or CSV formats.
+
+
+Columns
+
+Index Number
+Unique identifier within the City Non-Market Housing Inventory
+
+Name
+Name of the specified housing project.
+
+Address
+Street address of the specified housing project in Vancouver.
+
+Project Status
+Current development status of project: Completed, Under Construction, Approved, and Proposed. 
+    * Completed: Housing project that has been built
+	*  Under Construction: Housing projects that are under construction
+	*  Approved:  Project that has an approved rezoning or development permit application or an approved Council report confirming funding
+	*  Proposed : An application has been submitted to the City for review.
+
+Occupancy Year
+Year when the specified housing project was initially occupied.
+
+Design - Accessible 1BR
+Number of one-bedroom units designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Accessible 2BR
+Number of two-bedroom units that that are designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Accessible 3BR
+Number of three-bedroom units that that are designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Accessible 4BR
+Number of four-bedroom units that that are designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Accessible Studio
+Number of studio units that that are designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Accessible Room
+Number of housekeeping or sleeping units that that are designed for a person with disabilities to be able to, without assistance, approach, enter, pass to and from, and make use of an area and its facilities.
+
+Design - Adaptable 1BR
+Number of one-bedroom units that are designed to be able to be modified to meet the changing accessibility needs of residents.
+
+Design - Adaptable 2BR
+Number of two-bedroom units that are designed to be able to be modified to meet the changing accessibility needs of residents.
+
+Design - Adaptable 3BR
+Number of three-bedroom units that are designed to be able to be modified to meet the changing accessibility needs of residents.
+
+Design - Adaptable 4BR
+Number of four-bedroom units that are designed to be able to be modified to meet the changing accessibility needs of residents
+
+Design - Standard 1BR
+Number of one-bedroom units designed for a typical standard of liveability which includes sleeping and cooking facilities.
+
+Design - Standard 2BR
+Number of two-bedroom units designed for a typical standard of 	liveability which includes sleeping and cooking facilities.
+
+Design - Standard 3BR
+Number of three-bedroom units designed for a typical standard of liveability which includes sleeping and cooking facilities.
+
+Design - Standard 4BR
+Number of four-bedroom units designed for a typical standard of liveability which includes sleeping and cooking facilities.
+
+Design - Standard Studio
+Number of studio units units designed for a typical standard of liveability which includes sleeping and cooking facilities. A studio, also known as bachelor unit, combines bedroom, living room, and kitchen into a single unit.
+
+Design - Standard Room
+Number of housekeeping or sleeping units designed for a typical standard of liveability which includes sleeping and cooking facilities. A studio, also known as bachelor unit, combines bedroom, living room, and kitchen into a single unit.
+
+Clientele- Families
+Number of units that have two or more bedrooms.
+
+Clientele - Seniors
+Number of units for individuals typically over age 55.
+
+Clientele - Other
+Number of units for single non-seniors.
+
+Operator
+Operator of the specified housing project.
+
+Local Area
+The local area where the housing is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas)	For more details, see the Local area boundary data set.
+
+URL
+City's webpage address of the specified housing project
+
+Geom
+Spatial (point) representation of feature
+

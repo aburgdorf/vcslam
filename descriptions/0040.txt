@@ -1,0 +1,30 @@
+Description
+
+List of Edmonton Transit bus stop id numbers clustered around prominent City of Edmonton landmarks, as used in the ETS Trip Planner.
+
+
+Columns
+
+LANDMARK_NAME	
+Name of Land Mark
+Plain Text
+	
+ADDRESS	
+Street address for land mark
+Plain Text
+	
+STOP_ID	
+Unique id number for bus stop
+Number
+	
+LATITUDE	
+Latitude coordinates for bus stop
+Number
+	
+LONGITUDE	
+Longitude coordinates for bus stop
+Number
+	
+LOCATION	
+Geographic coordinates for bus stop
+Location

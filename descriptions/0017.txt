@@ -1,0 +1,78 @@
+Description
+
+The Seattle Police Department (SPD) replaced its Records Management System (RMS) in May 2019. To preserve data quality and continuity between systems (2008-Present), SPD relied on the National Incident-Based Reporting System (NIBRS). The standardization of crime classifications allows for comparison over time. For more information on definitions and classifications, please visit https://www.fbi.gov/services/cjis/ucr/nibrs.
+
+Additional groupings are used to analyze crime in SPD’s Crime Dashboard. Violent and property crime categories align with best practices. For additional inquiries, we encourage the use of the underline data to align with the corresponding query.
+
+Disclaimer: Only finalized (UCR approved) reports are released. Those in draft, awaiting approval, or completed after the update, will not appear until the subsequent day(s). Data is updated once every twenty-four hours. Records and classification changes will occur as a report makes its way through the approval and investigative process
+
+
+Columns
+
+Report Number	
+Primary key/UID for the overall report. One report can contain multiple offenses, as denoted by the Offense ID.
+Plain Text
+	
+Offense ID	
+Distinct identifier to denote when there are multiple offenses associated with a single report.
+Plain Text
+	
+Offense Start DateTime	
+Start date and time the offense(s) occurred.
+Plain Text
+	
+Offense End DateTime	
+End date and time the offense(s) occurred, when applicable.
+Plain Text
+	
+Report DateTime	
+Date and time the offense(s) was reported. (Can differ from date of occurrence)
+Plain Text
+	
+Group A B	
+Corresponding offense groups
+Plain Text
+	
+Crime Against Category	
+Corresponding offense crime against category.
+Plain Text
+	
+Offense Parent Group	
+Offense_Parent_Group
+Plain Text
+	
+Offense	
+Corresponding offense.
+Plain Text
+	
+Offense Code	
+Corresponding offense code.
+Plain Text
+	
+Precinct	
+Designated police precinct boundary where offense(s) occurred.
+Plain Text
+	
+Sector	
+Designated police sector boundary where offense(s) occurred.
+Plain Text
+	
+Beat	
+Designated police sector boundary where offense(s) occurred.
+Plain Text
+	
+MCPP	
+Designated Micro-Community Policing Plans (MCPP) boundary where offense(s) occurred.
+Plain Text
+	
+100 Block Address	
+Offense(s) address location blurred to the one hundred block.
+Plain Text
+	
+Longitude	
+Offense(s) spatial coordinate blurred to the one hundred block.
+Number
+	
+Latitude	
+Offense(s) spatial coordinate blurred to the one hundred block.
+Number

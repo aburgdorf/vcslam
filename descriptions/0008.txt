@@ -1,0 +1,143 @@
+Description
+
+This dataset contains transactional penalty charge notice data held in the London Borough of Camden's parking management system; inclusive of penalty charge notices issued by Civil Enforcement Officers on street and those issued by Civil Enforcement Officers via CCTV. Attribution includes contravention code, ticket type, street, parking restriction, vehicle category and status of case.
+
+Where possible, the approximate location of the PCN has been captured. The 'Spatial Accuracy' column can be used to determine what level of location has been captured:
+
+Civil Enforcement Officer GPS Location = the GPS location reported by the CEO's handheld device
+Fixed CCTV Camera = the location of the CCTV camera, this could be many metres from the vehicle in contravention
+Unknown = No location has been captured
+
+
+Columns
+
+Contravention Date	
+Date the contravention was recorded					Date & Time
+	
+Contravention In Last 7 Days	
+Was the contravention recorded in the last 7 days			Plain Text
+	
+Ticket Type	
+The type of ticket issued						Plain Text
+	
+Ticket Description	
+The description of ticket type						Plain Text
+	
+Contravention Code	
+London Council defined contravention 
+codes indicating type of contravention					Plain Text
+	
+Contravention Code Suffix	
+London Council defined contravention suffix - 
+used in relation to contravention code					Plain Text
+	
+Contravention Code Description	
+London Council defined description of type of contravention
+ – use with associated contravention code				Plain Text
+	
+Ticket Issued Via CCTV Camera	
+Was the contravention issued by a CCTV Camera				Plain Text
+	
+Controlled Parking Zone Area	
+Defined geographical areas of restricted parking. 
+Parking is restricted by appropriate orders in 
+accordance with the signs on entry to the area				Plain Text
+	
+Street	
+Street where the contravention occurred					Plain Text
+	
+Vehicle Category	
+The type of vehicle category selected by Civil 
+Enforcement Officer when issuing contravention				Plain Text
+	
+Vehicle Removed	
+Was the vehicle removed to Car Pound					Plain Text
+	
+Status Of Case	
+The status of PCN case							Plain Text
+	
+Charging Band Description	
+Which charging band did the contravention occur under. 
+Penalties issued in Band A are higher than those in Band B 
+due to the higher demand for parking in those locations.
+ Higher rate contravention codes are considered more 
+serious contraventions							Plain Text
+	
+Civil Enforcement Officer Error	
+Was the PCN cancelled due to a Civil Enforcement Officer error		Plain Text
+	
+Penalty Charge Notice Cancelled	
+Was the PCN cancelled							Plain Text
+	
+Penalty Charge Notice Written Off	
+Was the PCN Written Off							Plain Text
+	
+Cancellation Reason	
+Reason for cancellation							Plain Text
+	
+Foreign Vehicle	
+Did the Civil Enforcement Officer record the contravening
+vehicle as foreign – i.e. not registered in the UK			Plain Text
+	
+Country Vehicle Registered To	
+The country the Civil Enforcement Officer recorded 
+the vehicle as registered to						Plain Text
+	
+Has Appeal								Plain Text
+	
+Formal Representation							Plain Text
+	
+Ward Code	
+The Office of National Statistics Ward code where the
+contravention took place. This is based on the Civil Enforcement 
+Officer location, fixed CCTV location or mobile CCTV location 
+and may not be accurate or complete					Plain Text
+	
+Ward Name	
+The Office of National Statistic Ward name of where the contravention
+took place. This is based on the Civil Enforcement Officer 
+location, fixed CCTV location or mobile CCTV location and may
+not be accurate or complete						Plain Text
+	
+Easting	
+The British National Grid (EPSG:27700) X coordinate of where 
+the contravention took place. This is based on the Civil Enforcement 
+Officer location, fixed CCTV location or mobile CCTV location and may
+ not be accurate or complete						Number
+	
+Northing	
+The British National Grid (EPSG:27700) Y coordinate of where the 
+contravention took place. This is based on the Civil Enforcement
+ Officer location, fixed CCTV location or mobile CCTV location 
+and may not be accurate or complete					Number
+	
+Longitude	
+The WGS84 (EPSG:4326) X coordinate of where the contravention 
+took place. This is based on the Civil Enforcement Officer location,
+fixed CCTV location or mobile CCTV location and may not be accurate
+or complete								Number
+	
+Latitude	
+The WGS84 (EPSG:4326) Y coordinate of where the contravention took
+place. This is based on the Civil Enforcement Officer location,
+fixed CCTV location or mobile CCTV location and may not be accurate
+or complete								Number
+	
+Location	
+A concatenation of the Longitude and Latitude columns so that 
+data can be mapped in the open data platform				Location
+	
+Spatial Accuracy	
+How accurate the location data is: Civil Enforcement Officer
+GPS Location - the GPS location reported by the CEO's handheld
+device Fixed CCTV Camera - the location of the CCTV camera,
+this could be many metres from the vehicle in contravention
+Unknown - No location has been captured					Plain Text
+	
+Last Uploaded	
+The date and time when this record was uploaded to
+Socrata - Camden's open data platform					Date & Time
+	
+Socrata ID	
+A simple record counter - this is not unique to
+the record and often changes						Number

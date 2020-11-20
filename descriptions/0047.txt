@@ -1,0 +1,61 @@
+Description
+
+This is Toronto Community Housing data covering developments and buildings larger than 5 units with descriptions located within the City of Toronto.
+
+Buildings included in this dataset must be 6 units or larger.
+
+
+Columns
+
+_id
+Unique row identifier for Open Data database
+
+OBJECTID
+(FID)Unique system identifier
+
+BLD_ID
+(BldgID)Unique building identifier
+
+DEV_ID
+Unique development identifier
+
+DEV_NAME
+Development name
+
+NGHBRHD_NUM
+(Hoodnumb)City Neighbourhood number
+
+POLICE_DIV
+Police Division
+
+PSTL_CODE
+Postal code
+
+TTL_RES_UNIT
+Total residential units
+
+MRKT_UNIT
+Total market units
+
+RGI_UNITS
+Total rent geared to income units
+
+YR_BUILT
+Year of the building constructed
+
+BLD_TYPO
+Five building topologies, i.e. (High Rise Apartment, Mid Rise Apartment, Low Rise Apartment, Towns and Walkups, Houses)
+
+SCATTERED
+Scattered or not
+
+BLD_FORM
+(BuildForm)Detailed Building Type
+
+FLR_ABV_GR
+Above ground floors
+
+BLD_DESC
+Description of the building
+
+geometry	

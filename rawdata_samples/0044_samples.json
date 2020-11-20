@@ -1,0 +1,35 @@
+[
+    {
+        "propertyAddress": "40 Stevenson Rd",
+        "violations.violationFireCode": null,
+        "longitude": -79.58566,
+        "violations.violationDescription": null,
+        "propertyWard": 1,
+        "Inspections.ClosedDate": "2017-04-26T15:04:00",
+        "latitude": 43.744240000000005,
+        "_id": 1971479,
+        "inspections.OpenedDate": "2017-04-10T15:07:11"
+    },
+    {
+        "propertyAddress": "145 Queen St E",
+        "violations.violationFireCode": null,
+        "longitude": -79.37297,
+        "violations.violationDescription": null,
+        "propertyWard": 13,
+        "Inspections.ClosedDate": "2017-01-26T12:30:49",
+        "latitude": 43.65363,
+        "_id": 1971480,
+        "inspections.OpenedDate": "2017-01-26T12:30:49"
+    },
+    {
+        "propertyAddress": "5 Agate Rd",
+        "violations.violationFireCode": null,
+        "longitude": -79.48529,
+        "violations.violationDescription": null,
+        "propertyWard": 6,
+        "Inspections.ClosedDate": "2017-02-02T10:32:46",
+        "latitude": 43.72725,
+        "_id": 1971481,
+        "inspections.OpenedDate": "2017-01-04T14:59:06"
+    }
+]

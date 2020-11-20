@@ -1,0 +1,50 @@
+Description
+
+This dataset provides information for oversight of parking compliance and SUMD distribution for Lime’s vehicle fleet. Updated approximately every 5 minutes.
+
+
+Columns
+
+SUMD ID	
+SUMD type and unique identifier for every device, determined by company
+Plain Text
+	
+SUMD Type	
+Locomotion type of device, e.g. "standard" or "powered"
+Plain Text
+	
+SUMD Group	
+Group of device, e.g. "bicycle", "tricycle", "scooter", "hoverboard", "skateboard", "pedal car" or "other"
+Plain Text
+	
+GPS Latitude	
+Latitude of the parked device
+Number
+	
+GPS Longitude	
+Longitude of the parked device
+Number
+	
+Availability Start Date	
+UTC date the parked device became available (YYYY-MM-DD)
+Plain Text
+	
+Availability Start Time	
+UTC time of day the parked device became available (HH:MM:SS)
+Plain Text
+	
+Availability Duration	
+Duration of the parked device's availability in minutes (maximum of 2,880 minutes, or 48 hours)
+Number
+	
+Real Time Fare	
+Real-time SUMD fare per unit distance
+Number
+	
+Company Website	
+SUMD vendor website URL
+Plain Text
+	
+Company Phone	
+SUMD vendor local customer service phone number
+Plain Text

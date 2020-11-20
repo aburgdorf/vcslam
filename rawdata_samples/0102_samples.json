@@ -1,0 +1,35 @@
+[
+    {
+        "county": "Prince George's County",
+        "incident": "US 301 SOUTH FROM TRUMPS HILL RD TO FAIRHAVEN AVE",
+        "direction": "South",
+        "lanes": "1 of 2 Southbound traffic lanes closed.1 of 1 Southbound shoulders closed.",
+        "link": "https://www.chart.maryland.gov/?id=120",
+        "created": "Created:  11/10/2020 7:00:38 AM by SOC.",
+        "lat": "{\"x\":-76.805974,\"y\":38.763953,\"spatialReference\":{\"wkid\":4326}}",
+        "long": "{\"x\":-76.805974,\"y\":38.763953,\"spatialReference\":{\"wkid\":4326}}",
+        "updated": "Tue, 10 Nov 2020 11:00:33 GMT"
+    },
+    {
+        "county": "Worcester County",
+        "incident": "MD 611 NORTH FROM MYSTIC HARBOUR BLVD TO CTY MP 7.3",
+        "direction": "North",
+        "lanes": "1 of 1 Northbound shoulders closed.",
+        "link": "https://www.chart.maryland.gov/?id=155",
+        "created": "Created:  11/10/2020 9:16:28 AM by SOC.",
+        "lat": "{\"x\":-75.123306,\"y\":38.321416,\"spatialReference\":{\"wkid\":4326}}",
+        "long": "{\"x\":-75.123306,\"y\":38.321416,\"spatialReference\":{\"wkid\":4326}}",
+        "updated": "Tue, 10 Nov 2020 11:00:33 GMT"
+    },
+    {
+        "county": "Calvert County",
+        "incident": "MD 4 NORTH/SOUTH BETWEEN LOWER MARLBORO RD AND RAMP 2 FR MD 260 WB TO MD 4 NB",
+        "direction": "North/South",
+        "lanes": "2 of 2 Southbound shoulders closed.2 of 2 Northbound shoulders closed.",
+        "link": "https://www.chart.maryland.gov/?id=38",
+        "created": "Created:  11/10/2020 7:51:03 AM by SOC.",
+        "lat": "{\"x\":-76.608705,\"y\":38.662688,\"spatialReference\":{\"wkid\":4326}}",
+        "long": "{\"x\":-76.608705,\"y\":38.662688,\"spatialReference\":{\"wkid\":4326}}",
+        "updated": "Tue, 10 Nov 2020 11:00:32 GMT"
+    }
+]

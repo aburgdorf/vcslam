@@ -1,0 +1,92 @@
+[
+    {
+        "datasetid": "air-quality-data-continuous",
+        "recordid": "f47eea0e1933ffced61e99d3f7bf1e7f25c3d808",
+        "fields": {
+            "datestart": "2006-06-15T00:00:00+00:00",
+            "temp": 11.1,
+            "pm10": 17.392,
+            "date_time": "2020-08-02T01:00:00+00:00",
+            "no": 2.2451,
+            "geo_point_2d": [
+                51.4628294172,
+                -2.58454081635
+            ],
+            "current": "True",
+            "nox": 14.535,
+            "location": "AURN St Pauls",
+            "siteid": 452,
+            "no2": 11.0925,
+            "instrumenttype": "Continuous (Reference)",
+            "pm25": 8
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.58454081635,
+                51.4628294172
+            ]
+        },
+        "record_timestamp": "2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+        "datasetid": "air-quality-data-continuous",
+        "recordid": "01e25cb8108ecf498037b4f254fcd926a17cba31",
+        "fields": {
+            "datestart": "2006-06-15T00:00:00+00:00",
+            "temp": 10.4,
+            "pm10": 11.594,
+            "date_time": "2020-08-02T03:00:00+00:00",
+            "no": 0.9978,
+            "geo_point_2d": [
+                51.4628294172,
+                -2.58454081635
+            ],
+            "current": "True",
+            "nox": 8.6062,
+            "location": "AURN St Pauls",
+            "siteid": 452,
+            "no2": 7.0762,
+            "instrumenttype": "Continuous (Reference)",
+            "pm25": 8
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.58454081635,
+                51.4628294172
+            ]
+        },
+        "record_timestamp": "2020-09-01T11:47:18.449000+00:00"
+    },
+    {
+        "datasetid": "air-quality-data-continuous",
+        "recordid": "ec9302b62555545a176fcf346fd18fb5ea5b1df4",
+        "fields": {
+            "datestart": "2006-06-15T00:00:00+00:00",
+            "temp": 17.9,
+            "pm10": 12.561,
+            "date_time": "2020-08-03T15:00:00+00:00",
+            "no": 2.4946,
+            "geo_point_2d": [
+                51.4628294172,
+                -2.58454081635
+            ],
+            "current": "True",
+            "nox": 9.5625,
+            "location": "AURN St Pauls",
+            "siteid": 452,
+            "no2": 5.7375,
+            "instrumenttype": "Continuous (Reference)",
+            "pm25": 7
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.58454081635,
+                51.4628294172
+            ]
+        },
+        "record_timestamp": "2020-09-01T11:47:18.449000+00:00"
+    }
+]

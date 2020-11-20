@@ -1,0 +1,48 @@
+Description
+
+Road Closures in the State of Maryland provided by Maryland Department of Transportation Coordinated Highways Action Response Team (MDOT CHART). Road Closures created by local jurisdictions are not included as part of this dataset.
+
+
+
+Columns
+
+county	
+County of Road Closure
+Plain Text
+	
+incident	
+Description of Road Closure Incident
+Plain Text
+	
+direction	
+Direction(s) of Lane Closure(s)
+Plain Text
+	
+lanes	
+Number of Lanes Closed
+Plain Text
+	
+link	
+URL to Road Closure Incident
+Plain Text
+	
+created	
+Date Incident Created on
+Plain Text
+	
+lat	
+Latitude of Road Closure
+Plain Text
+	
+long	
+Longitude of Road Closure
+Plain Text
+	
+updated	
+Date Incident Last Updated
+Plain Text
+	
+location	
+Point Coordinates
+Point
+	

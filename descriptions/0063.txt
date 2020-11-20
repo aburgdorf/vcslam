@@ -1,0 +1,48 @@
+Description
+
+The dataset contains the locations and information about the pedestrian-oriented wayfinding map stands on Vancouver streets.
+
+Data currency
+
+This data is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this website is updated weekly.
+
+Data accuracy
+
+The locations shown are approximate locations of the map stands.
+
+
+Columns
+
+KEY
+Unique identifier for each map stand.
+	CVS### - a narrow map stand with wayfinding information on both sides.
+	CVP### - a large poster case map stand with wayfinding information on one side.
+
+ZONE
+General location of the map stand.
+	DT - Downtown
+	Metro Core – The area surrounding downtown extending to Burrard Street, 16th Ave, and Clark Drive/Knight Street.
+	OT – Outer Neighbourhoods beyond the Metro Core
+
+INSTALLATION
+Year the map stand was originally installed.
+
+LOCATION_1
+Name of street or path nearest to the map stand.
+
+LOCATION_2
+Name of secondary street or path nearest to the map stand.
+
+ORIENTATION
+The rotation of the map stand from true north, where 0 means the map stand 	is facing east/west.
+		
+BIA
+The name of the Business Improvement Area in which the map stand is located. See “Websites for further information section” for a listing of BIAs.
+
+Geo Local Area
+The local area where the feature is found, derived from the feature's coordinates or address in the source system. The City has 22 local areas (also known as local planning areas). For more details, see the Local area boundary data set.
+
+Geom
+Spatial representation.
+
+

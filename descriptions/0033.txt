@@ -1,0 +1,92 @@
+Description
+
+This dataset contains the historical assessed value of properties within the City of Edmonton. It is effective from January 1st, 2012 until December 31st, 2019.
+
+The information is collected for property assessment interpretation purposes only.
+
+The City of Edmonton does not warrant or guarantee the completeness and accuracy of the information presented.
+The City of Edmonton does not assume responsibility nor accept any liability arising from any use of the information other than for property assessment interpretation.
+
+
+Columns
+
+Account Number	
+The identification number of a property as it appears on the 
+City’s records.
+Plain Text
+	
+Assessment Year
+Number
+	
+Suite	
+Suite number of the property.
+Plain Text
+	
+House Number	
+The unique number given to the property.
+Plain Text
+	
+Street Name	
+The street name/number of the property.
+Plain Text
+	
+Legal Description	
+Legal Description
+Plain Text
+	
+Latitude
+Number
+	
+Longitude
+Number
+	
+Point Location
+Point
+	
+Neighbourhood	
+A geographical area as defined by the City of Edmonton
+Plain Text
+	
+Actual Year Built	
+Original year build of primary building
+Number
+	
+Garage	
+Is there a garage on the lot - Y (YES) or N (NO)
+Plain Text
+	
+Zoning	
+The actual zone for the parcel as of the date of the data set - see Zoning Bylaw, Bylaw 12800
+Plain Text
+	
+Lot Size	
+Alberta Land Titles registered lot size (in meters squared)
+Number
+	
+Assessed Value	
+Total assessed value for the property
+Number
+	
+Assessment Class 1	
+Classification of the property under Section 297 of the Municipal Government Act and applicable to the City of Edmonton Sub-Class Bylaws.
+Plain Text
+	
+Assessment Class % 1	
+The percentage of buildings or areas on the property making up the first assessment class.
+Plain Text
+	
+Assessment Class 2	
+Classification of the property under Section 297 of the Municipal Government Act and applicable to the City of Edmonton Sub-Class Bylaws.
+Plain Text
+	
+Assessment Class % 2	
+The percentage of buildings or areas on the property making up the second assessment class.
+Plain Text
+	
+Assessment Class 3	
+Classification of the property under Section 297 of the Municipal Government Act and applicable to the City of Edmonton Sub-Class Bylaws.
+Plain Text
+	
+Assessment Class % 3	
+The percentage of buildings or areas on the property making up the third assessment class.
+Plain Text

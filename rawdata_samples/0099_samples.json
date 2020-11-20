@@ -1,0 +1,65 @@
+[
+    {
+        "category": "HIGH SCHOOLS",
+        "school_name": "Walter Johnson HS",
+        "address": "6400 Rock Spring Dr",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "phone": "301-803-7100",
+        "url": "http://www.montgomeryschoolsmd.org/schools/wjhs",
+        "longitude": "-77.1301017226",
+        "latitude": "39.0253918855",
+        "location": {
+            "latitude": "39.0253918855",
+            "longitude": "-77.1301017226",
+            "human_address": "{\"address\": \"6400 Rock Spring Dr\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20814\"}"
+        },
+        ":@computed_region_vu5j_pcmz": "1",
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "19",
+        ":@computed_region_d7bw_bq6x": "103",
+        ":@computed_region_rbt8_3x7n": "1"
+    },
+    {
+        "category": "HIGH SCHOOLS",
+        "school_name": "Bethesda-Chevy Chase HS",
+        "address": "4301 East West Hwy",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "phone": "240-497-6300",
+        "url": "http://www.montgomeryschoolsmd.org/schools/bcchs",
+        "longitude": "-77.0889699717",
+        "latitude": "38.9868264765",
+        "location": {
+            "latitude": "38.9868264765",
+            "longitude": "-77.0889699717",
+            "human_address": "{\"address\": \"4301 East West Hwy\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20814\"}"
+        },
+        ":@computed_region_vu5j_pcmz": "1",
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_d7bw_bq6x": "111",
+        ":@computed_region_rbt8_3x7n": "1"
+    },
+    {
+        "category": "ELEMENTARY SCHOOLS",
+        "school_name": "Bethesda ES",
+        "address": "7600 Arlington Rd",
+        "city": "Bethesda",
+        "zip_code": "20814",
+        "phone": "301-657-4979",
+        "url": "http://www.montgomeryschoolsmd.org/schools/bethesdaes",
+        "longitude": "-77.0998645245",
+        "latitude": "38.9864595389",
+        "location": {
+            "latitude": "38.9864595389",
+            "longitude": "-77.0998645245",
+            "human_address": "{\"address\": \"7600 Arlington Rd\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20814\"}"
+        },
+        ":@computed_region_vu5j_pcmz": "1",
+        ":@computed_region_tx5f_5em3": "1",
+        ":@computed_region_kbsp_ykn9": "12",
+        ":@computed_region_d7bw_bq6x": "111",
+        ":@computed_region_rbt8_3x7n": "1"
+    }
+]

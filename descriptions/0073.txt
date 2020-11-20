@@ -1,0 +1,94 @@
+Description
+
+Average weekday daily traffic volumes within the City of Redmond
+
+
+Columns
+
+Intersection-Leg	
+Intersection and directional leg identifier
+Plain Text
+	
+Description	
+Description of count location
+Plain Text
+	
+Start Date	
+Start date of collection
+Date & Time
+	
+Days	
+Days of collection
+Number
+	
+AWDT	
+Average weekday daily traffic volume
+Number
+	
+EB Peak AM Hour	
+Hour of the highest AM traffic volume in the eastbound direction
+Plain Text
+	
+EB Peak AM Volume	
+Volume of traffic traveling eastbound during the peak AM hour
+Number
+	
+EB Peak PM Hour	
+Hour of the highest PM traffic volume in the eastbound direction
+Plain Text
+	
+EB Peak PM Volume	
+Volume of traffic traveling eastbound during the peak PM hour
+Number
+	
+WB Peak AM Hour	
+Hour of the highest AM traffic volume in the westbound direction
+Plain Text
+	
+WB Peak AM Volume	
+Volume of traffic traveling westbound during the peak AM hour
+Number
+	
+WB Peak PM Hour	
+Hour of the highest PM traffic volume in the westbound direction
+Plain Text
+	
+WB Peak PM Volume	
+Volume of traffic traveling westbound during the peak PM hour
+Number
+	
+NB Peak AM Hour	
+Hour of the highest AM traffic volume in the northbound direction
+Plain Text
+	
+NB Peak AM Volume	
+Volume of traffic traveling northbound during the peak AM hour
+Number
+	
+NB Peak PM Hour	
+Hour of the highest PM traffic volume in the northbound direction
+Plain Text
+	
+NB Peak PM Volume	
+Volume of traffic traveling northbound during the peak PM hour
+Number
+	
+SB Peak AM Hour	
+Hour of the highest AM traffic volume in the southbound direction
+Plain Text
+	
+SB Peak AM Volume	
+Volume of traffic traveling southbound during the peak AM hour
+Number
+	
+SB Peak PM Hour	
+Hour of the highest PM traffic volume in the southbound direction
+Plain Text
+	
+SB Peak PM Volume	
+Volume of traffic traveling southbound during the peak PM hour
+Number
+	
+Location	
+Traffic count location
+Location

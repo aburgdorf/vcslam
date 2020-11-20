@@ -1,0 +1,177 @@
+Description
+
+Seattle’s Building Energy Benchmarking Program (SMC 22.920) requires owners of non-residential and multifamily buildings (20,000 square feet or larger) to track energy performance and annually report to the City of Seattle. Annual benchmarking, reporting and disclosing of building performance are foundational elements of creating more market value for energy efficiency.
+
+Per Ordinance (125000), starting with 2015 energy use performance reporting, the City of Seattle will make the data for all building 20,000 SF and larger available annually. This dataset contains all 2018 buildings required to report.
+
+
+Columns
+
+OSEBuildingID	
+A unique identifier assigned to each property covered by the Seattle Benchmarking Ordinance for tracking and identification purposes.
+Number
+	
+DataYear	
+Calendar year (January-December) represented by each data record.
+Number
+	
+BuildingName	
+Official or common property name on record with the City of Seattle.
+Plain Text
+	
+BuildingType	
+City of Seattle building type classification.
+Plain Text
+	
+TaxParcelIdentificationNumber	
+Property King County PIN.
+Plain Text
+	
+Address	
+Property street address.
+Plain Text
+	
+City	
+Property city.
+Plain Text
+	
+State	
+Property state.
+Plain Text
+	
+ZipCode	
+Property zip code.
+Number
+	
+Latitude	
+Property latitude.
+Number
+	
+Longitude	
+Property longitude.
+Number
+	
+Neighborhood	
+Property neighborhood area defined by the City of Seattle Department of Neighborhoods.
+Plain Text
+	
+CouncilDistrictCode	
+Property City of Seattle council district.
+Number
+	
+YearBuilt	
+Year in which a property was constructed or underwent a complete 
+renovation.
+Number
+	
+NumberofFloors	
+Number of floors reported in Portfolio Manager.
+Number
+	
+NumberofBuildings	
+Number of buildings included in the property's report. In cases where a property is reporting as a campus, multiple buildings may be included in one report.
+Number
+	
+PropertyGFATotal	
+Total building and parking gross floor area.
+Number
+	
+PropertyGFABuilding(s)	
+Total floor space in square feet between the outside surfaces of a building’s enclosing walls. This includes all areas inside the building(s), such as tenant space, common areas, stairwells, basements, storage, etc.
+Number
+	
+PropertyGFAParking	
+Total space in square feet of all types of parking (Fully Enclosed, Partially Enclosed, and Open).
+Number
+	
+PrimaryPropertyType	
+The primary use of a property (e.g. office, retail store). Primary use is defined as a function that accounts for more than 50% of a property. This is the Property Type - EPA Calculated field from Portfolio Manager.
+Plain Text
+	
+ENERGYSTARScore	
+An EPA calculated 1-100 rating that assesses a property’s overall energy performance, based on national data to control for differences among climate, building uses, and operations. A score of 50 represents the national median.
+Number
+	
+SiteEUIWN(kBtu/sf)	
+Weather Normalized (WN) Site Energy Use Intensity (EUI) is a property's WN Site Energy divided by its gross floor area (in square feet). WN Site Energy is the Site Energy Use the property would have consumed during 30-year average weather conditions. WN Site EUI is measured in measured in thousands of British thermal units (kBtu) per square foot.
+Number
+	
+SiteEUI(kBtu/sf)	
+Site Energy Use Intensity (EUI) is a property's Site Energy Use divided by its gross floor area. Site Energy Use is the annual amount of all the energy consumed by the property on-site, as reported on utility bills. Site EUI is measured in thousands of British thermal units (kBtu) per square foot.
+Number
+	
+SiteEnergyUse(kBtu)	
+The annual amount of energy consumed by the property from all sources of energy.
+Number
+	
+SiteEnergyUseWN(kBtu)	
+The annual amount of energy consumed by the property from all sources of energy, adjusted to what the property would have consumed during 30-year average weather conditions.
+Number
+	
+SourceEUIWN(kBtu/sf)	
+Weather Normalized (WN) Source Energy Use Intensity (EUI) is a property's WN Source Energy divided by its gross floor area. WN Source Energy is the Source Energy Use the property would have consumed during 30-year average weather conditions. WN Source EUI is measured in measured in thousands of British thermal units (kBtu) per square foot.
+Number
+	
+SourceEUI(kBtu/sf)	
+Source Energy Use Intensity (EUI) is a property's Source Energy Use divided by its gross floor area. Source Energy Use is the annual energy used to operate the property, including losses from generation, transmission, & distribution. Source EUI is measured in thousands of British thermal units (kBtu) per square foot.
+Number
+	
+LargestPropertyUseType	
+The largest use of a property (e.g. office, retail store) by GFA
+Plain Text
+	
+LargestPropertyUseTypeGFA	
+The gross floor area (GFA) of the largest use of the property.
+Number
+	
+SecondLargestPropertyUseType	
+The second largest use of a property (e.g. office, retail store) by GFA.
+Plain Text
+	
+SecondLargestPropertyUseTypeGFA	
+The gross floor area (GFA) of the second largest use of the property.
+Number
+	
+ThirdLargestPropertyUseType	
+The third largest use of a property (e.g. office, retail store) by GFA.
+Plain Text
+	
+ThirdLargestPropertyUseTypeGFA	
+The gross floor area (GFA) of the third largest use of the property.
+Number
+	
+Electricity(kWh)	
+The annual amount of electricity consumed by the property on-site, including electricity purchased from the grid and generated by onsite renewable systems, measured in kWh.
+Number
+	
+Electricity(kBtu)	
+The annual amount of electricity consumed by the property on-site, including electricity purchased from the grid and generated by onsite renewable systems, measured in thousands of British thermal units (kBtu).
+Number
+	
+NaturalGas(therms)	
+The annual amount of utility-supplied natural gas consumed by the property, measured in therms.
+Number
+	
+NaturalGas(kBtu)	
+The annual amount of utility-supplied natural gas consumed by the property, measured in thousands of British thermal units (kBtu).
+Number
+	
+SteamUse(kBtu)	
+The annual amount of district steam consumed by the property on-site, measured in thousands of British thermal units (kBtu).
+Number
+	
+TotalGHGEmissions	
+The total amount of greenhouse gas emissions, including carbon dioxide, methane, and nitrous oxide gases released into the atmosphere as a result of energy consumption at the property, measured in metric tons of carbon dioxide equivalent. This calculation uses a GHG emissions factor from Seattle CIty Light's portfolio of generating resources.
+Number
+	
+GHGEmissionsIntensity	
+Total Greenhouse Gas Emissions divided by property's gross floor area, measured in kilograms of carbon dioxide equivalent per square foot. This calculation uses a GHG emissions factor from Seattle City Light's portfolio of generating resources
+Number
+	
+ComplianceStatus	
+Whether a property has met energy benchmarking requirements for the current reporting year.
+Plain Text
+	
+ComplianceIssue	
+If not compliant, what issue the building had as of October 15, 2019
+Plain Text

@@ -1,0 +1,54 @@
+Description
+
+
+The City and Utilities Kingston work together to improve the network of roads, sidewalks and utility services within the city. Included in this dataset are scheduled construction projects to City streets, sidewalks, street furniture, bridges, bikeways and traffic infrastructure.
+
+
+
+
+Columns
+
+Organization
+The name of the organization responsible for the project
+
+Capital Program
+The category of the capital program.
+
+Program Subclass
+The sub-category of the capital program.
+
+Project Status
+The status of the project
+
+Project Title
+The title of the project.
+
+Project Description
+The description of the project.
+
+Project Planning From
+The planned starting date for project planning.
+
+Project Planning To
+The planned ending date for project planning.
+
+Planned Construction From
+The planned starting date for construction.
+
+Planned Construction To
+The planned ending date for construction.
+
+Construction Completion From
+The actual starting date of construction.
+
+Construction Completion To
+The actual ending date of construction.
+
+Project URL
+Web URL associated with the project (if available).
+
+SDE_ID
+The Object ID within SDE
+
+GeoJSON
+geo_point_2d

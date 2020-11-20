@@ -1,0 +1,111 @@
+[
+    {
+        "datasetid": "public-art",
+        "recordid": "5cd6508c767aef4eea160125c62ceeb29775b25c",
+        "fields": {
+            "status": "In place",
+            "yearofinstallation": "1977",
+            "photourl": {
+                "mimetype": "application/octet-stream",
+                "format": "aspx?AreaId=19&ImageId=13",
+                "filename": "LAW19-1.jpg",
+                "width": 300,
+                "id": "7fe528956a0df13b4878c2bd592915fa",
+                "height": 300,
+                "thumbnail": false
+            },
+            "sitename": "Vancouver City Hall",
+            "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=19",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114522,
+                    49.261439
+                ]
+            },
+            "locationonsite": "Northwest lawn",
+            "ownership": "City of Vancouver",
+            "artists": "244",
+            "siteaddress": "453 West 12th Avenue at Cambie",
+            "registryid": 19,
+            "type": "Figurative",
+            "neighbourhood": "Mount Pleasant",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2020-11-09T12:31:46.726+01:00"
+    },
+    {
+        "datasetid": "public-art",
+        "recordid": "33c1f6d23a188f6e76a8afb9c2ad464736739c9f",
+        "fields": {
+            "status": "In place",
+            "descriptionofwork": "This 6'6\" bronze figure standing on a barrel is prominently located in Gastown and commemorates the man for whom Gastown is named. Born in 1830, \"Gassy\" Jack Deighton was an adventurer who went to sea and was attracted by the gold rush in California and then in New Caledonia (now British Columbia). He didn't strike it rich and instead became a tax man and a steamboat pilot and later ran a saloon which is why he stands on a whiskey barrel. The Globe Saloon which stood on the site was reputedly built in 24 hours by the thirsty workers. (Vancouver Sun, April 7, 2001, H3) The nickname Gassy Jack came from the fact that he talked so much. (drawn from Old Vancouver Townsite Walking Tour, Footprints Community Art Project, 2001)",
+            "yearofinstallation": "1970",
+            "photourl": {
+                "mimetype": "application/octet-stream",
+                "format": "aspx?AreaId=21&ImageId=15",
+                "filename": "LAW21-1.jpg",
+                "width": 300,
+                "id": "c3e6c09a97f347e095fdfd0c6c43de87",
+                "height": 300,
+                "thumbnail": false
+            },
+            "sitename": "Gastown",
+            "registryid": 21,
+            "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=21",
+            "neighbourhood": "Downtown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.104296,
+                    49.283351
+                ]
+            },
+            "photocredits": "Barbara Cole",
+            "ownership": "City of Vancouver",
+            "artists": "134",
+            "siteaddress": "Carrall, Water & Powell Street",
+            "artistprojectstatement": "The sculpture was commissioned by Larry Killam and others interested in improving business in the Gastown area in the early 1970s. Vern Simpson made the sculpture following a drawing by Fritz Jacobson. It was given as a Valentine's Day gift to the City.  Then Mayor Tom Campbell threatened to have it hauled away to the city dump.  Vandals later decapitated it but the head was returned for a $50 reward.",
+            "type": "Memorial or monument",
+            "primarymaterial": "copper stained with muriatic acid",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2020-11-09T12:31:46.726+01:00"
+    },
+    {
+        "datasetid": "public-art",
+        "recordid": "650ccbc8aae419a44c39a359c7c219ca39b3d494",
+        "fields": {
+            "status": "In place",
+            "yearofinstallation": "1960",
+            "photourl": {
+                "mimetype": "application/octet-stream",
+                "format": "aspx?AreaId=23&ImageId=17",
+                "filename": "LAW23-1.jpg",
+                "width": 300,
+                "id": "3b0b2051f33bbe168df193679711284d",
+                "height": 300,
+                "thumbnail": false
+            },
+            "sitename": "White House Apartments",
+            "url": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=23",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.143036,
+                    49.291012
+                ]
+            },
+            "primarymaterial": "Paint on concrete",
+            "ownership": "Privately owned",
+            "artists": "29",
+            "siteaddress": "2033 Comox Street",
+            "registryid": 23,
+            "geo_local_area": "West End",
+            "type": "Mural",
+            "neighbourhood": "West End",
+            "locationonsite": "Exterior, either side of entrance"
+        },
+        "record_timestamp": "2020-11-09T12:31:46.726+01:00"
+    }
+]

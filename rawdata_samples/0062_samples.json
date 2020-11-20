@@ -1,0 +1,98 @@
+[
+    {
+        "datasetid": "parks",
+        "recordid": "04860f379feea9c4028f153b8b7e7108d235bad2",
+        "fields": {
+            "washrooms": "N",
+            "specialfeatures": "N",
+            "googlemapdest": [
+                49.249783,
+                -123.15525
+            ],
+            "name": "Arbutus Village Park",
+            "facilities": "Y",
+            "hectare": 1.41,
+            "official": 1,
+            "parkid": 1,
+            "advisories": "N",
+            "neighbourhoodurl": "https://vancouver.ca/news-calendar/arbutus-ridge.aspx",
+            "streetnumber": "4202",
+            "neighbourhoodname": "Arbutus-Ridge",
+            "nsstreet": "Valley Drive",
+            "streetname": "Valley Drive",
+            "ewstreet": "King Edward Avenue"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.15525,
+                49.249783
+            ]
+        },
+        "record_timestamp": "2019-09-09T13:01:31.443+02:00"
+    },
+    {
+        "datasetid": "parks",
+        "recordid": "fe58fe5d86d3567df20733530c742b446572ce58",
+        "fields": {
+            "washrooms": "N",
+            "specialfeatures": "N",
+            "googlemapdest": [
+                49.247723,
+                -123.168194
+            ],
+            "name": "Park Site on Puget Drive",
+            "facilities": "N",
+            "hectare": 0.09,
+            "official": 0,
+            "parkid": 4,
+            "advisories": "N",
+            "neighbourhoodurl": "https://vancouver.ca/news-calendar/arbutus-ridge.aspx",
+            "streetnumber": "4309",
+            "neighbourhoodname": "Arbutus-Ridge",
+            "nsstreet": "MacDonald Street",
+            "streetname": "Puget Drive",
+            "ewstreet": "Puget Drive"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.168194,
+                49.247723
+            ]
+        },
+        "record_timestamp": "2019-09-09T13:01:31.443+02:00"
+    },
+    {
+        "datasetid": "parks",
+        "recordid": "a5ed40e8da9094753748ed919f756c0a51242d7e",
+        "fields": {
+            "washrooms": "Y",
+            "specialfeatures": "N",
+            "googlemapdest": [
+                49.278923,
+                -123.1055
+            ],
+            "name": "Andy Livingstone Park",
+            "facilities": "Y",
+            "hectare": 4.21,
+            "official": 1,
+            "parkid": 10,
+            "advisories": "N",
+            "neighbourhoodurl": "https://vancouver.ca/news-calendar/downtown.aspx",
+            "streetnumber": "89",
+            "neighbourhoodname": "Downtown",
+            "nsstreet": "Carrall Street",
+            "streetname": "Expo Boulevard",
+            "ewstreet": "Expo Boulevard"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -123.1055,
+                49.278923
+            ]
+        },
+        "record_timestamp": "2019-09-09T13:01:31.443+02:00"
+    }
+]

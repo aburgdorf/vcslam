@@ -1,0 +1,42 @@
+Description
+
+City of New Orleans, Live Entertainment Permits. Data provided by Bureau of Revenue.
+
+
+Columns
+
+BusinessName	
+Name of the business
+Plain Text
+	
+Address	
+Physical address of the business
+Plain Text
+	
+Suite	
+Physical address suite number
+Plain Text
+	
+City	
+Physical address city name
+Plain Text
+	
+State	
+Physical address state name
+Plain Text
+	
+Zip	
+Physical address zip code
+Plain Text
+	
+PermitType	
+Permit code and description
+Plain Text
+	
+OwnerName	
+Name of the owner of the business
+Plain Text
+	
+Location	
+Latitude/Longitude coordinates
+Location

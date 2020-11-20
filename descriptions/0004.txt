@@ -1,0 +1,40 @@
+Description
+
+This data set covers 877 structures within the Greater London boundary / M25 comprising of low bridges, tunnels and road barriers in a .csv file which will be updated annually.
+
+
+Columns
+
+Height restriction(m)		• Up to 3.0
+				• Between 3.1 and 3.5
+				• Between 3.6 and 4.0
+				• Between 4.1 and 4.5
+				• Between 4.6 and 5.1
+	
+Height restriction (imperial) 	• Up to 9'10"
+				• Between 9'10" and 11'6"
+				• Between 11'9" and 13'0"
+				• Between 13'3" and 14'9"
+				• Between 15'0" and 16'6"
+	
+Easting 			X-coordinate
+	
+Northing 			y-coordinate
+	
+Grid Reference 			Grid reference value	
+
+Lat 				Latitude value	
+
+Lng 				Longitude value	
+
+Borough 			Borough name	
+
+Road name 			Road name	
+
+Road number 			Road Number	
+
+TLRN [Red route]? 		• Yes = restriction is located on TLRN
+				• No = sign is NOT located on TLRN
+				(TLRN = Transport for London Road Network Area = Red Route, road network controlled by TfL)
+
+Comments 			Additional information

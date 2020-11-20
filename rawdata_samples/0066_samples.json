@@ -1,0 +1,69 @@
+[
+    {
+        "datasetid": "greenest-city-projects",
+        "recordid": "049f36f8c7427f2cf9720dd83aa6d0c605031aba",
+        "fields": {
+            "category1": "Private projects",
+            "category2": "Local-Food",
+            "name": "Local Garden Greenhouse",
+            "url": "http://www.localgarden.com/",
+            "mapid": "GCP003",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.113911171598,
+                    49.2828569318384
+                ]
+            },
+            "address": "535 Richards ST",
+            "short_description": "Local produce growing for local restaurants and grocery stores.",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-06-03T13:00:42.022+02:00"
+    },
+    {
+        "datasetid": "greenest-city-projects",
+        "recordid": "b082ed098564d5ba28985e77c5063dc7a1346505",
+        "fields": {
+            "category1": "Private projects",
+            "category2": "Green-Economy",
+            "name": "Ostara Nutrient Recovery Technologies In",
+            "url": "http://ostara.com/",
+            "mapid": "GCP004",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1232248,
+                    49.2883616
+                ]
+            },
+            "address": "690 - 1199 West Pender St",
+            "short_description": "Parks Board trials Ostara's slow-release fertilizer that is sourced from waste-water.",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-06-03T13:00:42.022+02:00"
+    },
+    {
+        "datasetid": "greenest-city-projects",
+        "recordid": "f6c8378b54a4a3493256a072940e8b793e9e7978",
+        "fields": {
+            "category1": "Private projects",
+            "category2": "Green-Economy",
+            "name": "Inteluma Energy Systems",
+            "url": "http://www.inteluma.com/project/real-estate-board-of-greater-vancouver/",
+            "address": "813 Burrard St",
+            "mapid": "GCP005",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1234068,
+                    49.28309509
+                ]
+            },
+            "url2": "http://www.inteluma.com/",
+            "short_description": "Demonstrating LED lighting system in the Greater Vancouver Real Estate Board parkade.",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-06-03T13:00:42.022+02:00"
+    }
+]

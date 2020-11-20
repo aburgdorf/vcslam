@@ -1,0 +1,47 @@
+[
+    {
+        "center_name": "People's Community Center",
+        "phone": "(253) 591-5321",
+        "website": {
+            "url": "http://www.metroparkstacoma.org/peoples"
+        },
+        "center_location": {
+            "latitude": "47.24634",
+            "longitude": "-122.450418",
+            "human_address": "{\"address\": \"1602 South Martin Luther King Jr Way\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"98405\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12604",
+        ":@computed_region_vdmk_m8s5": "9",
+        ":@computed_region_rrmn_rvi4": "9"
+    },
+    {
+        "center_name": "Eastside Community Center",
+        "phone": "(253) 404-3990",
+        "website": {
+            "url": "https://www.metroparkstacoma.org/place/eastside-community-center/"
+        },
+        "center_location": {
+            "latitude": "47.206248",
+            "longitude": "-122.405624",
+            "human_address": "{\"address\": \"1721 E 56th St\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"98404\"}"
+        },
+        ":@computed_region_29ft_c7g5": "12602",
+        ":@computed_region_vdmk_m8s5": "2",
+        ":@computed_region_rrmn_rvi4": "8"
+    },
+    {
+        "center_name": "Center at Norpoint",
+        "phone": "(253) 404-3900",
+        "website": {
+            "url": "http://www.CenterAtNorpoint.org"
+        },
+        "center_location": {
+            "latitude": "47.300086",
+            "longitude": "-122.402545",
+            "human_address": "{\"address\": \"4818 Nassau Avenue NE\", \"city\": \"Tacoma\", \"state\": \"WA\", \"zip\": \"98422\"}"
+        },
+        ":@computed_region_29ft_c7g5": "4839",
+        ":@computed_region_vdmk_m8s5": "13",
+        ":@computed_region_rrmn_rvi4": "2"
+    }
+]

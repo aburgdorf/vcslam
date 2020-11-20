@@ -1,0 +1,57 @@
+Description
+
+This package contains information on properties or sites which have been given heritage status or recognition.
+Data currency
+
+This data in City systems is updated in the normal course of business, however priorities and resources determine how fast a change in reality is reflected in the database. The extract on this web site is updated weekly.
+Data accuracy
+
+The map will not show any heritage property or site that does not contain corresponding coordinates data. 
+
+
+Columns
+
+ID
+
+ADDRESS
+Street address where the heritage property is located.
+
+BUILDINGNAME
+Name of building or site which has been given heritage status.
+
+VHR
+Evaluation category on Heritage Register. This field may be blank if property or site is not on Heritage Register. Three evaluation categories are used:
+	A - Primary Significance. Represents the best examples of a style or type of building; may be associated with a person or event of significance.
+	B - Significant. Represents good examples of a particular style or type, either individually or collectively; may have some documented historical or cultural significance in a neighbourhood.
+	C - Contextual or Character. Represents those buildings that contribute to the historic character of an area or streetscape, usually found in groupings of more than one building but may also be of individual importance. 
+	While the category is a useful reference, the key is that whichever category a building is placed under, it has heritage value.
+
+DESIGNATION
+Heritage protection and recognition. Includes notations that indicate legal protection and other formal recognition.
+	P - building or site that is protected by a legal heritage designation by the Province of British Columbia.
+	M - building or site that is protected by a legal heritage designation by the City of Vancouver. 
+	Note: Some of the municipally designated sites in Chinatown and Gastown may not have a VHR category. They are included for information purposes, and are not included in the formal count of resources on the Heritage Register. However, they may still have historic value, and are noted accordingly as "M".
+	I - specific interior features and fixtures in the building are protected.
+	L - certain landscape features are protected.
+	F - site identified by the Federal Government as a National Historic Site. However, it is not legally protected unless it also has municipal or provincial designation, or a Heritage Revitalization Agreement.
+
+ZONING
+Name of zoning district. Each zoning district has a corresponding district schedule in the Zoning and Development By-law.
+
+LOCALAREA
+Local (planning) area where the heritage property is located. City Council approved twenty-two local areas in 1969, as a basis for the organization of community services and city departments. For more information, see the Local area boundary dataset.
+
+STREET
+Name of street where the heritage property is located.
+
+STREET_NBR
+Number assigned to the street where the heritage property is located.
+
+HRA_HCC
+Buildings or sites with a Heritage Revitalization Agreement or Heritage Conservation Covenant.
+	H - a building or site, or some portion thereof, are the subject of a Heritage Revitalization Agreement. A notice of the agreement is registered on title at the Land Title Office. A copy of the agreement is on file in the City Clerk's Office.
+	HC - building or some portion thereof, is protected by a Heritage Conservation Covenant registered on title at the Land Title Office.
+
+Geom
+Spatial representation of feature
+

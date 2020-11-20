@@ -1,0 +1,125 @@
+[
+    {
+        "datasetid": "non-market-housing",
+        "recordid": "8642697137061cfe2387599a6183123f659d52bb",
+        "fields": {
+            "design_accessible_4br": 0,
+            "design_accessible_2br": 2,
+            "design_accessible_3br": 0,
+            "operator": "Inti Co-op Housing Association",
+            "design_accessible_room": 0,
+            "project_status": "Completed",
+            "occupancy_year": "1986",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.14821914,
+                    49.27094519
+                ]
+            },
+            "design_standard_room": 0,
+            "name": "Inti Co-op",
+            "design_adaptable_1br": 0,
+            "design_standard_4br": 2,
+            "design_standard_2br": 4,
+            "index_number": 3,
+            "design_standard_3br": 6,
+            "local_area": "Kitsilano",
+            "design_adaptable_4br": 0,
+            "address": "1675 Cypress St",
+            "design_accessible_studio": 0,
+            "design_standard_1br": 4,
+            "design_adaptable_3br": 0,
+            "design_adaptable_2br": 0,
+            "design_standard_studio": 0,
+            "clientele_families": 14,
+            "url": "https://app.vancouver.ca/NonMarketHousing_NET/ProjectDetails.aspx?IndexNum=3",
+            "design_accessible_1br": 2,
+            "clientele_seniors": 0,
+            "clientele_other": 6
+        },
+        "record_timestamp": "2020-10-26T11:31:16.638+01:00"
+    },
+    {
+        "datasetid": "non-market-housing",
+        "recordid": "1ac0e2435ec0ea2b1c14494172efbe1722ebf30b",
+        "fields": {
+            "design_accessible_4br": 0,
+            "design_accessible_2br": 0,
+            "design_accessible_3br": 0,
+            "operator": "Sam Greer Place Co-op Housing Association",
+            "design_accessible_room": 0,
+            "project_status": "Completed",
+            "occupancy_year": "1977",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.14995826,
+                    49.27046454
+                ]
+            },
+            "design_standard_room": 0,
+            "name": "Sam Greer Place Co-op",
+            "design_adaptable_1br": 0,
+            "design_standard_4br": 0,
+            "design_standard_2br": 7,
+            "index_number": 5,
+            "design_standard_3br": 0,
+            "local_area": "Kitsilano",
+            "design_adaptable_4br": 0,
+            "address": "1714 Maple St.",
+            "design_accessible_studio": 0,
+            "design_standard_1br": 8,
+            "design_adaptable_3br": 0,
+            "design_adaptable_2br": 0,
+            "design_standard_studio": 0,
+            "clientele_families": 7,
+            "url": "https://app.vancouver.ca/NonMarketHousing_NET/ProjectDetails.aspx?IndexNum=5",
+            "design_accessible_1br": 0,
+            "clientele_seniors": 0,
+            "clientele_other": 8
+        },
+        "record_timestamp": "2020-10-26T11:31:16.638+01:00"
+    },
+    {
+        "datasetid": "non-market-housing",
+        "recordid": "ea52ad888e155b78e2c5bf4a9180903e31fc7460",
+        "fields": {
+            "design_accessible_4br": 0,
+            "design_accessible_2br": 0,
+            "design_accessible_3br": 4,
+            "operator": "Metro Vancouver Housing Corporation",
+            "design_accessible_room": 0,
+            "project_status": "Completed",
+            "occupancy_year": "1980",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.19038711,
+                    49.27045566
+                ]
+            },
+            "design_standard_room": 0,
+            "name": "Habitat Villa",
+            "design_adaptable_1br": 0,
+            "design_standard_4br": 0,
+            "design_standard_2br": 4,
+            "index_number": 12,
+            "design_standard_3br": 29,
+            "local_area": "West Point Grey",
+            "design_adaptable_4br": 0,
+            "address": "3859 W 2nd Ave",
+            "design_accessible_studio": 0,
+            "design_standard_1br": 0,
+            "design_adaptable_3br": 0,
+            "design_adaptable_2br": 0,
+            "design_standard_studio": 0,
+            "clientele_families": 37,
+            "url": "https://app.vancouver.ca/NonMarketHousing_NET/ProjectDetails.aspx?IndexNum=12",
+            "design_accessible_1br": 0,
+            "clientele_seniors": 0,
+            "clientele_other": 0
+        },
+        "record_timestamp": "2020-10-26T11:31:16.638+01:00"
+    }
+]

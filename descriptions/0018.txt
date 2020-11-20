@@ -1,0 +1,111 @@
+Description
+
+Records of Officer Involved Shootings (OIS) from 2005 to the present, including a brief narrative synopsis. Data set does not contain records from active investigations. Data is visualized in a dashboard on the SPD public site (https://www.seattle.gov/police/information-and-data/use-of-force-data/officer-involved-shootings-dashboard), please reference as a guide for use. Dashboard is available for download.
+
+Until 2017, the Seattle Police Department had been updating these data as cases completed the inquest and other external processes. Given the current delay in the those systems, SPD is now going to post updates when the Force Review Board has determined if the action(s) was within policy.
+
+
+
+Columns
+
+FRB #	
+For cases prior to 2014 this is the Firearms Review Board number. After 2014 cases are referred to only by their GO.
+Plain Text
+	
+Incident Number	
+General Offense Number. Unique identifier for the case.
+Plain Text
+	
+Date / Time	
+Combined Date / Time as reported by the officer.
+Date & Time
+	
+Blurred Address	
+The general address of the incident “blurred” to the 100 block.
+Plain Text
+	
+Longitude	
+Longitudinal coordinate of the blurred address
+Plain Text
+	
+Latitude	
+Latitudinal coordinate of the blurred address
+Plain Text
+	
+City	
+The city where the incident occurred.
+Plain Text
+	
+State	
+The state where the incident occurred.
+Plain Text
+	
+Rank	
+The rank of the officer involved in the incident at the time of the incident.
+Plain Text
+	
+Officer Gender	
+The gender of the officer involved in the incident.
+Plain Text
+	
+Officer Race	
+The race of the officer involved in the incident.
+Plain Text
+	
+Years of SPD Service	
+The number of years the officer involved had been employed by the Seattle Police Department at the time of the incident. Rounded to the nearest full year. For those incidents where the 
+officer had not yet reached 6 months of service <1 is indicated.
+Plain Text
+	
+Officer Injured	
+Whether the officer suffered serious injury during the incident. Either yes or no.
+Plain Text
+	
+Number of Rounds	
+The number of rounds the officer fired during the incident, if known. If the officer fired more than one round, and the exact number of rounds fired by each officer in an incident cannot be determined, multiple is 
+indicated.
+Plain Text
+	
+Subject Gender	
+The gender of the subject involved in the incident if known.
+Plain Text
+	
+Subject Race	
+The race of the subject involved in the incident if known.
+Plain Text
+	
+Subject DOB	
+The date of birth of the subject involved in the incident if known.
+Plain Text
+	
+Subject Age	
+The age of the subject involved in the incident if known. Rounded to the nearest full year.
+Plain Text
+	
+Subject Weapon	
+Indicates whether the subject involved in the incident was armed with a weapon. Either “yes” or “no.”
+Plain Text
+	
+Type of Weapon	
+A brief description of the weapon the subject was armed with, if applicable. If the subject had no weapon, the data field is blank.
+Plain Text
+	
+Fatal	
+Whether the subject was fatally injured during the incident. Either “yes” or “no.”
+Plain Text
+	
+On-duty	
+Whether the officer was on duty at the time of the incident. Either “yes” or “no.”
+Plain Text
+	
+Disposition	
+Combined field including justified and within policy, according to relevant standard.
+Plain Text
+	
+Officer Disciplined?	
+Indicates whether the officer involved in the incident was disciplined for policy violations associated with the incident.
+Plain Text
+	
+Summary	
+Summary of the incident.
+Plain Text

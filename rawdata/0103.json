@@ -1,0 +1,1701 @@
+[
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006600",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 9)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2010-10-27T00:00:00.000",
+        "parcel": "34L0430001000",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "S Park St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1435.06",
+        "funding_source": "Federal"
+    },
+    {
+        "date": "2011-12-16T00:00:00.000",
+        "parcel": "34L0840004400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1105 S Valmar St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1214.08",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312187,
+                34.740882
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L0920035700",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1623 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311849,
+                34.736114
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1890011100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1605 Jones St",
+        "zip_code": "72202",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.302679,
+                34.73528
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2012-05-07T00:00:00.000",
+        "parcel": "34L1710002100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2613 Abigail St",
+        "zip_code": "72205",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1222.04",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.321727,
+                34.727497
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "67",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2015-05-04T00:00:00.000",
+        "parcel": "34L1520000700",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3401 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title Needed",
+        "available_for_purchase": "No",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311853,
+                34.735366
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2015-09-08T00:00:00.000",
+        "parcel": "34L1630004800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1923 S Cedar St",
+        "zip_code": "72204",
+        "title_status": "Commissioners Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.318241,
+                34.733347
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-21T00:00:00.000",
+        "parcel": "34L1520000900",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3327 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311586,
+                34.735371
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2012-09-04T00:00:00.000",
+        "parcel": "34L1850058100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1816 S Schiller St",
+        "zip_code": "72202",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3263.65",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.29671,
+                34.733056
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2012-12-04T00:00:00.000",
+        "parcel": "34L1230008800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1812 Pinewood Dr",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "4500",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.326381,
+                34.734772
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "48",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2019-08-02T00:00:00.000",
+        "parcel": "34L1480012200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1614 S Woodrow St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.305908,
+                34.736008
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "144",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-04-24T00:00:00.000",
+        "parcel": "34L1780007400",
+        "property_details": "Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2013 S Maple St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "13000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.314991,
+                34.732526
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2009-08-19T00:00:00.000",
+        "parcel": "34L1890015200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2500 W 18th St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3929.13",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.301684,
+                34.733871
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2010-08-01T00:00:00.000",
+        "parcel": "34L1890002900",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2806 W 13th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "7054.70",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.304937,
+                34.738951
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "144",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2011-03-14T00:00:00.000",
+        "parcel": "34L1570018500",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3823 W 19th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.316941,
+                34.734088
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-04-03T00:00:00.000",
+        "parcel": "34L3010006400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "5118 W 31st St",
+        "zip_code": "72204",
+        "title_status": "Warranty Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.331803,
+                34.723889
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "59",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2012-12-10T00:00:00.000",
+        "parcel": "34L0430007800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1001 Dennison St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "5028.78",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.29877100000002,
+                34.741616
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "144",
+        ":@computed_region_hjy3_kwkw": "17"
+    },
+    {
+        "date": "2019-05-02T00:00:00.000",
+        "parcel": "44L1340810800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "4",
+        "street_address": "Tatum St",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "8400",
+        "funding_source": "City"
+    },
+    {
+        "date": "2013-07-31T00:00:00.000",
+        "parcel": "34L0840005100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3515 W 11th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312817,
+                34.741207
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2018-07-25T00:00:00.000",
+        "parcel": "34L2870007400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3010 Dr Martin Luther King Jr Dr",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "purchase_price": "35000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.289979,
+                34.719431
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "152",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2016-11-01T00:00:00.000",
+        "parcel": "34L1570009200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1601 S Elm St",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.319172,
+                34.736803
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-08-04T00:00:00.000",
+        "parcel": "34L1630004900",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1919 S Cedar St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.318202,
+                34.733985
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006700",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 10)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2011-09-26T00:00:00.000",
+        "parcel": "34L1510000600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1423 S Maple St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.314778,
+                34.737934
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2016-11-01T00:00:00.000",
+        "parcel": "34L1600015300",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1515 S Pine St",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Donation",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.31696100000002,
+                34.737214
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "5",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006100",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 4)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2013-06-06T00:00:00.000",
+        "parcel": "34L0920032300",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1524 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "5428",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311752,
+                34.736484
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2009-08-19T00:00:00.000",
+        "parcel": "34L1870014200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2423 W 17th St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "5318.67",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.301299,
+                34.734858
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2019-05-31T00:00:00.000",
+        "parcel": "45L0240001100",
+        "property_details": "Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "7909 Mann Rd",
+        "zip_code": "72209",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "106450",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.366189,
+                34.668228
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "1",
+        ":@computed_region_kp8k_tt9x": "117",
+        ":@computed_region_hjy3_kwkw": "24"
+    },
+    {
+        "date": "2011-11-10T00:00:00.000",
+        "parcel": "34L0920036400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3321 W 16th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3219.33",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311474,
+                34.736268
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-06-12T00:00:00.000",
+        "parcel": "34L1690003600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "4301 W 25th St",
+        "zip_code": "72204",
+        "title_status": "Warranty Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.32190300000002,
+                34.72881
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "67",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220007200",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 8 Lot 3)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2011-12-16T00:00:00.000",
+        "parcel": "34L0760013100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3911 W 11th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3746.39",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.317225,
+                34.74141
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "5",
+        ":@computed_region_kp8k_tt9x": "54",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2012-10-03T00:00:00.000",
+        "parcel": "34L1590005600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1812 Johnson St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1103.91",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.30826400000001,
+                34.734093
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1620026200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "4223 W 19th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1500",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.321049,
+                34.733897
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "48",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2011-04-27T00:00:00.000",
+        "parcel": "34L1780006300",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2104 S Valmar St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3040.9",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312771,
+                34.731873
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006000",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 3)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2010-11-02T00:00:00.000",
+        "parcel": "34L1480010200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1623 Johnson St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2575.93",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.308147,
+                34.735617
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-09-22T00:00:00.000",
+        "parcel": "34L1520000300",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3419 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2341.26",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312386,
+                34.735359
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2011-12-22T00:00:00.000",
+        "parcel": "34L1750001500",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3205 W 23rd St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1534.91",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.309606,
+                34.730384
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2012-02-09T00:00:00.000",
+        "parcel": "34L2750302600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3504 Dr Martin Luther King Jr Dr",
+        "zip_code": "72206",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.290229,
+                34.714367
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "152",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2011-10-07T00:00:00.000",
+        "parcel": "34L1570001700",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3215 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.309886,
+                34.735556
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006800",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 11)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2015-12-04T00:00:00.000",
+        "parcel": "34L0920036200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3323 W 16th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2250",
+        "funding_source": "Unknown",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311682,
+                34.736277
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2009-08-19T00:00:00.000",
+        "parcel": "34L1890006200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1414 Jones St",
+        "zip_code": "72202",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3758.96",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.302585,
+                34.737185
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "144",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2018-01-22T00:00:00.000",
+        "parcel": "34L1780013400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2306 Valmar St",
+        "zip_code": "72204",
+        "title_status": "Commissioners Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3639",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312855,
+                34.730089
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-06-15T00:00:00.000",
+        "parcel": "45L0120015800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "2",
+        "street_address": "7319 Twin Oaks Rd",
+        "zip_code": "72209",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "4000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.360183,
+                34.663072
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "5",
+        ":@computed_region_kp8k_tt9x": "109",
+        ":@computed_region_hjy3_kwkw": "6"
+    },
+    {
+        "date": "2019-07-25T00:00:00.000",
+        "parcel": "34L0860001600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3519 W 11th St",
+        "zip_code": "72204",
+        "title_status": "Quit Claim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.31315,
+                34.74122
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2016-02-17T00:00:00.000",
+        "parcel": "34L1640003400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "4021 W 23rd St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.319158,
+                34.73052
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006200",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 5)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2011-10-26T00:00:00.000",
+        "parcel": "34L0840003000",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3401 W 10th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311097,
+                34.742017
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2013-01-22T00:00:00.000",
+        "parcel": "34L1630002600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1805 S Cedar St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2694.51",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.318157,
+                34.73481900000001
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2018-09-28T00:00:00.000",
+        "parcel": "34L1780007600",
+        "property_details": "Rehab Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2021 S Maple St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "20000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.315011,
+                34.73225
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2019-07-08T00:00:00.000",
+        "parcel": "35L018011770",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "5301 Blueberry Dr",
+        "zip_code": "72206",
+        "title_status": "Quit Claim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "16000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.340493,
+                34.629042
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "1",
+        ":@computed_region_kp8k_tt9x": "19",
+        ":@computed_region_hjy3_kwkw": "24"
+    },
+    {
+        "date": "2010-08-18T00:00:00.000",
+        "parcel": "34L1480010300",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1619 Johnson St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "6033.92",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.308144,
+                34.735738
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2018-06-05T00:00:00.000",
+        "parcel": "34L1780015700",
+        "property_details": "Rehab Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2308 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "5000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311758,
+                34.729901
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006400",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 7)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2012-05-24T00:00:00.000",
+        "parcel": "34L1480008500",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3108 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "4718.21",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.308653,
+                34.735503
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1580000500",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1808 Brown St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.310451,
+                34.734415
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-08-18T00:00:00.000",
+        "parcel": "34L0920035800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1617 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "4039.77",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.31185900000001,
+                34.735653
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006900",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 12)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2012-09-27T00:00:00.000",
+        "parcel": "34L1750001100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3221 W 23rd St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3908.2",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.310203,
+                34.730142
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-12-30T00:00:00.000",
+        "parcel": "34L1670000100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2001 Abigail St",
+        "zip_code": "72205",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3284.36",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.321637,
+                34.733272
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "67",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1520002100",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3426 W 18th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.312262,
+                34.73477
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-10-19T00:00:00.000",
+        "parcel": "34L1890011000",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2522 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.302469,
+                34.734888
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "81",
+        ":@computed_region_hjy3_kwkw": "16"
+    },
+    {
+        "date": "2015-05-04T00:00:00.000",
+        "parcel": "34L1520000600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3403 W 17th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title Needed",
+        "available_for_purchase": "No",
+        "purchase_price": "3000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.31193,
+                34.735364
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2011-09-20T00:00:00.000",
+        "parcel": "34L0920007200",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3023 W 11th St",
+        "zip_code": "72204",
+        "title_status": "Quiet Title",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "City"
+    },
+    {
+        "date": "2011-09-27T00:00:00.000",
+        "parcel": "45L0110000400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "2",
+        "street_address": "9200 Adkins St",
+        "zip_code": "72209",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1053.1",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.359669,
+                34.667209
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "5",
+        ":@computed_region_kp8k_tt9x": "109",
+        ":@computed_region_hjy3_kwkw": "6"
+    },
+    {
+        "date": "2010-10-25T00:00:00.000",
+        "parcel": "34L2650001400",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3101 S Arch St",
+        "zip_code": "72206",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "4209.79",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.280451,
+                34.718436
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "130",
+        ":@computed_region_hjy3_kwkw": "10"
+    },
+    {
+        "date": "2010-08-04T00:00:00.000",
+        "parcel": "34L1630004700",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "1921 S Cedar St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.318228,
+                34.733412
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2011-04-20T00:00:00.000",
+        "parcel": "34L1570018900",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3812 W Charles Bussey St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "1980",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.31645,
+                34.733138
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2018-06-05T00:00:00.000",
+        "parcel": "34L1780017300",
+        "property_details": "Rehab Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2301 S Martin St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "20000",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311744,
+                34.730175
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2013-09-05T00:00:00.000",
+        "parcel": "34L1480010800",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3019 W 16th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3902.13",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.307807,
+                34.736659
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "113",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2010-08-18T00:00:00.000",
+        "parcel": "34L0840003500",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "3423 W 10th St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3249.21",
+        "funding_source": "Federal",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.311948,
+                34.74207
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "101",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2019-01-01T00:00:00.000",
+        "parcel": "34L2450003000",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2801 Barber St",
+        "zip_code": "72206",
+        "title_status": "Commissioners Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "3800.00",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.26135,
+                34.721416
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "52",
+        ":@computed_region_hjy3_kwkw": "7"
+    },
+    {
+        "date": "2017-03-03T00:00:00.000",
+        "parcel": "34L1780007500",
+        "property_details": "Structure",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "2017 S Maple St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "5000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.315002,
+                34.732389
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "96",
+        ":@computed_region_hjy3_kwkw": "26"
+    },
+    {
+        "date": "2012-04-02T00:00:00.000",
+        "parcel": "34L1350000600",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "4624 W 23rd St",
+        "zip_code": "72204",
+        "title_status": "Title Insurance Policy",
+        "available_for_purchase": "Yes",
+        "purchase_price": "2000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.3252,
+                34.730793
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "7",
+        ":@computed_region_kp8k_tt9x": "67",
+        ":@computed_region_hjy3_kwkw": "3"
+    },
+    {
+        "date": "2017-12-12T00:00:00.000",
+        "parcel": "44L1220006500",
+        "property_details": "Undeveloped Lot",
+        "property_type": "Land Bank",
+        "ward": "6",
+        "street_address": "35th St (Interurban Heights Blk 7 Lot 8)",
+        "zip_code": "72204",
+        "title_status": "Quitclaim Deed",
+        "available_for_purchase": "Yes",
+        "funding_source": "City"
+    },
+    {
+        "date": "2019-07-08T00:00:00.000",
+        "parcel": "35L018011690",
+        "property_details": "Vacant Lot",
+        "property_type": "Land Bank",
+        "ward": "1",
+        "street_address": "5509 Blueberry Dr",
+        "zip_code": "72206",
+        "title_status": "Quit Claim Deed",
+        "available_for_purchase": "Yes",
+        "purchase_price": "16000",
+        "funding_source": "City",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -92.34287900000001,
+                34.629088
+            ]
+        },
+        ":@computed_region_t2qk_n4g3": "1",
+        ":@computed_region_kp8k_tt9x": "19",
+        ":@computed_region_hjy3_kwkw": "24"
+    }
+]

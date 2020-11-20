@@ -1,0 +1,4753 @@
+[
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "7c9bececbbf67dc620b78c1ff1b8f693791725d4",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 350,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12307,
+                    49.28337
+                ]
+            },
+            "key": "CVP001",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "26c8560b303be8d9e4d739ba075623bd2f94e093",
+        "fields": {
+            "location_2": "mid-block 1100",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 44,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.125505,
+                    49.285151
+                ]
+            },
+            "key": "CVP003",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "448a3a6e3ab79f4e5bf6081de3b184ecb5abb722",
+        "fields": {
+            "location_2": "Howe",
+            "location_1": "Cordova",
+            "installation": "2009",
+            "orientation": 176,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.113604,
+                    49.286713
+                ]
+            },
+            "key": "CVP005",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "97d21f56e0bac57e59ceb17f01354037b23a238a",
+        "fields": {
+            "location_2": "Seymour",
+            "location_1": "Cordova",
+            "installation": "2009",
+            "orientation": 134,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.111818,
+                    49.285448
+                ]
+            },
+            "key": "CVP006",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e5c8e57efcf5ba7ebf27477b6339492de990e4e3",
+        "fields": {
+            "location_2": "Georgia",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 93,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12102,
+                    49.284627
+                ]
+            },
+            "key": "CVP008",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "04aef9289b9d7fdec034eb0a143135f3ad516e3c",
+        "fields": {
+            "location_2": "Expo",
+            "location_1": "Smithe",
+            "installation": "2009",
+            "orientation": 96,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114722,
+                    49.276064
+                ]
+            },
+            "key": "CVP015",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "14113e7f7787a6240db28181f530584cfa442686",
+        "fields": {
+            "location_2": "Nelson",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 269,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.125949,
+                    49.28103
+                ]
+            },
+            "key": "CVP019",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c1d2722913cd26160a8393377bccb57d19f6a392",
+        "fields": {
+            "location_2": "Pender",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 315,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115082,
+                    49.284628
+                ]
+            },
+            "key": "CVP027",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "1f41f38ee43f2024db92fe3e615eb810436e5107",
+        "fields": {
+            "location_2": "Thurlow",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 275,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124929,
+                    49.284444
+                ]
+            },
+            "key": "CVP029",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5520dbfb8545ce9eb5af61cc1ff16ed54e371208",
+        "fields": {
+            "location_2": "Richards",
+            "location_1": "Water",
+            "installation": "2009",
+            "orientation": 58,
+            "zone": "DT",
+            "bia": "Gastown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.110454,
+                    49.284679
+                ]
+            },
+            "key": "CVP030",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "65dcec6140d9546e3f215405f3fbd0e50f194103",
+        "fields": {
+            "location_2": "W 4th",
+            "location_1": "Alma",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185891,
+                    49.268547
+                ]
+            },
+            "key": "CVS003",
+            "geo_local_area": "West Point Grey"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "1aa7c12899b88e4df6dc9e9cb86778d61b877c9b",
+        "fields": {
+            "location_2": "W 16th",
+            "location_1": "Dunbar",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Dunbar Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.184987,
+                    49.257669
+                ]
+            },
+            "key": "CVS006",
+            "geo_local_area": "Dunbar-Southlands"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a5a8e9dffc99a2e64a4f68218718cc3ae5d748c5",
+        "fields": {
+            "location_2": "W 41st",
+            "location_1": "Dunbar",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Dunbar Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185493,
+                    49.234657
+                ]
+            },
+            "key": "CVS007",
+            "geo_local_area": "Dunbar-Southlands"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9547db41d9d4f954326223b7ef72b26ecc83c5d1",
+        "fields": {
+            "location_2": "Balaclava",
+            "location_1": "W 4th",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.173701,
+                    49.268341
+                ]
+            },
+            "key": "CVS008",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "91a60823db71f0bb40857ad3ffac9af52ed76424",
+        "fields": {
+            "location_2": "Balaclava",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "West Broadway",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.17414,
+                    49.264268
+                ]
+            },
+            "key": "CVS009",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "87a095d1e601418b26b668afeb0faf9683bf1c3d",
+        "fields": {
+            "location_2": "Macdonald",
+            "location_1": "W 4th",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.168555,
+                    49.268293
+                ]
+            },
+            "key": "CVS010",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5f3efd01a6f000ad9cdc01086b4cda53f01b46cf",
+        "fields": {
+            "location_2": "Macdonald",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "West Broadway",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.168375,
+                    49.263972
+                ]
+            },
+            "key": "CVS012",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "7cc6a5a932de9a4e0e23909bb5ba38149920d9c2",
+        "fields": {
+            "location_2": "Trafalgar",
+            "location_1": "Cornwall",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.164454,
+                    49.272834
+                ]
+            },
+            "key": "CVS013",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "55c671c84c841bff8cadc6c14154a28f23a681f7",
+        "fields": {
+            "location_2": "Cornwall",
+            "location_1": "Yew",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.155102,
+                    49.272501
+                ]
+            },
+            "key": "CVS014",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2edb494891d7d23c83a35d22abd1c8d99ca7a49e",
+        "fields": {
+            "location_2": "West Blvd",
+            "location_1": "W 41st",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Kerrisdale",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.155328,
+                    49.234663
+                ]
+            },
+            "key": "CVS016",
+            "geo_local_area": "Arbutus-Ridge"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d81dd9bc9f5f105e2f751a2c63ee6cbf710e9b86",
+        "fields": {
+            "location_2": "East Blvd",
+            "location_1": "W 41st",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Kerrisdale",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.155144,
+                    49.234456
+                ]
+            },
+            "key": "CVS017",
+            "geo_local_area": "Kerrisdale"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9d66a4afc248469ae00f91d36ec08d09480eea6f",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "W 4th",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Kitsilano 4th Avenue",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.145433,
+                    49.267899
+                ]
+            },
+            "key": "CVS021",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "587f7ada883d301fca78f8fbbf4f855d24e7371e",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "W 4th",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.138206,
+                    49.268016
+                ]
+            },
+            "key": "CVS024",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "28c729729089b410134a19b2486c07b2cc506c36",
+        "fields": {
+            "location_2": "W 13th",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "South Granville",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1389,
+                    49.259773
+                ]
+            },
+            "key": "CVS026",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "87cfdb5e6dfd0d44d88489159470353293233425",
+        "fields": {
+            "location_2": "W 68th",
+            "location_1": "Granville",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Marpole",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.140605,
+                    49.210408
+                ]
+            },
+            "key": "CVS030",
+            "geo_local_area": "Marpole"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "12bd87141fe8d479055a2769fa979400a929c2e9",
+        "fields": {
+            "location_2": "Oak",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.126433,
+                    49.263555
+                ]
+            },
+            "key": "CVS031",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "21ea320068006910a808205af110f033aacaced4",
+        "fields": {
+            "location_2": "Heather",
+            "location_1": "Charleson",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120398,
+                    49.266317
+                ]
+            },
+            "key": "CVS035",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6945279c98cd4febb8b07f1fe93a9a1405d37d9f",
+        "fields": {
+            "location_2": "W 6th",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 142,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1158,
+                    49.266369
+                ]
+            },
+            "key": "CVS036",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "52c8800330d42281b9061efc27ed3790d07586ec",
+        "fields": {
+            "location_2": "SW Marine",
+            "location_1": "Cambie",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116983,
+                    49.210362
+                ]
+            },
+            "key": "CVS048",
+            "geo_local_area": "Marpole"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "eeb80729a396ccfa6347965754d7aff00d4536ae",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Cardero",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13246,
+                    49.289409
+                ]
+            },
+            "key": "CVS049",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f121de183df679247e2d14a1fca266fafa85803c",
+        "fields": {
+            "location_2": "Seaside (Coal Harbour)",
+            "location_1": "Bute",
+            "installation": "2009",
+            "orientation": 30,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.121116,
+                    49.29022
+                ]
+            },
+            "key": "CVS054",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4aff6ea98176b303a6547c99b4034ff9c78d99b0",
+        "fields": {
+            "location_2": "W Hastings",
+            "location_1": "Bute",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122692,
+                    49.288939
+                ]
+            },
+            "key": "CVS055",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9158497c8bbabf046bc164b1f5e980c43c31410a",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Thurlow",
+            "installation": "2009",
+            "orientation": 71,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.136213,
+                    49.277313
+                ]
+            },
+            "key": "CVS059",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a50458cc77d671ea086e13829997f36311e7ffb6",
+        "fields": {
+            "location_2": "Cambie",
+            "location_1": "Water",
+            "installation": "2009",
+            "orientation": 13,
+            "zone": "DT",
+            "bia": "Gastown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.108609,
+                    49.284229
+                ]
+            },
+            "key": "CVS061",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "94e4a208fd130a7b5a884580ddeafdaee4d08ace",
+        "fields": {
+            "location_2": "E Hastings",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "Chinatown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.099463,
+                    49.281172
+                ]
+            },
+            "key": "CVS063",
+            "geo_local_area": "Strathcona"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a0dfb124624f567bae467d8d251e48e45791aa60",
+        "fields": {
+            "location_2": "Renfrew",
+            "location_1": "E Hastings",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Hastings North",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.043917,
+                    49.281288
+                ]
+            },
+            "key": "CVS064",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "0e2bbb58c43153d62e5d004f30f398092ea9dd70",
+        "fields": {
+            "location_2": "Adanac",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069801,
+                    49.277475
+                ]
+            },
+            "key": "CVS065",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "859b90086b607b6d9094a5828b929cf0d9fd79f8",
+        "fields": {
+            "location_2": "E Pender",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "Chinatown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.099833,
+                    49.280511
+                ]
+            },
+            "key": "CVS076",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "95e410e014529f3ba1f019abb62cf7cf103d36d9",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Spyglass",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115169,
+                    49.270977
+                ]
+            },
+            "key": "CVS083",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c4020c9046a8c94cda97232a9b7d8dfad5197c22",
+        "fields": {
+            "location_2": "W 1st",
+            "location_1": "Creekside",
+            "installation": "2009",
+            "orientation": 70,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.14016,
+                    49.271494
+                ]
+            },
+            "key": "CVS087",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f62c17364666aeae0c94b0b551f717a6aaeebbb7",
+        "fields": {
+            "location_2": "Fir",
+            "location_1": "W 1st",
+            "installation": "2009",
+            "orientation": 65,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1411,
+                    49.2705
+                ]
+            },
+            "key": "CVS088",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "ddf5ab374202d0194a757c77d436cc958e1442f9",
+        "fields": {
+            "location_2": "Seaside (Burrard Civic Marina)",
+            "location_1": "Whyte",
+            "installation": "2009",
+            "orientation": 109,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.139893,
+                    49.275258
+                ]
+            },
+            "key": "CVS089",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "15d0a8d469159858ce7cb98d67286af4e690d00b",
+        "fields": {
+            "location_2": "Chestnut",
+            "location_1": "Cornwall",
+            "installation": "2009",
+            "orientation": 155,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.145691,
+                    49.272659
+                ]
+            },
+            "key": "CVS091",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4705835d208979a7a411834b59f14e52eab752af",
+        "fields": {
+            "location_2": "Thurlow",
+            "location_1": "Davie",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.131138,
+                    49.280501
+                ]
+            },
+            "key": "CVS094",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "76cc26b9c20c278220fdd6d7cacc39a6e2cea99f",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Seymour",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.130732,
+                    49.272644
+                ]
+            },
+            "key": "CVS097",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c8b45b894168416ddb242db185779f7b1e371e43",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Pacific",
+            "installation": "2009",
+            "orientation": 70,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.121385,
+                    49.27385
+                ]
+            },
+            "key": "CVS098",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "815aa756734126ccb5252e0bc9ce87ad47e70bb3",
+        "fields": {
+            "location_2": "Cooperage Way",
+            "location_1": "Marinaside",
+            "installation": "2009",
+            "orientation": 94,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114612,
+                    49.273703
+                ]
+            },
+            "key": "CVS103",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4ef73892b26ff5e77aeb5605ff93fcc02e5ffc2d",
+        "fields": {
+            "location_2": "E 27th",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1013,
+                    49.247137
+                ]
+            },
+            "key": "CVS109",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "61210e6bfe274e82fff6dd56bd68d2eaeb81bea0",
+        "fields": {
+            "location_2": "Beach",
+            "location_1": "Bidwell",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.142932,
+                    49.284614
+                ]
+            },
+            "key": "CVS118",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "309f6df93dbaaac27a282f81a5033c8efec7e9a6",
+        "fields": {
+            "location_2": "W Hastings",
+            "location_1": "Thurlow",
+            "installation": "2009",
+            "orientation": 134,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119502,
+                    49.288022
+                ]
+            },
+            "key": "CVS120",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "bf1bbe835e4d381b10981c74985360e9ba14786e",
+        "fields": {
+            "location_2": "Penticton",
+            "location_1": "E Hastings",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Hastings North",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.052103,
+                    49.281029
+                ]
+            },
+            "key": "CVS126",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "988ae586eceedb4ea0433ddaa484c029a50d4f17",
+        "fields": {
+            "location_2": "Kamloops",
+            "location_1": "E Hastings",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Hastings North",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.054712,
+                    49.281288
+                ]
+            },
+            "key": "CVS127",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a92b115cdb5b0364ad0c51e2566b81c3e511a822",
+        "fields": {
+            "location_2": "Windermere (Playland)",
+            "location_1": "E Hastings",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.036351,
+                    49.281253
+                ]
+            },
+            "key": "CVS128",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e38e9ba648bf15a4f2ea61cbe521267ed6d0b91d",
+        "fields": {
+            "location_2": "E 44th",
+            "location_1": "Fraser",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "South Hill (Fraser Street)",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.090761,
+                    49.230203
+                ]
+            },
+            "key": "CVS130",
+            "geo_local_area": "Sunset"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4c9bb9a8e349457572a781af6008010fba6d7fc0",
+        "fields": {
+            "location_2": "E 30th",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101205,
+                    49.243567
+                ]
+            },
+            "key": "CVS131",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6a19912aaeb83b5b588355931550a4dd29bbe8d4",
+        "fields": {
+            "location_2": "E 22nd",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100829,
+                    49.251253
+                ]
+            },
+            "key": "CVS132",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "61f50de49ec65a7da22cb8ce9864ca5674ca2331",
+        "fields": {
+            "location_2": "E 12th",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Mount Pleasant",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100903,
+                    49.260026
+                ]
+            },
+            "key": "CVS134",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4a5d05bc83c69a908e347899d7d761386aaf0637",
+        "fields": {
+            "location_2": "E 1st",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100868,
+                    49.270204
+                ]
+            },
+            "key": "CVS135",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b4f548fadf9920c1aa651723a40a41aea4108931",
+        "fields": {
+            "location_2": "E 41st",
+            "location_1": "Victoria",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Victoria Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.065408,
+                    49.232588
+                ]
+            },
+            "key": "CVS136",
+            "geo_local_area": "Victoria-Fraserview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f78b32d59c09bc8d2035ab1ba28f34dbfd1ad385",
+        "fields": {
+            "location_2": "Alberni",
+            "location_1": "Chilco",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.137357,
+                    49.294142
+                ]
+            },
+            "key": "CVS143"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2032eea1b5d48f356cb4e02f620cba3c2d8a4086",
+        "fields": {
+            "location_2": "E 44th",
+            "location_1": "Victoria",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Victoria Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.065451,
+                    49.230457
+                ]
+            },
+            "key": "CVS145",
+            "geo_local_area": "Victoria-Fraserview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f000d01974792eb0cddd9c33d14b9a30b4aca0d2",
+        "fields": {
+            "location_2": "Georgia",
+            "location_1": "Granville",
+            "installation": "2012",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118362,
+                    49.282531
+                ]
+            },
+            "key": "CVS147",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "828ce5046b55303f1bc188addfca2ee602860a9b",
+        "fields": {
+            "location_2": "Seawall/Beach",
+            "location_1": "Chilco",
+            "installation": "2015",
+            "orientation": 48,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1448,
+                    49.289463
+                ]
+            },
+            "key": "CVS151",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "326e591515b62d45e40e83feab9d976c468feea3",
+        "fields": {
+            "location_2": "Nicola",
+            "location_1": "Robson",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.13116,
+                    49.288802
+                ]
+            },
+            "key": "CVS152",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "769a9d322058c8bc1c1869a3a7b00958834fc92c",
+        "fields": {
+            "location_2": "Howe",
+            "location_1": "Georgia",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119361,
+                    49.283126
+                ]
+            },
+            "key": "CVS161",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6c9b1a2f066d52129c3e2f03033d0ba044580c2a",
+        "fields": {
+            "location_2": "Hastings",
+            "location_1": "Princess",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Strathcona",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.091736,
+                    49.281299
+                ]
+            },
+            "key": "CVS175",
+            "geo_local_area": "Strathcona"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4319b2f35a6193c488df35f4f35ad821e8c31b29",
+        "fields": {
+            "location_2": "W Broadway",
+            "location_1": "Granville",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "South Granville",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.138692,
+                    49.263778
+                ]
+            },
+            "key": "CVS177",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "44ae7b54d8298c058f1773b0490b4864898eb375",
+        "fields": {
+            "location_2": "Heather",
+            "location_1": "W Broadway",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120068,
+                    49.263211
+                ]
+            },
+            "key": "CVS178",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "062f8a5b48452c07e358d5c3d1901bff5ee0530a",
+        "fields": {
+            "location_2": "E Broadway",
+            "location_1": "Fraser",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.089325,
+                    49.262605
+                ]
+            },
+            "key": "CVS179",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "37395a11f7a0561fd2611ce4daa0d0ca76abb7af",
+        "fields": {
+            "location_2": "Clark",
+            "location_1": "Hastings",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Strathcona",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.076909,
+                    49.281196
+                ]
+            },
+            "key": "CVS181",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "adfb3017ef1a805c155173687fd756ad5d7e1240",
+        "fields": {
+            "location_2": "Nanaimo",
+            "location_1": "Hastings",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Hastings North",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.056826,
+                    49.281257
+                ]
+            },
+            "key": "CVS183",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "320d3e0c431dcbfcec18b6900de2195fc1a1944b",
+        "fields": {
+            "location_2": "E 49th",
+            "location_1": "Victoria",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Victoria Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.065857,
+                    49.225302
+                ]
+            },
+            "key": "CVS190",
+            "geo_local_area": "Victoria-Fraserview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2b8d7b399015c61d42e283734e5caf9421ac44ab",
+        "fields": {
+            "location_2": "Jericho Beach Park",
+            "location_1": "Point Grey Rd",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.190941,
+                    49.271343
+                ]
+            },
+            "key": "CVS192",
+            "geo_local_area": "West Point Grey"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "dcd48ecbc3f8da756121495cb4a28afa46d36c2b",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Burrard",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122811,
+                    49.283133
+                ]
+            },
+            "key": "CVS198",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "35f5ddb1239826e556df18b979af4f41144b51a1",
+        "fields": {
+            "location_2": "Hornby",
+            "location_1": "W Hastings",
+            "installation": "2009",
+            "orientation": 134,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115738,
+                    49.286627
+                ]
+            },
+            "key": "CVP004",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "7d40833730d0b05b99d7cbf24eb4e660a398ba7e",
+        "fields": {
+            "location_2": "Beach",
+            "location_1": "Denman",
+            "installation": "2009",
+            "orientation": 5,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.142453,
+                    49.286915
+                ]
+            },
+            "key": "CVP011",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "566b738d7922b130655ee05aeb01acf65e171fe3",
+        "fields": {
+            "location_2": "Bute",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 95,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.126744,
+                    49.285941
+                ]
+            },
+            "key": "CVP012",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "28a11dc131b0189ac8db9bf8b01022b5f2f83dc5",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Dunsmuir",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116622,
+                    49.283662
+                ]
+            },
+            "key": "CVP014",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a3eb2f8a1c2a24b637bc19405bd0d3fe1887d6f9",
+        "fields": {
+            "location_2": "Hornby",
+            "location_1": "Georgia",
+            "installation": "2009",
+            "orientation": 264,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120004,
+                    49.283578
+                ]
+            },
+            "key": "CVP016",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f19b3cd85defc59d92fdde6a316146fc5f417f07",
+        "fields": {
+            "location_2": "Howe",
+            "location_1": "Georgia",
+            "installation": "2009",
+            "orientation": 88,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118831,
+                    49.283103
+                ]
+            },
+            "key": "CVP017",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "ef62e3948b91c95c4ce86ba8a737eb416b2c40c7",
+        "fields": {
+            "location_2": "Thurlow",
+            "location_1": "Canada Place",
+            "installation": "2009",
+            "orientation": 78,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11838,
+                    49.288868
+                ]
+            },
+            "key": "CVP020",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "8a36c9d622365d2b8210450a498c4b38791cb327",
+        "fields": {
+            "location_2": "W Broadway",
+            "location_1": "Granville",
+            "installation": "2010",
+            "orientation": 270,
+            "zone": "Metro Core",
+            "bia": "South Granville",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.138711,
+                    49.26342
+                ]
+            },
+            "key": "CVP024",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "323ad39d170ae5fa7de3bbaff8d4a615ffc4c415",
+        "fields": {
+            "location_2": "1000 block",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 43,
+            "zone": "DT",
+            "bia": "Robson Street",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.123691,
+                    49.283977
+                ]
+            },
+            "key": "CVP028",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "779ce6f79ea088cbf2fd28422545666502cef90c",
+        "fields": {
+            "location_2": "W 4th",
+            "location_1": "Alma",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185541,
+                    49.268738
+                ]
+            },
+            "key": "CVS002",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "53496890845188a0c2eb2dcc7700a25bcba56037",
+        "fields": {
+            "location_2": "Macdonald",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "West Broadway",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.168084,
+                    49.264205
+                ]
+            },
+            "key": "CVS011",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "587748e2e175815b6dd31f687f3b4c071dfde031",
+        "fields": {
+            "location_2": "Arbutus",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.152808,
+                    49.263651
+                ]
+            },
+            "key": "CVS015",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "fc23092ec17b883feba983bd914a0f28057c77f7",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "W 1st",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.145697,
+                    49.270576
+                ]
+            },
+            "key": "CVS020",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3f5beb489abcbb59beb21d43db75a90e0d664090",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.145552,
+                    49.263846
+                ]
+            },
+            "key": "CVS022",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "44c25229ee59db63401f87323ea48c62c03edd85",
+        "fields": {
+            "location_2": "Anderson",
+            "location_1": "Lamey's Mill",
+            "installation": "2009",
+            "orientation": 131,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.137818,
+                    49.269605
+                ]
+            },
+            "key": "CVS023",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4fff2e89aff127d176edbc34a53dccb12c3b5733",
+        "fields": {
+            "location_2": "W 10th",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "South Granville",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.138398,
+                    49.262581
+                ]
+            },
+            "key": "CVS027",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "acb7a154fd84a843d2df01c2d6b2949016877b43",
+        "fields": {
+            "location_2": "W 70th",
+            "location_1": "Granville",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Marpole",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.140341,
+                    49.208711
+                ]
+            },
+            "key": "CVS029",
+            "geo_local_area": "Marpole"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "cdb7920c7561da8821a3fa893930874dcc1709f2",
+        "fields": {
+            "location_2": "Willow",
+            "location_1": "W Broadway",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.121947,
+                    49.263474
+                ]
+            },
+            "key": "CVS032",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e652b488939c790640457874790145a4b5722da8",
+        "fields": {
+            "location_2": "Cambie",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Cambie Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114593,
+                    49.263043
+                ]
+            },
+            "key": "CVS039",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "eb83b6d5f74d4e5aa78520fa60494af872415cfa",
+        "fields": {
+            "location_2": "Ontario",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.105025,
+                    49.262895
+                ]
+            },
+            "key": "CVS040",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c035552d3b6b8a83b849f8bc91a4dffd3bac7dac",
+        "fields": {
+            "location_2": "W 16th",
+            "location_1": "Cambie",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Cambie Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114898,
+                    49.257072
+                ]
+            },
+            "key": "CVS041",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "febf86543008f84b93d5545faa61a0bf490612f6",
+        "fields": {
+            "location_2": "W King Edward",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Cambie Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115634,
+                    49.249197
+                ]
+            },
+            "key": "CVS042",
+            "geo_local_area": "South Cambie"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "bd26b9f86ebf01c9467593f9e9838ad9b54b60ef",
+        "fields": {
+            "location_2": "Cambie",
+            "location_1": "W 29th",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11522,
+                    49.245094
+                ]
+            },
+            "key": "CVS043",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6a777697bf42d19b377f98a1fbe7beb02b98e51c",
+        "fields": {
+            "location_2": "W 37th",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115777,
+                    49.237421
+                ]
+            },
+            "key": "CVS044",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b11a9e5313aef10be49f5a6e8f05ae8210fbc3bb",
+        "fields": {
+            "location_2": "W 41st",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115894,
+                    49.233719
+                ]
+            },
+            "key": "CVS045",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "94e01b034fd2d2913c23693f90dc1426c01a1d7b",
+        "fields": {
+            "location_2": "Denman",
+            "location_1": "Georgia",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.133775,
+                    49.292849
+                ]
+            },
+            "key": "CVS050",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4cb25bdc8256cb90d8da48e07f18dcc69495d06d",
+        "fields": {
+            "location_2": "Denman",
+            "location_1": "Georgia",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.133786,
+                    49.292409
+                ]
+            },
+            "key": "CVS051",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d3e52d86d84a747e59053cf3027253aa69aaa46a",
+        "fields": {
+            "location_2": "Coal Harbour Quay",
+            "location_1": "Broughton",
+            "installation": "2009",
+            "orientation": 32,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.126033,
+                    49.29051
+                ]
+            },
+            "key": "CVS053",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "7fcec9bff4229d98d8c9592f931f94f3aa11482a",
+        "fields": {
+            "location_2": "W Hastings",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11447,
+                    49.284996
+                ]
+            },
+            "key": "CVS056",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "22888c9c27901a9194937b391f368d506fe1a644",
+        "fields": {
+            "location_2": "E 1st",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069754,
+                    49.269763
+                ]
+            },
+            "key": "CVS068",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "775516b454901c73b152b263ca576510e186ba4a",
+        "fields": {
+            "location_2": "N Grandview Hwy",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069491,
+                    49.263528
+                ]
+            },
+            "key": "CVS069",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "0ba9ee9d86b25a719733fbd1919243dc1233d0ac",
+        "fields": {
+            "location_2": "E 10th",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069966,
+                    49.261427
+                ]
+            },
+            "key": "CVS071",
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f650acf3fb412bd0df71199a02be756437fd27f4",
+        "fields": {
+            "location_2": "E 13th",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069698,
+                    49.258543
+                ]
+            },
+            "key": "CVS072",
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b32b512d518c29da181dc11d3c9ea36c37ecc687",
+        "fields": {
+            "location_2": "Keefer",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "Chinatown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.099891,
+                    49.279304
+                ]
+            },
+            "key": "CVS077",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c657a3530c10c04a394347e9e188295676e5f1b4",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Davie",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.126449,
+                    49.27711
+                ]
+            },
+            "key": "CVS099",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c39f4f1f421f49f8d909226e98d56478be34832a",
+        "fields": {
+            "location_2": "E 16th",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Mount Pleasant",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101064,
+                    49.256742
+                ]
+            },
+            "key": "CVS106",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4df1a1d7a1b6368045449dfffa6f78f3868efb4b",
+        "fields": {
+            "location_2": "E King Edward",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101183,
+                    49.248905
+                ]
+            },
+            "key": "CVS108",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "794b82702f0291fe166f9ea47fe3cc3c177b841e",
+        "fields": {
+            "location_2": "Ontario",
+            "location_1": "W 33rd",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.105527,
+                    49.240494
+                ]
+            },
+            "key": "CVS110",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "25fff625f4693c0b08e074728e8a3824aeab688f",
+        "fields": {
+            "location_2": "E 49th",
+            "location_1": "Fraser",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "South Hill (Fraser Street)",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.090974,
+                    49.225557
+                ]
+            },
+            "key": "CVS111",
+            "geo_local_area": "Sunset"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d2a74911b779e10b50c91f0505e771035005207f",
+        "fields": {
+            "location_2": "E 49th",
+            "location_1": "Main",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101798,
+                    49.225775
+                ]
+            },
+            "key": "CVS112",
+            "geo_local_area": "Sunset"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c69f616f5fae6c061fdb5929f2fa3f32a80b9708",
+        "fields": {
+            "location_2": "W 49th",
+            "location_1": "Ontario",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.106196,
+                    49.225666
+                ]
+            },
+            "key": "CVS113",
+            "geo_local_area": "Oakridge"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "99636c220dccb8b5dc9a6e417b7e0e9c13040187",
+        "fields": {
+            "location_2": "Joyce",
+            "location_1": "Vanness",
+            "installation": "2010",
+            "orientation": 125,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.031603,
+                    49.238316
+                ]
+            },
+            "key": "CVS114",
+            "geo_local_area": "Renfrew-Collingwood"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e692dd31e689788903663b595b2c08406d2f2e27",
+        "fields": {
+            "location_2": "Pacific",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.132725,
+                    49.277002
+                ]
+            },
+            "key": "CVS115",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6ef6083ebfb9d5901113de7c11a63bcba7f80b47",
+        "fields": {
+            "location_2": "Beatty",
+            "location_1": "Georgia",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112023,
+                    49.278685
+                ]
+            },
+            "key": "CVS116",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f92b511df880c2192c745b648765d140906c5b66",
+        "fields": {
+            "location_2": "Dunsmuir",
+            "location_1": "Seymour",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116058,
+                    49.283319
+                ]
+            },
+            "key": "CVS121",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c4d2857df29a6c5a2054930b08a4f6229baa123e",
+        "fields": {
+            "location_2": "E 41st",
+            "location_1": "Fraser",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "South Hill (Fraser Street)",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.090435,
+                    49.232712
+                ]
+            },
+            "key": "CVS129",
+            "geo_local_area": "Sunset"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "efb1a9507e469a747e92071a3e701380fec3ef3a",
+        "fields": {
+            "location_2": "E 7th/Kingsway",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Mount Pleasant",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100709,
+                    49.264018
+                ]
+            },
+            "key": "CVS133",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "8e5a2a0512d9cba925df2703bb107311f16a274a",
+        "fields": {
+            "location_2": "W 18th",
+            "location_1": "Cambie",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Cambie Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115344,
+                    49.254898
+                ]
+            },
+            "key": "CVS137",
+            "geo_local_area": "South Cambie"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2467d92705e12706f783127fca606562d6f86167",
+        "fields": {
+            "location_2": "Anderson",
+            "location_1": "Island Park Walk",
+            "installation": "2009",
+            "orientation": 6,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.137209,
+                    49.270046
+                ]
+            },
+            "key": "CVS138",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3b812d89f0e1ff73ebbd937107791b0038048e64",
+        "fields": {
+            "location_2": "Sasamat",
+            "location_1": "W 10th",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Point Grey Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.209262,
+                    49.263919
+                ]
+            },
+            "key": "CVS139",
+            "geo_local_area": "West Point Grey"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "cabf5bf502a57ca671f89e113d31fb62d689c782",
+        "fields": {
+            "location_2": "W 29th",
+            "location_1": "Dunbar",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Dunbar Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185375,
+                    49.246072
+                ]
+            },
+            "key": "CVS140",
+            "geo_local_area": "Dunbar-Southlands"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "95dc23b0bc8d06b57458aa549ab764c1da53f45d",
+        "fields": {
+            "location_2": "Yew",
+            "location_1": "W 41st",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Kerrisdale",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.157913,
+                    49.234692
+                ]
+            },
+            "key": "CVS141",
+            "geo_local_area": "Arbutus-Ridge"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d56bdc57c4f736fc174b52e1de6e95514c931a1d",
+        "fields": {
+            "location_2": "Kootenay",
+            "location_1": "E Hastings",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.025882,
+                    49.28125
+                ]
+            },
+            "key": "CVS142",
+            "geo_local_area": "Hastings-Sunrise"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "35126bb97deb5f20a215b0647c2cef91a4ca8525",
+        "fields": {
+            "location_2": "Dunsmuir/Abbott",
+            "location_1": "Expo Blvd",
+            "installation": "2009",
+            "orientation": 175,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.108334,
+                    49.278817
+                ]
+            },
+            "key": "CVS144",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9376ca6728918c4bdeef3aa5b55dc8627793657e",
+        "fields": {
+            "location_2": "Georgia",
+            "location_1": "Granville",
+            "installation": "2012",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1182,
+                    49.282361
+                ]
+            },
+            "key": "CVS148",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "0a42d35f42f214d1ef36fdd4e67b80949cc9f728",
+        "fields": {
+            "location_2": "Smithe",
+            "location_1": "Burrard",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124405,
+                    49.282066
+                ]
+            },
+            "key": "CVS159",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "bae1d8e6dfd8ae35108549fc3db775562a8c2531",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Smithe",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.121208,
+                    49.280372
+                ]
+            },
+            "key": "CVS162",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "7d432a585e9e837b67bcfd1f1c388d81a72e0e77",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Hamilton",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115842,
+                    49.279007
+                ]
+            },
+            "key": "CVS164",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "ed907f59f52d775bf59ec52db7e4fd986e79a1fe",
+        "fields": {
+            "location_2": "Richards",
+            "location_1": "Hastings",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112162,
+                    49.284278
+                ]
+            },
+            "key": "CVS168",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a4fb74b1801563290238ae318a25f1f1b9ea1ffd",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Davie",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12599,
+                    49.277188
+                ]
+            },
+            "key": "CVS169",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b42ce2516519d1b720658b55f56e581bc4aa4a46",
+        "fields": {
+            "location_2": "Seawall",
+            "location_1": "Carrall",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.106601,
+                    49.275872
+                ]
+            },
+            "key": "CVS173",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2af7fc6f8e7c4ccbf66a59adfcdc66d434513cbb",
+        "fields": {
+            "location_2": "Kingsway",
+            "location_1": "Fraser",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.089919,
+                    49.256912
+                ]
+            },
+            "key": "CVS180",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "ea5a030fd348c00de550bedc18d0084372eb6ce7",
+        "fields": {
+            "location_2": "Knight",
+            "location_1": "Kingsway",
+            "installation": "2015",
+            "orientation": 35,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.075782,
+                    49.249821
+                ]
+            },
+            "key": "CVS184",
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3a734e34e3feadce4ef6f74556c105b7a32dd41f",
+        "fields": {
+            "location_2": "Wales (Norquay Park)",
+            "location_1": "Kingsway",
+            "installation": "2015",
+            "orientation": 35,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.051621,
+                    49.238726
+                ]
+            },
+            "key": "CVS186",
+            "geo_local_area": "Renfrew-Collingwood"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5ad00abdf5591428b2f2dac971f4dab9c3096ba8",
+        "fields": {
+            "location_2": "Joyce",
+            "location_1": "Kingsway",
+            "installation": "2015",
+            "orientation": 125,
+            "zone": "OT",
+            "bia": "Collingwood",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.036182,
+                    49.234126
+                ]
+            },
+            "key": "CVS187",
+            "geo_local_area": "Renfrew-Collingwood"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4e19a292e618ceccd11f532b3cd4c888378505c5",
+        "fields": {
+            "location_2": "E 38th",
+            "location_1": "Victoria",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Victoria Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.065609,
+                    49.235934
+                ]
+            },
+            "key": "CVS189",
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4aa24807ff4ff9659511bcd5e4f52eae15397114",
+        "fields": {
+            "location_2": "Alexander",
+            "location_1": "Main",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Hastings Crossing",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.099798,
+                    49.284037
+                ]
+            },
+            "key": "CVS191",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9d2777bd272d99bf7542579c03d1e757f4e49ae5",
+        "fields": {
+            "location_2": "Arbutus",
+            "location_1": "W 4th",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Kitsilano 4th Avenue",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.152952,
+                    49.268244
+                ]
+            },
+            "key": "CVS194",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "28881840373c50f5fc3748c94c98c91fe0d727ed",
+        "fields": {
+            "location_2": "Cordova",
+            "location_1": "Dunlevy",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Strathcona",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.095211,
+                    49.282314
+                ]
+            },
+            "key": "CVS196",
+            "geo_local_area": "Strathcona"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3a25e35cd8f3ad605fad3d8295699b25b9464c10",
+        "fields": {
+            "location_2": "King Edward",
+            "location_1": "Fraser",
+            "installation": "2015",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09,
+                    49.248513
+                ]
+            },
+            "key": "CVS197",
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2b8193aa4489cc9d66c46bc15c37de3fb2629cf5",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 167,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122543,
+                    49.283341
+                ]
+            },
+            "key": "CVP002",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2dea40e27cb3957f88d3d2f2f3378e31adfd7503",
+        "fields": {
+            "location_2": "Dunsmuir",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 154,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119089,
+                    49.285614
+                ]
+            },
+            "key": "CVP007",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c28fd0196a5a0dbb0313b222154925c9f789b065",
+        "fields": {
+            "location_2": "Cambie",
+            "location_1": "Nelson",
+            "installation": "2009",
+            "orientation": 196,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.117862,
+                    49.276038
+                ]
+            },
+            "key": "CVP009",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "ff364af40c07f88f2f7bd864cf4191e304bee142",
+        "fields": {
+            "location_2": "Mainland",
+            "location_1": "Davie",
+            "installation": "2009",
+            "orientation": 200,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122029,
+                    49.274537
+                ]
+            },
+            "key": "CVP013",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "782ec85aa0b066edae3f6e9d1120025fdaaf80c6",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 51,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119953,
+                    49.281564
+                ]
+            },
+            "key": "CVP018",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9b95f5db0b270b65e6179f073577c0b9351036aa",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "Canada Place",
+            "installation": "2009",
+            "orientation": 64,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115543,
+                    49.288231
+                ]
+            },
+            "key": "CVP021",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f8be4ce45b8c1460cf47152b8e0eb7bf4d969c79",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Howe",
+            "installation": "2009",
+            "orientation": 73,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12072,
+                    49.282172
+                ]
+            },
+            "key": "CVP022",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "23a9fc66d0d5111692bd174354013f5168f48635",
+        "fields": {
+            "location_2": "Helmcken",
+            "location_1": "Mainland",
+            "installation": "2009",
+            "orientation": 222,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120568,
+                    49.275486
+                ]
+            },
+            "key": "CVP023",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3190c0c6d24ec09a3fd329e93cd718989da5c002",
+        "fields": {
+            "location_2": "Mainland",
+            "location_1": "Nelson",
+            "installation": "2009",
+            "orientation": 178,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118814,
+                    49.276679
+                ]
+            },
+            "key": "CVP025",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "02fdf52546f6eb7c1cf8229560cb535ba2169228",
+        "fields": {
+            "location_2": "100 block",
+            "location_1": "Water",
+            "installation": "2009",
+            "orientation": 18,
+            "zone": "DT",
+            "bia": "Gastown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.107658,
+                    49.284175
+                ]
+            },
+            "key": "CVP026",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c1a4b3ab2a427f666c1081c474902c1af1c9116e",
+        "fields": {
+            "location_2": "Sasamat",
+            "location_1": "W 10th",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Point Grey Village",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.208833,
+                    49.263754
+                ]
+            },
+            "key": "CVS001",
+            "geo_local_area": "West Point Grey"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f71a3c47c6f60310bef26312d0b95cdeedf0e08e",
+        "fields": {
+            "location_2": "Alma",
+            "location_1": "W 10th",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185715,
+                    49.263589
+                ]
+            },
+            "key": "CVS004",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "116b4856e9b4a32a60eef334a366a92e60aa9fae",
+        "fields": {
+            "location_2": "Alma",
+            "location_1": "W Broadway",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185656,
+                    49.264259
+                ]
+            },
+            "key": "CVS005",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e060031e9f75f04e5a476b263e88ff444bb61d5f",
+        "fields": {
+            "location_2": "Cornwall",
+            "location_1": "Cypress",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.147662,
+                    49.272341
+                ]
+            },
+            "key": "CVS018",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c692c43e185862b15026794361047ac1c8be876a",
+        "fields": {
+            "location_2": "W 1st",
+            "location_1": "Cypress",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.147988,
+                    49.270778
+                ]
+            },
+            "key": "CVS019",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a7007990f54347d6df634813bbb0cf07cc8826ad",
+        "fields": {
+            "location_2": "W 5th",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "South Granville",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.138294,
+                    49.266654
+                ]
+            },
+            "key": "CVS025",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b9657d2d054fff427d15dbb4ce2ac5f075c4c47e",
+        "fields": {
+            "location_2": "Willow",
+            "location_1": "W Broadway",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.121576,
+                    49.263236
+                ]
+            },
+            "key": "CVS033",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b4a6b04a02947bc869604a03bfcfd97c15fbcfa8",
+        "fields": {
+            "location_2": "Millbank",
+            "location_1": "Moberly",
+            "installation": "2009",
+            "orientation": 89,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118014,
+                    49.269387
+                ]
+            },
+            "key": "CVS034",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6d8a04cf1311917460016f3b6912f1b62206da82",
+        "fields": {
+            "location_2": "W 2nd",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.114551,
+                    49.266419
+                ]
+            },
+            "key": "CVS037",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4822d9a8efa473851b2fde25056479d8a188541b",
+        "fields": {
+            "location_2": "W 41st",
+            "location_1": "Cambie",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116505,
+                    49.233249
+                ]
+            },
+            "key": "CVS046",
+            "geo_local_area": "Oakridge"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "3506be33fffdda4f0d9f6fb18d1384b4754beea0",
+        "fields": {
+            "location_2": "W 49th",
+            "location_1": "Cambie",
+            "installation": "2010",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116179,
+                    49.22623
+                ]
+            },
+            "key": "CVS047",
+            "geo_local_area": "Oakridge"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b72eb5e153274da622929c3df166308df55efb92",
+        "fields": {
+            "location_2": "Seawall",
+            "location_1": "Denman",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.132383,
+                    49.293501
+                ]
+            },
+            "key": "CVS052",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "8dc9bac5a53fac1f466daa284f2a6bfbb9858047",
+        "fields": {
+            "location_2": "Dunsmuir",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119962,
+                    49.285376
+                ]
+            },
+            "key": "CVS057",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "29e526b2019a424e62a4b8da0688ab407e783bfc",
+        "fields": {
+            "location_2": "Richards",
+            "location_1": "Water",
+            "installation": "2009",
+            "orientation": 15,
+            "zone": "DT",
+            "bia": "Gastown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.110486,
+                    49.284589
+                ]
+            },
+            "key": "CVS060",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4d5db02d317ed39a4be080e456e40edb106b1316",
+        "fields": {
+            "location_2": "Alexander",
+            "location_1": "Carrall",
+            "installation": "2009",
+            "orientation": 11,
+            "zone": "DT",
+            "bia": "Gastown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.104229,
+                    49.283536
+                ]
+            },
+            "key": "CVS062",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "27c54ff4a7bb1fdc9b3f41c3a75c7ee599c9bd07",
+        "fields": {
+            "location_2": "William",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069642,
+                    49.274063
+                ]
+            },
+            "key": "CVS066",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "bb261d5acaaa4d7ecded9dbdb01974a5d862d6c5",
+        "fields": {
+            "location_2": "Graveley",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069801,
+                    49.270463
+                ]
+            },
+            "key": "CVS067",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5e9a2d69102a439b63077e957d213b370d9c5aae",
+        "fields": {
+            "location_2": "E Broadway",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069577,
+                    49.262482
+                ]
+            },
+            "key": "CVS070",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "abc5e7d49163767dcd7404009ca1ab481d53b09b",
+        "fields": {
+            "location_2": "Cambie",
+            "location_1": "W Hastings",
+            "installation": "2009",
+            "orientation": 46,
+            "zone": "DT",
+            "bia": "Hastings Crossing",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.109789,
+                    49.282561
+                ]
+            },
+            "key": "CVS073",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "8956eeb17a3f0e449e4ea9e88d12f46da682c705",
+        "fields": {
+            "location_2": "E Pender",
+            "location_1": "Carrall",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "DT",
+            "bia": "Chinatown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.104257,
+                    49.280364
+                ]
+            },
+            "key": "CVS075",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2891814fe09198da8b3343071689d8515479851a",
+        "fields": {
+            "location_2": "Keefer",
+            "location_1": "Abbott",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.107465,
+                    49.279805
+                ]
+            },
+            "key": "CVS079",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b09b9d6d6d99b6b8a488e7be2ba621018febd955",
+        "fields": {
+            "location_2": "Main",
+            "location_1": "Terminal",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100608,
+                    49.273035
+                ]
+            },
+            "key": "CVS080",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "9c1d809102e761f4203ef0142c93bba85ffa3daa",
+        "fields": {
+            "location_2": "Quebec",
+            "location_1": "Terminal",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101972,
+                    49.27324
+                ]
+            },
+            "key": "CVS082",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "21cd428e1bd565f63b4e4158c26b49241b1aaec6",
+        "fields": {
+            "location_2": "Seaside (Leg-in-Boot Square)",
+            "location_1": "Millbank",
+            "installation": "2009",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119403,
+                    49.267653
+                ]
+            },
+            "key": "CVS084",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5c5481989fea8b228d71a49521624e38a834bf73",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Laurel St",
+            "installation": "2009",
+            "orientation": 13,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124933,
+                    49.267545
+                ]
+            },
+            "key": "CVS085",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "eacfd66e171e52da5bcb6ea4a98618c0e0263d1f",
+        "fields": {
+            "location_2": "W 7th",
+            "location_1": "Laurel",
+            "installation": "2009",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124214,
+                    49.265207
+                ]
+            },
+            "key": "CVS086",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "c67bb79c90a95627c76eebe64f4661d37e528ad3",
+        "fields": {
+            "location_2": "Seaside",
+            "location_1": "Chestnut",
+            "installation": "2009",
+            "orientation": 18,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.146119,
+                    49.277664
+                ]
+            },
+            "key": "CVS090",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a465dcace4a12d6d94caa64e0694b47a0b1e73d9",
+        "fields": {
+            "location_2": "Seaside (Kits Beach)",
+            "location_1": "Yew",
+            "installation": "2010",
+            "orientation": 66,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.155074,
+                    49.273365
+                ]
+            },
+            "key": "CVS092",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "75a11cdebdcd7b1edee1078b64de0cdcf0e6d777",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Bute",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.133426,
+                    49.281677
+                ]
+            },
+            "key": "CVS093",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "1dd52b44b9acdeab9e2a2e7a6b5862c8039b20be",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Hornby",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.134075,
+                    49.274507
+                ]
+            },
+            "key": "CVS096",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "419ccdf53dd88aff224fc3c91d2eb05a21a86d9c",
+        "fields": {
+            "location_2": "Homer",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116692,
+                    49.27944
+                ]
+            },
+            "key": "CVS100",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2de336471708144b560668c7879475864d37e355",
+        "fields": {
+            "location_2": "Dunsmuir",
+            "location_1": "Beatty",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.110297,
+                    49.279846
+                ]
+            },
+            "key": "CVS101",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2a6a229779021bfabb92c5e2e8b3dbdd890dfa64",
+        "fields": {
+            "location_2": "Dunsmuir",
+            "location_1": "Hamilton",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Hastings Crossing",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.112228,
+                    49.281044
+                ]
+            },
+            "key": "CVS102",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "dd6a20412769d841d9df18c03548cdfdd91132d8",
+        "fields": {
+            "location_2": "E Broadway",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Mount Pleasant",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101119,
+                    49.263095
+                ]
+            },
+            "key": "CVS104",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "08f0c01a8047c38a6047a747d33cbceae198fbb8",
+        "fields": {
+            "location_2": "Broadway",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "Mount Pleasant",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.100798,
+                    49.262754
+                ]
+            },
+            "key": "CVS105",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4c01426d3d5649dbe7441652a75385d9102a6db9",
+        "fields": {
+            "location_2": "E 18th",
+            "location_1": "Main",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "Metro Core",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.101171,
+                    49.254727
+                ]
+            },
+            "key": "CVS107",
+            "geo_local_area": "Riley Park"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "5398354bbbfb0705b6ef6a97db1f7a99db704865",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Marinaside",
+            "installation": "2009",
+            "orientation": 140,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.119636,
+                    49.272867
+                ]
+            },
+            "key": "CVS117",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d0f4a3970e3e3d095c84a0a62fa305820d12db16",
+        "fields": {
+            "location_2": "Georgia",
+            "location_1": "Granville",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.117248,
+                    49.28303
+                ]
+            },
+            "key": "CVS119",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d10d45e2006d28ae14950db13581118925f7f5d5",
+        "fields": {
+            "location_2": "Seaside (David Lam Park)",
+            "location_1": "False Creek",
+            "installation": "2010",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124852,
+                    49.271957
+                ]
+            },
+            "key": "CVS122",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "46e86ae62e826c47de9feac8affa8392aadd1111",
+        "fields": {
+            "location_2": "Seymour",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118898,
+                    49.280857
+                ]
+            },
+            "key": "CVS123",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "fe78eb4e4583fa6f7c9a9bc5c6783e99b1df0fea",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Burrard",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.129448,
+                    49.279092
+                ]
+            },
+            "key": "CVS124",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "04f66565b97b40065273f8e9f3ce9a7a3ec7ad72",
+        "fields": {
+            "location_2": "E 3rd",
+            "location_1": "Commercial",
+            "installation": "2010",
+            "orientation": 90,
+            "zone": "OT",
+            "bia": "Commercial Drive",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.069466,
+                    49.267735
+                ]
+            },
+            "key": "CVS125",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a3b5a368db9ff8bdf0b65ea5b9aa37acb864b7b3",
+        "fields": {
+            "location_2": "Haro/Barclay",
+            "location_1": "Denman",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.136835,
+                    49.290421
+                ]
+            },
+            "key": "CVS146",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "4f2c8d8bfd67d15c490b5241b2c2890d143c2e13",
+        "fields": {
+            "location_2": "Granville",
+            "location_1": "Robson",
+            "installation": "2009",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120039,
+                    49.281291
+                ]
+            },
+            "key": "CVS149",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "503efc629af49cffe9ff882518fef674711c69c8",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Denman",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.141596,
+                    49.287303
+                ]
+            },
+            "key": "CVS150",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e34920e960beab4eacda8e093cad2f44b3abbfc9",
+        "fields": {
+            "location_2": "Nicola",
+            "location_1": "Davie",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.137661,
+                    49.284413
+                ]
+            },
+            "key": "CVS153",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "6e811f1f66ed43f2920392e04fce9f93ae99e624",
+        "fields": {
+            "location_2": "Bute",
+            "location_1": "Georgia",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.125545,
+                    49.287108
+                ]
+            },
+            "key": "CVS154",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "0bcbaf0e0cf5707b529bb19c64246fd8708c914d",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "Cordova",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.116532,
+                    49.287567
+                ]
+            },
+            "key": "CVS155",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "a50935ddbf4688989ee6075bac8cf8139d0c8dfb",
+        "fields": {
+            "location_2": "Davie",
+            "location_1": "Burrard",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "West End",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.129306,
+                    49.279276
+                ]
+            },
+            "key": "CVS157",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "221fd8341340f3697462aa7f4476f5723a6ae866",
+        "fields": {
+            "location_2": "Nelson",
+            "location_1": "Burrard",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.125972,
+                    49.281348
+                ]
+            },
+            "key": "CVS158",
+            "geo_local_area": "West End"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "616e7ad0d26ef1622123c95f4a6ffee7f99e5708",
+        "fields": {
+            "location_2": "Helmcken",
+            "location_1": "Hamilton",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "Yaletown",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120927,
+                    49.27589
+                ]
+            },
+            "key": "CVS165",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "62e7e217e357b9b3a249f2970a065e1501cc8fee",
+        "fields": {
+            "location_2": "Robson",
+            "location_1": "Beatty",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.113964,
+                    49.277495
+                ]
+            },
+            "key": "CVS166",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "dbd7188a54f19937294898fc8f8b8c7939b6b71f",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Beach Cr",
+            "installation": "2015",
+            "orientation": 135,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.126024,
+                    49.270981
+                ]
+            },
+            "key": "CVS167",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "cee57034340cf63cb1227f1d2409bc2ccba92d49",
+        "fields": {
+            "location_2": "Burrard",
+            "location_1": "Georgia",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.120963,
+                    49.284208
+                ]
+            },
+            "key": "CVS170",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e39a6ca88fee8eb6c72aec4b8c8c45790d0cfa3e",
+        "fields": {
+            "location_2": "Bute",
+            "location_1": "Georgia",
+            "installation": "2015",
+            "orientation": 45,
+            "zone": "DT",
+            "bia": "Downtown Vancouver",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124959,
+                    49.287089
+                ]
+            },
+            "key": "CVS171",
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "e0dc6a4cdba5bdb309c1f88c43bf8b144262fe17",
+        "fields": {
+            "location_2": "Seaside (False Creek)",
+            "location_1": "Manitoba",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.106573,
+                    49.272099
+                ]
+            },
+            "key": "CVS174",
+            "geo_local_area": "Mount Pleasant"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "f916548170ec06198594174843c269f050123d05",
+        "fields": {
+            "location_2": "The Castings",
+            "location_1": "Island Park Walk",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "DT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.131545,
+                    49.267124
+                ]
+            },
+            "key": "CVS176",
+            "geo_local_area": "Fairview"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "b077ad970107f0e231311f97a2fa393a97edb7bb",
+        "fields": {
+            "location_2": "Commercial",
+            "location_1": "Hastings",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "Hastings North",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.070576,
+                    49.281089
+                ]
+            },
+            "key": "CVS182",
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "14d000a9851e83b2fbf2939436b9e1f5a43076a7",
+        "fields": {
+            "location_2": "Kingsway",
+            "location_1": "Nanaimo",
+            "installation": "2015",
+            "orientation": 35,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.058,
+                    49.241668
+                ]
+            },
+            "key": "CVS185",
+            "geo_local_area": "Renfrew-Collingwood"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "2d747bfd1c831b03017df0adaa2aba1c2cbbac97",
+        "fields": {
+            "location_2": "Tyne",
+            "location_1": "Kingsway",
+            "installation": "2015",
+            "orientation": 21,
+            "zone": "OT",
+            "bia": "Collingwood",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.031682,
+                    49.231956
+                ]
+            },
+            "key": "CVS188",
+            "geo_local_area": "Killarney"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "d42e9f6671415f1e1b4f120d6cd7555ece68c521",
+        "fields": {
+            "location_2": "Alma",
+            "location_1": "Point Grey Rd",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "OT",
+            "bia": "None",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.185693,
+                    49.272394
+                ]
+            },
+            "key": "CVS193",
+            "geo_local_area": "West Point Grey"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    },
+    {
+        "datasetid": "wayfinding-map-stands",
+        "recordid": "966e19bfc21ab01b3b7d60fe6499fdb85b690d48",
+        "fields": {
+            "location_2": "Vine",
+            "location_1": "W 4th",
+            "installation": "2015",
+            "orientation": 180,
+            "zone": "Metro Core",
+            "bia": "Kitsilano 4th Avenue",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.157327,
+                    49.268292
+                ]
+            },
+            "key": "CVS195",
+            "geo_local_area": "Kitsilano"
+        },
+        "record_timestamp": "2019-07-01T13:02:15.897+02:00"
+    }
+]

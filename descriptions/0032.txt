@@ -1,0 +1,77 @@
+Description
+
+List of all trees owned and maintained by the City of Edmonton. Note - There are about 320,000 records. It may take some time to load everything.
+
+
+Columns
+
+ID	
+City of Edmonton Tree Identification Number
+Number
+	
+NEIGHBOURHOOD_NAME	
+Neighbourhood name where tree resides.
+Plain Text
+	
+LOCATION_TYPE	
+General location where a tree is planted
+Plain Text
+	
+SPECIES_BOTANICAL	
+Botanical Name of Species
+Plain Text
+	
+SPECIES_COMMON	
+Common name of Species. Cultivar indicated when known.
+Plain Text
+	
+GENUS	
+Genus identifier for tree
+Plain Text
+	
+SPECIES	
+Species identifier for tree
+Plain Text
+	
+CULTIVAR	
+Cultivar name of tree if known or applicable
+Plain Text
+	
+DIAMETER_BREAST_HEIGHT	
+Diameter of trunk in centimetres. Measured at 1.2 metres from ground level.
+Number
+	
+CONDITION_PERCENT	
+Estimated condition of tree health and quality. Measured as a percentage.
+Number
+	
+PLANTED_DATE	
+The date a tree was planted, if known.
+Plain Text
+	
+OWNER	
+City owned trees have several different maintenance programs in place. "Owners" are indicated in this column to show that arrangement if known.
+Plain Text
+	
+Bears Edible Fruit	
+A Yes/No value that indicates if the tree is an edible fruit bearing tree.
+Plain Text
+	
+Type of Edible Fruit	
+If the tree bears edible fruit, the type of edible fruit is indicated. If the tree does not bear edible fruit, then the value is N/A.
+Plain Text
+	
+COUNT	
+Unique count id to be used for reporting 
+Number
+	
+LATITUDE	
+Horizontal Geographic Coordinate
+Number
+	
+LONGITUDE	
+Vertical Geographic Coordinate
+Number
+	
+LOCATION
+Location

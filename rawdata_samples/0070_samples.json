@@ -1,0 +1,35 @@
+[
+    {
+        "location_account": "0000279984-0001-1",
+        "business_name": "WILLIAM K GUERRERO",
+        "street_address": "12115 MCLENNAN AVENUE",
+        "city": "GRANADA HILLS",
+        "zip_code": "91344-1718",
+        "location_description": "12115 MCLENNAN 91344-1718",
+        "council_district": "12",
+        "location_start_date": "2001-05-11T00:00:00.000",
+        "location_end_date": "2004-12-31T00:00:00.000"
+    },
+    {
+        "location_account": "0002007827-0001-3",
+        "business_name": "BELINDA S CHENG",
+        "street_address": "720 HAMPTON DRIVE",
+        "city": "VENICE",
+        "zip_code": "90291-3019",
+        "location_description": "720 HAMPTON 90291-3019",
+        "council_district": "11",
+        "location_start_date": "2005-01-01T00:00:00.000",
+        "location_end_date": "2005-12-31T00:00:00.000"
+    },
+    {
+        "location_account": "0000357819-0001-8",
+        "business_name": "KANG H LEE",
+        "street_address": "3454 W 1ST STREET",
+        "city": "LOS ANGELES",
+        "zip_code": "90004-",
+        "location_description": "3454 1ST 90004",
+        "council_district": "13",
+        "location_start_date": "1992-01-01T00:00:00.000",
+        "location_end_date": "1996-09-30T00:00:00.000"
+    }
+]

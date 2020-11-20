@@ -1,0 +1,50 @@
+[
+    {
+        "datasetid": "graffiti",
+        "recordid": "50f5ba4d9dc3a14a193d9b40222ff76ba65faec9",
+        "fields": {
+            "count": 1,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122596505606,
+                    49.2753267642819
+                ]
+            },
+            "geo_local_area": "Downtown"
+        },
+        "record_timestamp": "2020-11-09T12:30:53.294+01:00"
+    },
+    {
+        "datasetid": "graffiti",
+        "recordid": "0f1410592c8d071a6f37e6d0f26fb1de7cd4f06b",
+        "fields": {
+            "count": 4,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.076404568367,
+                    49.2769978628342
+                ]
+            },
+            "geo_local_area": "Grandview-Woodland"
+        },
+        "record_timestamp": "2020-11-09T12:30:53.294+01:00"
+    },
+    {
+        "datasetid": "graffiti",
+        "recordid": "3957d417b0bea2e203bdad5aeac5058463e567ec",
+        "fields": {
+            "count": 1,
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.064881689308,
+                    49.2426026889996
+                ]
+            },
+            "geo_local_area": "Kensington-Cedar Cottage"
+        },
+        "record_timestamp": "2020-11-09T12:30:53.294+01:00"
+    }
+]

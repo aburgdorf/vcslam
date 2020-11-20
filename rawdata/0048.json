@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinate": {
+                "longitude": -79.48079681382607,
+                "latitude": 43.68033287596893
+            }
+        },
+        "properties": {
+            "_id": "6",
+            "OBJECTID": "6",
+            "TCDSB_CODE": "555",
+            "SCH_NAME": "St Oscar Romero",
+            "ADDRESS_FULL": "99 Humber Blvd",
+            "MUNICIPALITY": "York",
+            "POSTAL_CODE": "M6N 2H4",
+            "TCDSB_LEVEL": "S",
+            "STATUS": "Open"
+        },
+        "crs": {
+            "type": "name",
+            "properties": {
+                "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+            }
+        }
+    }
+]

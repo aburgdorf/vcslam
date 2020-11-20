@@ -1,0 +1,36 @@
+Description
+
+
+This dataset contains information about the location of the Austin MetroBike bicycle rental kiosks.
+You may also be interested in Austin MetroBike trip data, available here: https://data.austintexas.gov/dataset/Austin-MetroBike-Trip-Data/tyfh-5r8s/data
+
+
+More information about Austin B-Cycle is available here:
+http://austinbcycle.com/
+
+
+Columns
+
+Kiosk ID	
+This MetroBike Kiosk's unique ID number
+Plain Text
+	
+Kiosk Name	
+The name of MetroBike Kiosk is based on it's nearby cross-streets.
+Plain Text
+	
+Kiosk Status	
+The status of the MetroBike Kiosk. Active, closed, or moved.
+Plain Text
+	
+Latitude	
+Latitude of the Kiosk's position
+Number
+	
+Longitude	
+Longitude of the Kiosk's position
+Number
+	
+Location	
+The location of the kiosk represented in comma separated decimal degrees. (lat, long)
+Location

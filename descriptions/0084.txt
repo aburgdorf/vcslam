@@ -1,0 +1,209 @@
+Description
+
+
+Los Angeles County Valuation and property description for parcels on the Assessor's annual secured assessment rolls 2006 thru 2016. The default sort is by AssessorID and ascending RollYear within AssessorID. This dataset excludes Cross Reference Rolls (89xx-series AssessorID).
+
+
+
+
+Columns
+
+ZIPcode	
+Zip code in the situs* address, either 9-digit or 5-digit. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Plain Text
+	
+TaxRateArea_CITY	
+Incorporated city name based on tax rate area.
+Plain Text
+	
+AIN	
+Unique 10-digit number assigned to each parcel within Los Angeles County. This is the same as AssessorID but here stored without the imbedded hyphens (and as a number rather than text). Also known as APN.
+Plain Text
+	
+RollYear	
+Assessment roll year. Properties are assessed as of the January 1 valuation date (lien date) for enrollment in July and property tax billing in October.
+Number
+	
+TaxRateArea	
+Code that specifies the geographic area used in establishing the tax rates applied to the property.
+Plain Text
+	
+AssessorID	
+Unique 10-digit number assigned to each individual parcel in Los Angeles County. This Assessor Identification No. is also known as Assessor Parcel No
+Plain Text
+	
+PropertyLocation	
+Situs* address of the property (HouseNo HouseFraction StreetDirection StreetName UnitNo City ZIPcode5). *Situs pertains to the parcel’s location and almost always matches the actual street address. For incorporated cities, City here should be that city name; for unincorporated areas, City may be the name of the nearest incorporated city or a community name.
+Plain Text
+	
+PropertyType	
+Abbreviated form of property use type based on PropertyUseCode: SFR=Single Family Residence CND=Condominium R-I=Residential-Income C/I=Commercial/Industrial VAC=Vacant OTH=Other
+Plain Text
+	
+PropertyUseCode	
+4-character property use code describing the overall use of the property. Breakdown by character is included in this dataset.
+Plain Text
+	
+GeneralUseType	
+General use type of the property (1st character of PropertyUseCode).
+Plain Text
+	
+SpecificUseType	
+More specific use type of the property (2nd character of PropertyUseCode).
+Plain Text
+	
+SpecificUseDetail1	
+Additional property usage detail (3rd character of PropertyUseCode).
+Plain Text
+	
+SpecificUseDetail2	
+Additional property usage detail (4th character of PropertyUseCode).
+Plain Text
+	
+totBuildingDataLines	
+Total number of building data lines (individual structures). Although the Assessor maintains a complete set of property records on paper within the parcel jackets, only up to 5 building data lines can be stored in the current property data base. The 5 most significant structures are typically the ones selected.
+Number
+	
+YearBuilt	
+Year property was originally built, If more than one structure (totBuldingDataLines>1) this is will be the 
+earliest year built.
+Number
+	
+EffectiveYearBuilt	
+Effective year built taking into account subsequent construction, remodeling, building maintenance, etc. If more than one structure (totBuldingDataLines>1) this is the latest effective year built.
+Number
+	
+SQFTmain	
+Total square footage of the main structure(s), excluding garage area, porch, enclosed patio, etc.
+Number
+	
+Bedrooms	
+Total number of bedrooms.
+Number
+	
+Bathrooms	
+Total number of bathrooms, whether quarter, half, three-quarter or full bath.
+Number
+	
+Units
+Number
+	
+RecordingDate	
+Latest recording date, whether reappraisable or non-reappraisable. May include fictitious dates used in special processing (such as 19670245 or 19870633) and incomplete dates (such as 19790000).
+Number
+	
+LandValue	
+Land value on this assessment roll.
+Number
+	
+LandBaseYear	
+Land base year established by Proposition 13. Changes to land base year are triggered only by re-appraisable change-of-ownership.
+Number
+	
+ImprovementValue	
+Improvement value on this assessment roll.
+Number
+	
+ImpBaseYear	
+Improvement base year established by Proposition 13. Changes to improvement base year are triggered only by re-appraisable change-of-ownership or major new construction.
+Number
+	
+TotalLandImpValue	
+Total LandValue + ImprovementValue on this assessment roll.
+Number
+	
+HomeownersExemption	
+Homeowner's exemption value on the assessment roll.
+Number
+	
+RealEstateExemption	
+Real estate exemption value on this assessment roll (Church, Religious, Welfare or Veteran; full or partial)
+Number
+	
+FixtureValue	
+Fixture value on this assessment roll.
+Number
+	
+FixtureExemption
+Number
+	
+PersonalPropertyValue	
+Personal property value on this assessment roll.
+Number
+	
+PersonalPropertyExemption
+Number
+	
+isTaxableParcel?	
+Y=taxable fee parcel; N=non-taxable non-fee parcel. Non-taxable non-fee parcels are identified by having 8th digit of AssessorID either 3, 8, or 9 (i.e. last 3 digits of AssessorID either 3xx, 8xx or 9xx). Assessed values for non-taxable parcels are relatively meaningless and so to avoid inadvertent comingling with taxable values, the assessed values and exemption values for NON-TAXABLE parcels have here been ZEROED-OUT. Also, because of lesser priority given to maintaining their property records, the parcel usage, building information, and even the property address shown here for non-taxable parcels may not be up-to-date.
+Plain Text
+	
+TotalValue
+Number
+	
+TotalExemption	
+Total exemption value = HomeownersExemption + RealEstateExemption + FixtureExemption + PersonalPropertyExemption Note: Assessed values for non-taxable parcels (isTaxableParcel?='N') are relatively meaningless and so to avoid inadvertent comingling with taxable values, the assessed values and exemption values for NON-TAXABLE parcels have here been ZEROED-OUT.
+Number
+	
+netTaxableValue	
+Net taxable value = Total value minus Exemption value (LandValue + ImprovementValue + FixtureValue + PersonalPropertyValue - HomeownersExemption - RealEstateExemption - FixtureExemption - PersonalPropertyExemption). Note: Assessed values for non-taxable parcels (isTaxableParcel?='N') are relatively meaningless and so to avoid inadvertent comingling with taxable values, the assessed values and exemption values for NON-TAXABLE parcels have here been ZEROED-OUT.
+Number
+	
+SpecialParcelClassification	
+Special parcel classification, such as type of non-taxable parcel. Informational only.
+Number
+	
+AdministrativeRegion	
+Assessor's administrative office responsible for maintaining the property records for this parcel. Parcels are assigned based on type of property and geographic location.
+Number
+	
+Cluster	
+Cluster codes describe a geographical area by which similar types and uses of parcels are grouped. For residential and smaller commercial/industrial properties, clusters generally identify market areas. For more complex properties,clusters may only be used for internal work flow and control.
+Plain Text
+	
+ParcelBoundaryDescription	
+Although often an abbreviated version of the recorded legal description, the parcel boundary description is NOT a legal description. It is an internal description used by the Assessor for assessment purposes.
+Plain Text
+	
+HouseNo	
+House no. in the situs* address. If a property has more than one street address, the situs address is typically (but not always) the one with the lowest street no. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Number
+	
+HouseFraction	
+Fraction associated with HouseNo in the situs* address (example 1/2). *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Number
+	
+StreetDirection	
+Direction associated with the StreetName in the situs* address : N, S, E, W, or blank. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Number
+	
+StreetName	
+Street name in the situs* address. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Plain Text
+	
+UnitNo	
+Unit no. in the situs* address. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Plain Text
+	
+City	
+City name and State in the situs* address. For incorporated cities, this should be that city name; for unincorporated areas this may be the name of the nearest incorporated city or a community name. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Plain Text
+	
+ZIPcode5	
+5-digit zip code of the situs* address. *Situs pertains to the parcel’s location and almost always matches the actual street address.
+Plain Text
+	
+rowID	
+Simple row identifier comprised of concatenated RollYear and AIN.
+Number
+	
+CENTER_LAT	
+Geographic latitude of the parcel.
+Number
+	
+CENTER_LON	
+Geographic longitude of the parcel.
+Number
+	
+Location 1
+Location

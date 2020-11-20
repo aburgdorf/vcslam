@@ -1,0 +1,36 @@
+[
+    {
+        "summno": "18688489",
+        "summdt": "2008-12-22T00:00:00.000",
+        "viotime": "0932A",
+        "viodesc": "ALTERNATE PARKING",
+        "origfine": "30",
+        "violation_address_number": "56",
+        "violation_street": "XXX",
+        "violation_full_address": "56 XXX",
+        "city": "Buffalo",
+        "state": "NY"
+    },
+    {
+        "summno": "38551497",
+        "summdt": "2007-10-02T00:00:00.000",
+        "viotime": "0733A",
+        "viodesc": "LESS THAN 20 FT FROM CROSSWALK",
+        "origfine": "30",
+        "violation_street": "180LPBIDWELL",
+        "violation_full_address": "180LPBIDWELL",
+        "city": "Buffalo",
+        "state": "NY"
+    },
+    {
+        "summno": "38580963",
+        "summdt": "2007-02-27T00:00:00.000",
+        "viotime": "0804A",
+        "viodesc": "NO STANDING",
+        "origfine": "35",
+        "violation_street": "125LPHODGE",
+        "violation_full_address": "125LPHODGE",
+        "city": "Buffalo",
+        "state": "NY"
+    }
+]

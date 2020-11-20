@@ -1,0 +1,54 @@
+[
+    {
+        "address": "10000 W SANTA MONICA BLVD",
+        "permit": "14044 10000 02293",
+        "permit_status": "Issued",
+        "inspection_date": "2016-07-20T00:00:00.000",
+        "inspection": "Rough-Ventilation",
+        "inspection_result": "Partial Approval",
+        "lat_lon": {
+            "latitude": "34.06364",
+            "longitude": "-118.41437"
+        },
+        ":@computed_region_qz3q_ghft": "24032",
+        ":@computed_region_kqwf_mjcx": "6",
+        ":@computed_region_k96s_3jcv": "870",
+        ":@computed_region_tatf_ua23": "739",
+        ":@computed_region_ur2y_g4cx": "9",
+        ":@computed_region_2dna_qi2s": "75"
+    },
+    {
+        "address": "1000 S SANTA FE AVE",
+        "permit": "15016 10000 18196",
+        "permit_status": "Permit Finaled",
+        "inspection_date": "2016-07-22T00:00:00.000",
+        "inspection": "Smoke Detectors",
+        "inspection_result": "Insp Cancelled",
+        "lat_lon": {
+            "latitude": "34.03143",
+            "longitude": "-118.22981"
+        },
+        ":@computed_region_qz3q_ghft": "23082",
+        ":@computed_region_kqwf_mjcx": "9",
+        ":@computed_region_k96s_3jcv": "533",
+        ":@computed_region_tatf_ua23": "1287",
+        ":@computed_region_2dna_qi2s": "76"
+    },
+    {
+        "address": "3680 N BUENA PARK DR",
+        "permit": "15014 10000 04931",
+        "permit_status": "Issued",
+        "inspection_date": "2016-07-18T00:00:00.000",
+        "inspection": "Insulation",
+        "inspection_result": "Approved",
+        "lat_lon": {
+            "latitude": "34.13745",
+            "longitude": "-118.38853"
+        },
+        ":@computed_region_qz3q_ghft": "8492",
+        ":@computed_region_kqwf_mjcx": "5",
+        ":@computed_region_k96s_3jcv": "351",
+        ":@computed_region_tatf_ua23": "1353",
+        ":@computed_region_2dna_qi2s": "84"
+    }
+]

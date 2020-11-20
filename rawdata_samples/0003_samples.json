@@ -1,0 +1,50 @@
+[
+    {
+        "CRASH_ID": 1209242,
+        "CRASH_DATE": "17.06.2019",
+        "CRASH_TIME": "11:30",
+        "SUBURB_LOCATION": "WESTON",
+        "LONGITUDE": "14.905.180.491.123.300",
+        "LATITUDE": "-35.341.393.840.486.600",
+        "INTERSECTION": "NO",
+        "MIDBLOCK": "YES",
+        "CRASH_DIRECTION": "North / West bound",
+        "CRASH_SEVERITY": "Property Damage Only",
+        "LIGHTING_CONDITION": "Daylight",
+        "ROAD_CONDITION": "Good dry surface",
+        "WEATHER_CONDITION": "Fine",
+        "Location": "(-35.341393840486695, 149.05180491123326)"
+    },
+    {
+        "CRASH_ID": 1209235,
+        "CRASH_DATE": "15.06.2019",
+        "CRASH_TIME": "19:00",
+        "SUBURB_LOCATION": "GIRALANG",
+        "LONGITUDE": "14.909.532.381.937.300",
+        "LATITUDE": "-3.520.140.474.557.590",
+        "INTERSECTION": "YES",
+        "MIDBLOCK": "NO",
+        "CRASH_DIRECTION": "East / West bound",
+        "CRASH_SEVERITY": "Injury",
+        "LIGHTING_CONDITION": "Dark - good street lighting",
+        "ROAD_CONDITION": "Good dry surface",
+        "WEATHER_CONDITION": "Fine",
+        "Location": "(-35.20140474557591, 149.09532381937305)"
+    },
+    {
+        "CRASH_ID": 1209213,
+        "CRASH_DATE": "04.06.2019",
+        "CRASH_TIME": "08:50",
+        "SUBURB_LOCATION": "PIALLIGO",
+        "LONGITUDE": "14.917.272.403.538.000",
+        "LATITUDE": "-3.529.459.680.781.370",
+        "INTERSECTION": "NO",
+        "MIDBLOCK": "YES",
+        "CRASH_DIRECTION": "West bound",
+        "CRASH_SEVERITY": "Property Damage Only",
+        "LIGHTING_CONDITION": "Daylight",
+        "ROAD_CONDITION": "Good dry surface",
+        "WEATHER_CONDITION": "Fine",
+        "Location": "(-35.29459680781376, 149.17272403538018)"
+    }
+]

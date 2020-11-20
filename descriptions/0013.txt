@@ -1,0 +1,29 @@
+Description
+
+This data is derived from sensor stations placed on bridges and surface streets within city limits. Each station has a temperature sensor that measures the temperature of the street surface and a sensor that measures the ambient air temperature at the station each second. Those values are averaged into temperature readings that are recorded by the station every minute. The dataset is updated every hour with new data. Only 2 days of data is stored in the dataset.
+
+Columns
+
+StationName	
+Name of the station including location description.
+Plain Text
+	
+StationLocation	
+Latitude and longitude of the station.
+Point
+	
+DateTime	
+Date and time of the temperature readings.
+Date & Time
+	
+RecordId	
+System unique identifier.
+Number
+	
+RoadSurfaceTemperature	
+Temperature of the road surface in degrees Fahrenheit.
+Number
+	
+AirTemperature	
+Ambient air temperature at the station in degrees Fahrenheit.
+Number

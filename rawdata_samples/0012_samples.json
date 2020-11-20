@@ -1,0 +1,26 @@
+[
+    {
+        "Dog_Name": "Q",
+        "Dog_Breed": "Cockerpoo",
+        "Location_masked": "(42.37695144, -71.13143341)",
+        "Latitude_masked": -71.13143341,
+        "Longitude_masked": -71.13143341,
+        "Neighborhood": "West Cambridge"
+    },
+    {
+        "Dog_Name": "Parker",
+        "Dog_Breed": "Pointer",
+        "Location_masked": "(42.36524806, -71.10962391)",
+        "Latitude_masked": -71.10962391,
+        "Longitude_masked": -71.10962391,
+        "Neighborhood": "Riverside"
+    },
+    {
+        "Dog_Name": "Arrow",
+        "Dog_Breed": "Poodle",
+        "Location_masked": "(42.36035777, -71.11422322)",
+        "Latitude_masked": -71.11422322,
+        "Longitude_masked": -71.11422322,
+        "Neighborhood": "Cambridgeport"
+    }
+]

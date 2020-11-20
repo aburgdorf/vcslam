@@ -1,0 +1,78 @@
+Description
+
+This is a dataset of parking summonses by the Division of Parking Enforcement, the Buffalo Police Department,and other agencies permitted to write summonses on behalf of the City of Buffalo.
+
+
+Columns
+
+SUMMONS NUMBER	
+Unique identifier for each parking summons
+Plain Text
+	
+SUMMONS DATE	
+The date the summons was issued.
+Date & Time
+	
+VIOLATION TIME	
+The time the summons was issued.
+Plain Text
+	
+VIOLATION DESCRIPTION	
+A description of the violation
+Plain Text
+	
+ORIGINAL FINE	
+The original fine associated with the parking summons
+Plain Text
+	
+VIOLATION ADDRESS NUMBER	
+The street number where the parking violation occurred
+Plain Text
+	
+VIOLATION STREET	
+The street where the parking violation occurred
+Plain Text
+	
+VIOLATION FULL ADDRESS	
+The full street address where the parking violation occurred
+Plain Text
+	
+CITY	
+The city where the parking violation occurred
+Plain Text
+	
+STATE	
+The state where the parking violation occurred
+Plain Text
+	
+LATITUDE	
+The latitude where the parking violation occurred
+Plain Text
+	
+LONGITUDE	
+The longitude where the parking violation occurred
+Plain Text
+	
+LOCATION	
+The geographic location where the parking violation occurred
+Location
+	
+COUNCIL DISTRICT	
+The council district where the parking violation occurred
+Plain Text
+	
+POLICE DISTRICT	
+The police district where the parking violation occurred
+Plain Text
+	
+CENSUS TRACT	
+The census tract where the parking violation occurred
+Plain Text
+	
+CENSUS BLOCK GROUP	
+The census block group where the parking violation occurred
+Plain Text
+	
+CENSUS BLOCK	
+The census block where the parking violation occurred
+Plain Text

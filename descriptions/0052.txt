@@ -1,0 +1,78 @@
+Description
+
+The street tree dataset includes a listing of public trees on boulevards in the City of Vancouver and provides data on tree coordinates, species and other related characteristics. Park trees and private trees are not included in the inventory.
+
+Tree records that do not have coordinates data will not show up in the map view; consult the table view for full listing.
+Data currency
+
+The dataset is updated on a weekly basis. However, tree attributes are generally not updated on a regular basis and it may be several years between updates for many of those attributes. Priorities and resources determine how fast a change in reality is reflected in the data.
+
+The coordinates were primarily provided by the 2016 Tree Inventory project.
+Data accuracy
+
+Tree attributes are generally not updated on a regular basis and it may be several years between updates for many of those attributes.
+
+The coordinates and/or addresses are incorrect for these Trees ID: 21616, 115677, 139140, 209663, 209664, 213592, 255944, 256303
+
+Note: 0 value in latitude and longitude fields mean there is no related information available 
+
+
+Columns
+
+TREE_ID
+Numerical ID
+
+CIVIC_NUMBER
+Street address of the site at which the tree is associated with
+
+STD_STREET
+Street name of the site at which the tree is associated with
+
+GENUS_NAME
+Genus name
+
+SPECIES_NAME
+Species name
+
+CULTIVAR_NAME
+Cultivar name
+
+COMMON_NAME
+Common name
+
+ASSIGNED
+Indicates whether the address is made up to associate the tree with a nearby  lot (Y=Yes or N=No)
+
+ROOT_BARRIER
+Root barrier installed (Y = Yes, N = No)
+
+
+PLANT_AREA
+B = behind sidewalk, G = in tree grate, N = no sidewalk, C = cutout, a number  indicates boulevard width in feet
+
+ON_STREET_BLOCK
+The street block at which the tree is physically located on
+
+ON_STREET
+The name of the street at which the tree is physically located on
+
+NEIGHBOURHOOD_NAME
+City's defined local area in which the tree is located.  For more information, see theLocal Area Boundary Datapage.
+
+STREET_SIDE_NAME
+The street side which the tree is physically located on (Even, Odd or Median  (Med))
+
+HEIGHT_RANGE_ID
+0-10 for every 10 feet (e.g., 0 = 0-10 ft, 1 = 10-20 ft, 2 = 20-30ft, and10 = 100+ ft)
+
+DIAMETER
+DBH in inches (DBH stands for diameter of tree at breast height)
+
+CURB
+Curb presence (Y = Yes, N = No)
+
+DATE_PLANTED
+The date of planting in YYYYMMDD format.  Data for this field may not be available for all trees.
+
+Geom
+Spatial representation of feature

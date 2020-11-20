@@ -1,0 +1,34 @@
+Description
+
+A listing of EPCOR Utilities Inc. owned/operated hydrants in Edmonton.
+
+Columns
+
+Hydrant Number	
+A unique number assigned to the hydrant for reference purposes.
+Number
+	
+Dome Colour	
+Hydrant Dome and Steamer colors correspond to the hydraulic flow capacity in the network feeding that hydrant. >95 BLUE, BLACK or YELLOW 60 – 95 GREEN 30 – 60 ORANGE < 30 RED
+Plain Text
+	
+Flow Rate	
+The system capacity that determines the number of liters per second (flow rate) for the hydrant.
+Plain Text
+	
+Installation Year	
+The year the hydrant was installed.
+Plain Text
+	
+Latitude	
+The latitude value in the latitude/longitude location of the hydrant.
+Number
+	
+Longitude	
+The longitude value in the latitude/longitude location of the hydrant.
+Number
+	
+Location	
+The latitude/longitude values for mapping purposes.
+Point
+	

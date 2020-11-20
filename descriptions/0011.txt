@@ -1,0 +1,29 @@
+Description
+
+This layer contains the Parking Tickets issued since January 2014 and contains tickets that were issued by both the PCO's, the Parking Control Officers, and the Cambridge Police. It does not contain Ticket Numbers or Officer Badge Numbers at the instruction of management. Nor does it contain any vehicle data or plate numbers which could inadvertently compromise private data.
+
+Columns
+
+Ticket Issue Date	
+This is the actual calendar date when the violation was issued. Even Legal Holidays will appear on some violation data since Police will patrol the streets even on these days.
+Date & Time
+	
+Issue Time	
+This column contains the actual time the violation was issued. The format is HH:MM and an indicator of AM or PM
+Plain Text
+	
+Meter	
+This column contains data when the violation is for an Expired Meter. It lists the actual meter number that is visible on the meter's post or visible on a label that appears within the meter's glass-globe.
+Plain Text
+	
+Violation Description	
+The Violation Description is the officer's or issuer's best description of the actual violation or infraction and often makes reference to the posted sign or display that indicates what is wrong. No Stopping or No Parking refer to the posted sign visible to the driver that the area is restricted in some way. Expired Meter indicates the meter is flashing or displays an expired indicator. Overtime would indicate the vehicle has exceeded the allotted time allowed to park
+Plain Text
+	
+Location	
+This column contains the officer's or issuer's best description of where the violation occurred. Violations often need to be described only as a Street Number and Street Name. Others need to describe an intersection of two streets or that the violation was observed Opposite to Street Number and Name. Some may even describe a generic location such as a Park or Mall. An Asterisk will indicate the location is a Parking Meter at Street Number and Name. Because of changes in the open data platform's geocoding application, some locations were replaced with blanks in this field of the open dataset if the location could not be geocoded.
+Location
+	
+Department	
+The municipal department that issued the ticket.
+Plain Text

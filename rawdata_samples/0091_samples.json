@@ -1,0 +1,41 @@
+[
+    {
+        "sumd_id": "Powered 1QEU9",
+        "sumd_type": "Powered",
+        "sumd_group": "scooter",
+        "gps_latitude": "36.147529",
+        "gps_longitude": "-86.803092",
+        "availability_start_date": "2020-02-12",
+        "availability_start_time": "15:59:41",
+        "availability_duration": "10979.560535567",
+        "real_time_fare": "15",
+        "company_website": "1-866-205-2442",
+        "company_phone": "https://www.bird.co"
+    },
+    {
+        "sumd_id": "Powered 33KD4",
+        "sumd_type": "Powered",
+        "sumd_group": "scooter",
+        "gps_latitude": "36.160414",
+        "gps_longitude": "-86.776707",
+        "availability_start_date": "2020-02-12",
+        "availability_start_time": "17:40:34",
+        "availability_duration": "4926.554267512",
+        "real_time_fare": "15",
+        "company_website": "1-866-205-2442",
+        "company_phone": "https://www.bird.co"
+    },
+    {
+        "sumd_id": "Powered 36JMX",
+        "sumd_type": "Powered",
+        "sumd_group": "scooter",
+        "gps_latitude": "36.139662",
+        "gps_longitude": "-86.796803",
+        "availability_start_date": "2020-02-12",
+        "availability_start_time": "17:05:38",
+        "availability_duration": "7022.544495533",
+        "real_time_fare": "15",
+        "company_website": "1-866-205-2442",
+        "company_phone": "https://www.bird.co"
+    }
+]
