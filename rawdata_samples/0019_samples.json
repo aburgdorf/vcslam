@@ -1,47 +1,74 @@
 [
     {
-        "Preliminary Risk Category": "Medium Risk",
-        "Neighborhood": "Green Lake",
-        "Address": "410 NE 72nd St",
-        "City": "Seattle",
-        "State": "WA",
-        "Zip Code": 98115,
-        "Year Built": 1923,
-        "No. Stories": 1,
-        "Retrofit Level": "No visible retrofit",
-        "Building Use": "Commercial",
-        "Estimated Number of Occupants": "01. Okt",
-        "Confirmation Source": "Field Visit",
-        "Long/Lat": "POINT (-122.324214 47.680601)"
+        "preliminary_risk_category": "Medium Risk",
+        "neighborhood": "Green Lake",
+        "address": "410 NE 72nd St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip_code": "98115",
+        "year_built": "1923",
+        "no_stories": "1",
+        "retrofit_level": "No visible retrofit",
+        "building_use": "Commercial",
+        "estimated_number_of_occupants": "1-10",
+        "confirmation_source": "Field Visit",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.324214,
+                47.680601
+            ]
+        },
+        ":@computed_region_ru88_fbhk": "53",
+        ":@computed_region_kuhn_3gp2": "25",
+        ":@computed_region_q256_3sug": "18792"
     },
     {
-        "Preliminary Risk Category": "Medium Risk",
-        "Neighborhood": "Pioneer Square/Chinatown International District",
-        "Address": "423 2nd Av Et S",
-        "City": "Seattle",
-        "State": "WA",
-        "Zip Code": 98104,
-        "Year Built": 1900,
-        "No. Stories": 3,
-        "Retrofit Level": "Substantial Alteration",
-        "Building Use": "Office",
-        "Estimated Number of Occupants": "11-100",
-        "Confirmation Source": "Field Visit",
-        "Long/Lat": "POINT (-122.33183000000001 47.601527)"
+        "preliminary_risk_category": "Medium Risk",
+        "neighborhood": "Pioneer Square/Chinatown International District",
+        "address": "423 2nd Av Et S",
+        "city": "Seattle",
+        "state": "WA",
+        "zip_code": "98104",
+        "year_built": "1900",
+        "no_stories": "3",
+        "retrofit_level": "Substantial Alteration",
+        "building_use": "Office",
+        "estimated_number_of_occupants": "11-100",
+        "confirmation_source": "Field Visit",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.33183000000001,
+                47.601527
+            ]
+        },
+        ":@computed_region_ru88_fbhk": "49",
+        ":@computed_region_kuhn_3gp2": "20",
+        ":@computed_region_q256_3sug": "18379"
     },
     {
-        "Preliminary Risk Category": "Medium Risk",
-        "Neighborhood": "Ballard",
-        "Address": "2021 NW 58th St",
-        "City": "Seattle",
-        "State": "WA",
-        "Zip Code": 98107,
-        "Year Built": 1900,
-        "No. Stories": 3,
-        "Retrofit Level": "Permitted Retrofit",
-        "Building Use": "Residential",
-        "Estimated Number of Occupants": "11-100",
-        "Confirmation Source": "Google Street View",
-        "Long/Lat": "POINT (-122.382957 47.670916)"
+        "preliminary_risk_category": "Medium Risk",
+        "neighborhood": "Ballard",
+        "address": "2021 NW 58th St",
+        "city": "Seattle",
+        "state": "WA",
+        "zip_code": "98107",
+        "year_built": "1900",
+        "no_stories": "3",
+        "retrofit_level": "Permitted Retrofit",
+        "building_use": "Residential",
+        "estimated_number_of_occupants": "11-100",
+        "confirmation_source": "Google Street View",
+        "geocoded_column": {
+            "type": "Point",
+            "coordinates": [
+                -122.382957,
+                47.670916
+            ]
+        },
+        ":@computed_region_ru88_fbhk": "4",
+        ":@computed_region_kuhn_3gp2": "1",
+        ":@computed_region_q256_3sug": "18386"
     }
 ]

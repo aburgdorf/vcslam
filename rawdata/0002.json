@@ -1,176 +1,482 @@
 [
     {
-        "Name": "Ainslie Newsagency and Licensed Post Office",
-        "Region": "Northside",
-        "Address": "3 Edgar St, Ainslie ACT 2602",
-        "Location": "POINT (149.14508 -35.26243)"
+      "name": "Ainslie Newsagency and Licensed Post Office",
+      "region": "Northside",
+      "address": "3 Edgar St, Ainslie ACT 2602",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.14508,
+          -35.26243
+        ]
+      }
     },
     {
-        "Name": "Blackjack Kiosk",
-        "Region": "Southside",
-        "Address": "Shop 22B, Erindale Shopping Centre, Wanniassa",
-        "Location": "POINT (149.098627 -35.403686)"
+      "name": "Blackjack Kiosk",
+      "region": "Southside",
+      "address": "Shop 22B, Erindale Shopping Centre, Wanniassa",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.098627,
+          -35.403686
+        ]
+      }
     },
     {
-        "Name": "Calwell Video and Post",
-        "Region": "Southside",
-        "Address": "Shop 22, Calwell Shopping Centre, Calwell",
-        "Location": "POINT (149.114312 -35.434953)"
+      "name": "Calwell Video and Post",
+      "region": "Southside",
+      "address": "Shop 22, Calwell Shopping Centre, Calwell",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.114312,
+          -35.434953
+        ]
+      }
     },
     {
-        "Name": "Canberra House Newsagency",
-        "Region": "Civic",
-        "Address": "8-10 Hobart Place",
-        "Location": "POINT (149.12629 -35.27903)"
+      "name": "Canberra House Newsagency",
+      "region": "Civic",
+      "address": "8-10 Hobart Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.12629,
+          -35.27903
+        ]
+      }
     },
     {
-        "Name": "Canberra Institute of Technology",
-        "Region": "Civic",
-        "Address": "36 Constitution Avenue, Reid ACT 2601",
-        "Location": "POINT (149.137633 -35.285974)"
+      "name": "Canberra Institute of Technology",
+      "region": "Civic",
+      "address": "36 Constitution Avenue, Reid ACT 2601",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.137633,
+          -35.285974
+        ]
+      }
     },
     {
-        "Name": "Charnwood Newsagency",
-        "Region": "Northside",
-        "Address": "Shop 4, FADCO Building, Charnwood Place, Charnwood",
-        "Location": "POINT (149.03407480000004 -35.2045852)"
+      "name": "Charnwood Newsagency",
+      "region": "Northside",
+      "address": "Shop 4, FADCO Building, Charnwood Place, Charnwood",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.03407480000004,
+          -35.2045852
+        ]
+      }
     },
     {
-        "Name": "Chisholm Newsagency and Post Office",
-        "Region": "Southside",
-        "Address": "5 Halley Street, Chisholm",
-        "Location": "POINT (149.129624 -35.414149)"
+      "name": "Chisholm Newsagency and Post Office",
+      "region": "Southside",
+      "address": "5 Halley Street, Chisholm",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.129624,
+          -35.414149
+        ]
+      }
     },
     {
-        "Name": "Cooleman Court Newsagency",
-        "Region": "Southside",
-        "Address": "5/26 Brierly Street, Weston",
-        "Location": "POINT (149.052864 -35.3417)"
+      "name": "Cooleman Court Newsagency",
+      "region": "Southside",
+      "address": "5/26 Brierly Street, Weston",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.052864,
+          -35.3417
+        ]
+      }
     },
     {
-        "Name": "Dickson Newsagency",
-        "Region": "Northside",
-        "Address": "6 Dickson Place, Dickson",
-        "Location": "POINT (149.1388866 -35.2502366)"
+      "name": "Dickson Newsagency",
+      "region": "Northside",
+      "address": "6 Dickson Place, Dickson",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.1388866,
+          -35.2502366
+        ]
+      }
     },
     {
-        "Name": "EzyMart",
-        "Region": "Civic",
-        "Address": "Jolimont Centre, 65 Northbourne Ave, Canberra ACT 2601",
-        "Location": "POINT (149.128969 -35.277689)"
+      "name": "EzyMart",
+      "region": "Civic",
+      "address": "Jolimont Centre, 65 Northbourne Ave, Canberra ACT 2601",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.128969,
+          -35.277689
+        ]
+      }
     },
     {
-        "Name": "Gungahlin Newsagency",
-        "Region": "Northside",
-        "Address": "Shop 12, 33 Hibberson Street, Gungahlin",
-        "Location": "POINT (149.134114 -35.185216)"
+      "name": "Gungahlin Newsagency",
+      "region": "Northside",
+      "address": "Shop 12, 33 Hibberson Street, Gungahlin",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.134114,
+          -35.185216
+        ]
+      }
     },
     {
-        "Name": "Gungahlin Post Office",
-        "Region": "Northside",
-        "Address": "46-50 Hibberson Street, Gungahlin",
-        "Location": "POINT (149.136877 -35.186078)"
+      "name": "Gungahlin Post Office",
+      "region": "Northside",
+      "address": "46-50 Hibberson Street, Gungahlin",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.136877,
+          -35.186078
+        ]
+      }
     },
     {
-        "Name": "Hawker Newsagency",
-        "Region": "Northside",
-        "Address": "Shop 2 Hawker Place, Hawker",
-        "Location": "POINT (149.0435153 -35.2431766)"
+      "name": "Hawker Newsagency",
+      "region": "Northside",
+      "address": "Shop 2 Hawker Place, Hawker",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.0435153,
+          -35.2431766
+        ]
+      }
     },
     {
-        "Name": "Jamison Centre Newsagency",
-        "Region": "Northside",
-        "Address": "Shop 3 & 4, 39-43 Bowman Street, Macquarie",
-        "Location": "POINT (149.072889 -35.252313)"
+      "name": "Jamison Centre Newsagency",
+      "region": "Northside",
+      "address": "Shop 3 & 4, 39-43 Bowman Street, Macquarie",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.072889,
+          -35.252313
+        ]
+      }
     },
     {
-        "Name": "Kambah News Agency",
-        "Region": "Southside",
-        "Address": "13/5 Primmer Ct, Kambah ACT 2902",
-        "Location": "POINT (149.057705 -35.379983)"
+      "name": "Kambah News Agency",
+      "region": "Southside",
+      "address": "13/5 Primmer Ct, Kambah ACT 2902",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.057705,
+          -35.379983
+        ]
+      }
     },
     {
-        "Name": "Kingston Newsagency",
-        "Region": "Southside",
-        "Address": "66 Giles Street, Kingston",
-        "Location": "POINT (149.141241 -35.315108)"
+      "name": "Kingston Newsagency",
+      "region": "Southside",
+      "address": "66 Giles Street, Kingston",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.141241,
+          -35.315108
+        ]
+      }
     },
     {
-        "Name": "Kippax Fair Newsagency",
-        "Region": "Northside",
-        "Address": "25 Hardwick Crescent, Holt ACT 2615",
-        "Location": "POINT (149.019849 -35.222364)"
+      "name": "Kippax Fair Newsagency",
+      "region": "Northside",
+      "address": "25 Hardwick Crescent, Holt ACT 2615",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.019849,
+          -35.222364
+        ]
+      }
     },
     {
-        "Name": "Lanyon Newsagency",
-        "Region": "Southside",
-        "Address": "Shop 18, Lanyon Market Place, Conder",
-        "Location": "POINT (149.09284 -35.45745)"
+      "name": "Lanyon Newsagency",
+      "region": "Southside",
+      "address": "Shop 18, Lanyon Market Place, Conder",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.09284,
+          -35.45745
+        ]
+      }
     },
     {
-        "Name": "Manuka Newsagency",
-        "Region": "Southside",
-        "Address": "38 Franklin Street, Manuka",
-        "Location": "POINT (149.13274 -35.319892)"
+      "name": "Manuka Newsagency",
+      "region": "Southside",
+      "address": "38 Franklin Street, Manuka",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.13274,
+          -35.319892
+        ]
+      }
     },
     {
-        "Name": "NewsXpress Belconnen",
-        "Region": "Northside",
-        "Address": "Shop 114, Level 1, Westfield Belconnen, Belconnen",
-        "Location": "POINT (149.066786 -35.2382717)"
+      "name": "NewsXpress Belconnen",
+      "region": "Northside",
+      "address": "Shop 114, Level 1, Westfield Belconnen, Belconnen",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.066786,
+          -35.2382717
+        ]
+      }
     },
     {
-        "Name": "NewsXpress Woden",
-        "Region": "Southside",
-        "Address": "Shop L66 Westfield Woden, Woden",
-        "Location": "POINT (149.086637 -35.346323)"
+      "name": "NewsXpress Woden",
+      "region": "Southside",
+      "address": "Shop L66 Westfield Woden, Woden",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.086637,
+          -35.346323
+        ]
+      }
     },
     {
-        "Name": "Nextra Hyperdome",
-        "Region": "Southside",
-        "Address": "Shop 15A, Tuggeranong Hyperdome, Tuggeranong",
-        "Location": "POINT (149.0672421 -35.4167587)"
+      "name": "Nextra Hyperdome",
+      "region": "Southside",
+      "address": "Shop 15A, Tuggeranong Hyperdome, Tuggeranong",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.0672421,
+          -35.4167587
+        ]
+      }
     },
     {
-        "Name": "Nextra/Newsfront Newsagency",
-        "Region": "Northside",
-        "Address": "Shop 50A Westfield Belconnen, Belconnen",
-        "Location": "POINT (149.0655255 -35.2383112)"
+      "name": "Nextra/Newsfront Newsagency",
+      "region": "Northside",
+      "address": "Shop 50A Westfield Belconnen, Belconnen",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.0655255,
+          -35.2383112
+        ]
+      }
     },
     {
-        "Name": "Southlands Newsagency",
-        "Region": "Southside",
-        "Address": "Shop 6, Southlands Shopping Centre, Mawson",
-        "Location": "POINT (149.094781 -35.364687)"
+      "name": "Southlands Newsagency",
+      "region": "Southside",
+      "address": "Shop 6, Southlands Shopping Centre, Mawson",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.094781,
+          -35.364687
+        ]
+      }
     },
     {
-        "Name": "Supa24 Convenience",
-        "Region": "Civic",
-        "Address": "2 Mort Street, City",
-        "Location": "POINT (149.130814 -35.278412)"
+      "name": "Supa24 Convenience",
+      "region": "Civic",
+      "address": "2 Mort Street, City",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.130814,
+          -35.278412
+        ]
+      }
     },
     {
-        "Name": "Supanews",
-        "Region": "Civic",
-        "Address": "EG11, Canberra Centre, Bunda Street, City",
-        "Location": "POINT (149.1331547 -35.2782666)"
+      "name": "Supanews",
+      "region": "Civic",
+      "address": "EG11, Canberra Centre, Bunda Street, City",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.1331547,
+          -35.2782666
+        ]
+      }
     },
     {
-        "Name": "The Barrow",
-        "Region": "Civic",
-        "Address": "146/2 Akuna Street, City",
-        "Location": "POINT (149.132541 -35.282206)"
+      "name": "The Barrow",
+      "region": "Civic",
+      "address": "146/2 Akuna Street, City",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.132541,
+          -35.282206
+        ]
+      }
     },
     {
-        "Name": "Thistle Kiosk",
-        "Region": "Southside",
-        "Address": "Westfield Woden Marketplace (Opposite Coles), Woden",
-        "Location": "POINT (149.08534500000002 -35.346579)"
+      "name": "Thistle Kiosk",
+      "region": "Southside",
+      "address": "Westfield Woden Marketplace (Opposite Coles), Woden",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.08534500000002,
+          -35.346579
+        ]
+      }
     },
     {
-        "Name": "University of Canberra",
-        "Region": "Northside",
-        "Address": "University Drive, Bruce ACT 2617",
-        "Location": "POINT (149.0841085 -35.2381785)"
+      "name": "University of Canberra",
+      "region": "Northside",
+      "address": "University Drive, Bruce ACT 2617",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.0841085,
+          -35.2381785
+        ]
+      }
+    },
+    {
+      "name": "Wanniassa Lotteries and Tobacco Station",
+      "region": "Waniassa",
+      "address": "2/12 Sangster Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.08542,
+          -35.39055
+        ]
+      }
+    },
+    {
+      "name": "Evatt Newsagency",
+      "region": "Evatt",
+      "address": "Shop 2, Heydon Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.07347,
+          -35.20901
+        ]
+      }
+    },
+    {
+      "name": "Braddon Newsagency",
+      "region": "Braddon",
+      "address": "2/18 Lonsdale Street",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.13294,
+          -35.27358
+        ]
+      }
+    },
+    {
+      "name": "Buddy's Convenience Store Canberra",
+      "region": "City",
+      "address": "161 London Circuit",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.13109,
+          -35.28007
+        ]
+      }
+    },
+    {
+      "name": "Deakin Post Office and Newsagency",
+      "region": "Deakin",
+      "address": "4 Duff Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.108,
+          -35.31471
+        ]
+      }
+    },
+    {
+      "name": "Red Hill LPO",
+      "region": "Red Hill",
+      "address": "2 Duyfken Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.13114,
+          -35.34116
+        ]
+      }
+    },
+    {
+      "name": "Curtin Newsagency",
+      "region": "Curtin",
+      "address": "38 Curtin Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.08271,
+          -35.32539
+        ]
+      }
+    },
+    {
+      "name": "News Xpress Gifted and More Kaleen",
+      "region": "Kaleen",
+      "address": "Shop 2, Kaleen Shopping Plaza",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.10354,
+          -35.21997
+        ]
+      }
+    },
+    {
+      "name": "Ajijo Coombs",
+      "region": "Coombs",
+      "address": "Shop 3, 1 Fairhall Street",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.03756,
+          -35.31841
+        ]
+      }
+    },
+    {
+      "name": "Rivett Newsagency and Post Office",
+      "region": "Rivett",
+      "address": "5/2 Rivett Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.03637,
+          -35.34703
+        ]
+      }
+    },
+    {
+      "name": "Watson Post Office",
+      "region": "Watson",
+      "address": "Shop 1, Watson Place",
+      "geocoded_column": {
+        "type": "Point",
+        "coordinates": [
+          149.15326,
+          -35.23909
+        ]
+      }
     }
-]
+  ]

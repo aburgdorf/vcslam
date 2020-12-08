@@ -1,32 +1,53 @@
 [
     {
-        "TVM Identifier": "A-004",
-        "Latitude": -35.278442,
-        "Longitude": 149.130396,
-        "Coordinates": "(-35.278442, 149.130396)",
-        "Address": "City Bus Interchange",
-        "Pay by Credit card": true,
-        "Pay by Cash": true,
-        "Location": "POINT (149.130396 -35.278442)"
-    },
-    {
-        "TVM Identifier": "A-011",
-        "Latitude": -35.185639,
-        "Longitude": 149.135481,
-        "Coordinates": "(-35.185639, 149.135481)",
-        "Address": "Gungalin Place LR",
-        "Pay by Credit card": true,
-        "Pay by Cash": true,
-        "Location": "POINT (149.135481 -35.185639)"
-    },
-    {
-        "TVM Identifier": "A-016",
-        "Latitude": -35.2284977,
-        "Longitude": 149.1442434,
-        "Coordinates": "(-35.2284977, 149.1442434)",
-        "Address": "Epic and Racecourse LR",
-        "Pay by Credit card": true,
-        "Pay by Cash": true,
-        "Location": "POINT (149.1442434 -35.2284977)"
-    }
+        "tvm_identifier": "A-004",
+        "latitude": "-35.278442",
+        "longitude": "149.130396",
+        "coordinates": "(-35.278442, 149.130396)",
+        "address": "City Bus Interchange",
+        "pay_by_credit_card": true,
+        "pay_by_cash": true,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            149.130396,
+            -35.278442
+          ]
+        },
+        ":@computed_region_h8vr_r9vc": "83"
+      },
+      {
+        "tvm_identifier": "A-011",
+        "latitude": "-35.185639",
+        "longitude": "149.135481",
+        "coordinates": "(-35.185639, 149.135481)",
+        "address": "Gungalin Place LR",
+        "pay_by_credit_card": true,
+        "pay_by_cash": true,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            149.135481,
+            -35.185639
+          ]
+        },
+        ":@computed_region_h8vr_r9vc": "89"
+      },
+      {
+        "tvm_identifier": "A-016",
+        "latitude": "-35.2284977",
+        "longitude": "149.1442434",
+        "coordinates": "(-35.2284977, 149.1442434)",
+        "address": "Epic and Racecourse LR",
+        "pay_by_credit_card": true,
+        "pay_by_cash": true,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            149.1442434,
+            -35.2284977
+          ]
+        },
+        ":@computed_region_h8vr_r9vc": "28"
+      }
 ]

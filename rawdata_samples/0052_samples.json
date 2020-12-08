@@ -1,30 +1,30 @@
 [
     {
         "datasetid": "street-trees",
-        "recordid": "41ebb6b58111f3d3fc115818755c54db43c057cc",
+        "recordid": "391ab17b343a3284cf0b94cefae6ff4d34d329b9",
         "fields": {
-            "std_street": "BEATRICE ST",
-            "on_street": "BEATRICE ST",
-            "species_name": "CARNEA   X",
+            "std_street": "CHESTER ST",
+            "on_street": "CHESTER ST",
+            "species_name": "CERASIFERA",
             "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
             "root_barrier": "N",
-            "diameter": 16,
-            "street_side_name": "ODD",
-            "genus_name": "AESCULUS",
-            "assigned": "Y",
-            "civic_number": "4643",
+            "diameter": 17.75,
+            "street_side_name": "EVEN",
+            "genus_name": "PRUNUS",
+            "assigned": "N",
+            "civic_number": "5652",
             "plant_area": "8",
             "curb": "Y",
-            "tree_id": "59277",
-            "common_name": "RUBY RED HORSECHESTNUT",
-            "height_range_id": 4,
-            "on_street_block": "4600",
-            "cultivar_name": "BRIOTTI",
+            "tree_id": "67062",
+            "common_name": "PISSARD PLUM",
+            "height_range_id": 3,
+            "on_street_block": "5600",
+            "cultivar_name": "ATROPURPUREUM",
             "geom": {
                 "type": "Point",
                 "coordinates": [
-                    -123.066689,
-                    49.243267
+                    -123.089185,
+                    49.233518
                 ]
             }
         },
@@ -32,53 +32,61 @@
     },
     {
         "datasetid": "street-trees",
-        "recordid": "12fe1b4a99a2ee6bc8c4f6caddb6251bf33d51aa",
+        "recordid": "e4786adaea360ffe5c5204760eec3392cc2d7110",
         "fields": {
-            "std_street": "BEATRICE ST",
-            "on_street": "BEATRICE ST",
-            "species_name": "AUCUPARIA",
+            "std_street": "CHESTER ST",
+            "on_street": "CHESTER ST",
+            "species_name": "CERASIFERA",
             "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
             "root_barrier": "N",
-            "diameter": 10,
+            "diameter": 22,
             "street_side_name": "EVEN",
-            "genus_name": "SORBUS",
+            "genus_name": "PRUNUS",
             "assigned": "N",
-            "civic_number": "4658",
-            "plant_area": "10",
+            "civic_number": "5674",
+            "plant_area": "8",
             "curb": "Y",
-            "tree_id": "59278",
-            "common_name": "EUROPEAN MOUNTAIN ASH",
-            "height_range_id": 2,
-            "on_street_block": "4600"
+            "tree_id": "67063",
+            "common_name": "PISSARD PLUM",
+            "height_range_id": 3,
+            "on_street_block": "5600",
+            "cultivar_name": "ATROPURPUREUM",
+            "geom": {
+                "type": "Point",
+                "coordinates": [
+                    -123.089186,
+                    49.233325
+                ]
+            }
         },
         "record_timestamp": "2020-11-09T12:32:15.862+01:00"
     },
     {
         "datasetid": "street-trees",
-        "recordid": "fd7774976296d793e9f8e1d2feb730b701657c07",
+        "recordid": "f5d9089518d404e614da180a29ad9a6ea61ca6c8",
         "fields": {
-            "std_street": "BEATRICE ST",
-            "on_street": "BEATRICE ST",
-            "species_name": "CARNEA   X",
+            "std_street": "CHESTER ST",
+            "on_street": "CHESTER ST",
+            "species_name": "CERASIFERA",
             "neighbourhood_name": "KENSINGTON-CEDAR COTTAGE",
             "root_barrier": "N",
-            "diameter": 17,
+            "diameter": 20,
             "street_side_name": "ODD",
-            "genus_name": "AESCULUS",
+            "genus_name": "PRUNUS",
             "assigned": "N",
-            "civic_number": "4659",
-            "plant_area": "8",
+            "civic_number": "5675",
+            "plant_area": "10",
             "curb": "Y",
-            "tree_id": "59280",
-            "common_name": "RUBY RED HORSECHESTNUT",
-            "height_range_id": 4,
-            "on_street_block": "4600",
-            "cultivar_name": "BRIOTTI",
+            "tree_id": "67064",
+            "common_name": "PISSARD PLUM",
+            "height_range_id": 3,
+            "on_street_block": "5600",
+            "cultivar_name": "ATROPURPUREUM",
             "geom": {
                 "type": "Point",
                 "coordinates": [
-                    -123.066692,
-                    49.243111
+                    -123.089339,
+                    49.23338
                 ]
             }
         },

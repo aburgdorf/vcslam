@@ -1,26 +1,50 @@
 [
     {
-        "Dog_Name": "Q",
-        "Dog_Breed": "Cockerpoo",
-        "Location_masked": "(42.37695144, -71.13143341)",
-        "Latitude_masked": -71.13143341,
-        "Longitude_masked": -71.13143341,
-        "Neighborhood": "West Cambridge"
-    },
-    {
-        "Dog_Name": "Parker",
-        "Dog_Breed": "Pointer",
-        "Location_masked": "(42.36524806, -71.10962391)",
-        "Latitude_masked": -71.10962391,
-        "Longitude_masked": -71.10962391,
-        "Neighborhood": "Riverside"
-    },
-    {
-        "Dog_Name": "Arrow",
-        "Dog_Breed": "Poodle",
-        "Location_masked": "(42.36035777, -71.11422322)",
-        "Latitude_masked": -71.11422322,
-        "Longitude_masked": -71.11422322,
-        "Neighborhood": "Cambridgeport"
-    }
+        "dog_name": "Abbey",
+        "dog_breed": "Golden Retriever",
+        "location_masked": {
+          "latitude": "42.38324793",
+          "longitude": "-71.11384252"
+        },
+        "latitude_masked": "-71.11384252",
+        "longitude_masked": "-71.11384252",
+        "neighborhood": "Agassiz",
+        ":@computed_region_swkg_bavi": "33",
+        ":@computed_region_rffn_qbt6": "9",
+        ":@computed_region_v7jj_366k": "21",
+        ":@computed_region_guic_hr4a": "9",
+        ":@computed_region_rcj3_ccgu": "1009"
+      },
+      {
+        "dog_name": "Abbey",
+        "dog_breed": "Shih Tzu / Bichon Mix",
+        "location_masked": {
+          "latitude": "42.36863542",
+          "longitude": "-71.08340476"
+        },
+        "latitude_masked": "-71.08340476",
+        "longitude_masked": "-71.08340476",
+        "neighborhood": "East Cambridge",
+        ":@computed_region_swkg_bavi": "221",
+        ":@computed_region_rffn_qbt6": "8",
+        ":@computed_region_v7jj_366k": "60",
+        ":@computed_region_guic_hr4a": "4",
+        ":@computed_region_rcj3_ccgu": "1008"
+      },
+      {
+        "dog_name": "Abbie Tingley",
+        "dog_breed": "Bull Terrier",
+        "location_masked": {
+          "latitude": "42.38701301",
+          "longitude": "-71.14475923"
+        },
+        "latitude_masked": "-71.14475923",
+        "longitude_masked": "-71.14475923",
+        "neighborhood": "Cambridge Highlands",
+        ":@computed_region_swkg_bavi": "249",
+        ":@computed_region_rffn_qbt6": "10",
+        ":@computed_region_v7jj_366k": "13",
+        ":@computed_region_guic_hr4a": "1",
+        ":@computed_region_rcj3_ccgu": "1637"
+      }
 ]

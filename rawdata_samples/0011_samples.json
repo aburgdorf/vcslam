@@ -1,26 +1,56 @@
 [
     {
-        "Ticket Issue Date": "01/18/2020",
-        "Issue Time": "10:50",
-        "Meter": "MASS-1239",
-        "Violation Description": "METER EXP",
-        "Location": "* 1280 MASS AVE\nCambridge, MA\n(42.372581997000054, -71.11697699499996)",
-        "Department": "Traffic & Parking"
+        "ticket_issue_date": "2020-09-02T00:00:00.000",
+        "issue_time": "13:35",
+        "meter": "MASS-1554",
+        "violation_description": "METER EXP",
+        "location": {
+            "latitude": "42.37846600900008",
+            "longitude": "-71.12073602699996",
+            "human_address": "{\"address\": \"1558 MASS AVE\", \"city\": \"Cambridge\", \"state\": \"MA\", \"zip\": \"\"}"
+        },
+        "department": "Traffic & Parking",
+        ":@computed_region_e4yd_rwk4": "547",
+        ":@computed_region_guic_hr4a": "8",
+        ":@computed_region_v7jj_366k": "28",
+        ":@computed_region_rffn_qbt6": "2",
+        ":@computed_region_swkg_bavi": "228",
+        ":@computed_region_rcj3_ccgu": "1637"
     },
     {
-        "Ticket Issue Date": "11/25/2019",
-        "Issue Time": "09:57",
-        "Meter": null,
-        "Violation Description": "STREET CLE",
-        "Location": "OPP 5 WASHINGTON AVE\nCambridge, MA\n(42.38413301400004, -71.12280400999998)",
-        "Department": "Police"
+        "ticket_issue_date": "2020-09-02T00:00:00.000",
+        "issue_time": "11:28",
+        "meter": "VAS-0219",
+        "violation_description": "METER EXP",
+        "location": {
+            "latitude": "42.35763199300004",
+            "longitude": "-71.10055701399995",
+            "human_address": "{\"address\": \"219 VASSAR ST\", \"city\": \"Cambridge\", \"state\": \"MA\", \"zip\": \"\"}"
+        },
+        "department": "Traffic & Parking",
+        ":@computed_region_e4yd_rwk4": "125",
+        ":@computed_region_guic_hr4a": "5",
+        ":@computed_region_v7jj_366k": "86",
+        ":@computed_region_rffn_qbt6": "3",
+        ":@computed_region_swkg_bavi": "148",
+        ":@computed_region_rcj3_ccgu": "1010"
     },
     {
-        "Ticket Issue Date": "12/18/2019",
-        "Issue Time": "09:10",
-        "Meter": "MASS-1582",
-        "Violation Description": "O/T TIME",
-        "Location": "1580 MASS AVE\nCambridge, MA\n(42.379243012000074, -71.12056998099996)",
-        "Department": "Traffic & Parking"
+        "ticket_issue_date": "2020-09-02T00:00:00.000",
+        "issue_time": "14:10",
+        "meter": "ALB-0148",
+        "violation_description": "METER EXP",
+        "location": {
+            "latitude": "42.35899501600005",
+            "longitude": "-71.09928195899994",
+            "human_address": "{\"address\": \"190 ALBANY ST\", \"city\": \"Cambridge\", \"state\": \"MA\", \"zip\": \"\"}"
+        },
+        "department": "Traffic & Parking",
+        ":@computed_region_e4yd_rwk4": "240",
+        ":@computed_region_guic_hr4a": "11",
+        ":@computed_region_v7jj_366k": "117",
+        ":@computed_region_rffn_qbt6": "4",
+        ":@computed_region_swkg_bavi": "148",
+        ":@computed_region_rcj3_ccgu": "1010"
     }
 ]

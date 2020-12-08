@@ -1,26 +1,44 @@
 [
     {
-        "StationName": "SpokaneSwingBridge",
-        "StationLocation": "POINT (-122.351743 47.571389)",
-        "DateTime": "09/18/2019 02:02:00 AM",
-        "RecordId": 3500793,
-        "RoadSurfaceTemperature": "57.45",
-        "AirTemperature": "61.86"
-    },
-    {
-        "StationName": "NE45StViaduct",
-        "StationLocation": "POINT (-122.301929 47.66127)",
-        "DateTime": "09/18/2019 03:12:00 PM",
-        "RecordId": 3594561,
-        "RoadSurfaceTemperature": "78.25",
-        "AirTemperature": "68.40"
-    },
-    {
-        "StationName": "AlbroPlaceAirportWay",
-        "StationLocation": "POINT (-122.314114 47.547426)",
-        "DateTime": "09/17/2019 02:17:00 AM",
-        "RecordId": 451479,
-        "RoadSurfaceTemperature": "18.76",
-        "AirTemperature": "27.24"
-    }
+        "stationname": "AlbroPlaceAirportWay",
+        "stationlocation": {
+          "type": "Point",
+          "coordinates": [
+            -122.314114,
+            47.547426
+          ]
+        },
+        "datetime": "2020-05-30T03:26:00.000",
+        "recordid": "819619",
+        "roadsurfacetemperature": "9.25",
+        "airtemperature": "26.73"
+      },
+      {
+        "stationname": "AlbroPlaceAirportWay",
+        "stationlocation": {
+          "type": "Point",
+          "coordinates": [
+            -122.314114,
+            47.547426
+          ]
+        },
+        "datetime": "2020-05-30T03:27:00.000",
+        "recordid": "819620",
+        "roadsurfacetemperature": "9.26",
+        "airtemperature": "26.81"
+      },
+      {
+        "stationname": "AlbroPlaceAirportWay",
+        "stationlocation": {
+          "type": "Point",
+          "coordinates": [
+            -122.314114,
+            47.547426
+          ]
+        },
+        "datetime": "2020-05-30T03:28:00.000",
+        "recordid": "819621",
+        "roadsurfacetemperature": "9.27",
+        "airtemperature": "26.82"
+      }
 ]
