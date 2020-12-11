@@ -1,18 +1,22 @@
 Description
 
-A list of Companies liable for rates since 1 April 2010, together with the charges and reliefs applied. May be used in conjunction with Camden Non-Domestic Rates – rateable values (https://opendata.camden.gov.uk/Business-Economy/Camden-Non-Domestic-Rates-Rateable-Values/jumr-tymj) to form a picture of who has been liable for rates for each property since 2010 and the amount charged. Please note that personal data is excluded.
+A list of Companies liable for rates since 1 April 2010, together with the charges and reliefs applied. 
+May be used in conjunction with Camden Non-Domestic Rates – rateable values (https://opendata.camden.gov.uk/Business-Economy/Camden-Non-Domestic-Rates-Rateable-Values/jumr-tymj) to form 
+a picture of who has been liable for rates for each property since 2010 and the amount charged. Please note that personal data is excluded.
 
 
 Columns
 
 Property Reference	
-The reference held in the valuation list		Plain Text
+The reference held in the valuation list
+Plain Text
 	
-Charge Type						Plain Text
+Charge Type
+Plain Text
 	
 Gross Charge	
-Charge for the period, after 
-applying transitional relief				Number
+Charge for the period, after applying transitional relief
+Number
 	
 Supplement	
 Supplement to finance small business relief		Number

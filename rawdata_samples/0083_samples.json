@@ -1,68 +1,76 @@
-[
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinate": {
-                "longitude": -76.48488742724645,
-                "latitude": 44.258723479172
-            }
+[{
+    "datasetid": "capital-planning-polygons",
+    "recordid": "748e80308ed33e8fd5b60dc13f36a5c4b1cde33d",
+    "fields": {
+        "project_description": "Rehabilitation of sewer mains by CIPP Lining",
+        "project_title": "CIPP Lining - Future Project Area (2021 or 2022)",
+        "program_subclass": "Wastewater",
+        "geo_point_2d": [44.2531125325, -76.5239640494],
+        "project_status": "In Planning and Design Phase",
+        "planned_construction_from": "2020-12-31T19:00:00-05:00",
+        "planned_construction_to": "2022-12-30T19:00:00-05:00",
+        "capital_program_poly": "Utilties Rehabilitation",
+        "sde_objectid": 89289,
+        "project_url": "https://utilitieskingston.com/Projects/Detail/SewerRehabCIPP",
+        "geojson": {
+            "type": "Polygon",
+            "coordinates": [[[-76.52603113524584, 44.25971383483517], [-76.51944362968501, 44.25975993818961], [-76.51942217181701, 44.25882250588457], [-76.52161085458056, 44.258776402335016], [-76.5215893967065, 44.25833073205061], [-76.52227604198858, 44.25829999621263], [-76.52204000839149, 44.25779284941167], [-76.52199709288683, 44.257178121078965], [-76.5200444444241, 44.25723959466533], [-76.51933634111691, 44.25687075429537], [-76.5190359333722, 44.253228335866886], [-76.5186067800676, 44.251629904232686], [-76.51817333477474, 44.24589670987723], [-76.51879560732517, 44.245112771962894], [-76.5196968304056, 44.24557391372685], [-76.52079117169038, 44.24608116535991], [-76.52156364709272, 44.24646544344967], [-76.52132761238578, 44.24672675152038], [-76.52278673466775, 44.24746455616489], [-76.52458917890885, 44.24815624024267], [-76.52510416380696, 44.24814086922312], [-76.52527582467924, 44.248217722418126], [-76.52692806592185, 44.24901698983499], [-76.52761471078887, 44.249262916445446], [-76.52802240683856, 44.24930902735295], [-76.52885925540032, 44.24975476658278], [-76.5288377975655, 44.24989309811696], [-76.52911674775747, 44.25035420243126], [-76.52948152856338, 44.25036957197005], [-76.52964031440573, 44.25229694811185], [-76.52996217884717, 44.25241990440545], [-76.53090631730954, 44.25235842650623], [-76.53112089341576, 44.25507877524509], [-76.5289322109508, 44.25695374382128], [-76.52603113524584, 44.25971383483517]]]
         },
-        "properties": {
-            "scientific_name": "Gleditsia triacanthos",
-            "number_of_stems": 1,
-            "geo_point_2d": [
-                44.2587234792,
-                -76.4848874272
-            ],
-            "owner": "Municipal",
-            "trunk_diameter": 5,
-            "common_name": "Honey-Locust",
-            "date_installed": "2018-10-24"
-        }
+        "organization": "Utilities Kingston"
     },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinate": {
-                "longitude": -76.44581759599998,
-                "latitude": 44.263484480000045
-            }
-        },
-        "properties": {
-            "scientific_name": "Gleditsia triacanthos",
-            "number_of_stems": 1,
-            "geo_point_2d": [
-                44.26348448,
-                -76.445817596
-            ],
-            "owner": "Municipal",
-            "trunk_diameter": 7,
-            "common_name": "Honey-Locust"
-        }
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5239640494, 44.2531125325]
     },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinate": {
-                "longitude": -76.55745204915634,
-                "latitude": 44.266701305808475
-            }
+    "record_timestamp": "2020-12-09T22:45:00-05:00"
+}, {
+    "datasetid": "capital-planning-polygons",
+    "recordid": "fe4e4d3154b5c1742679b107e679dda48d909790",
+    "fields": {
+        "project_description": "Rehabilitation of sanitary sewers by CIPP Lining",
+        "project_title": "Sewer Rehabilitation - Future Project (2021 or 2022)",
+        "program_subclass": "Wastewater",
+        "geo_point_2d": [44.2350388996, -76.5071275354],
+        "project_status": "In Planning and Design Phase",
+        "planned_construction_from": "2020-12-31T19:00:00-05:00",
+        "planned_construction_to": "2022-12-30T19:00:00-05:00",
+        "capital_program_poly": "Utilties Rehabilitation",
+        "sde_objectid": 89608,
+        "project_url": "https://utilitieskingston.com/Projects/Detail/SewerRehabCIPP",
+        "geojson": {
+            "type": "Polygon",
+            "coordinates": [[[-76.5139723972611, 44.240550764761686], [-76.51242744462101, 44.24070449097974], [-76.51088249241809, 44.24055076494378], [-76.50594722805023, 44.23852154092133], [-76.50556098940486, 44.238951988242746], [-76.5010977941361, 44.2371686861711], [-76.50092613219599, 44.2340939015534], [-76.49968158719368, 44.23409390155675], [-76.49929535010087, 44.22874339211038], [-76.49972450300262, 44.228712640026124], [-76.50182735429725, 44.22985043315064], [-76.50195610066288, 44.23169545700236], [-76.50427352940298, 44.23166470740828], [-76.50410186801399, 44.2297581807103], [-76.50526058283825, 44.229727429915364], [-76.5054322440001, 44.231633957555864], [-76.50890838720913, 44.231510957733775], [-76.51307117547329, 44.23126495701408], [-76.5139723972611, 44.240550764761686]]]
         },
-        "properties": {
-            "scientific_name": "Quercus rubra",
-            "number_of_stems": 1,
-            "park": "Halifax Dr Park",
-            "geo_point_2d": [
-                44.2667013058,
-                -76.5574520492
-            ],
-            "owner": "Municipal",
-            "trunk_diameter": 5,
-            "common_name": "Northern Red Oak",
-            "date_installed": "2016-12-31"
-        }
-    }
+        "organization": "Utilities Kingston"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5071275354, 44.2350388996]
+    },
+    "record_timestamp": "2020-12-09T22:45:00-05:00"
+}, {
+    "datasetid": "capital-planning-polygons",
+    "recordid": "e37029ff95c43890f9343f66bd5b9cc61a73cbdf",
+    "fields": {
+        "project_title": "Armstrong Lot Full Reconstruction",
+        "program_subclass": "Parking Services",
+        "construction_completion_to": "2015-12-31",
+        "geo_point_2d": [44.232036214, -76.4904779356],
+        "project_status": "Project Complete",
+        "planned_construction_from": "2014-12-30T19:00:00-05:00",
+        "planned_construction_to": "2015-12-29T19:00:00-05:00",
+        "capital_program_poly": "Transit Services",
+        "sde_objectid": 2,
+        "geojson": {
+            "type": "Polygon",
+            "coordinates": [[[-76.49058880089385, 44.23192085266526], [-76.4905675843641, 44.23193355378036], [-76.49055699306516, 44.23194548691017], [-76.49055635562019, 44.23194999675747], [-76.4905602915944, 44.231952196153706], [-76.49062464899005, 44.231962067151585], [-76.49059499590358, 44.23207220051673], [-76.49057807101292, 44.23213095027219], [-76.49056403957437, 44.232165435039086], [-76.49032287397266, 44.23212581499684], [-76.49038433417084, 44.231926406481136], [-76.49045177651163, 44.23193452853997], [-76.49045847915893, 44.23193219030671], [-76.49045918704151, 44.23193047048817], [-76.49044427561856, 44.23190023475078], [-76.49044310815039, 44.231898629435925], [-76.49058880089385, 44.23192085266526]]]
+        },
+        "construction_completion_from": "2015-01-01"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.4904779356, 44.232036214]
+    },
+    "record_timestamp": "2020-12-09T22:45:00-05:00"
+}
 ]
